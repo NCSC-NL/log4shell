@@ -8,7 +8,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 ## Network related IoC's
 | Note     | Links |
 |:----------------|:----------------|
-| The list of callback servers, updated by Greynoise  | [source](https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/) |
+| The list of callback servers, updated by Greynoise  | [source](https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8) |
 | The list of scanning IP's, updated by Greynoise  | [source](https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217) |
 | Threatfox  | [source](https://threatfox.abuse.ch/browse/tag/log4j/) |
 | UrlHaus  | [source](https://urlhaus.abuse.ch/browse/tag/log4j/) |
