@@ -14,9 +14,9 @@ This repo contains operational information regarding the vulnerability in the Lo
 | scanning   | Contains references to methods and tooling used for scanning for the Log4j vulnerability |
 | software   | Contains a list of known vulnerable and not vulnerable software |
 
-**Please note that these directories are not complete, and are currently being expanded. **
+**Please note that these directories are not complete, and are currently being expanded.**
 
-**NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would weigh each occurence of this vulnerability in the software packages listed in the software directory. However, due to the extensive amounts of vulnerable applicatons we have decided to treat all known vulnerabilities as HIGH/HIGH. **
+**NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
 
 ## Pull request welcome
 
