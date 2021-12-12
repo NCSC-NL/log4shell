@@ -23,3 +23,5 @@ Florian Roth Log4j2 detection script:                      https://github.com/Ne
 Powershell script to detect Log4Shell on a client:         https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1
 Log4j checker by Northwave:                                https://github.com/NorthwaveSecurity/log4jcheck
 Log4j checker by Northwave (Powershell version):           https://github.com/crypt0jan/log4j-powershell-checker
+Huntress labs Log4j2 Online vulnerability tester           https://log4shell.huntress.com/
+
