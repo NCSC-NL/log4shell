@@ -28,10 +28,9 @@ Overall detection regex
 | RSA  | Netwitness | client.all contains "${j" || client.all contains "${J" |
 | Northwave Security | Not specific | [source](https://github.com/NorthwaveSecurity/log4jcheck) |
 | Northwave Security | Not specific | [source](https://github.com/crypt0jan/log4j-powershell-checker) |
-| RSA  | Netwitness | client.all contains "${j" || client.all contains "${J" |
+| Qualys  | Cloud Platform | [source](https://blog.qualys.com/vulnerabilities-threat-research/2021/12/10/apache-log4j2-zero-day-exploited-in-the-wild-log4shell) |
 
 ## Opensource Intelligence
-
 
 
 ### Network based detection
