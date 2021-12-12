@@ -123,16 +123,129 @@ NCSC-NL will use the following status
 ### I
 
 ### J
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Jamf Nation     | Jamf Pro (hosted on-prem) | < 10.34.1 |  See notes | <10.14 vulnerable, 10.14-10.34 patch, >= 10.34.1 fix | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740) |
+| Jamf Nation     | Jamf Cloud | Unknown| Fix | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Connect | Unknown | Not Vuln | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Now | Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Protect | Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf School| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Threat Defense| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Data Policy| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Private Access | Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Health Care Listener| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jamf Nation | Jamf Infrastructure Manager| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Jazz/IBM | JazzSM DASH | Unknown | See notes | DASH on WebSphere Application Server requires mitigations | [source](https://www.ibm.com/support/pages/node/6525552) |
+| Jenkins | Jenkins CI | Unknown | Not Vuln | Invidivual plugins not developed as part of Jenkins core *may* be vulnerable. | [source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) |
+| Jetbrains | TeamCity | Unknown | Investigation | | [source](https://youtrack.jetbrains.com/issue/TW-74298) |
+| JFrog | all products | | Not Vuln | | [source](https://twitter.com/jfrog/status/1469385793823199240) |
+| Jitsi | jitsi-videobridge | v2.1-595-g3637fda42 | Fix  | | [source](https://github.com/jitsi/security-advisories/blob/4e1ab58585a8a0593efccce77d5d0e22c5338605/advisories/JSA-2021-0004.md)|
 
 ### K
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Kaseya | VSA SaaS and VSA On-Premises | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | IT Glue | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | MyGlue | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Network Glue | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | BMS | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Vorex | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Passly | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Unitrends | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Spanning O365 Backup | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | Spannign Salesforce Backup | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | ID Agent DarkWeb ID and BullPhish ID | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | RocketCyber | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | AuthAnvil | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Kaseya | products not listed above | Unknown | Investigation | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
+| Keycloak | Keycloak | all version | Not Vuln | | [source](https://github.com/keycloak/keycloak/discussions/9078) |
 
 ### L
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Lightbend | Akka  | Unknown | Not Vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Akka Serverless | Unknown | Not Vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Lagom Framework | Unknown | Not Vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Play Framework| Unknown | Not Vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 
 ### M
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| ManageEngine | Desktop Central | Unknown | Not Vuln | |[source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-security-issue) | 
+| ManageEngine | ADAudit Plus | Unknown | Investigation | Third party components bundle log4j | |
+| ManageEngine | ADManager Plus | Unknown | Investigation| Mitigation: set `-Dlog4j2.formatMsgNoLookups=true` in `jvm.options`. | [source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-ad-manager-plus) |
+| Mailcow | Mailcow Solr Docker| < 1.8 | Fix | | [source](https://community.mailcow.email/d/1229-cve-2021-44228-vulnerability-solr) | 
+| McAfee | Data Exchange Layer (DXL) | Unknown | Investigation|| [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) | 
+| McAfee | Enterprise Security Manager (ESM) | Unknown | Investigation|| [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) | 
+| McAfee | ePolicy Orchestrator Application Server (ePO) | Unknown | Investigation|| [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) | 
+| McAfee | ePolicy Orchestrator Agent Handlers (ePO-AH) | Unknown | Not Vuln|| [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) | 
+| McAfee | McAfee Active Response (MAR) | Unknown | Investigation|| [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) | 
+| McAfee | Network Security Manager (NSM) | Unknown | Investigation|| [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) | 
+| McAfee | Network Security Platform (NSP) | Unknown | Investigation|| [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) | 
+| McAfee | Threat Intelligence Exchange (TIE) | Unknown | Investigation|| [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) | 
+| Metabase | Metabase | <0.41.4 | Fix| Mitigations available for earlier versions| [source](https://github.com/metabase/metabase/releases/tag/v0.41.4) |
+| Minecraft | Java edition | <1.18.1 | Fix | Mitigations available for earlier versions| [source](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition)
+| Microsoft | Kafka Connect for Azure Cosmo DB | < 1.2.1 | Fix | | [source](https://github.com/microsoft/kafka-connect-cosmosdb/blob/0f5d0c9dbf2812400bb480d1ff0672dfa6bb56f0/CHANGELOG.md) | 
+| Microsoft | Azure AD | Unknown | Not Vuln| ADFS itself is not vulnerable, federation providers may be| [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/) | 
+| Microsoft | Azure Application Gateway | Unknown | Not Vuln| | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/) | 
+| Microsoft | Azure Front Door| Unknown | Not Vuln| | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/) | 
+| Microsoft | Azure WAF | Unknown | Not Vuln| | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/) | 
+| Microsoft | Azure App Service | Unknown | Not Vuln| This product itself is vulnerable, Microsoft provides guidance on remediation for hosted applications| [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/) | 
+| Microsoft | |  | | Microsoft provided additional guidance for preventing, detecting and hutning for exploitation | [source](https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/), [IOCs](https://github.com/Azure/Azure-Sentinel/blob/master/Detections/MultipleDataSources/Log4J_IPIOC_Dec112021.yaml) |
 
 ### N
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| N-able | N-central | Unknown | Not Vuln| | [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) | 
+| N-able | Backup | Unknown | Not Vuln| | [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) | 
+| N-able | MSP Manager | Unknown | Not Vuln| | [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) | 
+| N-able | Take Control | Unknown | Not Vuln| | [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) | 
+| N-able | Passportal | Unknown | Not Vuln| | [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) | 
+| N-able | Mail Assure | Unknown | Not Vuln| | [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) | 
+| N-able | RMM | Unknown | Fix| | [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) | 
+| N-able | Risk Intelligence | Unknown | Vulnerable| | [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) | 
+| Nelson | Nelson | 0.16.185 | Vulnerable | Workaround is available, but not released yet. | [source](https://github.com/getnelson/nelson/blob/f4d3dd1f1d4f8dfef02487f67aefb9c60ab48bf5/project/custom.scala)|
+| Netflix | spectator | < 1.0.9 | Fix | | [fix](https://github.com/Netflix/spectator/releases/tag/v1.0.9) |
+| Netflix | atlas | 1.6.6 | Patch | | [source](https://github.com/Netflix/atlas/commit/5baff2b656a45886b85968a4b66f33bd36c648be)|
+| Netflix | dgs-framework | < 4.9.11 | Fix | | [fix](https://github.com/Netflix/dgs-framework/releases/tag/v4.9.11)|
+| Netflix | zuul | Unknown | Patch | | [source](https://github.com/Netflix/zuul/commit/280f20cd51deb7e72275625d5ec556aae06f6a29)|
+| NextGen Healthcare | Mirth | Unknown | Not Vuln| | [source](https://github.com/nextgenhealthcare/connect/discussions/4892#discussioncomment-1789526)| 
+| New Relic | Java Agent | Unknown | Investigation | | [source](https://github.com/newrelic/newrelic-java-agent/issues/605) |
+| NetApp | Cloud Manager | Unknown | Vulnerable | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp | Brocade SAN Naviator | Unknown | Investigation | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp | Element Plug-in for vCenter Server | Unknown | Investigation | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp | Management Services for Element Software and NetApp HCI | Unknown | Investigation | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp | NetApp HCI Compute Node | Unknown | Investigation | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp | NetApp SolidFire & HCI Management Node| Unknown | Investigation | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp | NetApp SolidFire Plug-in for vRealize Orchestrator (SolidFire vRO)| Unknown | Investigation | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp | NetApp SolidFire, Enterprise SDS & HCI Storage | Unknown | Investigation | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp | NetApp SolidFireStorage Replication Adapter| Unknown | Investigation | | [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
 
 ### O
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Okta | RADIUS Server Agent | <2.17.0 | Fix|| [source](https://sec.okta.com/articles/2021/12/log4shell), [fix](https://trust.okta.com/security-advisories/okta-radius-server-agent-cve-2021-44228) | 
+| Okta | On-Prem MFA Agent | <1.4.6 | Fix| | [source](https://sec.okta.com/articles/2021/12/log4shell), [fix](https://trust.okta.com/security-advisories/okta-on-prem-mfa-agent-cve-2021-44228) | 
+| Okta | Advanced Server Access | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| Okta | Access Gateway | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| Okta | AD Agent | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| Okta | Browser Plugin | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| Okta | IWA Web Agent | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| Okta | LDAP Agent | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| Okta | Mobile | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| Okta | Workflow | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| Okta | Verify | Unknown | Not Vuln| | [source](https://sec.okta.com/articles/2021/12/log4shell) | 
+| openHAB | openHAB | Unknown | Patch | Patch committed, but no new release yet| [source](https://github.com/openhab/openhab-distro/pull/1344), [patch](https://github.com/openhab/openhab-distro/commit/3a6df5c09059d209872d374f509913d07eba7afb)|
+| OpenNMS| Meridian (including derived Minions and Sentinels)| < 2021.1.8, 2020.1.15, 2019.1.27 | Fix | Workarounds are available too for earlier versions | [source](https://www.opennms.com/en/blog/2021-12-10-opennms-products-affected-by-apache-log4j-vulnerability-cve-2021-44228/)|
+| OpenNMS| Horizon (including derived Sentinels)|  < 29.0.3 | Fix | Workarounds are available too for earlier versions | [source](https://www.opennms.com/en/blog/2021-12-10-opennms-products-affected-by-apache-log4j-vulnerability-cve-2021-44228/)|
+| OpenNMS| PoweredBy OpenNMS| Unknown | Patch |  | [source](https://www.opennms.com/en/blog/2021-12-10-opennms-products-affected-by-apache-log4j-vulnerability-cve-2021-44228/)|
+| OpenNMS| Minion appliance | Unknown | Fix |  | [source](https://www.opennms.com/en/blog/2021-12-10-opennms-products-affected-by-apache-log4j-vulnerability-cve-2021-44228/)|
+| OpenMRS | Talk | 2.4.0-2.4.1 | Vulnerable | Mitigations are available, pending a new release | [source](https://talk.openmrs.org/t/urgent-security-advisory-2021-12-11-re-apache-log4j-2/35341)|
+| OpenSearch | OpenSearch | < 1.2.1 | Fix | | [source](https://opensearch.org/blog/releases/2021/12/update-to-1-2-1/) |
+| Oracle | Database | Unknown | Fix | | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1)|
+| Oracle | Fusion Middleware | Unknown | Fix | | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1)|
+| Oracle | Oracle Enterprise Manager | Unknown | Fix | | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 209768.1](https://support.oracle.com/rs?type=doc&id=209768.1)|
 
 ### P
 
