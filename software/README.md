@@ -298,8 +298,8 @@ NCSC-NL will use the following status:
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Datto | All Datto products | Unknown | Not vuln | |[source](https://www.datto.com/blog/dattos-response-to-log4shell) |
-| Debian | Apache-log4j.1.2 | Stretch, buster, bookworm | Fix | |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
-| Debian | Apache-log4j2 | Stretch(security), buster(security), bullseye(security), bookworm, sid | Fix/Vulnerable | No fix yet for stretch, buster and bookworm |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
+| Debian | Apache-log4j.1.2 | stretch, buster, bullseye | Fix | |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
+| Debian | Apache-log4j2 | stretch, buster,  bullseye | Fix| |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
 | Dell | All products | Unknown | Investigation | Dell is still investigating, new advisories will be published at https://www.dell.com/support/security/nl-nl |[source](https://www.dell.com/support/kbdoc/nl-nl/000194372/dsn-2021-007-dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Docker | Docker infrastructure | Unknown | Not vuln | Docker infrastructure not vulnerable, Docker images could be vulnerable. For more info see source. |[source](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/) |
 | Dropwizard | Dropwizard | Unknown | Not vuln | Only vulnerable if you manually added Log4j |[source](https://twitter.com/dropwizardio/status/1469285337524580359) |
