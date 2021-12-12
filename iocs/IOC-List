@@ -4,6 +4,9 @@ Network related IOC's:
 The list of callback servers, update by Greynoise:                  https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8
 The list of scanning IP's which can be used to block in firewalls:  https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217
 
+Snort and Suricata rules:
+These are ET Open free community detections to alert on current exploit activity.  SID range 2034647-2034652.  https://rules.emergingthreatspro.com/open/
+
 Client related IOC's:
 Florian Roth Grep and YARA rule:  https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
 
