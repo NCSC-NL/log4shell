@@ -1,6 +1,6 @@
 # Log4j Vulnerability (CVE-2021-44228)
 
-This repo contains operationel information regarding the vulnerability in the Log4j logging library (CVE-2021-44228). For addition information see:
+This repo contains operational information regarding the vulnerability in the Log4j logging library (CVE-2021-44228). For addition information see:
 
 * [NCSC-NL advisory](https://www.ncsc.nl/actueel/advisory?id=NCSC-2021-1052)
 * [MITRE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
