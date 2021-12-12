@@ -5,4 +5,6 @@ F5 created an Irule for detection: https://support.f5.com/csp/article/K19026212
 Palo Alto Prisma Cloud:                 https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/
 Palo Alto Firewall:                     Threat ID 91991 ingested after content update 8498
 Microsoft Defender and Sentinel rules:  https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/
+Trend Micro Cloud One:                  LI Rule 1011241
+Tanium:                                 https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell
 
