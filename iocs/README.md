@@ -23,9 +23,9 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 |:----------------|:----------------|
 | Talos Intelligence  | [source](https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html)|
 | 360 Netlab  | [source](https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnet)|
-| Microsoft(contains scan ip) | [source](https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv)|
+| Microsoft(contains scan ips) | [source](https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv)|
 | RedDrip7 | [source](https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs)|
-
+| CrowdSec (Scan IP validation)| [source](https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166)|
 
 ## List of IoC's from Honeypot's
 | Note     | Links |
