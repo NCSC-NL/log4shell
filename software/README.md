@@ -10,14 +10,15 @@ NCSC-NL will use the following status
 | Fix            | Software contains a fix for CVE-2021-44228 |
 | Patch          | Software is vulnerable but mitigation steps are available |
 | Not Vuln     | Software is **NOT** vulnerable for CVE-2021-44228. |
+| Investigation     | Software is under investigation whether it is vulnerable or not |
 
 
 ## Software overview
 
 ### A
 
-| Supplier        | Product         | Version         | Status          | Notes           |
-|:----------------|:----------------|:---------------:|:---------------:|:----------------|
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 |                  									   ||||
 
 ### B
@@ -28,6 +29,18 @@ NCSC-NL will use the following status
 
 ### C
 
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Citrix       | NetScalar ADC | Unkown | Investigation |  Implementation who are not using WlonNS feature, are not impacted | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | NetScalar Gateway | Unkown | Investigation |  | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | Analytics | Unkown | Investigation |  | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | Application Delivery Management (NetScaler MAS)  | Unkown | Investigation |  | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | Hypervisor (XenServer)   | Unkown | Not Vuln |  | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | SD-WAN  | Unkown | Investigation |  | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | Virtual Apps and Desktops (XenApp & XenDesktop)    | Unkown | Investigation |  | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | Workspace  | Unkown | Investigation |  | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | Workspace App  | Unkown | Investigation|  | [source](https://support.citrix.com/article/CTX335705)
+| Citrix       | Sharefile  | Unkown | Investigation|  | [source](https://support.citrix.com/article/CTX335705)
 ### D
 
 ### E
@@ -73,6 +86,7 @@ NCSC-NL will use the following status
 ### Y
 
 ### Z
+
 
 
 
