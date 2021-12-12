@@ -13,6 +13,7 @@ Florian Roth Grep and YARA rule:  https://gist.github.com/Neo23x0/e4c8b03ff8cdf1
 List of IOC's from security vendors:
 Talos Intelligence:         https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html
 360 Netlab:                 https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnet
+Microsoft:                  https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv
 
 List of IOc's from OSINT:
 IOC's from a Honeypot:      https://twitter.com/GelosSnake/status/1469341429541576715
