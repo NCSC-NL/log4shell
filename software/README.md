@@ -1,8 +1,8 @@
 # Log4j overview related software
 
-This page contains an overview of any related software regarding the Log4j vulnerability. On this page NCSC-NL will maintain a list of all known vulnerable and not vulnerable software. Futhermore any reference to the software will contain specific information regarding which version contains the security fixes, and which software still requires mitigation.
+This page contains an overview of any related software regarding the Log4j vulnerability. On this page NCSC-NL will maintain a list of all known vulnerable and not vulnerable software. Futhermore any reference to the software will contain specific information regarding which version contains the security fixes, and which software still requires mitigation. Please note that this vulnerability may also occur in custom software developed within your oganisation. These occurrences are not registered in this overview.
 
-NCSC-NL will use the following status 
+NCSC-NL will use the following status: 
 
 | Status         | Description                  |
 |:---------------|:-----------------------------|
@@ -12,6 +12,7 @@ NCSC-NL will use the following status
 | Not vuln     | Software is **NOT** vulnerable for CVE-2021-44228. |
 | Investigation     | Software is under investigation whether it is vulnerable or not |
 
+**NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would weigh each occurence of this vulnerability in the software packages below. However, due to the extensive amounts of vulnerable applicatons we have decided to treat all known vulnerabilities as HIGH/HIGH. **
 
 ## Software overview
 
