@@ -10,5 +10,6 @@ Talos Intelligence:         https://blog.talosintelligence.com/2021/12/apache-lo
 Microsoft(contains scan ip) https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv
 
 List of IOc's from OSINT:
-IOC's from a Honeypot:      https://twitter.com/GelosSnake/status/1469341429541576715
+IOC's from Honeypot:      https://twitter.com/GelosSnake/status/1469341429541576715
+IOC's from Honeypot:      https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets
 
