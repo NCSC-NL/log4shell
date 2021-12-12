@@ -30,6 +30,7 @@ Overall detection regex
 | RSA  | Netwitness | client.all contains "${j" || client.all contains "${J" |
 | Northwave Security | Not specific | [source](https://github.com/NorthwaveSecurity/log4jcheck) |
 | Northwave Security | Not specific | [source](https://github.com/crypt0jan/log4j-powershell-checker) |
+| Splunk | Splunk | [source](https://www.splunk.com/en_us/blog/security/log-jammin-log4j-2-rce.html) |
 | Qualys  | Cloud Platform | [source](https://blog.qualys.com/vulnerabilities-threat-research/2021/12/10/apache-log4j2-zero-day-exploited-in-the-wild-log4shell) |
 
 ## Opensource Intelligence
