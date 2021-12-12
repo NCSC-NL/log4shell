@@ -3,6 +3,7 @@ Detection Regex (not product specific):
 
 F5 created an Irule for detection: https://support.f5.com/csp/article/K19026212
 Akamai cloud:                           Internet Facing Applications ' sudo egrep -i -r "\$\{jndi:(ldap[s]?|rmi|dns)://' /var/log"
+Google Cloud Platform:                  https://cloud.google.com/blog/products/identity-security/cloud-armor-waf-rule-to-help-address-apache-log4j-vulnerability
 Palo Alto Prisma Cloud:                 https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/
 Palo Alto Firewall:                     Threat ID 91991 ingested after content update 8498
 Microsoft Defender and Sentinel rules:  https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/
