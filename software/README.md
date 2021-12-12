@@ -607,6 +607,9 @@ NCSC-NL will use the following status:
 ### T
 
 ### U 
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Ubiquiti | UniFi Network Application | 6.5.54 | Fix | |[source](https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1) |
 
 ### V
 
