@@ -3,6 +3,7 @@ Detection Regex (not product specific):
 
 F5 created an Irule for detection: https://support.f5.com/csp/article/K19026212
 Akamai cloud:                           Internet Facing Applications ' sudo egrep -i -r "\$\{jndi:(ldap[s]?|rmi|dns)://' /var/log"
+Cloudflare:                             https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/
 Google Cloud Platform:                  https://cloud.google.com/blog/products/identity-security/cloud-armor-waf-rule-to-help-address-apache-log4j-vulnerability
 Palo Alto Prisma Cloud:                 https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/
 Palo Alto Firewall:                     Threat ID 91991 ingested after content update 8498
@@ -10,6 +11,7 @@ Microsoft Defender and Sentinel rules:  https://www.microsoft.com/security/blog/
 Trend Micro Cloud One:                  LI Rule 1011241
 Tanium:                                 https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell
 Tanable (Nesus):                        https://www.tenable.com/plugins/search?q=cves%3A%28%22CVE-2021-44228%22%29&sort=&page=1
+RSA Netwitness query:                   client.all contains "${j" || client.all contains "${J"
 
 Snort and Suricata rules:
 These are ET Open free community detections to alert on current exploit activity.  SID range 2034647-2034652.  https://rules.emergingthreatspro.com/open/
