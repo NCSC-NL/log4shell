@@ -1,0 +1,10 @@
+IOC list.
+
+The list of callback servers, update by Greynoise:
+https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8
+
+The list of scanning IP's which can be used to block in firewalls:
+https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217
+
+List of IOC's from security vendors
+Talos Intelligence:         https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html
