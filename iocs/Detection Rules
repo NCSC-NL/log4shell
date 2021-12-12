@@ -18,4 +18,7 @@ These are ET Open free community detections to alert on current exploit activity
 
 Client related Detection:
 Florian Roth Grep and YARA rule for log4j2 exploitation:   https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
+Florian Roth Log4j2 detection script:                      https://github.com/Neo23x0/log4shell-detector
 Powershell script to detect Log4Shell on a client:         https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1
+Log4j checker by Northwave:                                https://github.com/NorthwaveSecurity/log4jcheck
+Log4j checker by Northwave (Powershell version):           https://github.com/crypt0jan/log4j-powershell-checker
