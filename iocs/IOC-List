@@ -4,13 +4,13 @@ Network related IOC's:
 The list of callback servers, update by Greynoise:                  https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8
 The list of scanning IP's which can be used to block in firewalls:  https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217
 
-Client related IOC's:
-Florian Roth Grep and YARA rule:  https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
-
 List of IOC's from security vendors:
 Talos Intelligence:         https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html
 360 Netlab:                 https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnet
+Microsoft(contains scan ip) https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv
 
 List of IOc's from OSINT:
-IOC's from a Honeypot:      https://twitter.com/GelosSnake/status/1469341429541576715
+IOC's from Honeypot:      https://twitter.com/GelosSnake/status/1469341429541576715
+IOC's from Honeypot:      https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets
+IOC's from Honeypot:      https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726
 
