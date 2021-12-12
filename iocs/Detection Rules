@@ -1,0 +1,4 @@
+Detection Regex (not product specific):
+\${(\${(.*?:|.*?:.*?:-)('|"|`)*(?1)}*|[jndi:lapsrm]('|"|`)*}*){9,11}
+
+F5 created an Irule for detection: https://support.f5.com/csp/article/K19026212
