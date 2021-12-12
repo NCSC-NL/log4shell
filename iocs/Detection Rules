@@ -24,4 +24,5 @@ Powershell script to detect Log4Shell on a client:         https://github.com/sp
 Log4j checker by Northwave:                                https://github.com/NorthwaveSecurity/log4jcheck
 Log4j checker by Northwave (Powershell version):           https://github.com/crypt0jan/log4j-powershell-checker
 Huntress labs Log4j2 Online vulnerability tester           https://log4shell.huntress.com/
+Docker Scan module to detect Log4j2                        https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/
 
