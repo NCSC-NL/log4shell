@@ -2,6 +2,8 @@
 
 This page contains an overview of any detection software regarding the Log4j vulnerability. On this page NCSC-NL will maintain a list of all known rules to detect Log4j presence or (suspected) Exploitation. Futhermore any references will contain specific information regarding detection.
 
+**NCSC-NL has not verified the rules and detection software listed below and therefore cannot guarantee the validity of said rules.
+However NCSC-NL strives to provide rules and detection software from reliable sources.**
 
 ## Detection Regex
 
