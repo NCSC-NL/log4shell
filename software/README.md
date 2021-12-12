@@ -227,16 +227,16 @@ NCSC-NL will use the following status
 |Cisco|Cisco Umbrella|Unknown|Investigation||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Managed Services Accelerator (MSX) Network Access Control Service|Unknown|Investigation||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|AppDynamics: Refer to https://docs.appdynamics.com/display/PAA/Security+Advisory%3A+Apache+Log4j+Vulnerability|Unknown|Investigation||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-|Cisco|Cisco Webex Meetings Server| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Cisco Evolved Programmable Network Manager| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Cisco Integrated Management Controller (IMC) Supervisor| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Cisco Intersight Virtual Appliance| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Cisco UCS Director| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Cisco Unified Contact Center Enterprise - Live Data server| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Cisco Video Surveillance Operations Manager| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Cisco Unified Communications Manager Cloud| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Cisco Webex Cloud-Connected UC (CCUC)| Unknown | Vulnerable | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
-|Cisco|Duo| Unknown | Fix | https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco Webex Meetings Server| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco Evolved Programmable Network Manager| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco Integrated Management Controller (IMC) Supervisor| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco Intersight Virtual Appliance| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco UCS Director| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco Unified Contact Center Enterprise - Live Data server| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco Video Surveillance Operations Manager| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco Unified Communications Manager Cloud| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Cisco Webex Cloud-Connected UC (CCUC)| Unknown | Vulnerable || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+|Cisco|Duo| Unknown | Fix || https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
 |Cisco|Cisco Jabber Guest|Unknown|Not vuln||https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd|
 |Cisco|Cisco Cloud Services Platform 2100|Unknown|Not vuln||https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd|
 |Cisco|Cisco Cloud Services Platform 5000 Series|Unknown|Not vuln||https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd|
@@ -278,8 +278,8 @@ NCSC-NL will use the following status
 | Citrix       | Sharefile  | Unknown | Investigation|  | [source](https://support.citrix.com/article/CTX335705) |
 | Cloudflare | Cloudflare WAF | Unknown | Mitigation | | [source](https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/) |
 | cPanel | cPanel | Unknown | Mitigation | | [source](https://forums.cpanel.net/threads/log4j-cve-2021-44228-does-it-affect-cpanel.696249/) |
-| Commvault | All products | Unknown | Not vuln | [source](https://community.commvault.com/technical-q-a-2/log4j-been-used-in-commvault-1985?postid=11745#post11745) |
-| Connect2id | Connect2id server | < 12.5.1 | Fix | [source](https://connect2id.com/blog/connect2id-server-12-5-1) |
+| Commvault | All products | Unknown | Not vuln || [source](https://community.commvault.com/technical-q-a-2/log4j-been-used-in-commvault-1985?postid=11745#post11745) |
+| Connect2id | Connect2id server | < 12.5.1 | Fix || [source](https://connect2id.com/blog/connect2id-server-12-5-1) |
 | Connectwise | Perch | Unknown | Fix || [source](https://www.connectwise.com/company/trust/advisories) |
 | Connectwise | Manage on-premise's Global Search  | Unknown | Mitigation || [source](https://www.connectwise.com/company/trust/advisories) |
 | Connectwise | Marketplace | Unknown | Mitigation || [source](https://www.connectwise.com/company/trust/advisories) |
