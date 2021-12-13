@@ -841,3 +841,7 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 | Yahoo           | Vespa           |                 | Not vuln        | Your Vespa application may still be affected if log4j is included in your application package |[source](https://blog.vespa.ai/log4j-vulnerability/) |
 
 ### Z
+
+
+
+
