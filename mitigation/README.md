@@ -40,6 +40,7 @@ Overall detection regex
 | Source      | Notes        | Links |
 |:----------------|:----------------|:---------------:|
 |  Diverto | Nmap NSE scripts to check against log4shell | [source](https://github.com/Diverto/nse-log4shell) |
+|  NCC Group | Log4Shell: Reconnaissance and post exploitation network detection | [source](https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/) |
 
 Snort and Suricata rules:
 
