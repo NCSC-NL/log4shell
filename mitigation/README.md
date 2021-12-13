@@ -37,12 +37,16 @@ Overall detection regex
 
 
 ### Network based detection
+| Source      | Notes        | Links |
+|:----------------|:----------------|:---------------:|
+|  Diverto | Nmap NSE scripts to check against log4shell | [source](https://github.com/Diverto/nse-log4shell) |
 
 Snort and Suricata rules:
 
 | Note             | Rule-range        | Rule |
 |:----------------|:----------------|:---------------:|
 | These are ET Open free community detections to alert on current exploit activity.  | SID range 2034647-2034652. | [source](https://rules.emergingthreatspro.com/open/) |
+
 
 
 ### Host based detection
