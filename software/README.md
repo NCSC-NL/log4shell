@@ -855,6 +855,8 @@ NCSC-NL will use the following status:
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Safe            | FME Server      | | Investigation | | [source](https://community.safe.com/s/article/Is-FME-Server-Affected-by-the-Security-Vulnerability-Reported-Against-log4j) |
 | Shibboleth      | Shibboleth IdP/SP | | Not Vuln | | [source](https://shibboleth.net/pipermail/announce/2021-December/000253.html) |
+| SonarSource     | SonarQube | | Workaround | | [source](https://community.sonarsource.com/t/sonarqube-sonarcloud-and-the-log4j-vulnerability/54721) |
+| SonarSource     | SonarCloud |  | Fix | | [source](https://community.sonarsource.com/t/sonarqube-sonarcloud-and-the-log4j-vulnerability/54721) |
 | SonicWall       | Gen5 Firewalls (EOS) |  | Not Vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
 | SonicWall       | Gen6 Firewalls |  | Not Vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
 | SonicWall       | Gen7 Firewalls |  | Not Vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
@@ -1042,6 +1044,7 @@ NCSC-NL will use the following status:
 | VMware       | NSX-T Data Center  | 3.x, 2.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87086) |
 | VMware       | Single Sign-On for VMware Tanzu Application Service  | 1.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068) |
 | VMware       | Site Recovery Manager   | 8.x | Vuln |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87098)|
+| VMware       | Spring Boot  | < 2.5.8, < 2.6.2 | Workaround |   | [source](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot) |
 | VMware       | Spring Cloud Gateway for Kubernetes  | 1.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068) |
 | VMware       | Tanzu Application Service for VMs  | 2.x | Fix |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://community.pivotal.io/s/article/Workaround-instructions-to-address-CVE-2021-44228-in-Tanzu-Application-Service-2-7-through-2-12?language=en_US), [fix](https://network.pivotal.io/products/elastic-runtime) |
 | VMware       | Tanzu GemFire   | 8.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://community.pivotal.io/s/article/Workaround-to-address-CVE-2021-44228-Apache-Log4j-Remote-Code-Execution-for-all-GemFire-versions?language=en_US)|
