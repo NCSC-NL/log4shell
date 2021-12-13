@@ -774,6 +774,11 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 
 ### T
 
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| TheHive | Cortex | all | Not vuln | |[source](https://twitter.com/nadouani/status/1470361780471881735) |
+| TheHive | TheHive | all | Not vuln | |[source](https://twitter.com/nadouani/status/1470361780471881735) |
+
 ### U
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
