@@ -124,7 +124,9 @@ NCSC-NL will use the following status:
 | Checkpoint| Harmony Endpoint & Harmony Mobile | Unknown | Not vuln | |[source](https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176865&partition=General&product=IPS) |
 | Checkpoint| SMB | Unknown | Not vuln | |[source](https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176865&partition=General&product=IPS) |
 | Checkpoint| ThreatCloud | Unknown | Not vuln | |[source](https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176865&partition=General&product=IPS) |
-| Chef | Chef Server | Unknown | Fix | | [source](https://github.com/chef/chef-server/issues/2998)|
+| Chef | Infra Server | All | Not vuln | | [source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
+| Chef | Automate | All | Not vuln | | [source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
+| Chef | Backend | All | Not vuln | | [source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
 | Cisco | General Cisco Disclaimer | Cisco is updating their advisory three times a day, please keep their website in your watchlist. We will try to update accordingly ||||
 | Cisco | AnyConnect Secure Mobility Client | All versions | Not vuln | | [source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Cisco SocialMiner|All versions|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -465,12 +467,12 @@ NCSC-NL will use the following status:
 |F5| All products | |Not Vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
 |FileCap| All products | <5.1.0 | Vulnerable | Fix: 5.1.1 |[source](https://mailchi.mp/3f82266e0717/filecap-update-version-511)|
 | Fiix | CMMS core | V5  | Fix | | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
-|Forcepoint |DLP Manager                                                                          ||Workaround |[source](https://support.forcepoint.com)|
-|Forcepoint |Forcepoint Cloud Security Gateway (CSG)                                              ||Not vuln   |[source](https://support.forcepoint.com)|
-|Forcepoint |Next Generation Firewall (NGFW)                                                      ||Not vuln   |[source](https://support.forcepoint.com)|
-|Forcepoint |Next Generation Firewall, NGFW VPN Client, Forcepoint User ID service and Sidewinder ||Not vuln   |[source](https://support.forcepoint.com)|
-|Forcepoint |One Endpoint                                                                         ||Not vuln   |[source](https://support.forcepoint.com)|
-|Forcepoint |Security Manager (Web, Email and DLP)                                                ||Workaround |[source](https://support.forcepoint.com)|
+|Forcepoint |DLP Manager                                                                          ||Workaround ||[source](https://support.forcepoint.com)|
+|Forcepoint |Forcepoint Cloud Security Gateway (CSG)                                              ||Not vuln   ||[source](https://support.forcepoint.com)|
+|Forcepoint |Next Generation Firewall (NGFW)                                                      ||Not vuln   ||[source](https://support.forcepoint.com)|
+|Forcepoint |Next Generation Firewall, NGFW VPN Client, Forcepoint User ID service and Sidewinder ||Not vuln   ||[source](https://support.forcepoint.com)|
+|Forcepoint |One Endpoint                                                                         ||Not vuln   ||[source](https://support.forcepoint.com)|
+|Forcepoint |Security Manager (Web, Email and DLP)                                                ||Workaround ||[source](https://support.forcepoint.com)|
 |ForgeRock        | Autonomous Identity |  | Workaround | all other ForgeRock products not vuln | [source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa) |
 |Fortinet| FortiAIOps| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiAnalyzer Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -529,6 +531,19 @@ NCSC-NL will use the following status:
 | HCL Software | BigFix Inventory | Unknown | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| Hexagon | M.App Enterprise | Unknown | Investigation | Might be vulnerable only when used with Geoprocessing Server | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | ERDAS APOLLO Advantage & Professional | Unknown | Investigation | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | GeoMedia | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | IMAGINE | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | ImageStation | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | GeoMedia WebMap | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | Geospatial Portal | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | Geospatial SDI | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | GeoMedia SmartClient | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | ERDAS APOLLO Essentials | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | M.App Enterprise standalone or with Luciad Fusion | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | Luciad Fusion | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | Luciad Lightspeed | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hitachi Vantara | Pentaho | v8.3.x, v9.2.x | Not vuln | | [source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 | HostiFi | Unifi hosting | Unknown | Fix | Hosted Unifi solution | [source](https://twitter.com/hostifi_net/status/1440311322592231436) |
 | Huawei | All products | | Investigation | | [source](https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en)|
@@ -607,6 +622,7 @@ NCSC-NL will use the following status:
 | Lightbend | Akka Serverless | Unknown | Not Vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Lightbend | Lagom Framework | Unknown | Not Vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Lightbend | Play Framework| Unknown | Not Vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| LogicMonitor | LogicMonitor SaaS Platform| Unknown | Fix | Automatic update before 13th December [source](https://communities.logicmonitor.com/topic/7472-logicmonitor-collectors-running-vulnerable-version-of-log4j-are-affected-by-log4shell-cve-2021-44228-vulnerability/) |
 | The Linux Foundation | XCP-ng | All versions | Not vuln | |[source](https://xcp-ng.org/forum/topic/5315/log4j-vulnerability-impact) |
 | LiquidFiles | LiquidFiles | All versions | Not vuln | |[source](https://mailchi.mp/liquidfiles/liquidfiles-log4j) |
 
@@ -700,6 +716,7 @@ NCSC-NL will use the following status:
 | Nutanix | Frame | All versions | Not Vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 | Nutanix | Sizer | Unknown | Fix | See advisory | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 | Nutanix | Insights | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| NXLog | NXLog Manager |  5.x | Not Vouln | | [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228)|
 
 ### O
 
@@ -741,7 +758,7 @@ NCSC-NL will use the following status:
 | Oracle     | Oracle WebCenter Sites                          | Unknown                          | Fix        |[Patch Available, Support Note 2827793.1] (<https://support.oracle.com/rs?type=doc&id=2827793.1>)                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
 | Oracle     | Oracle Enterprise Repository                          | Unknown                          | Fix        |[Patch Available, Support Note 2827793.1] (<https://support.oracle.com/rs?type=doc&id=2827793.1>)                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
 | Oracle     | Oracle JDeveloper                          | Unknown                          | Fix        |[Patch Available, Support Note 2827793.1] (<https://support.oracle.com/rs?type=doc&id=2827793.1>)                                                    | [source](https://www.oracle.com/security-alerts/alert-cve-2021-44228.html), [Support note 2827611.1](https://support.oracle.com/rs?type=doc&id=2827611.1), [Support Note 2827793.1](https://support.oracle.com/rs?type=doc&id=2827793.1)           |
-| openHAB    | openHAB                                            | Unknown                          | Workaround | Patch committed, but no new release yet            | [source](https://github.com/openhab/openhab-distro/pull/1344), [patch](https://github.com/openhab/openhab-distro/commit/3a6df5c09059d209872d374f509913d07eba7afb) |
+| openHAB    | openHAB                                            | 3.0.4, 3.1.1                          | Fix |            | [source](https://github.com/openhab/openhab-distro/security/advisories/GHSA-j99j-qp89-pcfq) |
 | OWASP      | ZAP                                                | < 2.11.1                         | Fix        |                                                    | [source](https://www.zaproxy.org/blog/2021-12-10-zap-and-log4shell/) |
 
 ### P
