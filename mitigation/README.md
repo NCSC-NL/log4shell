@@ -30,6 +30,7 @@ Overall detection regex
 | RSA  | Netwitness | client.all contains "${j" || client.all contains "${J" |
 | Northwave Security | Not specific | [source](https://github.com/NorthwaveSecurity/log4jcheck) |
 | Northwave Security | Not specific | [source](https://github.com/crypt0jan/log4j-powershell-checker) |
+| Splunk | Splunk | [source](https://www.splunk.com/en_us/blog/security/log-jammin-log4j-2-rce.html) |
 | Qualys  | Cloud Platform | [source](https://blog.qualys.com/vulnerabilities-threat-research/2021/12/10/apache-log4j2-zero-day-exploited-in-the-wild-log4shell) |
 
 ## Opensource Intelligence
@@ -50,4 +51,8 @@ Snort and Suricata rules:
 |:----------------|:----------------|:---------------:|
 | Neo23x0   | Florian Roth Grep and YARA rule for log4j2 exploitation | [source](https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b) |
 | Neo23x0   | Florian Roth Log4j2 detection script | [source](https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b) |
+| Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability fields (Sigma rule) | [source](https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j_fields.yml) |
+| Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability (Sigma rule) | [source](https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j.yml) |
 | sp4ir     | Powershell script to detect Log4Shell| [source](https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1) |
+| NCCgroup  | Version hashes (MD5, SHA1 and SHA256) for log4j2 versions| [source](https://github.com/nccgroup/Cyber-Defence/tree/master/Intelligence/CVE-2021-44228) |
+| Huntress  | Online Log4Shell Vulnerability Tester| [source](https://log4shell.huntress.com/) |
