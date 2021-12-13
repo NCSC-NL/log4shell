@@ -329,6 +329,7 @@ NCSC-NL will use the following status:
 | Elastic         | Machine Learning | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Swiftype | | Investigation |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | ESET            | All products | Unknown | Not vuln | |[source](https://forum.eset.com/topic/30691-log4j-vulnerability/) |
+| eXtreme Hosting            | All products | Unknown | Not vuln | |[source](https://extremehosting.nl/contact/) |
 
 ### F
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
