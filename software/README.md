@@ -634,6 +634,7 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 | MongoDB | Drivers | Unknown | Not affected. | | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
 | MongoDB | Tools | Unknown | Not affected. | Including Compass, Database Shell, VS Code Plugin, Atlas CLI, Database Connectors | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
 | MongoDB | Realm | Unknown | Not affected. | including Realm Database, Sync, Functions, APIs | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
+| Moodle | Moodle | All | Not affected. | | [source](https://moodle.org/mod/forum/discuss.php?d=429966)
 
 ### N
 
