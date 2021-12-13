@@ -1095,6 +1095,8 @@ NCSC-NL will use the following status:
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Watcher           | [Watcher](https://github.com/thalesgroup-cert/Watcher) | all | Not vuln | | [source](https://twitter.com/felix_hrn/status/1470387338001977344)
+| Wind River      | Wind River Linux | <= 8 | Not vuln | "contain package log4j, but their version is 1.2.x, too old to be affected"  | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
+| Wind River      | Wind River Linux | > 8 | Not vuln  | no support for log4j | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
 | WitFoo          | WitFoo Precinct | 6.x             | Fix             | WitFoo Streamer & Apache Kafka Docker containers are/were vulnerable | [source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
 | Wowza | Wowza Streaming Engine | 4.7.8, 4.8.x | Workaround | |[source](https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve) |
 
