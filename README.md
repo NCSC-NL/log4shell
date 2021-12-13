@@ -7,12 +7,12 @@ This repo contains operational information regarding the vulnerability in the Lo
 
 ## Repository contents
 
-| Directory  | Purpose |
-|:-----------|:--------|
-| iocs       | Contains any Indicators of Compromise, such as scanning IPs, etc |
-| mitigation | Contains info regarding mitigation, such as regexes for detecting scanning activity and more |
-| scanning   | Contains references to methods and tooling used for scanning for the Log4j vulnerability |
-| software   | Contains a list of known vulnerable and not vulnerable software |
+| Directory                          | Purpose |
+|:-----------------------------------|:--------|
+| [iocs](iocs/README.md)             | Contains any Indicators of Compromise, such as scanning IPs, etc |
+| [mitigation](mitigation/README.md) | Contains info regarding mitigation, such as regexes for detecting scanning activity and more |
+| [scanning](scanning/README.md)     | Contains references to methods and tooling used for scanning for the Log4j vulnerability |
+| [software](software/README.md)     | Contains a list of known vulnerable and not vulnerable software |
 
 **Please note that these directories are not complete, and are currently being expanded.**
 
