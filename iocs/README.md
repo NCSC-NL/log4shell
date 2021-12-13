@@ -16,6 +16,8 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | CTCI | https://docs.google.com/spreadsheets/d/e/2PACX-1vT1hFu_VlZazvc_xsNvXK2GJbPBCDvhgjfCTbNHJoP6ySFu05sIN09neV73tr-oYm8lo42qI_Y0whNB/pubhtml# |
 | Malwar3Ninja | https://twitter.com/bad_packets/status/1469225135504650240|
 | GovCert.ch | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/|
+| isc.sans.edu | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
+
 
 ## List of IoC's from security vendors
 
@@ -23,6 +25,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 |:----------------|:----------------|
 | Talos Intelligence  | https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html |
 | 360 Netlab  | https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnet |
+| 360 Netlab (Additional) | https://blog.netlab.360.com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/ |
 | Microsoft(Contains scan IP's) | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv |
 | RedDrip7 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
 | CrowdSec (Scan IP validation)| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
