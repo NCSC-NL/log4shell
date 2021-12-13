@@ -955,3 +955,6 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 | Yahoo           | Vespa           |                 | Not vuln        | Your Vespa application may still be affected if log4j is included in your application package |[source](https://blog.vespa.ai/log4j-vulnerability/) |
 
 ### Z
+| Supplier        | Product         | Version         | Status          | Notes           | Links      |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Zabbix          | Zabbix          |                 | Not vuln        | Zabbix is aware of this vulnerability, has completed verification, and can conclude that the only product where we use Java is Zabbix Java Gateway, which does not utilize the log4j library, thereby is not impacted by this vulnerability. |[source](https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/) |
