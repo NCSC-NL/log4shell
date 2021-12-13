@@ -800,6 +800,8 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 ### U 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| TheHive | Cortex | all | Not vuln | |[source](https://twitter.com/nadouani/status/1470361780471881735) |
+| TheHive | TheHive | all | Not vuln | |[source](https://twitter.com/nadouani/status/1470361780471881735) |
 | Ubiquiti | UniFi Network Application | 6.5.54 | Fix | |[source](https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1) |
 | USoft | USoft | 9.1.1F | Vulnerable | Found by manual scanning | [proof] (https://ibb.co/tqV40qB) |
 
