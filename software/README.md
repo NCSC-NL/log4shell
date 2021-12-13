@@ -880,14 +880,12 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 | Stardog | Stardog | <7.8.1 | Fix | | [source](https://community.stardog.com/t/stardog-7-8-1-available/3411) |
 
 ### T
-| Supplier        | Product         | Version         | Status          | Notes           | Links |
-|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
-| TrendMicro        | All Products |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | TheHive | Cortex | all | Not vuln | |[source](https://kb.vmware.com/s/article/87068) |
 | TheHive | TheHive | all | Not vuln | |[source](https://kb.vmware.com/s/article/87068) |
+| TrendMicro | All Products |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 
 ### U
 
