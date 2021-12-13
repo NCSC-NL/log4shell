@@ -37,12 +37,16 @@ Overall detection regex
 
 
 ### Network based detection
+| Source      | Notes        | Links |
+|:----------------|:----------------|:---------------:|
+|  Diverto | Nmap NSE scripts to check against log4shell | [source](https://github.com/Diverto/nse-log4shell) |
 
 Snort and Suricata rules:
 
 | Note             | Rule-range        | Rule |
 |:----------------|:----------------|:---------------:|
 | These are ET Open free community detections to alert on current exploit activity.  | SID range 2034647-2034652. | [source](https://rules.emergingthreatspro.com/open/) |
+
 
 
 ### Host based detection
@@ -54,5 +58,6 @@ Snort and Suricata rules:
 | Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability fields (Sigma rule) | [source](https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j_fields.yml) |
 | Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability (Sigma rule) | [source](https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j.yml) |
 | sp4ir     | Powershell script to detect Log4Shell| [source](https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1) |
+| crypt0jan     | Perform a scan of a single host (using Powershell) to see if it's vulnerable | [source](https://github.com/crypt0jan/log4j-powershell-checker) |
 | NCCgroup  | Version hashes (MD5, SHA1 and SHA256) for log4j2 versions| [source](https://github.com/nccgroup/Cyber-Defence/tree/master/Intelligence/CVE-2021-44228) |
 | Huntress  | Online Log4Shell Vulnerability Tester| [source](https://log4shell.huntress.com/) |
