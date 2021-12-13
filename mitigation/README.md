@@ -28,6 +28,7 @@ Overall detection regex
 | Trend Micro   | Cloud One| LI Rule 1011241 |
 | Tenable  | Nesus | [source](https://www.tenable.com/plugins/search?q=cves%3A%28%22CVE-2021-44228%22%29&sort=&page=1) |
 | RSA  | Netwitness | client.all contains "${j" || client.all contains "${J" |
+| Rapid7   | InsightVM and Nexpose | [source](https://www.rapid7.com/blog/post/2021/12/10/widespread-exploitation-of-critical-remote-code-execution-in-apache-log4j/) |
 | Northwave Security | Not specific | [source](https://github.com/NorthwaveSecurity/log4jcheck) |
 | Northwave Security | Not specific | [source](https://github.com/crypt0jan/log4j-powershell-checker) |
 | Splunk | Splunk | [source](https://www.splunk.com/en_us/blog/security/log-jammin-log4j-2-rce.html) |
@@ -39,7 +40,6 @@ Overall detection regex
 ### Network based detection
 | Source      | Notes        | Links |
 |:----------------|:----------------|:---------------:|
-|  Diverto | Nmap NSE scripts to check against log4shell | [source](https://github.com/Diverto/nse-log4shell) |
 |  NCC Group | Log4Shell: Reconnaissance and post exploitation network detection | [source](https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/) |
 
 Snort and Suricata rules:
@@ -55,10 +55,5 @@ Snort and Suricata rules:
 | Source      | Notes        | Links |
 |:----------------|:----------------|:---------------:|
 | Neo23x0   | Florian Roth Grep and YARA rule for log4j2 exploitation | [source](https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b) |
-| Neo23x0   | Florian Roth Log4j2 detection script | [source](https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b) |
 | Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability fields (Sigma rule) | [source](https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j_fields.yml) |
 | Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability (Sigma rule) | [source](https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j.yml) |
-| sp4ir     | Powershell script to detect Log4Shell| [source](https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1) |
-| crypt0jan     | Perform a scan of a single host (using Powershell) to see if it's vulnerable | [source](https://github.com/crypt0jan/log4j-powershell-checker) |
-| NCCgroup  | Version hashes (MD5, SHA1 and SHA256) for log4j2 versions| [source](https://github.com/nccgroup/Cyber-Defence/tree/master/Intelligence/CVE-2021-44228) |
-| Huntress  | Online Log4Shell Vulnerability Tester| [source](https://log4shell.huntress.com/) |
