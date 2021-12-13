@@ -12,11 +12,12 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | crypt0jan     | Perform a scan of a single host (using Powershell) to see if it's vulnerable | https://github.com/crypt0jan/log4j-powershell-checker |
 | Huntress  | Online Log4Shell Vulnerability Tester| https://log4shell.huntress.com/ |
 | Canary Tokens |  Log4Shell Vulnerability Tester | https://canarytokens.org/generate |
-|  Diverto | Nmap NSE scripts to check against log4shell | https://github.com/Diverto/nse-log4shell |
-|  silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
+| Diverto | Nmap NSE scripts to check against log4shell | https://github.com/Diverto/nse-log4shell |
+| silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker | https://github.com/NorthwaveSecurity/log4jcheck |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
 | OlafHaalstra | Scans a list of URLs with `GET` or `POST` request with user defined parameters | https://github.com/OlafHaalstra/log4jcheck |
+| Grype   | Open source vulnerability scanner, picks up nested JARs containing log4j | https://github.com/anchore/grype |
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
