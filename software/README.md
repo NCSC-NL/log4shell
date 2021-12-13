@@ -773,6 +773,9 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 | Stardog | Stardog | <7.8.1 | Fix | | [source](https://community.stardog.com/t/stardog-7-8-1-available/3411) |
 
 ### T
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| TrendMicro        | All Products |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 
 ### U
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
