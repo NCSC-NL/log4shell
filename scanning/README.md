@@ -16,6 +16,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 |  silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker | https://github.com/NorthwaveSecurity/log4jcheck |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
+| OlafHaalstra | Scans a list of URLs with `GET` or `POST` request with user defined parameters | https://github.com/OlafHaalstra/log4jcheck |
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
