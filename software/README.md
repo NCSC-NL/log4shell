@@ -768,6 +768,8 @@ NCSC-NL will use the following status:
 | PaperCut  | PaperCut Online Services | | Not vuln | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
 | Parallels | Remote Application Server  | All versions | Not Vuln | | [source](https://kb.parallels.com/en/128696) |
 | Pega | Pega Platform | On Prem | Fix | | [source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability) |
+| PaperCut | PaperCut NG | 21.0+ | Workaround | Versions 20 and earlier are NOT impacted by this. | [source](https://www.papercut.com/support/known-issues/?id=PO-684#ng) |
+| PaperCut | PaperCut MF | 21.0+ | Workaround | Versions 20 and earlier are NOT impacted by this. | [source](https://www.papercut.com/support/known-issues/?id=PO-684#ng) |
 | Planon Software | Planon Universe | all | Not vuln | | [source](https://my.planonsoftware.com/uk/news/log4j-impact-on-planon/) |
 | Plex | Industrial IoT | | Not vuln | Mitigation already applied, patch will be issued today | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 | Progress | OpenEdge | | Workaround | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-OpenEdge-vulnerable-to-CVE-2021-44228-Log4j) |
