@@ -477,6 +477,7 @@ NCSC-NL will use the following status:
 | New Relic          | Java Agent                                                         | Unknown  | Investigation |                                                |                                             [source](https://github.com/newrelic/newrelic-java-agent/issues/605) |
 | NextGen Healthcare | Mirth                                                              | Unknown  |   Not Vuln    |                                                |                [source](https://github.com/nextgenhealthcare/connect/discussions/4892#discussioncomment-1789526) |
 | NSA | Ghidra| < 10.1| Fix | | [source](https://github.com/NationalSecurityAgency/ghidra/blob/2c73c72f0ba2720c6627be4005a721a5ebd64b46/README.md#warning), [fix](https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.1_build)| 
+| Nutanix | AOS | All versions | Vulnerable | Fix underway | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 
 ### O
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
