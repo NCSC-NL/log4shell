@@ -29,6 +29,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | Bad Packets (Contains scan IP's)| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
 | NCC Group (Contains scan IP's) | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
 | Lacework | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
+| Securelist by Kaspersky | https://securelist.com/cve-2021-44228-vulnerability-in-apache-log4j-library/ |
 
 ## List of IoC's from Honeypot's
 | Note     | Links |
