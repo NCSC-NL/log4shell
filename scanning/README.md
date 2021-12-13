@@ -7,6 +7,8 @@ However NCSC-NL strives to provide scanning software from reliable sources.**
 
 ## Vulnerability Detection
 Checks if the application is vulnerable to CVE-2021-44228.
+| Source      | Notes        | Links |
+|:----------------|:----------------|:---------------:|
 | crypt0jan     | Perform a scan of a single host (using Powershell) to see if it's vulnerable | [source](https://github.com/crypt0jan/log4j-powershell-checker) |
 | Huntress  | Online Log4Shell Vulnerability Tester| [source](https://log4shell.huntress.com/) |
 
