@@ -17,7 +17,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker | https://github.com/NorthwaveSecurity/log4jcheck |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
 | OlafHaalstra | Scans a list of URLs with `GET` or `POST` request with user defined parameters | https://github.com/OlafHaalstra/log4jcheck |
-| Grype   | Open source vulnerability scanner, picks up nested JARs containing log4j | https://github.com/anchore/grype |
+| Grype   | Open source vulnerability scanner (docker), picks up nested JARs containing log4j | https://github.com/anchore/grype |
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
