@@ -626,34 +626,35 @@ NCSC-NL will use the following status:
 | QOS.ch          | SLF4J Simple Logging Facade for Java | |  | SLF4J API doesn't protect against the vulnerability when using a vulnerable version of log4j | [source](http://slf4j.org/log4shell.html) |
 
 ### R
-| Supplier        | Product         | Version         | Status          | Notes           | Links |
-|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
-| Red Hat         | Red Hat OpenShift Container Platform 4	openshift4/ose-metering-presto |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4	openshift4/ose-metering-hive |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4	openshift4/ose-logging-elasticsearch6 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 3.11	openshift3/ose-logging-elasticsearch5 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenStack Platform 13 (Queens)	opendaylight |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging	logging-elasticsearch6-container |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat build of Quarkus |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Descision Manager 7 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss Enterprise Application Platform Expansion Pack |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Process Automation 7 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | A-MQ Clients 2 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat CodeReady Studio 12 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Data Grid 8 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Integration Camel K |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Integration Camel Quarkus |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss A-MQ Streaming |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss Fuse 7 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Application Runtimes |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Single Sign-On 7 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss Enterprise Application Platform 6 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| RSA             | SecurID Authentication Manager |  | Not Vuln | Version 8.6 Patch 1 contains a version of log4j that is vulnerable, but this vulnerability is not exploitable. | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Authentication Manager Prime |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Authentication Manager WebTier |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Identity Router (On-Prem component of Cloud Authentication Service) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Governance and Lifecycle (SecurID G&L) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
-| RSA             | SecurID Governance and Lifecycle Cloud (SecurID G&L Cloud) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| Supplier        | Product         | Version         | Status          | Notes                                                                                                                                             | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------|-----------:|
+| Redis | Redis Enterprise & Open Source | | Not Vuln | Redis Enterprise and Open Source Redis  (self-managed software product) does not use Java and is therefore not impacted by this vulnerability | [source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/) |
+| Red Hat         | Red Hat OpenShift Container Platform 4	openshift4/ose-metering-presto |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4	openshift4/ose-metering-hive |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4	openshift4/ose-logging-elasticsearch6 |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 3.11	openshift3/ose-logging-elasticsearch5 |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenStack Platform 13 (Queens)	opendaylight |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging	logging-elasticsearch6-container |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat build of Quarkus |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Descision Manager 7 |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss Enterprise Application Platform Expansion Pack |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Process Automation 7 |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | A-MQ Clients 2 |  | Not Vuln |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat CodeReady Studio 12 |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Data Grid 8 |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Integration Camel K |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Integration Camel Quarkus |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss A-MQ Streaming |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss Fuse 7 |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Application Runtimes |  | Vulnerable |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Single Sign-On 7 |  | Not Vuln |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss Enterprise Application Platform 6 |  | Not Vuln |                                                                                                                                                   | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| RSA             | SecurID Authentication Manager |  | Not Vuln | Version 8.6 Patch 1 contains a version of log4j that is vulnerable, but this vulnerability is not exploitable.                                    | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Authentication Manager Prime |  | Not Vuln |                                                                                                                                                   | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Authentication Manager WebTier |  | Not Vuln |                                                                                                                                                   | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Identity Router (On-Prem component of Cloud Authentication Service) |  | Not Vuln |                                                                                                                                                   | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Governance and Lifecycle (SecurID G&L) |  | Not Vuln |                                                                                                                                                   | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| RSA             | SecurID Governance and Lifecycle Cloud (SecurID G&L Cloud) |  | Not Vuln |                                                                                                                                                   | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
 
 
 ### S
@@ -803,8 +804,3 @@ NCSC-NL will use the following status:
 ### Y
 
 ### Z
-
-
-
-
-
