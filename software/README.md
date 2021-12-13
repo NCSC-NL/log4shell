@@ -758,6 +758,7 @@ NCSC-NL will use the following status:
 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Veeam        | All products  | | Investigation | Veeam is still investigating, but it looks like the Veeam products don't use log4j | [source](https://community.veeam.com/blogs-and-podcasts-57/log4j-vulnerability-what-do-you-need-to-know-1851)|
 | VMware       |  Horizon | 8.x, 7.x | Workaround |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [Workaround](https://kb.vmware.com/s/article/87073) |
 | VMware       | vCenter Server  | 7.x, 6.x | Workaround |  Running on: Virtual Appliance | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [Workaround](https://kb.vmware.com/s/article/87081?lang=en_US) |
 | VMware       | vCenter Server  | 6.x | Vulnable |  Running on: Windows | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
@@ -800,11 +801,15 @@ NCSC-NL will use the following status:
 ### W
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| WitFoo          | WitFoo Precinct | 6.x             | Fix             | WitFoo Streamer & Apache Kafka Docker containers are/were vulnerable | [source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
 | Wowza | Wowza Streaming Engine | 4.7.8, 4.8.x | Workaround | |[source](https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve) |
 
 ### X
 
 ### Y
+| Supplier        | Product         | Version         | Status          | Notes           | Links      |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Yahoo           | Vespa           |                 | Not vuln        | Your Vespa application may still be affected if log4j is included in your application package |[source](https://blog.vespa.ai/log4j-vulnerability/) |
 
 ### Z
 
