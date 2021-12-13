@@ -15,7 +15,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | Malware Bazaar | https://bazaar.abuse.ch/browse/tag/log4j/ |
 | CTCI | https://docs.google.com/spreadsheets/d/e/2PACX-1vT1hFu_VlZazvc_xsNvXK2GJbPBCDvhgjfCTbNHJoP6ySFu05sIN09neV73tr-oYm8lo42qI_Y0whNB/pubhtml# |
 | Malwar3Ninja | https://twitter.com/bad_packets/status/1469225135504650240|
-
+| GovCert.ch | https://twitter.com/bad_packets/status/1469225135504650240|
 
 ## List of IoC's from security vendors
 
