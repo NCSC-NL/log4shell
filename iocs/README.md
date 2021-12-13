@@ -28,6 +28,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | CrowdSec (Scan IP validation)| [source](https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166)|
 | Bad Packets (Contains scan IP's)| [source](https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166)|
 | NCC Group (Contains scan IP's) | [source](https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/)|
+| Lacework | [source](https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/)|
 
 ## List of IoC's from Honeypot's
 | Note     | Links |
