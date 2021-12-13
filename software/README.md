@@ -347,7 +347,8 @@ NCSC-NL will use the following status:
 | EVL Labs | JGAAP | <8.0.2 | Fix | | [source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2) |
 | Exact      | Synergy | Only using ElasicSearch | Workaround | Please see ElasticSearch - Information leakage vulnerability - Workaround available | [proof](https://ibb.co/DVGxWFY) |
 
-### F
+
+### 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 |F5| All products | |Not Vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
