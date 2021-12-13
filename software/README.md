@@ -344,9 +344,8 @@ NCSC-NL will use the following status:
 | Elastic         | Swiftype | | Investigation |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | ESET            | All products | Unknown | Not vuln | |[source](https://forum.eset.com/topic/30691-log4j-vulnerability/) |
 | Esri | ArcGIS Enterprise and related products | < 10.8.0 | Vulnerable |  | [source](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/) |
-| Exact      | Synergy | Only using ElasicSearch | Workaround | Please see ElasticSearch - Information leakage vulnerability - Workaround available | [proof](https://ibb.co/DVGxWFY) |
 
-### F
+### 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 |F5| All products | |Not Vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
