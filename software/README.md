@@ -692,6 +692,7 @@ NCSC-NL will use the following status:
 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Obsidian Dynamics | kafdrop | all | Investigation | | [source](https://github.com/obsidiandynamics/kafdrop/issues/315) |
 | Okta       | AD Agent                                           | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
 | Okta       | Access Gateway                                     | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
 | Okta       | Advanced Server Access                             | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
