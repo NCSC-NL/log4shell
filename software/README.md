@@ -946,6 +946,7 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 | VMware       | App Metrics  | 2.1.1 | Fix |   | [source](https://kb.vmware.com/s/article/87068), [fix](https://network.pivotal.io/products/apm) |
 | VMware       | Carbon Black Cloud Workload Appliance | 1.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-VMware-Carbon-Black-Cloud/ta-p/109167) |
 | VMware       | Carbon Black EDR Server  | 7.x, 6.x | Fix | Fixed in 7.6.0 | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-VMware-Carbon-Black-EDR/ta-p/109168), [fix](https://community.carbonblack.com/t5/Endpoint-Detection-and-Response/VMware-Carbon-Black-EDR-Announcing-General-Availability-of-EDR/td-p/109189) |
+| VMware       | Cloud Foundation  | 4.x, 3.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87095)|
 | VMware       | Cloud Gateway for VMware Tanzu  | 1.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068) |
 | VMware       | Cloud Services for VMware Tanzu  | 3.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068) |
 | VMware       | HCX | 4.x, 3.x | Vulnerable |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)
@@ -965,22 +966,23 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 | VMware       | Tanzu Kubernetes Grid Integrated Edition   | 2.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://community.pivotal.io/s/article/Workaround-instructions-to-address-CVE-2021-44228-in-Tanzu-Application-Service-2-7-through-2-12?language=en_US) |
 | VMware       | Tanzu Observability by Wavefront Nozzle   | 3.0.3 | Fix |   | [source](https://kb.vmware.com/s/article/87068), [fix](https://network.pivotal.io/products/wavefront-nozzle) |
 | VMware       | Tanzu Operations Manager  | 2.x | Fix |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://community.pivotal.io/s/article/5004y00001mPn2N1639255611105?language=en_US), [fix](https://network.pivotal.io/products/ops-manager/) |
+| VMware       | Tanzu SQL with MySQL for VMs  | 2.x, 1.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068)|
 | VMware       | Telco Cloud Automation | 2.x, 1.x | Vulnerable |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 | VMware       | Unified Access Gateway  | 21.x, 20.x, 3.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87092) |
+| VMware       | vCenter Cloud Gateway  | 1.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87081)|
 | VMware       | vCenter Server  | 6.x | Vulnerable |  Running on: Windows | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87096)|
 | VMware       | vCenter Server  | 7.x, 6.x | Workaround |  Running on: Virtual Appliance | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87081?lang=en_US) |
-| VMware       | VMware Cloud Foundation  | 4.x, 3.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87095)|
-| VMware       | VMware Tanzu SQL with MySQL for VMs  | 2.x, 1.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068)|
-| VMware       | VMware vCenter Cloud Gateway  | 1.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87081)|
-| VMware       | VMware vRealize Orchestrator   | 8.x, 7.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068)|
-| VMware       | VMware Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87091)|
+| VMware       | vCloud Director | all | Not vuln | | [source](https://kb.vmware.com/s/article/87068?lang=en_US)
+| VMware       | vCloud Workstation | all | Not vuln | | [source](https://kb.vmware.com/s/article/87068?lang=en_US)
 | VMware       | vRealize Automation     | 8.x, 7.x | Vulnerable |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 | VMware       | vRealize Lifecycle Manager  | 8.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87097)|
 | VMware       | vRealize Log Insight     | 8.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87089) |
 | VMware       | vRealize Operations    | 8.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87076) |
 | VMware       | vRealize Operations Cloud Proxy     | Any | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87080) |
+| VMware       | vRealize Orchestrator   | 8.x, 7.x | Vulnerable |   | [source](https://kb.vmware.com/s/article/87068)|
 | VMware       | vSphere ESXi | Unknown | Not Vuln |   | [source](https://kb.vmware.com/s/article/87068) |
 | VMware       | Workspace ONE Access   | 21.x, 20.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87090) |
+| VMware       | Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87091)|
 
 ### W
 
