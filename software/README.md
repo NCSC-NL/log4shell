@@ -529,6 +529,19 @@ NCSC-NL will use the following status:
 | HCL Software | BigFix Inventory | Unknown | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| Hexagon | M.App Enterprise | Unknown | Investigation | Might be vulnerable only when used with Geoprocessing Server | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | ERDAS APOLLO Advantage & Professional | Unknown | Investigation | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | GeoMedia | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | IMAGINE | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | ImageStation | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | GeoMedia WebMap | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | Geospatial Portal | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | Geospatial SDI | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | GeoMedia SmartClient | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | ERDAS APOLLO Essentials | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | M.App Enterprise standalone or with Luciad Fusion | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | Luciad Fusion | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | Luciad Lightspeed | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hitachi Vantara | Pentaho | v8.3.x, v9.2.x | Not vuln | | [source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 | HostiFi | Unifi hosting | Unknown | Fix | Hosted Unifi solution | [source](https://twitter.com/hostifi_net/status/1440311322592231436) |
 | Huawei | All products | | Investigation | | [source](https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en)|
