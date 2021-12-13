@@ -22,5 +22,6 @@ Checks if the application or system is using Log4j2.
 | sp4ir     | Powershell script to detect Log4Shell| [source](https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1) |
 | NCCgroup  | Version hashes (MD5, SHA1 and SHA256) for log4j2 versions| [source](https://github.com/nccgroup/Cyber-Defence/tree/master/Intelligence/CVE-2021-44228) |
 | 1lann  | Scans a file or folder recursively for jar files that may be vulnerable | [source](https://github.com/1lann/log4shelldetect) |
-
+| Northwave Security | Testing script that checks for vulnerable systems | https://github.com/NorthwaveSecurity/log4jcheck |
+| Northwave Security | testing script that checks for vulnerable systems Powershell version | https://github.com/crypt0jan/log4j-powershell-checker) |
 
