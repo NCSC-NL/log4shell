@@ -19,6 +19,7 @@ Overall detection regex
 |:----------------|:----------------|:---------------:|
 | Akamai       | Cloud | `sudo egrep -i -r "\$\{jndi:(ldap[s]?|rmi|dns)://' /var/log` |
 | Cloudflare   | Cloud | https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/ |
+| Elastic      | Elastic | https://www.elastic.co/blog/detecting-log4j2-with-elastic-security |
 | Google       | Cloud | https://cloud.google.com/blog/products/identity-security/cloud-armor-waf-rule-to-help-address-apache-log4j-vulnerability |
 | Palo Alto Networks   | Prisma Cloud | https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/ |
 | Palo Alto networks   | Firewall | Threat ID 91991 ingested after content update 8498 |
