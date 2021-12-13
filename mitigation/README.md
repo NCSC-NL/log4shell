@@ -57,3 +57,4 @@ Snort and Suricata rules:
 | Neo23x0   | Florian Roth Grep and YARA rule for log4j2 exploitation | [source](https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b) |
 | Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability fields (Sigma rule) | [source](https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j_fields.yml) |
 | Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability (Sigma rule) | [source](https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j.yml) |
+| Neo23x0   | Florian Roth Fenrir Simple IOC scanner bash script | [source](https://github.com/Neo23x0/Fenrir) |
