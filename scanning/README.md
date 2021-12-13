@@ -12,6 +12,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | crypt0jan     | Perform a scan of a single host (using Powershell) to see if it's vulnerable | [source](https://github.com/crypt0jan/log4j-powershell-checker) |
 | Huntress  | Online Log4Shell Vulnerability Tester| [source](https://log4shell.huntress.com/) |
 |  Diverto | Nmap NSE scripts to check against log4shell | [source](https://github.com/Diverto/nse-log4shell) |
+|  silentsignal | Log4Shell scanner for Burp Suite | [source](https://github.com/silentsignal/burp-log4shell) |
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
