@@ -305,6 +305,13 @@ NCSC-NL will use the following status:
 | ControlUp | All products | All versions | Fix | |[source](https://status.controlup.com/incidents/qqyvh7b1dz8k) |
 | Coralogix | Coralogix | Unknown | Fix | |[source](https://status.coralogix.com/incidents/zzfn8t0fzdy2?u=1q9952ycm1gr) |
 | Couchbase | Couchbase ElasticSearch connector| < 4.3.3 & 4.2.13 | Fix | |[source](https://forums.couchbase.com/t/ann-elasticsearch-connector-4-3-3-4-2-13-fixes-log4j-vulnerability/32402) |
+| Cryptshare | Cryptshare Server | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
+| Cryptshare | Cryptshare for Outlook | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
+| Cryptshare | Cryptshare for Notes | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
+| Cryptshare | Cryptshare for NTA 7516 | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
+| Cryptshare | Cryptshare .NET API | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
+| Cryptshare | Cryptshare Java API | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
+| Cryptshare | Cryptshare Robot | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
 | Cybereason | All Cybereason products | Unknown | Not vuln | |[source](https://www.cybereason.com/blog/cybereason-solutions-are-not-impacted-by-apache-log4j-vulnerability-cve-2021-44228) |
 
 ### D
