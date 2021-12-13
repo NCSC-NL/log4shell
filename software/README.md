@@ -335,6 +335,12 @@ NCSC-NL will use the following status:
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 |F5| All products | |Not Vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
+Forcepoint |Forcepoint Cloud Security Gateway (CSG)                                              ||Not vuln   |[source](https://support.forcepoint.com)|
+Forcepoint |DLP Manager                                                                          ||Workaround |[source](https://support.forcepoint.com)|
+Forcepoint |One Endpoint                                                                         ||Not vuln   |[source](https://support.forcepoint.com)|
+Forcepoint |Security Manager (Web, Email and DLP)                                                ||Workaround |[source](https://support.forcepoint.com)|
+Forcepoint |Next Generation Firewall (NGFW)                                                      ||Not vuln   |[source](https://support.forcepoint.com)|
+Forcepoint |Next Generation Firewall, NGFW VPN Client, Forcepoint User ID service and Sidewinder ||Not vuln   |[source](https://support.forcepoint.com)|
 |ForgeRock        | Autonomous Identity |  | Workaround | all other ForgeRock products not vuln | [source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa) |
 |F-Secure| Policy Manager | 13-15| Fix| |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
 |F-Secure| Policy Manager Proxy| 13-15| Fix| |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
