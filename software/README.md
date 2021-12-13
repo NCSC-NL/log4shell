@@ -796,12 +796,14 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 | Stardog | Stardog | <7.8.1 | Fix | | [source](https://community.stardog.com/t/stardog-7-8-1-available/3411) |
 
 ### T
-
-### U 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
-| TheHive | Cortex | all | Not vuln | |[source](https://twitter.com/nadouani/status/1470361780471881735) |
-| TheHive | TheHive | all | Not vuln | |[source](https://twitter.com/nadouani/status/1470361780471881735) |
+| TheHive | Cortex | all | Not vuln | |[source](https://kb.vmware.com/s/article/87068) |
+| TheHive | TheHive | all | Not vuln | |[source](https://kb.vmware.com/s/article/87068) |
+
+### U
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Ubiquiti | UniFi Network Application | 6.5.54 | Fix | |[source](https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1) |
 | USoft | USoft | 9.1.1F | Vulnerable | Found by manual scanning | [proof] (https://ibb.co/tqV40qB) |
 
