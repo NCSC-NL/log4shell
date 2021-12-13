@@ -715,6 +715,7 @@ NCSC-NL will use the following status:
 | Nutanix | Frame | All versions | Not Vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 | Nutanix | Sizer | Unknown | Fix | See advisory | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 | Nutanix | Insights | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| NXLog | NXLog Manager |  5.x | Not Vouln | | [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228)|
 
 ### O
 
