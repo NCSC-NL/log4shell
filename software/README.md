@@ -885,6 +885,7 @@ Forcepoint |Security Manager (Web, Email and DLP)                               
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | TheHive | Cortex | all | Not vuln | |[source](https://kb.vmware.com/s/article/87068) |
 | TheHive | TheHive | all | Not vuln | |[source](https://kb.vmware.com/s/article/87068) |
+| Topicus Security | Topicus KeyHub | all | Not vuln | | [source](https://blog.topicus-keyhub.com/topicus-keyhub-is-not-vulnerable-to-cve-2021-44228/) |
 | TrendMicro | All Products |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 
 ### U
