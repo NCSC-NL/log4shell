@@ -629,12 +629,12 @@ NCSC-NL will use the following status:
 | MISP | MISP | All | Not vuln | |[source](https://twitter.com/MISPProject/status/1470051242038673412) |
 | MONARC | MONARC | All | Not vuln | |[source](https://twitter.com/MONARCproject/status/1470349937443491851) |
 | MongoDB | Atlas Search | Unknown | Fix | Affected and patched. No evidence of exploitation or indicators of compromise prior to the patch were discovered. | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
-| MongoDB | Atlas | Unknown | Not affected. | Including Atlas Database, Data Lake, Charts | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
-| MongoDB | Enterprise Advanced | Unknown | Not affected. | Including Enterprise Server, Ops Manager, Enterprise Kubernetes Operators. | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
-| MongoDB | Community Edition | Unknown | Not affected. | Including Community Server, Cloud Manager, Community Kubernetes Operators. | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
-| MongoDB | Drivers | Unknown | Not affected. | | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
-| MongoDB | Tools | Unknown | Not affected. | Including Compass, Database Shell, VS Code Plugin, Atlas CLI, Database Connectors | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
-| MongoDB | Realm | Unknown | Not affected. | including Realm Database, Sync, Functions, APIs | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
+| MongoDB | Atlas | Unknown | Not vuln | Including Atlas Database, Data Lake, Charts | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
+| MongoDB | Enterprise Advanced | Unknown | Not vuln | Including Enterprise Server, Ops Manager, Enterprise Kubernetes Operators. | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
+| MongoDB | Community Edition | Unknown | Not vuln | Including Community Server, Cloud Manager, Community Kubernetes Operators. | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
+| MongoDB | Drivers | Unknown | Not vuln | | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
+| MongoDB | Tools | Unknown | Not vuln | Including Compass, Database Shell, VS Code Plugin, Atlas CLI, Database Connectors | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
+| MongoDB | Realm | Unknown | Not vuln | including Realm Database, Sync, Functions, APIs | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
 | Moodle | Moodle | All | Not vuln | | [source](https://moodle.org/mod/forum/discuss.php?d=429966)
 
 ### N
