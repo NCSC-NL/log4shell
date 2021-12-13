@@ -10,7 +10,7 @@ However NCSC-NL strives to provide rules and detection software from reliable so
 Overall detection regex
 
 ```plain
-\${(\${(.*?:|.*?:.*?:-)('|"|`)*(?1)}*|[jndi:lapsrm]('|"|`)*}*){9,11}
+(\$|%24)(\{|%37B).*j.*n.*d.*i.*(:|%3A).+
 ```
 
 ## Closed source intelligence
