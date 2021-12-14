@@ -13,6 +13,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Huntress  | Online Log4Shell Vulnerability Tester| https://log4shell.huntress.com/ |
 | Canary Tokens |  Log4Shell Vulnerability Tester | https://canarytokens.org/generate |
 | Diverto | Nmap NSE scripts to check against log4shell | https://github.com/Diverto/nse-log4shell |
+| righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker | https://github.com/NorthwaveSecurity/log4jcheck |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
