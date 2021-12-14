@@ -761,7 +761,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | GoAnywhere| Agents| Unknown| Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | GoAnywhere| Gateway| Unknown| Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | GoAnywhere| MFT| Unknown| Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
-| Graylog | Graylog | < 3.3.15,<4.0.14,<4.1.9,<4.2.3 | Fix | | [source](https://www.graylog.org/post/graylog-update-for-log4j)|
+| Graylog | Graylog | < 3.3.15,<4.0.14,<4.1.9,<4.2.3 | Fix | The vulnerable Log4j library is used to record GrayLog's own log information. Vulnerability is not triggered when GrayLog stores exploitation vector from an outer system. | [source](https://www.graylog.org/post/graylog-update-for-log4j)|
 | GuardedBox | GuardedBox | <3.1.2 | Fix | | [source](https://twitter.com/GuardedBox/status/1469739834117799939) |
 
 ### H
