@@ -1240,7 +1240,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | PaperCut  | PaperCut Views | | Not vuln | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
 | Parallels | Remote Application Server  | All versions | Not Vuln | | [source](https://kb.parallels.com/en/128696) |
 | Pega | Pega Platform | On Prem | Fix | | [source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability) |
-| Paxton | Net2 Door Entry | >=v5.03.4114.4205 SR3 | Not Vuln | [source](https://github.com/owenmurr/log4shell/blob/owenmurr-patch-1/software/vendor-statements/paxton_Net2_door_entry.png)
+| Paxton | Net2 Door Entry | >=v5.03.4114.4205 SR3 | Not Vuln | [source](software/vendor-statements/paxton_Net2_door_entry.png)
 | Planon Software | Planon Universe | all | Not vuln | | [source](https://my.planonsoftware.com/uk/news/log4j-impact-on-planon/) |
 | Plex | Industrial IoT | | Not vuln | Mitigation already applied, patch will be issued today | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 | Portex | Portex | <3.0.2 | Fix | | [source](https://github.com/katjahahn/PortEx/releases)|
