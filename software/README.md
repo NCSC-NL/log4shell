@@ -18,6 +18,12 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 ## Software overview
 
+### 0-9
+
+| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+|:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
+| 7Signal       | Sapphire |  | Workaround |Working on fixed version | Corresp. with vendor|
+
 ### A
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
