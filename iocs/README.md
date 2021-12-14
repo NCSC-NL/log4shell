@@ -33,6 +33,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | NCC Group (Contains scan IP's) | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
 | Lacework | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
 | Securelist by Kaspersky | https://securelist.com/cve-2021-44228-vulnerability-in-apache-log4j-library/ |
+| RiskIQ (IP's contain scan IP's) | https://community.riskiq.com/article/57abbfcf/indicators |
 
 ## List of IoC's from Honeypot's
 | Note     | Links |
