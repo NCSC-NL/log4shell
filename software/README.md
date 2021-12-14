@@ -1564,10 +1564,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | VMware       | Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87091)|
 
 ### W
-
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
-|:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
+| Supplier        | Product         | Version         | Status          | Notes           | Links |
+|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Watcher           | [Watcher](https://github.com/thalesgroup-cert/Watcher) | all | Not vuln | | [source](https://twitter.com/felix_hrn/status/1470387338001977344)
+| WatchGuard | Firebox, WatchGuard System Manager, Dimension, WatchGuard EPDR and Panda AD360 | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |	
 | Wind River      | Wind River Linux | <= 8 | Not vuln | "contain package log4j, but their version is 1.2.x, too old to be affected"  | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
 | Wind River      | Wind River Linux | > 8 | Not vuln  | no support for log4j | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
 | WitFoo          | WitFoo Precinct | 6.x             | Fix             | WitFoo Streamer & Apache Kafka Docker containers are/were vulnerable | [source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
