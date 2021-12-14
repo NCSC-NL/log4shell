@@ -842,6 +842,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |HPE|Superdome Flex Server| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 |HPE|UAN (User Access Node)| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | Huawei | All products | | Investigation | | [source](https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en)|
+
 ### I
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
