@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Thank you for your contribution to the software list. We are receiving a lot of information. **Please file a PR instead of an issue** if you can. [Learn how](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
+**Please file a PR instead of an issue** if you can. See https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files. Thanks for your contribution!
