@@ -56,7 +56,7 @@ Error looking up JNDI resource
 ### Network based detection
 | Source      | Notes        | Links |
 |:----------------|:----------------|:---------------:|
-|  NCC Group | Log4Shell: Reconnaissance and post exploitation network detection | [source](https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/) |
+|  NCC Group / Fox-IT | Log4Shell: Reconnaissance and post exploitation network detection | [source](https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/) |
 
 Snort and Suricata rules:
 
