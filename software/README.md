@@ -56,7 +56,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Azure         | Data lake store java | < 2.3.10 | Not vuln | Fix has been made to upgrade log4j-core. But this dependency has scope 'test' meaning it is not part of the final product/artifact. So there's no risk for end users here. |[source](https://github.com/Azure/azure-data-lake-store-java/blob/ed5d6304783286c3cfff0a1dee457a922e23ad48/CHANGES.md#version-2310) |
 | APC           | PowerChute Business Edition | Unknow to 10.0.2.301 | Vulnerable |  |  |
 | APC           | PowerChute Network Shutdown | Unknow to 4.2.0 | Vulnerable |  |  |
-| Arduino        | Arduino IDE | <v1.8.17 | Fix |[source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
+| Arduino        | Arduino IDE | 1.8.17 | Fix |[source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
 | Akamai        | Siem Splunk Connector | Unknown to latest | Vulnerable |[source](https://github.com/akamai/siem-splunk-connector) |
 | Avaya         | | | | [source](https://support.avaya.com/helpcenter/getGenericDetails?detailId=1399839287609) |
 
