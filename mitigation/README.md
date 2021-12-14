@@ -17,7 +17,7 @@ Overall detection regex
 
 | Supplier        | Product         | Links / Rule|
 |:----------------|:----------------|:---------------:|
-| Akamai       | Cloud | `sudo egrep -i -r "\$\{jndi:(ldap[s]?|rmi|dns)://' /var/log` |
+| Akamai       | Cloud | https://www.akamai.com/blog/news/CVE-2021-44228-Zero-Day-Vulnerability |
 | Cloudflare   | Cloud | https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/ |
 | Elastic      | Elastic | https://www.elastic.co/blog/detecting-log4j2-with-elastic-security |
 | Google       | Cloud | https://cloud.google.com/blog/products/identity-security/cloud-armor-waf-rule-to-help-address-apache-log4j-vulnerability |
