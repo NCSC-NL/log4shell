@@ -798,8 +798,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Genesys | All products || Investigation ||[source](https://www.genesys.com/blog/post/genesys-update-on-the-apache-log4j-vulnerability)|
-| GeoSolutions | GeoServer |All versions | Not vuln ||[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
-| GeoSolutions | Geonetwork | All versions | Workaround ||[source](https://my.geocat.net/knowledgebase/125/Log4j-RCE-CVE-2021-44228-vulnerability-patch.html)|
+| Open Source Geospatial Foundation | GeoServer|| Not vuln ||[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
+| GeoSolutions | GeoServer|| Not vuln ||[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
 | GFI Software | Kerio Connect | | Vulnerable | | [source](https://forums.gfi.com/index.php?t=msg&th=39096&start=0&)|
 | GitHub | Github Enterprise Server | 3.3.1, 3.2.6, 3.1.14, 3.0.22 | Fix | | [source](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/) |
 | GitLab | GitLab || Not vuln | | [source](https://forum.gitlab.com/t/cve-2021-4428/62763/8)|
@@ -1093,6 +1093,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Micro Focus | ArcSight Intelligence          | All Versions | Vulnerable | | [source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228) |
 | Micro Focus | ArcSight Connectors            | 8.2 and above | Vulnerable | | [source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228) |
 | Micro Focus | ArcSight Transformation Hub    | All Versions | Vulnerable | | [source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228) |
+| Micro Focus | Operations Orchestration & RPA    | 2021.02 | Fix | | [source](https://portal.microfocus.com/s/article/KM000003093) |
 | Microsoft |                                  |         |          | Microsoft provided additional guidance for preventing, detecting and hunting for exploitation             | [source](https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/), [IOCs](https://github.com/Azure/Azure-Sentinel/blob/master/Detections/MultipleDataSources/Log4J_IPIOC_Dec112021.yaml) |
 | Microsoft | Azure AD                         | Unknown | Not Vuln | ADFS itself is not vulnerable, federation providers may be                                                | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
 | Microsoft | Azure App Service                | Unknown | Not Vuln | This product itself is not vulnerable, Microsoft provides guidance on remediation for hosted applications | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
