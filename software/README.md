@@ -15,7 +15,6 @@ NCSC-NL will use the following status:
 The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerable version(s). If `Status` is Fix, Version indicates the fixed version(s).
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
-| Graylog | Graylog |
 ## Software overview
 
 ### A
