@@ -1146,27 +1146,37 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | New Relic          | Java Agent                                                         |  6.5.1 & 7.4.1  |      Fix      |                                                |                                             [source](https://docs.newrelic.com/docs/security/new-relic-security/security-bulletins/security-bulletin-nr21-03/) |
 | NextGen Healthcare | Mirth                                                              | Unknown  |   Not Vuln    |                                                |                [source](https://github.com/nextgenhealthcare/connect/discussions/4892#discussioncomment-1789526) |
 | NSA | Ghidra| < 10.1| Fix | | [source](https://github.com/NationalSecurityAgency/ghidra/blob/2c73c72f0ba2720c6627be4005a721a5ebd64b46/README.md#warning), [fix](https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.1_build)|
-| Nutanix | AHV | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | AOS | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Beam | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Calm | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Era | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Files | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Flow Security Central | All versions | Unknown |  | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Foundation | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Frame | All versions | Not Vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Insights | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Karbon | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | LCM | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Leap | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Mine | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Move | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | NCC | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Objects | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Prism Central | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Sizer | Unknown | Fix | See advisory | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | Volumes | All versions | Vulnerable | Patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| Nutanix | X-Ray | All versions | Unknown | Investigating | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | General Guidance | Nutanix updating Security Advisory #23 multiple times per day, please check source link for absolute latest status | | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | AHV | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | AOS (CE) | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | AOS (LTS) | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | AOS (STS) | All supported versions | Workaround | Non exploitable dormant code present, Patch 6.0.2.4 will remove dormant code | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Beam | SaaS | Not vuln | WAF updated to block exploit, backend patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Calm | On-Prem | Investigation | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Calm | SaaS | Not vuln | WAF updated to block exploit, backend patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Data Lens | SaaS | Not vuln | WAF updated to block exploit, backend not vuln | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Era | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | File Analytics | All supported versions | Investigation | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Files | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Flow | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Flow Security Central | SaaS | Fix | WAF updated to block exploit, backend production patched | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Foundation | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Frame | SaaS GovCloud | Not vuln | WAF updated to block exploit, backend patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Frame | SaaS Public | Fix | WAF updated to block exploit, backend production patched | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Insights | SaaS | Not vuln | WAF updated to block exploit, backend patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Karbon | On-Prem | Investigation | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Karbon | SaaS | Not vuln | WAF updated to block exploit, backend patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | LCM | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Leap | SaaS | Not vuln | WAF updated to block exploit, backend patch pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Mine | All supported versions | Investigation | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Move | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | MSP | All supported versions | Investigation | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | NCC | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Objects | All supported versions | Investigation | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Prism Central | All supported versions | Vulnerable | Patch 2021.9.0.3 pending | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Sizer | SaaS | Fix | WAF updated to block exploit, backend production patched | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | Volumes | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+| Nutanix | X-Ray | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 | NXLog | NXLog Manager |  5.x | Not Vuln | | [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228)|
 
 ### O
