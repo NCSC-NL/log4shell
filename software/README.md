@@ -268,7 +268,11 @@ NCSC-NL will use the following status:
 |Cisco|Cisco Unity Connection|Unknown|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |Cisco|Cisco Unity Express|Unknown|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |Cisco|Cisco Smart Software Manager On-Prem|Unknown|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
-|CIS-CAT|CIS-CAT Pro Assessor| 4.12.0 and below |Vulnerable|Found by manual scanning|[proof] (https://ibb.co/98kyxqK) |
+|CIS-CAT|CSAT Pro| < 1.7.1 |Vulnerable|Upgrade to v1.7.1 to be released 16/12|[source] https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961 |
+|CIS-CAT|CIS-CAT Pro Assessor v4| < 4.13.0 |Vulnerable|Upgrade to v4.13.0 to be released 16/12|[source] https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961 |
+|CIS-CAT|CIS-CAT Pro Assessor Service v4| < 1.13.0 |Vulnerable|Upgrade to v1.13.0 to be released 16/12|[source] https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961 |
+|CIS-CAT|CIS-CAT Pro Assessor v3| < 3.0.77 |Vulnerable| Upgrade to v3.0.77 to be released 16/12|[source] https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961 |
+|CIS-CAT|CIS-CAT Pro Dashboard| All| Not vuln||[source] https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961 |
 | Citrix       | NetScaler ADC | Unknown | Investigation |  Implementation not using WlonNS feature, is not impacted | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix       | NetScaler Gateway | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix       | Analytics | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
