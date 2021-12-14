@@ -20,6 +20,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Grype   | Open source vulnerability scanner (docker), picks up nested JARs containing log4j | https://github.com/anchore/grype |
 | logpresso | Scans for java files that are vulnerable and may rename it for mitigation | https://github.com/logpresso/CVE-2021-44228-Scanner |
 | FullHunt | Open detection and scanning tool (Python) for discovering and fuzzing for Log4J vulnerability | https://github.com/fullhunt/log4j-scan |
+| Devotech | Powershell: Queries domain servers and scans for log4j-core files. (slow) | https://github.com/devotech/check-log4j |
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
