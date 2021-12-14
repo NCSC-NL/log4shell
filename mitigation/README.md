@@ -64,6 +64,10 @@ Snort and Suricata rules:
 |:----------------|:----------------|:---------------:|
 | These are ET Open free community detections to alert on current exploit activity.  | SID range 2034647-2034652. | [source](https://rules.emergingthreatspro.com/open/) |
 
+### Web-server mitigation
+| Web-server      | Source          | Notes           | Links |
+|:----------------|:----------------|:----------------|:---------------:|
+| Nginx           | Infiniroot      | Block requests with known patterns in URI and headers using LUA | [Github](https://github.com/infiniroot/nginx-mitigate-log4shell) |
 
 
 ### Host based detection
