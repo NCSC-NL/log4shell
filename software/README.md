@@ -1613,8 +1613,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Ubiquiti | UniFi Network Application | 6.5.54 | Fix | |[source](https://community.ui.com/releases/Security-Advisory-Bulletin-023-023/808a1db0-5f8e-4b91-9097-9822f3f90207) |
 | Unify | First Response OpenScape Policy Store |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | Unify | Hipath DS-Win |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
-| Unify | OpenScape Contact Center |  | Investigation | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
-| Unify | OpenScape Contact Media Service |  | Investigation | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | OpenScape Contact Center |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | OpenScape Contact Media Service |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | OpenScape Enterprise Express |  | Investigation | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | Unify | OpenScape UC | >= 10.2.9.0 | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | Unify | OpenScape Voice | simplex deployments | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | US Signal       | Remote Management and Monitoring platform | | Workaround | |[source](https://ussignal.com/blog/apache-log4j-vulnerability) |
