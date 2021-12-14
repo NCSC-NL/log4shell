@@ -1122,7 +1122,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | OWASP      | ZAP                                                | < 2.11.1                         | Fix        |                                                    | [source](https://www.zaproxy.org/blog/2021-12-10-zap-and-log4shell/) |
 | Owncloud       | All Products                                             | Unknown                          | Not Vuln   |                                                    | [source](https://central.owncloud.org/t/owncloud-not-directly-affected-by-log4j-vulnerability/35493)                                                                                                         |
 
-
 ### P
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
