@@ -22,44 +22,44 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| AIL           | AIL | all | Not vuln | | [source](https://twitter.com/ail_project/status/1470373644279119875)
 | Acronis       | All |  | Investigation | See further information below| [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Backup | 12.5 | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Files | 8.6.2 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Infrastrcuture | 3.5 and 4.x  | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Protection Home Office | 2017 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
+| AIL           | AIL | all | Not vuln | | [source](https://twitter.com/ail_project/status/1470373644279119875)
+| Akamai        | Siem Splunk Connector | Unknown to latest | Vulnerable |[source](https://github.com/akamai/siem-splunk-connector) |
+| Amazon        | AWS CloudHSM | < 3.4.1. | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
+| Amazon        | AWS Lambda | Unknown | Fix | Vulnerable when using aws-lambda-java-log4j2 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
+| Amazon        | EC2 |Amazon Linux 1 & 2 | Vulnerable | Default packages not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
+| Amazon        | OpenSearch | Unknown | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
 | Apache        | Camel | all | Not vuln | |[source](https://camel.apache.org/blog/2021/12/log4j2/) |
 | Apache        | Cassandra | all | Not vuln | |[source](https://lists.apache.org/thread/2rngylxw8bjos6xbo1krp29m9wn2hhdr) |
 | Apache        | Druid | 0.22.1 | Fix | |[source](https://github.com/apache/druid/pull/12051) |
 | Apache        | Flink | 1.15.0, 1.14.1, 1.13.4 | Fix | |[source](https://issues.apache.org/jira/browse/FLINK-25240) |
-| Apache        | Log4j | 2.15.0 | Fix | |[source](https://logging.apache.org/log4j/2.x/security.html) |
 | Apache        | Kafka | all | Not vuln | Uses log4j 1.x |[source](https://lists.apache.org/thread/lgbtvvmy68p0059yoyn9qxzosdmx4jdv) |
 | Apache        | Karaf | Unknown | Vulnerable | Depends on [PAX logging](https://github.com/ops4j/org.ops4j.pax.logging/issues/414) which is affected |[source](https://mail-archives.apache.org/mod_mbox/karaf-dev/202112.mbox/browser) |
+| Apache        | Log4j | 2.15.0 | Fix | |[source](https://logging.apache.org/log4j/2.x/security.html) |
 | Apache        | SOLR | 7.4.0 to 7.7.3, 8.0.0 to 8.11.0 | Fix | Versions before 7.4 also vulnerable when using several configurations |[source](https://solr.apache.org/security.html#apache-solr-affected-by-apache-log4j-cve-2021-44228) |
 | Apache        | Tika | 2.0.0 and up | Vulnerable | |[source](https://tika.apache.org/2.0.0/index.html) |
 | Apache        | Tomcat|| Not vuln|| [source](https://tomcat.apache.org/tomcat-9.0-doc/logging.html) |
 | Apache        | Zookeeper|| Not vuln| Zookeeper uses Log4j 1.2 version | [source](https://issues.apache.org/jira/browse/ZOOKEEPER-4423) |
+| APC           | PowerChute Business Edition | Unknow to 10.0.2.301 | Vulnerable |  |  |
+| APC           | PowerChute Network Shutdown | Unknow to 4.2.0 | Vulnerable |  |  |
 | Apereo        | CAS | 6.3.x & 6.4.x | Fix | Other versions still in active maintainance might need manual inspection |[source](https://apereo.github.io/2021/12/11/log4j-vuln/) |
 | Apereo        | Opencast | < 9.10, < 10.6 | Fix | |[source](https://github.com/opencast/opencast/security/advisories/GHSA-mf4f-j588-5xm8) |
 | Apigee        | Edge and OPDK products | All version | Not vuln | |[source](https://status.apigee.com/incidents/3cgzb0q2r10p) |
 | Aptible       | Aptible | ElasticSearch 5.x | Fix | | [source](https://status.aptible.com/incidents/gk1rh440h36s?u=zfbcrbt2lkv4) |
-| Atlassian     | Jira Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
+| Arduino        | Arduino IDE | 1.8.17 | Fix |[source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
+| Atlassian     | Bamboo Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Atlassian     | BitBucket Server | On prem | Workaround | [source](https://community.atlassian.com/t5/Bamboo-questions/Re-log4j-zero-day/qaq-p/1886739/comment-id/30819#M30819)
 | Atlassian     | Confluence Server & Data Center| On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
-| Atlassian     | Bamboo Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Atlassian     | Crowd Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
-| Atlassian     | Fisheye | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Atlassian     | Crucible | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
-| Amazon        | EC2 |Amazon Linux 1 & 2 | Vulnerable | Default packages not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
-| Amazon        | OpenSearch | Unknown | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
-| Amazon        | AWS Lambda | Unknown | Fix | Vulnerable when using aws-lambda-java-log4j2 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
-| Amazon        | AWS CloudHSM | < 3.4.1. | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
-| Azure         | Data lake store java | < 2.3.10 | Not vuln | Fix has been made to upgrade log4j-core. But this dependency has scope 'test' meaning it is not part of the final product/artifact. So there's no risk for end users here. |[source](https://github.com/Azure/azure-data-lake-store-java/blob/ed5d6304783286c3cfff0a1dee457a922e23ad48/CHANGES.md#version-2310) |
-| APC           | PowerChute Business Edition | Unknow to 10.0.2.301 | Vulnerable |  |  |
-| APC           | PowerChute Network Shutdown | Unknow to 4.2.0 | Vulnerable |  |  |
-| Arduino        | Arduino IDE | 1.8.17 | Fix |[source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
-| Akamai        | Siem Splunk Connector | Unknown to latest | Vulnerable |[source](https://github.com/akamai/siem-splunk-connector) |
+| Atlassian     | Fisheye | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
+| Atlassian     | Jira Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Avaya         | | | | [source](https://support.avaya.com/helpcenter/getGenericDetails?detailId=1399839287609) |
+| Azure         | Data lake store java | < 2.3.10 | Not vuln | Fix has been made to upgrade log4j-core. But this dependency has scope 'test' meaning it is not part of the final product/artifact. So there's no risk for end users here. |[source](https://github.com/Azure/azure-data-lake-store-java/blob/ed5d6304783286c3cfff0a1dee457a922e23ad48/CHANGES.md#version-2310) |
 
 ### B
 
