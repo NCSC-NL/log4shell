@@ -71,6 +71,128 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
 | Bitdefender   | GravityZone On-Premises | Unknown | Not vuln | |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability) |
 | Bitnami       | Unknown | Unknown | Fix | |[source](https://docs.bitnami.com/general/security/security-2021-12-10/) |
+| BMC Software  | BMC Discovery | Fix | Fix available in BMC’s Electronic Product Download site (EPD) | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Client Management | Vulnerable | Fix expected on Dec 14th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | CMDB | Vulnerable |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Helix Data Manager | Vulnerable |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Remedy Smart Reporting | Vulnerable |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Control-M | Vulnerable |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Automation for Networks | Vulnerable | Fix expected on Dec 13th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Automation for Servers | Vulnerable | Fix expected on Dec 17th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Automation for Servers - Data Warehouse | Vulnerable | Fix expected on Dec 17th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Bladelogic Database Automation   | Vulnerable | Fix expected on Dec 15th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Smart Reporting | Vulnerable | Fix expected on Dec 14th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TSOM Smart Reporting | Vulnerable | Fix expected on Dec 14th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | KMs - Sybase KM & Linux (RHEV) | Fix | Fix available in BMC’s Electronic Product Download site (EPD)   | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Automation Console | Vulnerable | Fix expected on Dec 17th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Helix Continuous Optimization | Vulnerable | Fix expected on Dec 15th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Infrastructure Management | Vulnerable |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Operations Management | Vulnerable | Fix expected on Dec 16th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight IT Data Analytics | Vulnerable | Fix expected on Dec 15th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight App Visibility Manager | Vulnerable | Fix expected on Dec 15th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Insight | Vulnerable | Fix expected on Dec 14th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops UI  | Vulnerable | Fix expected on Dec 14th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Infrastructure (MVI) - CRA component | Vulnerable | Fix expected on Dec 14th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Common Rest API (CRA) | Vulnerable | Fix expected on Dec 14th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | MainView Middleware Monitor | Vulnerable | Fix expected on Dec 20th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC License Usage Collection Utility | Vulnerable | Fix expected on Dec 14th | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | 3270 SUPEROPTIMIZER/CICS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Application Restart Control for Db2    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Application Restart Control for IMS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Application Restart Control for VSAM    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Batch Optimizer    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Capacity Management    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Command Center for Security    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Console management      | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Cost Management    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Datastream for Ops    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Defender for Db2    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Defender for Ops Insight    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Defender for z/Linux    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Defender for z/OS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Defender for z/VM    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Defender TCP/IP Receiver    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Enterprise Connector    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Automation for Capping    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops for Networks    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Monitor for CMF    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Monitor for IMS Offline    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Monitor for IMS Online    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Monitor for USS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Monitor for z/OS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Ops Monitor SYSPROG Services    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Recovery for VSAM    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Security Administrator    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Security Policy Manager    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Security Privileged Access Manager (also called BMC AMI Security Breakglass)    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Security Self Service Password Reset    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Storage    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC AMI Utilities    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Abend-Aid    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Application Audit    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Enterprise Common Components (ECC)    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Enterprise Services (CES)    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Enterprise Services    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware File-AID Data Privacy    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware File-AID Data Solutions    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware File-AID for DB2    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware File-AID for IMS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware File-AID/MVS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware File-AID/RDX    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Program Analyzer    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Storage Backup and Recovery    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Storage Migration    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Storage Performance    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Topaz Enterprise Data    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Topaz for Java Performance    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Topaz for Total Test    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Topaz Program Analysis    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Topaz Workbench    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware DevEnterprise    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Hiperstation ALL Product Offerings    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware ISPW    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware iStrobe    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware ThruPut Manager    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Xpediter/CICS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Xpediter/Code Coverage    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Xpediter/TSO and IMS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware Xpediter/Xchange    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Compuware zAdviser    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Db2 Admin    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Db2 SQL Performance    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender Agent Configuration Manager    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender Agent for SAP    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender Agent for Unix/Linux    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender Agent for Windows    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender App for Splunk    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender SIEM Correlation Server    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender SIEM for Motorola    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender SIEM for NNT    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender Windows Agent for Splunk    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Defender SyslogDefender    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Helix Continuous Optimization – Agents    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Helix Knowledge Management    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Plus Utilities    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | BMC Recovery Management – BMC AMI LogMaster, Recovery Manager, Copy, Recover    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Cloud Lifecycle Management    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Common Components: Next Generation Logger (NGL), Runtime Component System (RTCS), User Interface Middleware (UIM)    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | ExceptionReporter    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Footprints    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | MainView Explorer    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | MainView Middleware Administrator    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | MainView Transaction Analyzer    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | PATROL Agent    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Release Process Management    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Remedy ITSM (IT Service Management)    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Resident Security Server    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | Track-It!    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Capacity Optimization – Agents    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Capacity Optimization    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TrueSight Orchestration    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | TSCO For Mainframes    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | ULTRAOPT/CICS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | ULTRAOPT/IMS    | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| BMC Software  | zDetect  | Not vuln |  | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | Brian Pangburn | SwingSet | < 4.0.6 | Fix | |[source](https://github.com/bpangburn/swingset/releases/tag/swingset-4.0.6) |
 | Broadcom      | CA Advanced Authentication | 9.1 & 9.1.01 & 9.1.02 | Workaround | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793) |
 | Broadcom      | Symantec Endpoint Protection Manager (SEPM) | 14.3 | Workaround | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793) |
