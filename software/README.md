@@ -1257,6 +1257,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | QlikTech International | Qlik Replicate | | Investigation | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
 | QlikTech International | Qlik Sense Enterprise | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
 | QlikTech International | QlikView | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
+| QNAP | General information QNAP | | Investigation | Applications maintained by a third-party are under investigation. | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
+| QNAP | Qsirch | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
+| QNAP | QTS operating system | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
+| QNAP | QuTS hero operating system | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
 | QOS.ch          | SLF4J Simple Logging Facade for Java | |  | SLF4J API doesn't protect against the vulnerability when using a vulnerable version of log4j | [source](http://slf4j.org/log4shell.html) |
 
 ### R
