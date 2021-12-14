@@ -23,6 +23,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Accellence Technologies | vimacc | All | Not vuln | | [source](https://www.accellence.de/en/articles/national-vulnerability-database-62)
+| Accellence Technologies | EB&#220;S | All | Not vuln | | [source](https://www.accellence.de/en/articles/national-vulnerability-database-62)
 | Acronis       | All |  | Investigation | See further information below| [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Backup | 12.5 | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Files | 8.6.2 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
