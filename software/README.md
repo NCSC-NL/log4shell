@@ -1315,6 +1315,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | SUSE | SUSE Manager | all | Not vuln | | [source](https://www.suse.com/c/suse-statement-on-log4j-log4shell-cve-2021-44228-vulnerability/)|
 | SUSE | SUSE Openstack Cloud | all | Vuln | will get update | [source](https://www.suse.com/c/suse-statement-on-log4j-log4shell-cve-2021-44228-vulnerability/)|
 | Synology | DSM | | Not vuln | The base DSM is not affected. Software installed via the package manager may be vulnerable. | [source](https://www.synology.com/en-global/security/advisory/Synology_SA_21_30) |
+| syntevo | DeepGit | >= 4.0 | Fix | 3.0.x and older are vulnerable | [source](https://www.syntevo.com/blog/?p=5240)
+| syntevo | SmartGit | >= 18.1 | Fix | 17.1.x and older are vulnerable | [source](https://www.syntevo.com/blog/?p=5240)
+| syntevo | SmartSVN | >= 9.3 | Fix | 9.2.x and older are vulnerable | [source](https://www.syntevo.com/blog/?p=5240)
+| syntevo | SmartSynchronize | >= 3.5 | Fix | 3.4.x and older are vulnerable | [source](https://www.syntevo.com/blog/?p=5240)
 | SysAid | All products | | Fix | | [source](https://www.sysaid.com/lp/important-update-regarding-apache-log4j) |
 
 ### T
