@@ -1416,6 +1416,12 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | RSA             | SecurID Governance and Lifecycle Cloud (SecurID G&L Cloud) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
 | RSA             | SecurID Governance and Lifecycle (SecurID G&L) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
 | RSA             | SecurID Identity Router (On-Prem component of Cloud Authentication Service) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
+| Ruckus          | FlexMaster |  | Vuln | | [source](https://support.ruckuswireless.com/security_bulletins/313) |
+| Ruckus          | SmartZone 100 (SZ-100) |  | Vuln | | [source](https://support.ruckuswireless.com/security_bulletins/313) |
+| Ruckus          | SmartZone 144 (SZ-144) |  | Vuln | | [source](https://support.ruckuswireless.com/security_bulletins/313) |
+| Ruckus          | SmartZone 300 (SZ-300) |  | Vuln | | [source](https://support.ruckuswireless.com/security_bulletins/313) |
+| Ruckus          | Unleashed |  | Vuln | | [source](https://support.ruckuswireless.com/security_bulletins/313) |
+| Ruckus          | Virtual SmartZone (vSZ) |  | Vuln | | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 
 ### S
 
