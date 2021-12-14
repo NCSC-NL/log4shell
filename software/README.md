@@ -744,7 +744,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Hexagon | Luciad Lightspeed | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hitachi Vantara | Pentaho | v8.3.x, v9.2.x | Not vuln | | [source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 | HostiFi | Unifi hosting | Unknown | Fix | Hosted Unifi solution | [source](https://twitter.com/hostifi_net/status/1440311322592231436) |
-| Huawei | All products | | Investigation | | [source](https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en)|
 |HPE|General information HPE| | Investigation| Security bulletins for affected products will be posted on HPE Support Center, as the results of the investigation become available in the near future. HPE products not listed below are either vulnerable or undergoing investigation. |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 |HPE|3PAR StoreServ Arrays| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 |HPE|AirWave Management Platform| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
@@ -842,6 +841,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |HPE|Superdome Flex 280| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 |HPE|Superdome Flex Server| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 |HPE|UAN (User Access Node)| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
+| Huawei | All products | | Investigation | | [source](https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en)|
 ### I
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
@@ -1044,7 +1044,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Netflix            | dgs-framework                                                      | < 4.9.11 |      Fix      |                                                |                                             [fix](https://github.com/Netflix/dgs-framework/releases/tag/v4.9.11) |
 | Netflix            | spectator                                                          | < 1.0.9  |      Fix      |                                                |                                                  [fix](https://github.com/Netflix/spectator/releases/tag/v1.0.9) |
 | Netflix            | zuul                                                               | Unknown  |  Workaround   |                                                |                        [source](https://github.com/Netflix/zuul/commit/280f20cd51deb7e72275625d5ec556aae06f6a29) |
-| NetIQ | Access Manager | > 4.5.x & > 5.0.x | Workaround || [workaround](https://portal.microfocus.com/s/article/KM000002997)|
+| NetIQ | Access Manager            | >= 4.5.x & >= 5.0.x | Workaround    || [source](https://portal.microfocus.com/s/article/KM000002997)|
 | NetIQ | Advanced Authentication   | >= 6.3.x            | Investigation || [source](https://portal.microfocus.com/s/article/KM000003047)|
 | NetIQ | eDirectory                | >= 9.2.x            | Not vuln      || [source](https://portal.microfocus.com/s/article/KM0000030357)|
 | NetIQ | Identity Manager          | >= 4.7.x & >= 4.8.x | Not vuln      || [source](https://portal.microfocus.com/s/article/KM0000030357)|
