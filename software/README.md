@@ -1156,6 +1156,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Netflix            | dgs-framework                                                      | < 4.9.11 |      Fix      |                                                |                                             [fix](https://github.com/Netflix/dgs-framework/releases/tag/v4.9.11) |
 | Netflix            | spectator                                                          | < 1.0.9  |      Fix      |                                                |                                                  [fix](https://github.com/Netflix/spectator/releases/tag/v1.0.9) |
 | Netflix            | zuul                                                               | Unknown  |  Workaround   |                                                |                        [source](https://github.com/Netflix/zuul/commit/280f20cd51deb7e72275625d5ec556aae06f6a29) |
+| Netgate | pfSense | All | Not vuln || [source](https://forum.netgate.com/topic/168417/java-log4j-vulnerability-is-pfsense-affected) |
 | NetIQ | Access Manager            | >= 4.5.x & >= 5.0.x | Workaround    || [source](https://portal.microfocus.com/s/article/KM000002997)|
 | NetIQ | Advanced Authentication   | >= 6.3.x            | Investigation || [source](https://portal.microfocus.com/s/article/KM000003047)|
 | NetIQ | eDirectory                | >= 9.2.x            | Not vuln      || [source](https://portal.microfocus.com/s/article/KM0000030357)|
