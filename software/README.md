@@ -51,6 +51,19 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Apigee        | Edge and OPDK products | All version | Not vuln | |[source](https://status.apigee.com/incidents/3cgzb0q2r10p) |
 | Aptible       | Aptible | ElasticSearch 5.x | Fix | | [source](https://status.aptible.com/incidents/gk1rh440h36s?u=zfbcrbt2lkv4) |
 | Arduino        | Arduino IDE | 1.8.17 | Fix |[source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
+| Aruba Networks  | AirWave Management Platform | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | Aruba Central | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | Aruba ClearPass Policy Manager | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | Aruba Instant (IAP) | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | Aruba Location Services | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | Aruba NetEdit | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | Aruba User Experience Insight (UXI) | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | Aruba VIA Client | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | ArubaOS SD-WAN Controllers and Gateways | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | ArubaOS Wi-Fi Controllers and Gateways | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | ArubaOS-CX switches | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | ArubaOS-S switches | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
+| Aruba Networks  | Silver Peak Orchestrator | Workaround |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt), [workaround](https://www.arubanetworks.com/website/techdocs/sdwan/docs/advisories/media/security_advisory_notice_apache_log4j2_cve_2021_44228.pdf) |
 | Atlassian     | Bamboo Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Atlassian     | BitBucket Server | On prem | Workaround | [source](https://community.atlassian.com/t5/Bamboo-questions/Re-log4j-zero-day/qaq-p/1886739/comment-id/30819#M30819)
 | Atlassian     | Confluence Server & Data Center| On prem | Vulnerable | Only vulnerable when using non-default config, cloud version still under investigation |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
