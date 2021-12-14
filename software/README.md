@@ -28,7 +28,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Acronis       | Cyber Infrastrcuture | 3.5 and 4.x  | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Protection Home Office | 2017 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | AIL           | AIL | all | Not vuln | | [source](https://twitter.com/ail_project/status/1470373644279119875)
-| Akamai        | Siem Splunk Connector | Unknown to latest | Vulnerable |[source](https://github.com/akamai/siem-splunk-connector) |
+| Akamai        | Siem Splunk Connector | Unknown to latest | Vulnerable | | [source](https://github.com/akamai/siem-splunk-connector) |
 | Amazon        | AWS CloudHSM | < 3.4.1. | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
 | Amazon        | AWS Lambda | Unknown | Fix | Vulnerable when using aws-lambda-java-log4j2 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
 | Amazon        | EC2 |Amazon Linux 1 & 2 | Vulnerable | Default packages not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
@@ -50,7 +50,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Apereo        | Opencast | < 9.10, < 10.6 | Fix | |[source](https://github.com/opencast/opencast/security/advisories/GHSA-mf4f-j588-5xm8) |
 | Apigee        | Edge and OPDK products | All version | Not vuln | |[source](https://status.apigee.com/incidents/3cgzb0q2r10p) |
 | Aptible       | Aptible | ElasticSearch 5.x | Fix | | [source](https://status.aptible.com/incidents/gk1rh440h36s?u=zfbcrbt2lkv4) |
-| Arduino        | Arduino IDE | 1.8.17 | Fix |[source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
+| Arduino        | Arduino IDE | 1.8.17 | Fix | | [source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
 | Aruba Networks  | AirWave Management Platform | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
 | Aruba Networks  | Aruba Central | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
 | Aruba Networks  | Aruba ClearPass Policy Manager | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
@@ -79,8 +79,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Backblaze      | Cloud | N/A (SaaS) | Fix | Cloud service patched |[source](https://help.backblaze.com/hc/en-us/articles/4412580603419) |
-| BeyondTrust    | Privilege Management Cloud | Unknown | Vulnerable | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
-| BeyondTrust    | Privilege Management Reporting | Unknown | Vulnerable | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
+| BeyondTrust    | Privilege Management Cloud | Unknown | Vulnerable | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
+| BeyondTrust    | Privilege Management Reporting | Unknown | Vulnerable | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
 | Bitdefender   | GravityZone On-Premises | Unknown | Not vuln | |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability) |
 | Bitnami       | Unknown | Unknown | Fix | |[source](https://docs.bitnami.com/general/security/security-2021-12-10/) |
