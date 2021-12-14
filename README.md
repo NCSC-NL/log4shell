@@ -20,4 +20,4 @@ This repo contains operational information regarding the vulnerability in the Lo
 
 ## Contributions welcome
 
-If you have any additional information to share relevant to the Log4j vulnerability, please feel free to open a Pull request. New to this? [Read how to contribute using the Github website](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
+If you have any additional information to share relevant to the Log4j vulnerability, please feel free to open a Pull request. New to this? [Read how to contribute in GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository).
