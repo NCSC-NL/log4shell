@@ -7,17 +7,33 @@ However NCSC-NL strives to provide rules and detection software from reliable so
 
 ## Detection Regex
 
-Overall detection regex
+### Overall detection regex
 
 ```plain
 \${(\${(.*?:|.*?:.*?:-)('|"|`)*(?1)}*|[jndi:lapsrm]('|"|`)*}*){9,11}
+```
+
+#### Caveats
+- Please note that due to nested resolution of `${...}` and multiple available obfuscation methods, this regular expression may not detect all forms of exploitation. It is impossible to write exhaustive regular expression.
+- This regular expression only works on URL-decoded logs. URL encoding is a popular second layer of obfuscation currently in use by attackers.
+- This regular expression searches for the original strings supplied by the attacker. These only remain in their original, unresolved form in the logs of non-vulnerable applications, such as WAF or reverse proxy with ability to log before the vulnerable code is executed. **They are not present in the logs of a vulnerable application.**
+
+#### Logs in vulnerable applications
+
+This detection regex would not have matches in a log of vulnerable application, because only the result of `${...}` resolution is stored instead of the original pattern. Presence of any of these signatures is a strong sign of successful exploitation in these applications:
+
+```plain
+com.sun.jndi.
+com.sun.jndi.dns.DnsContext
+com.sun.jndi.ldap.LdapCtx
+Error looking up JNDI resource
 ```
 
 ## Closed source intelligence
 
 | Supplier        | Product         | Links / Rule|
 |:----------------|:----------------|:---------------:|
-| Akamai       | Cloud | `sudo egrep -i -r "\$\{jndi:(ldap[s]?|rmi|dns)://' /var/log` |
+| Akamai       | Cloud | https://www.akamai.com/blog/news/CVE-2021-44228-Zero-Day-Vulnerability |
 | Cloudflare   | Cloud | https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/ |
 | Elastic      | Elastic | https://www.elastic.co/blog/detecting-log4j2-with-elastic-security |
 | Google       | Cloud | https://cloud.google.com/blog/products/identity-security/cloud-armor-waf-rule-to-help-address-apache-log4j-vulnerability |
@@ -40,7 +56,7 @@ Overall detection regex
 ### Network based detection
 | Source      | Notes        | Links |
 |:----------------|:----------------|:---------------:|
-|  NCC Group | Log4Shell: Reconnaissance and post exploitation network detection | [source](https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/) |
+|  NCC Group / Fox-IT | Log4Shell: Reconnaissance and post exploitation network detection | [source](https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/) |
 
 Snort and Suricata rules:
 
@@ -48,6 +64,10 @@ Snort and Suricata rules:
 |:----------------|:----------------|:---------------:|
 | These are ET Open free community detections to alert on current exploit activity.  | SID range 2034647-2034652. | [source](https://rules.emergingthreatspro.com/open/) |
 
+### Web-server mitigation
+| Web-server      | Source          | Notes           | Links |
+|:----------------|:----------------|:----------------|:---------------:|
+| Nginx           | Infiniroot      | Block requests with known patterns in URI and headers using LUA | [Github](https://github.com/infiniroot/nginx-mitigate-log4shell) |
 
 
 ### Host based detection

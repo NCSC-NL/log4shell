@@ -13,6 +13,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Huntress  | Online Log4Shell Vulnerability Tester| https://log4shell.huntress.com/ |
 | Canary Tokens |  Log4Shell Vulnerability Tester | https://canarytokens.org/generate |
 | Diverto | Nmap NSE scripts to check against log4shell | https://github.com/Diverto/nse-log4shell |
+| righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker | https://github.com/NorthwaveSecurity/log4jcheck |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
@@ -20,6 +21,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Grype   | Open source vulnerability scanner (docker), picks up nested JARs containing log4j | https://github.com/anchore/grype |
 | logpresso | Scans for java files that are vulnerable and may rename it for mitigation | https://github.com/logpresso/CVE-2021-44228-Scanner |
 | FullHunt | Open detection and scanning tool (Python) for discovering and fuzzing for Log4J vulnerability | https://github.com/fullhunt/log4j-scan |
+| Dtact | DIVD-2021-00038 log4j scanner Scan paths including archives for vulnerable log4 | https://github.com/dtact/divd-2021-00038--log4j-scanner |
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
@@ -30,3 +32,4 @@ Checks if the application or system is using Log4j2.
 | NCCgroup  | Version hashes (MD5, SHA1 and SHA256) for log4j2 versions| https://github.com/nccgroup/Cyber-Defence/tree/master/Intelligence/CVE-2021-44228 |
 | 1lann  | Scans a file or folder recursively for jar files that may be vulnerable | https://github.com/1lann/log4shelldetect |
 | Syft | Open source SBOM scanner, can detect all dependencies including log4j | https://github.com/anchore/syft/ |
+| Devotech | Powershell: Queries domain servers and scans for log4j-core files. (slow) | https://github.com/devotech/check-log4j |

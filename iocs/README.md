@@ -17,7 +17,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | Malwar3Ninja | https://twitter.com/bad_packets/status/1469225135504650240|
 | GovCert.ch | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/|
 | isc.sans.edu | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
-
+| cert-agid.gov.it | https://cert-agid.gov.it/download/log4shell-iocs.txt |
 
 ## List of IoC's from security vendors
 
@@ -33,6 +33,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | NCC Group (Contains scan IP's) | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
 | Lacework | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
 | Securelist by Kaspersky | https://securelist.com/cve-2021-44228-vulnerability-in-apache-log4j-library/ |
+| RiskIQ (IP's contain scan IP's) | https://community.riskiq.com/article/57abbfcf/indicators |
 
 ## List of IoC's from Honeypot's
 | Note     | Links |

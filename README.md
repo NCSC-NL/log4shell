@@ -18,6 +18,6 @@ This repo contains operational information regarding the vulnerability in the Lo
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
 
-## Pull request welcome
+## Contributions welcome
 
-If you have any additional information to share relevant to the Log4j vulnerability, please feel free to open a Pull request.
+If you have any additional information to share relevant to the Log4j vulnerability, please feel free to open a Pull request. New to this? [Read how to contribute in GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository).
