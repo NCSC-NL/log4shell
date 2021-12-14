@@ -29,6 +29,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Acronis       | Cyber Protection Home Office | 2017 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Adobe         | Cold Fusion | | Investigation | | [source](https://www.petefreitag.com/item/923.cfm) [fix](https://helpx.adobe.com/security/security-bulletin.html#coldfusion) |
 | AIL           | AIL | all | Not vuln | | [source](https://twitter.com/ail_project/status/1470373644279119875)
+| Alexion Software | Alexion CRM | All | Not vuln | | [source](https://alexion.nl/blog/alexion-crm-niet-vatbaar-voor-log4shell)
 | Akamai        | Eanterprise Application Access Connector |  | Not vulnerable |  | Source: Akamai support |
 | Akamai        | Siem Splunk Connector | =>1.4.10 | Not vuln |  | [source](https://community.akamai.com/customers/s/feed/0D54R00008Osz7sSAB) (paywall) |
 | Akamai        | Siem Splunk Connector | <1.4.10 | Workaround | Akamai SIEM Integration Connector for Splunk is not vulnerable to CVE-2021-44228. Although it includes the vulnerable Log4J component, it is not used by the connector. | [source](https://github.com/akamai/siem-splunk-connector) |
@@ -900,6 +901,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Informatica | Product 360 | All versions | Workaround  | | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
 | Informatica | Secure Agents (Cloud hosted)| Unknown | Fix | Fixed agents may need to be restarted| [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-updates-for-Informatica-Cloud-and-Cloud-Hosted-Software) |
 | IronNet | All products | All verisons | Investigation | | [source](https://www.ironnet.com/blog/ironnet-security-notifications-related-to-log4j-vulnerability) |
+| ISL Online | All products | All versions | Not Vuln | | [source](https://blog.islonline.com/2021/12/13/isl-online-is-not-affected-by-log4shell-vulnerability/) |
 | Ivanti | All products| All versions | Not Vuln | No products are deemed affected at this moment | [source](https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping) |
 
 ### J
