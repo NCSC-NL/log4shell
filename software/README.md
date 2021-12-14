@@ -314,16 +314,16 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |Cisco|Cisco Ultra Packet Core|Unknown|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |Cisco|Cisco Smart Software Manager On-Prem|Unknown|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |CIS-CAT|CIS-CAT Pro Assessor| 4.12.0 and below |Vulnerable|Found by manual scanning|[proof] (<https://ibb.co/98kyxqK>) |
-| Citrix       | NetScaler ADC | Unknown | Investigation |  Implementation not using WlonNS feature, is not impacted | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix       | NetScaler Gateway | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix       | NetScaler ADC | Unknown | Not vuln |  Implementation not using WlonNS feature, is not impacted | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix       | NetScaler Gateway | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix       | Analytics | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix       | Application Delivery Management (NetScaler MAS)  | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix       | Hypervisor (XenServer)   | Unknown | Not Vuln |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix       | SD-WAN  | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix       | Virtual Apps and Desktops (XenApp & XenDesktop)    | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix       | Workspace  | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix       | SD-WAN  | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix       | Virtual Apps and Desktops (XenApp & XenDesktop)    | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix       | Workspace  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix       | Workspace App  | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix       | Sharefile  | Unknown | Investigation|  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix       | Sharefile  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
 | cPanel | cPanel | Unknown | Mitigation | | [source](https://forums.cpanel.net/threads/log4j-cve-2021-44228-does-it-affect-cpanel.696249/) |
 | Commvault | All products | All versions | Not vulnerable || [source](https://community.commvault.com/technical-q-a-2/log4j-been-used-in-commvault-1985?postid=11745#post11745) |
 | Commvault | Cloud Apps & Oracle & MS-SQL | All supported versions | vulnerable || [source](https://documentation.commvault.com/11.24/essential/146231_security_vulnerability_and_reporting.html) |
