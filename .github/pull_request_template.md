@@ -12,3 +12,4 @@ For contributions in `software/`:
     Alternatively, include and link a file in the `software/vendor-statements/`
     directory
   - Please mind the sorting
+  - Please put vendor/product name in PR title (instead of "Update README.md")
