@@ -1743,6 +1743,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Yahoo           | Vespa           |                 | Not vuln        | Your Vespa application may still be affected if log4j is included in your application package |[source](https://blog.vespa.ai/log4j-vulnerability/) |
 | Y Soft          | SAFEQ 6 | <= 6.0.63 | Workaround |  |[source](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf) |
+| Yellowfin       | Yellowfin       | 8.0.x, 9.x | Workaround, Fix  | v7 and v6 releases are not affected unless you have manually upgraded to Log4j2 | [source](https://community.yellowfinbi.com/announcement/notice-critical-vulnerability-in-log4j2) |
 
 ### Z
 
