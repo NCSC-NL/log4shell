@@ -7,10 +7,26 @@ However NCSC-NL strives to provide rules and detection software from reliable so
 
 ## Detection Regex
 
-Overall detection regex
+### Overall detection regex
 
 ```plain
 \${(\${(.*?:|.*?:.*?:-)('|"|`)*(?1)}*|[jndi:lapsrm]('|"|`)*}*){9,11}
+```
+
+#### Caveats
+- Please note that due to nested resolution of `${...}` and multiple available obfuscation methods, this regular expression may not detect all forms of exploitation. It is impossible to write exhaustive regular expression.
+- This regular expression only works on URL-decoded logs. URL encoding is a popular second layer of obfuscation currently in use by attackers.
+- This regular expression searches for the original strings supplied by the attacker. These only remain in their original, unresolved form in the logs of non-vulnerable applications, such as WAF or reverse proxy with ability to log before the vulnerable code is executed. **They are not present in the logs of a vulnerable application.**
+
+#### Logs in vulnerable applications
+
+This detection regex would not have matches in a log of vulnerable application, because only the result of `${...}` resolution is stored instead of the original pattern. Presence of any of these signatures is a strong sign of successful exploitation in these applications:
+
+```plain
+com.sun.jndi.
+com.sun.jndi.dns.DnsContext
+com.sun.jndi.ldap.LdapCtx
+Error looking up JNDI resource
 ```
 
 ## Closed source intelligence
