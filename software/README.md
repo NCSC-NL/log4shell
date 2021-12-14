@@ -334,7 +334,6 @@ NCSC-NL will use the following status:
 | Elastic         | Machine Learning | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Swiftype | | Investigation |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | ESET            | All products | Unknown | Not vuln | |[source](https://forum.eset.com/topic/30691-log4j-vulnerability/) |
-| Exact      | Synergy | at least everything on or below 264 SP16 | Vulnerable | Found by manual scanning | [proof] (https://ibb.co/DVGxWFY) |
 
 ### F
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
@@ -620,7 +619,6 @@ NCSC-NL will use the following status:
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Ubiquiti | UniFi Network Application | 6.5.54 | Fix | |[source](https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1) |
-| USoft | USoft | 9.1.1F | Vulnerable | Found by manual scanning | [proof] (https://ibb.co/tqV40qB) |
 
 ### V
 
