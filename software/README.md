@@ -61,13 +61,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Apigee        | Edge and OPDK products | All version | Not vuln | |[source](https://status.apigee.com/incidents/3cgzb0q2r10p) |
 | Aptible       | Aptible | ElasticSearch 5.x | Fix | | [source](https://status.aptible.com/incidents/gk1rh440h36s?u=zfbcrbt2lkv4) |
 | Arduino        | Arduino IDE | 1.8.17 | Fix | | [source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
-| Arista Networks | CloudVision Portal | >2019.1.0 | Vulnerable | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | CloudVision Wi-Fi, virtual appliance or physical appliance | >8.8 | Vulnerable | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | Analytics Node for DANZ Monitoring Fabric (formerly Big Monitoring Fabric) | >7.0.0 | Vulnerable | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | Analytics Node for Converged Cloud Fabric (formerly Big Cloud Fabric) | >7.0.0 | Vulnerable | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | Embedded Analytics for Converged Cloud Fabric (formerly Big Cloud Fabric) | >5.3.0 | Vulnerable | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | CloudVision Portal | >2019.1.0 | Vulnerable | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | CloudVision Wi-Fi, virtual appliance or physical appliance | >8.8 | Vulnerable | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
 | Aruba Networks  | AirWave Management Platform | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
 | Aruba Networks  | Aruba Central | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
 | Aruba Networks  | Aruba ClearPass Policy Manager | Not vuln |  | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt) |
@@ -679,25 +672,12 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |F5| All products | |Not Vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
 | Fiix | CMMS core | V5  | Fix | | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 |FileCap| All products | <5.1.0 | Vulnerable | Fix: 5.1.1 |[source](https://mailchi.mp/3f82266e0717/filecap-update-version-511)|
-|Forcepoint |Advanced Malware Detection                                                           ||Not vuln |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Behavioral Analytics                                                                 ||Investigation |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Bitglass SSE                                                                         ||Not vuln |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |CASB                                                                                 ||Investigation |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Content Gateway                                                                      ||Not vuln |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |DDP/DUP/DPS                                                                          ||Investigation |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Directory Synchronization Client                                                     ||Not vuln |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |DLP Manager                                                                          ||Workaround |[source](https://support.forcepoint.com)|
-|Forcepoint |Email Security                                                                       ||Not vuln |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Forcepoint Cloud Security Gateway (CSG)                                              ||Not vuln   |[source](https://support.forcepoint.com)|
-|Forcepoint |Insider Threat                                                                    ||Not vuln |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Next Generation Firewall (NGFW)                                                      ||Not vuln   |[source](https://support.forcepoint.com)|
 |Forcepoint |Next Generation Firewall, NGFW VPN Client, Forcepoint User ID service and Sidewinder ||Not vuln   |[source](https://support.forcepoint.com)|
-|Forcepoint |Next Generation Firewall Security Management Center, and virtual SMC appliances (NGFW)||Workaround |[source](https://support.forcepoint.com/s/article/CVE-2021-44228-Java-log4j-vulnerability-mitigation-with-NGFW-Security-Management-Center)|
 |Forcepoint |One Endpoint                                                                         ||Not vuln   |[source](https://support.forcepoint.com)|
-|Forcepoint |Private Access                                                                       ||Not vuln |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Remote Browser Isolation                                                             ||Not vuln |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Security Manager (Web, Email and DLP)                                                ||Workaround |[source](https://support.forcepoint.com)|
-|Forcepoint |Web Security                                                                         ||Investigation |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forescout | | | Investigation | | [soruce](https://www.forescout.com/blog/forescout%e2%80%99s-response-to-cve-2021-44228-apache-log4j-2/)
 |ForgeRock        | Autonomous Identity |  | Workaround | all other ForgeRock products not vuln | [source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa) |
 |Fortinet| FortiAIOps| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -740,7 +720,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Genesys | All products || Investigation ||[source](https://www.genesys.com/blog/post/genesys-update-on-the-apache-log4j-vulnerability)|
-| GeoSolutions | GeoServer|| Not vuln ||[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
 | GFI Software | Kerio Connect | | Vulnerable | | [source](https://forums.gfi.com/index.php?t=msg&th=39096&start=0&)|
 | GitHub | Github Enterprise Server | 3.3.1, 3.2.6, 3.1.14, 3.0.22 | Fix | | [source](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/) |
 | GoAnywhere| Agents| Unknown| Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
@@ -1026,6 +1005,13 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Microsoft | Azure WAF                        | Unknown | Not Vuln |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
 | Microsoft | Kafka Connect for Azure Cosmo DB | < 1.2.1 | Fix      |                                                                                                           | [source](https://github.com/microsoft/kafka-connect-cosmosdb/blob/0f5d0c9dbf2812400bb480d1ff0672dfa6bb56f0/CHANGELOG.md)                                                                                                                                                   |
 | Minecraft | Java edition | <1.18.1 | Fix | Mitigations available for earlier versions| [source](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition)
+| Mirantis      | Mirantis Container Runtime |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
+| Mirantis      | Mirantis Kubernetes Engine |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
+| Mirantis      | Mirantis Secure Registry   |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
+| Mirantis      | Mirantis Container Cloud   |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
+| Mirantis      | Mirantis OpenStack         |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
+| Mirantis      | Lens                       |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
+| Mirantis      | K0s                        |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mitel      | MiCollab |  All | Investigation |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiContact Center  Enterprise |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiContact Center Business |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
@@ -1183,10 +1169,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Postgres | PostgreSQL JDBC | | Not vuln | | [source](https://www.postgresql.org/about/news/postgresql-jdbc-and-the-log4j-cve-2371/) |
 | Progress | DataDirect Hybrid Data Pipeline | | Workaround | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-Hybrid-Data-Pipeline-vulnerable-CVE-2021-44228-Log4j) |
 | Progress | OpenEdge | | Workaround | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-OpenEdge-vulnerable-to-CVE-2021-44228-Log4j) |
-| Proxmox | Backup Server | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
-| Proxmox | Mail Gateway | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
-| Proxmox | VE | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
-| PRTG | All Products | | Not vuln | | [source](https://kb.paessler.com/en/topic/90213-is-prtg-affected-by-cve-2021-44228) |
 | PTV Arrival Board / Trip Creator / EM Portal    | PTV Arrival Board / Trip Creator / EM Portal    | Unknown | Investigation |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Balance and PTV Epics                       | PTV Balance and PTV Epics                       | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Developer                                   | PTV Developer                                   | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
