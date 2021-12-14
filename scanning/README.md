@@ -22,6 +22,8 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | logpresso | Scans for java files that are vulnerable and may rename it for mitigation | https://github.com/logpresso/CVE-2021-44228-Scanner |
 | FullHunt | Open detection and scanning tool (Python) for discovering and fuzzing for Log4J vulnerability | https://github.com/fullhunt/log4j-scan |
 | Dtact | DIVD-2021-00038 log4j scanner Scan paths including archives for vulnerable log4 | https://github.com/dtact/divd-2021-00038--log4j-scanner |
+| ThreatMapper | Runtime log4j2 exploitablity scanner with attack path visualization and mitigation for hosts and k8s | https://github.com/deepfence/ThreatMapper |
+
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
