@@ -322,7 +322,29 @@ NCSC-NL will use the following status:
 | Cryptshare | Cryptshare .NET API | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
 | Cryptshare | Cryptshare Java API | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
 | Cryptshare | Cryptshare Robot | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
-| Cyberark  | PAS Self Hosted || Not Vuln | | [source](https://cyberark-customers.force.com ) |
+| Cyberark  | Cloud Entitlements Manager || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Endpoint Privilege Manager (EPM) - Agents || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Endpoint Privilege Manager (EPM) - EPM Server (On-Premise) || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Endpoint Privilege Manager (EPM) - Service (SaaS) || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | HTML5 Gateway || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Identity - Mobile App || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Identity - On-Premise Components || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Identity - Secure Web Sessions (SWS) || Fix | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Identity - Service (SaaS) || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Legacy Sensitive Information Management (SIM) || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Marketplace components - CPM Plugins || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Marketplace components - Certified and Trusted Marketplace Components || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Marketplace components - PSM Connection Components || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | On-Demand Privileges Manager (OPM) || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | PAS Self Hosted (Vault, PVWA, CPM, PSM, PSMP) || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Privilege Cloud - On-Premise Components || Not Vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Privilege Cloud - Service (SaaS) || Fix | Mitigation applied. No further action required by customers | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Privileged Threat Analytics (PTA) || Workaround | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228), [workaround](https://cyberark-customers.force.com/s/article/PTA-CVE-2021-44228-Mitigation-for-Privilege-Threat-Analytics) |
+| Cyberark  | Remote Access (Alero) - Connector || Fix | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Remote Access (Alero) - Mobile App || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Remote Access (Alero) - Service (SaaS) || Fix | Mitigation applied. No further action required by customers | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Secrets Manager Credential Providers || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
+| Cyberark  | Secrets Manager Conjur Enterprise || Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cybereason | All Cybereason products | Unknown | Not vuln | |[source](https://www.cybereason.com/blog/cybereason-solutions-are-not-impacted-by-apache-log4j-vulnerability-cve-2021-44228) |
 
 ### D
