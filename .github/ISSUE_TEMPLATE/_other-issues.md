@@ -1,5 +1,5 @@
 ---
-name: Other issues
+name: _Other issues
 about: open an issue on a different topic
 title: ''
 labels: ''
