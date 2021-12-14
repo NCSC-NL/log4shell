@@ -22,7 +22,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| 7Signal       | Sapphire |  | Workaround |Working on fixed version | Corresp. with vendor|
+| 7Signal       | Sapphire |  | Fix |Fix released 2021-12-14 | Corresp. with vendor|
 
 ### A
 
