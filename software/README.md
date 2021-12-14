@@ -1128,6 +1128,32 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Riverbed        | SaaS Accelerator | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | AppResponse11 | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | Riverbed        | Packet Analyzer | Not Vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Modeler | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetIM 1.x | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetIM 2.x | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetIM Test Engine | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetAuditor Desktop | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetAuditor Web | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetCollector | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetPlanner | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Portal 1.x | Vulnerable | Includes Log4j 2.2 | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Portal 3.x | Vulnerable | Includes Log4j 2.13 | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Transaction Analyzer | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Transaction Analyzer Agents | Not vuln | Log4j not in use | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+
+| Riverbed        | Aternity | Investigation | See source for latest updates | [source](https://aternity.force.com/customersuccess/s/article/Apache-Log4j-Zero-Day-Exploit) |
+| Riverbed        | Flow Gateway | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetExpress | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | NetProfiler | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | UCExpert | Vulnerable | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Packet Trace Warehouse | Investigation | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | FlowTraq | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | SteelFusionCore (appliance, virtual) | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | SteelFusion Edge | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Scon CX | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Scon EX Director | Vulnerable | Patches planned | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Scon EX Analytics | Vulnerable | Patches planned | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
+| Riverbed        | Scon EX FlexVNF | Not vuln | | [source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT) |
 | RSA             | SecurID Authentication Manager Prime |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
 | RSA             | SecurID Authentication Manager WebTier |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
 | RSA             | SecurID Identity Router (On-Prem component of Cloud Authentication Service) |  | Not Vuln | | [source](https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501) |
