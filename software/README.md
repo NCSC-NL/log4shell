@@ -33,10 +33,29 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Akamai        | Eanterprise Application Access Connector |  | Not vulnerable |  | Source: Akamai support |
 | Akamai        | Siem Splunk Connector | =>1.4.10 | Not vuln |  | [source](https://community.akamai.com/customers/s/feed/0D54R00008Osz7sSAB) (paywall) |
 | Akamai        | Siem Splunk Connector | <1.4.10 | Workaround | Akamai SIEM Integration Connector for Splunk is not vulnerable to CVE-2021-44228. Although it includes the vulnerable Log4J component, it is not used by the connector. | [source](https://github.com/akamai/siem-splunk-connector) |
-| Amazon        | AWS CloudHSM | < 3.4.1. | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
-| Amazon        | AWS Lambda | Unknown | Fix | Vulnerable when using aws-lambda-java-log4j2 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
-| Amazon        | EC2 |Amazon Linux 1 & 2 | Vulnerable | Default packages not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
-| Amazon        | OpenSearch | Unknown | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-005/) |
+| Amazon        | AMS | | Fix | AMS services are being addresed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | API Gateway | | Fix | Update is in progress |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS CloudHSM | 3.4.1 | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Elastic Beanstalk | | Not vuln | Default configuration is not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Glue | | Fix | See source for more info |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Greengrass | | Fix | Updates for Stream Manager (2.0.14) and Secure Tunneling (1.0.6) are available|[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Lambda | | Fix | Vulnerable when using aws-lambda-java-log4j2 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS SDK | | Not vuln | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Cloudfront | | Fix | CloudFront services have been updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Connect | | Fix | Connect services have been updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | DynamoDB | | Fix | DynamoDB and DynamoDB Accelerator have been updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | EC2 || Fix | Packages for Amazon Linux 1 and 2 not affected, package for Amazon Linux 2022 is |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [fix](https://alas.aws.amazon.com/cve/html/CVE-2021-44228.html) |
+| Amazon        | EMR | | Not vuln | Default configuration is not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Kafka | | Fix | Updates are being applied |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Keyspaces (for Apache Cassandra) | | Fix | Has been updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Kinesis Data Analytics | | Fix | Updates are available. See source for more information |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Lake Formation | | Fix | Lake Formation is being updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | MQ | | Fix | All required updates have been completed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Neptune | | Not vuln | Probably not vulnerable, but Neptune clusters will be updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | NICE | | Fix | Recommended to update EnginFrame or Log4j library |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | OpenSearch | | Fix | Update is being deployed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | RDS| | Fix | RDS and Aurora are being updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | S3| | Fix | All S3 systems are patched |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Apache        | Camel | all | Not vuln | |[source](https://camel.apache.org/blog/2021/12/log4j2/) |
 | Apache        | Cassandra | all | Not vuln | |[source](https://lists.apache.org/thread/2rngylxw8bjos6xbo1krp29m9wn2hhdr) |
 | Apache        | Druid | 0.22.1 | Fix | |[source](https://github.com/apache/druid/pull/12051) |
