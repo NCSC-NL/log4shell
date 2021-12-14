@@ -38,7 +38,7 @@ Error looking up JNDI resource
 | Elastic      | Elastic | https://www.elastic.co/blog/detecting-log4j2-with-elastic-security |
 | Google       | Cloud | https://cloud.google.com/blog/products/identity-security/cloud-armor-waf-rule-to-help-address-apache-log4j-vulnerability |
 | Palo Alto Networks   | Prisma Cloud | https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/ |
-| Palo Alto networks   | Firewall | Threat ID 91991 ingested after content update 8498 |
+| Palo Alto Networks   | Firewall | Threat ID 91991 ingested after content update 8498 |
 | Microsoft    | Defender | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 | Microsoft    | Sentinel| https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 | Tanium   | Tanium | https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell |
