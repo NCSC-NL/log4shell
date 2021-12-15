@@ -18,16 +18,12 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 ## Software overview
 
-<<<<<<< HEAD
-[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
-=======
 ### 0-9
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | 7Signal       | Sapphire |  | Fix |Fix released 2021-12-14 | Corresp. with vendor|
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)                   
->>>>>>> 102746b857905a6cadd6856d02ea6a7ecd5a0943
 
 ### A
 
@@ -867,7 +863,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | HCL Software | BigFix Inventory | < 10.0.7 | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Lifecycle | Unknown | Not vuln | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Mobile | Unknown | Not vuln | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-
 | HCL Software | BigFix Patch | Unknown | Not vuln | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | Hexagon | ERDAS APOLLO Advantage & Professional | Unknown | Investigation | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hexagon | ERDAS APOLLO Essentials | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
@@ -1107,6 +1102,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Kaseya | Vorex | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Kaseya | products not listed above | Unknown | Investigation | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Keycloak | Keycloak | all version | Not Vuln | | [source](https://github.com/keycloak/keycloak/discussions/9078) |
+| Kofax | Robotic Process Automation (RPA) | 11.1 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
+| Kofax | Robotic Process Automation (RPA) | 11.2 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
+| Kofax | Robot File System (RFS) | >=10.7 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
 
 ### L
 
@@ -1212,20 +1210,26 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | N-able             | RMM                                                                | Unknown  |      Fix      |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
 | N-able             | Take Control                                                       | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
 | Nelson             | Nelson                                                             | 0.16.185 |  Vulnerable   | Workaround is available, but not released yet. | [source](https://github.com/getnelson/nelson/blob/f4d3dd1f1d4f8dfef02487f67aefb9c60ab48bf5/project/custom.scala) |
-| Neo4j              | Neo4j                                                              | > 4.2    |  Vulnerable   | Workaround is available, but not released yet. |                                     [source](https://neo4j.com/security/log4j/) |
-| NetApp             | Brocade SAN Naviator                                               | Unknown  | Investigation |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | Cloud Manager                                                      | Unknown  |  Vulnerable   |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | Element Plug-in for vCenter Server                                 | Unknown  | Investigation |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | Management Services for Element Software and NetApp HCI            | Unknown  | Investigation |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp HCI Compute Node                                            | Unknown  | Investigation |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp SolidFire, Enterprise SDS & HCI Storage                     | Unknown  | Investigation |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp SolidFire & HCI Management Node                             | Unknown  | Investigation |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp SolidFire Plug-in for vRealize Orchestrator (SolidFire vRO) | Unknown  | Investigation |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
-| NetApp             | NetApp SolidFireStorage Replication Adapter                        | Unknown  | Investigation |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| Neo4j              | Neo4j                                                              | > 4.2    |  Vulnerable   | Workaround is available, but not released yet. |                                     [source](https://community.neo4j.com/t/log4j-cve-mitigation-for-neo4j/48856) |
+| NetApp             | Brocade SAN Naviator                                               | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | Cloud Insights Acquisition Unit                                    | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | Cloud Manager                                                      | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | Cloud Secure                                                       | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | Element Plug-in for vCenter Server                                 | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | Management Services for Element Software and NetApp HCI            | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp HCI Compute Node                                            | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp SolidFire, Enterprise SDS & HCI Storage                     | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp SolidFire & HCI Management Node                             | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp SolidFire Plug-in for vRealize Orchestrator (SolidFire vRO) | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | NetApp SolidFireStorage Replication Adapter                        | Unknown  | Not Vuln |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | ONTAP Tools for VMware vSphere                                     | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | OnCommand Insight                                                  | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
+| NetApp             | SnapCenter Plug-in for VMware vSphere                              | Unknown  | Vulnerable |                                                |                                               [source](https://security.netapp.com/advisory/ntap-20211210-0007/) |
 | Netflix            | atlas                                                              |  1.6.6   |  Workaround   |                                                |                       [source](https://github.com/Netflix/atlas/commit/5baff2b656a45886b85968a4b66f33bd36c648be) |
 | Netflix            | dgs-framework                                                      | < 4.9.11 |      Fix      |                                                |                                             [fix](https://github.com/Netflix/dgs-framework/releases/tag/v4.9.11) |
 | Netflix            | spectator                                                          | < 1.0.9  |      Fix      |                                                |                                                  [fix](https://github.com/Netflix/spectator/releases/tag/v1.0.9) |
 | Netflix            | zuul                                                               | Unknown  |  Workaround   |                                                |                        [source](https://github.com/Netflix/zuul/commit/280f20cd51deb7e72275625d5ec556aae06f6a29) |
+| Netgate | pfSense | All | Not vuln || [source](https://forum.netgate.com/topic/168417/java-log4j-vulnerability-is-pfsense-affected) |
 | NetIQ | Access Manager            | >= 4.5.x & >= 5.0.x | Workaround    || [source](https://portal.microfocus.com/s/article/KM000002997)|
 | NetIQ | Advanced Authentication   | >= 6.3.x            | Investigation || [source](https://portal.microfocus.com/s/article/KM000003047)|
 | NetIQ | eDirectory                | >= 9.2.x            | Not vuln      || [source](https://portal.microfocus.com/s/article/KM0000030357)|
