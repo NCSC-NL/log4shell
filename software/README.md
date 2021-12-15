@@ -1783,70 +1783,84 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | TheHive | TheHive | all | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
 | Topicus Security | Topicus KeyHub | all | Not vuln | | [source](https://blog.topicus-keyhub.com/topicus-keyhub-is-not-vulnerable-to-cve-2021-44228/) |
 | Tosibox | All products | | Fix | | [source](https://helpdesk.tosibox.com/support/solutions/articles/2100050946-security-advisory-on-vulnerability-in-apache-log4j-library-cve-2021-44228)|
-| TrendMicro | ActiveUpdate  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Apex Central (including as a Service)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Apex One (all versions including Mac and Saas)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud App Security  |  | fix | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud Edge  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud One - Application Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud One - Common Services  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud One - Conformity  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud One - Container Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud One - File Storage Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud One - Network Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud One - Workload Secuity  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud Sandbox  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Advisor  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Analyzer  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Director  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Email Inspector  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Inspector  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Not vuln  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Endpoint Application Control  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Fraudbuster  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Home Network Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Housecall  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Instant Messaging Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Internet Security for Mac (Consumer)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Interscan Messaging Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Interscan Messaging Security Virtual Appliance (IMSVA)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Interscan Web Security Suite  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Interscan Web Security Virtual Appliance (IWSVA)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Mobile Secuirty for Enterprise  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | MyAccount (Consumer Sign-on)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Network Viruswall  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | OfficeScan  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Password Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Phish Insight  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Policy Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Portable Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | PortalProtect  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Remote Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Rescue Disk  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Rootkit Buster  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Safe Lock 2.0  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Safe Lock  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Sandbox as a Service  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | ScanMail for Domino  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | ScanMail for Exchange  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Secuirty for Mac  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Security for NAS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | ServerProtect (all versions)  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Smart Home Network  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Smart Protection Complete  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Smart Protection for Endpoints  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Smart Protection Server (SPS)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | TippingPoint (all variations)  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | TMUSB  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Trend Micro Email Security & HES  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Trend Micro ID Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Trend Micro Remote Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Trend Micro Web Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Vision One  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Vulnerability Protection  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Worry-Free Business Security (on-prem)  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Worry-Free Business Security Services  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | 5G Mobile Network Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | ActiveUpdate  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Apex Central (including as a Service)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Apex One (all versions including SaaS, Mac, and Edge Relay)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud App Security  |  | fix | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud Edge  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud One - Application Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud One - Common Services  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud One - Conformity  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud One - Container Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud One - File Storage Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud One - Network Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud One - Workload Secuity  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Cloud Sandbox  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Deep Discovery Analyzer  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Deep Discovery Director  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Deep Discovery Email Inspector  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Deep Discovery Inspector  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Deep Discovery Web Inspector  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Deep Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Endpoint Encryption  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Fraudbuster  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Home Network Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Housecall  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Instant Messaging Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Internet Security for Mac (Consumer)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Interscan Messaging Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Interscan Messaging Security Virtual Appliance (IMSVA)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Interscan Web Security Suite  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Interscan Web Security Virtual Appliance (IWSVA)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Mobile Secuirty for Enterprise  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Mobile Secuirty for Android  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Mobile Secuirty for iOS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | MyAccount (Consumer Sign-on)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Network Viruswall  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | OfficeScan  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Password Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Phish Insight  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Policy Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Portable Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | PortalProtect  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Public Wifi Protection / VPN Proxy One Pro  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Rescue Disk  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Rootkit Buster  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Safe Lock (TXOne Edition) |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Safe Lock 2.0  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Sandbox as a Service  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | ScanMail for Domino  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | ScanMail for Exchange  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Security for NAS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | ServerProtect (all versions)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Smart Home Network  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Smart Protection Complete  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Smart Protection for Endpoints  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Smart Protection Server (SPS)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint Accessories  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint IPS (N-, NX- and S-series)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint Network Protection (AWS & Azure)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint SMS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint Threat Management Center (TMC)  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint ThreatDV  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint TPS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint TX-Series  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint Virtual SMS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TippingPoint Virtual TPS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TMUSB  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Trend Micro Email Security & HES  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Trend Micro Endpoint Sensor  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Trend Micro ID Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Trend Micro Remote Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Trend Micro Security (Consumer)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Trend Micro Virtual Patch for Endpoint  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Trend Micro Web Security  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TXOne (Edge Series)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | TXOne (Stekkar Series)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Vision One  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Worry-Free Business Security (on-prem)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Worry-Free Business Security Services  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | tribe29 | Check_MK |  | Not vuln | |[source](https://forum.checkmk.com/t/checkmk-not-affected-by-log4shell/28643) |
 | Tripwire | Tripwire® Enterprise  |  | Not vuln | |[source](https://www.tripwire.com/log4j) |
 | Tripwire | Tripwire IP360™  |  | Not vuln | |[source](https://www.tripwire.com/log4j) |
