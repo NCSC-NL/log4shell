@@ -1004,10 +1004,11 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | IronNet | All products | All verisons | Investigation | | [source](https://www.ironnet.com/blog/ironnet-security-notifications-related-to-log4j-vulnerability) |
 | ISL Online | All products | All versions | Not Vuln | | [source](https://blog.islonline.com/2021/12/13/isl-online-is-not-affected-by-log4shell-vulnerability/) |
 | ISPNext | All products | All versions | Not Vuln | | [source](vendor-statements/ISPNext.png) |
-| Ivanti | Avalache | 6.3.[0-3] | Workaround | Mitigation information behind login | [source](https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping) |
-| Ivanti | Core Connector | All versions | Workaround | Mitigation information behind login | [source](https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping) |
-| Ivanti | MobileIron Core | All versions | Workaround | Mitigation information behind login | [source](https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping) |
-| Ivanti | MobileIron Sentry | 9.13, 9.14 | Workaround | Mitigation information behind login | [source](https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping) |
+| Ivanti | Avalache | 6.3.[0-3] | Fix | Information behind login | [source](https://forums.ivanti.com/s/article/CVE-2021-44228-Avalanche-Remote-code-injection-Log4j) |
+| Ivanti | Core Connector | All versions | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j) |
+| Ivanti | File Director | All versions | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Apache-Log4j-Zero-Day-Vulnerability-and-Ivanti-File-Director-CVE-2021-44228) |
+| Ivanti | MobileIron Core | All versions | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j) |
+| Ivanti | MobileIron Sentry | 9.13, 9.14 | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j) |
 
 ### J
 
