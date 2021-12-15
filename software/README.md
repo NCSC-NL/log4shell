@@ -767,6 +767,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Exivity | Exivity On-Premise | All version | Not Vuln | | [source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228) |
 | Exact | All Products | | Not vuln | | [source NL](https://www.exact.com/nl/nieuws/algemeen-statement-apache-lek), [source EN](https://www.exact.com/news/general-statement-apache-leak) |
 | Evolveum | midPoint || Not vuln | | [source](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/) |
+| Extensis | Universal Type Server | Fix | =>7.0.6 | |[source](https://help.extensis.com/hc/en-us/articles/4412767414299-Universal-Type-Server-7-and-Log4j-vulnerabilities) |
 | eXtreme Hosting | All products | Unknown | Not vuln | |[source](https://extremehosting.nl/log4shell-log4j/) |
 | Extreme Networks | 200-series || Investigation |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
 | Extreme Networks | BOSS || Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
