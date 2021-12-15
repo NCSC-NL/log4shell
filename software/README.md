@@ -1809,6 +1809,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Tableau | Tableau Desktop | 2021.4| Investigation | | [source](https://www.tableau.com/support/releases/desktop/2021.4)
 | Tableau | Tableau Server | 2021.2.5| Vulnerable | [Fix/workaround](https://medium.com/starschema-blog/log4j-vulnerability-in-tableau-how-to-fix-workaround-unofficial-f6bf63320f13) | [source](https://www.tableau.com/support/releases/server/2021.2.5)
+| Tailscale | Tailscale | all | Not vuln | | [source](https://github.com/tailscale/tailscale/issues/3550) |
 | Talend | Talend Component Kit | | Fix | |[source](https://jira.talendforge.org/browse/TCOMP-2054) |
 | Tanium | All products | all | Not vuln | | [source](https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell#_Toc90296319)
 | TARGIT | All products | all | Not vuln | | [source](vendor-statements/Targit.png)
