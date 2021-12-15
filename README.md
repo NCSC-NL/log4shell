@@ -9,6 +9,7 @@ This repo contains operational information regarding the vulnerability in the Lo
 
 | Directory                          | Purpose |
 |:-----------------------------------|:--------|
+| [hunting](hunting/README.md)       | Contains info regarding hunting for exploitation |
 | [iocs](iocs/README.md)             | Contains any Indicators of Compromise, such as scanning IPs, etc |
 | [mitigation](mitigation/README.md) | Contains info regarding mitigation, such as regexes for detecting scanning activity and more |
 | [scanning](scanning/README.md)     | Contains references to methods and tooling used for scanning for the Log4j vulnerability |
@@ -21,3 +22,13 @@ This repo contains operational information regarding the vulnerability in the Lo
 ## Contributions welcome
 
 If you have any additional information to share relevant to the Log4j vulnerability, please feel free to open a Pull request. New to this? [Read how to contribute in GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository).
+
+### Thank you
+
+Dear contributors, partners all over the world,
+
+We have received an impressive/enormous number of pull requests on this repo. It contains vital information that contributes to the situational overview around the Log4j vulnerability. The list of vulnerable applications is currently one of the most up-to-date ones with continuous input from across the globe. It is still expanding and we are working hard to process all the contributions. 
+
+Due to our joint efforts and strong cooperation we are confident that we will be better equipped to manage this situation.
+
+Thank you all very much for your hard work and we keep welcoming your input via GitHub. 
