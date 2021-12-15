@@ -1218,10 +1218,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Netflix            | zuul                                                               | Unknown  |  Workaround   |                                                |                        [source](https://github.com/Netflix/zuul/commit/280f20cd51deb7e72275625d5ec556aae06f6a29) |
 | Netgate | pfSense | All | Not vuln || [source](https://forum.netgate.com/topic/168417/java-log4j-vulnerability-is-pfsense-affected) |
 | NetIQ | Access Manager            | >= 4.5.x & >= 5.0.x | Workaround    || [source](https://portal.microfocus.com/s/article/KM000002997)|
-| NetIQ | Advanced Authentication   | >= 6.3.x            | Investigation || [source](https://portal.microfocus.com/s/article/KM000003047)|
-| NetIQ | eDirectory                | >= 9.2.x            | Not vuln      || [source](https://portal.microfocus.com/s/article/KM0000030357)|
-| NetIQ | Identity Manager          | >= 4.7.x & >= 4.8.x | Not vuln      || [source](https://portal.microfocus.com/s/article/KM0000030357)|
-| NetIQ | iManager                  | >= 3.2.x            | Not vuln      || [source](https://portal.microfocus.com/s/article/KM0000030357)|
+| NetIQ | Advanced Authentication   | >= 6.x              | Workaround    || [source](https://portal.microfocus.com/s/article/KM000003047)|
+| NetIQ | eDirectory                | >= 9.2.x            | Not vuln      || [source](https://portal.microfocus.com/s/article/KM000003035)|
+| NetIQ | Identity Manager          | >= 4.7.x & >= 4.8.x | Not vuln      || [source](https://portal.microfocus.com/s/article/KM000003035)|
+| NetIQ | iManager                  | >= 3.2.x            | Not vuln      || [source](https://portal.microfocus.com/s/article/KM000003035)|
 | Netwrix            | Netwrix Auditor                                                    |          |   Not vuln    |                                                |                                 [source](http://www.publicnow.com/view/EA90CB461F5F0A1BA339E2AC55C719CA5AD58CE4) |
 | New Relic          | Java Agent                                                         |  6.5.1 & 7.4.1  |      Fix      |                                                |                                             [source](https://docs.newrelic.com/docs/security/new-relic-security/security-bulletins/security-bulletin-nr21-03/) |
 | NextGen Healthcare | Mirth                                                              | Unknown  |   Not Vuln    |                                                |                [source](https://github.com/nextgenhealthcare/connect/discussions/4892#discussioncomment-1789526) |
