@@ -1111,7 +1111,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | LogicMonitor | LogicMonitor SaaS Platform| Unknown | Fix | Automatic update before 13th December [source](https://communities.logicmonitor.com/topic/7472-logicmonitor-collectors-running-vulnerable-version-of-log4j-are-affected-by-log4shell-cve-2021-44228-vulnerability/) |
 | Lyrasis | DSpace | 7.x | Fix/Workaround | |[source](https://groups.google.com/g/dspace-community/c/Fa4VdjiiNyE) |
 | The Linux Foundation | XCP-ng | All versions | Not vuln | |[source](https://xcp-ng.org/forum/topic/5315/log4j-vulnerability-impact) |
-| LucaNet  | LucaNet | 12 LTS - 1911.0.191+3 - GA - 2021-12-13<br>13 LTS - 2011.0.110+6 - GA - 2021-12-10<br>22 LTS - 2111.0.9+17 - GA - 2021-12-10 | Fix | |[source](https://www.lucanet.com/en/blog/update-vulnerability-log4j) |
+| LucaNet  | LucaNet | 12 LTS - 1911.0.191+3<br>13 LTS - 2011.0.110+6<br>22 LTS - 2111.0.9+17 | Fix | |[source](https://www.lucanet.com/en/blog/update-vulnerability-log4j) |
 
 ### M
 
