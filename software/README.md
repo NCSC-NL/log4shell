@@ -1493,6 +1493,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Philips | RIS Clinic | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Philips | Tasy EMR | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Philips | VuePACS | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Phoenix Contact | Cloud Services | | Vulnerable | Remediations are being implemented | [source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability_Statement_Log4J_20211215.pdf) |
+| Phoenix Contact | Physical products containing firmware | |  Not vuln | | [source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability_Statement_Log4J_20211215.pdf) |
+| Phoenix Contact | Software products | |  Not vuln | | [source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability_Statement_Log4J_20211215.pdf) |
 | Planon Software | Planon Universe | all | Not vuln | | [source](https://my.planonsoftware.com/uk/news/log4j-impact-on-planon/) |
 | Plex | Industrial IoT | | Not vuln | Mitigation already applied, patch will be issued today | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 | Plex | Media Server | | Not vuln | | [source](https://forums.plex.tv/t/seeking-information-is-plex-media-server-vulnerable-to-the-cve-2021-44228-log4j-vulnerability/763642) |
