@@ -531,14 +531,15 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | CIS-CAT|CIS-CAT Pro Assessor v3| < 3.0.77 |Vulnerable| Upgrade to v3.0.77 to be released 16/12|[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | CIS-CAT|CIS-CAT Pro Dashboard| All| Not vuln||[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | Citrix | Analytics | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Application Delivery Management (NetScaler MAS)  | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Application Delivery Management (NetScaler MAS)  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Endpoint Management (XenMobile Server)  | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Hypervisor (XenServer)   | Unknown | Not Vuln |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | NetScaler ADC | Unknown | Not vuln |  Implementation not using WlonNS feature, is not impacted | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | NetScaler Gateway | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | SD-WAN  | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | NetScaler ADC | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | NetScaler Gateway | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | SD-WAN  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Sharefile  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Virtual Apps and Desktops (XenApp & XenDesktop)    | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Workspace App  | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Virtual Apps and Desktops (XenApp & XenDesktop) | Unknown | Investigation | Not vulnerable: App Layering, Delivery Controller, Director, FAS, HDX, Profile Management, PVS, Session Recording, Storefront, Studio, Windows VDA, WEM | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Workspace App  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Workspace  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
 | CODESYS | all | all | Not vuln  || [source](https://www.codesys.com/news-events/news/article/log4j-not-used-in-codesys.html) |
 | Commvault | Cloud Apps & Oracle & MS-SQL | All supported versions | Fix || [source](https://documentation.commvault.com/11.24/essential/146231_security_vulnerability_and_reporting.html) |
