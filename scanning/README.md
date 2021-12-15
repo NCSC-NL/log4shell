@@ -15,6 +15,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Dtact | DIVD-2021-00038 log4j scanner Scan paths including archives for vulnerable log4 | https://github.com/dtact/divd-2021-00038--log4j-scanner |
 | Deepfence ThreatMapper | Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless | https://github.com/deepfence/ThreatMapper |
 | FullHunt | Open detection and scanning tool (Python) for discovering and fuzzing for Log4J vulnerability | https://github.com/fullhunt/log4j-scan |
+| Fox-IT | A script to scan the filesystem to find Log4j2 that is vulnerable to Log4Shell (CVE-2021-44228) (Python)| https://github.com/fox-it/log4j-finder |
 | Grype   | Open source vulnerability scanner (docker), picks up nested JARs containing log4j | https://github.com/anchore/grype |
 | Huntress  | Online Log4Shell Vulnerability Tester| https://log4shell.huntress.com/ |
 | logpresso | Scans for java files that are vulnerable and may rename it for mitigation | https://github.com/logpresso/CVE-2021-44228-Scanner |
