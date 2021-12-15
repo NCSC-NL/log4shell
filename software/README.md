@@ -517,6 +517,11 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Citrix | Workspace  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
 | CODESYS | all | all | Not vuln  || [source](https://www.codesys.com/news-events/news/article/log4j-not-used-in-codesys.html) |
 | Commvault | Cloud Apps & Oracle & MS-SQL | All supported versions | Fix || [source](https://documentation.commvault.com/11.24/essential/146231_security_vulnerability_and_reporting.html) |
+| Compumatica | CryptoGuard | all | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
+| Compumatica | CompuMail Gateway | all | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
+| Compumatica | Compuwall | all | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
+| Compumatica | MagiCtwin | all | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
+| Compumatica | MASC | all | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
 | Connect2id | Connect2id server | < 12.5.1 | Fix || [source](https://connect2id.com/blog/connect2id-server-12-5-1) |
 | Connectwise | Global search capability of Manage Cloud | Unknown | Mitigation || [source](https://www.connectwise.com/company/trust/advisories) |
 | Connectwise | Manage on-premise's Global Search  | Unknown | Mitigation || [source](https://www.connectwise.com/company/trust/advisories) |
@@ -1620,6 +1625,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Tealium | All products | | Fix | |[source](https://community.tealiumiq.com/t5/Announcements-Blog/Update-on-Log4j-Security-Vulnerability/ba-p/36824) |
 | Teamviewer  | All products | | Fix | Server-side hotfix deployed. No user interaction required | [source](https://www.teamviewer.com/en-us/trust-center/security-bulletins/hotfix-log4j2-issue/)|
 | Tenable | All products  | | Not vuln  | | [source](https://community.tenable.com/s/article/Log4Shell-FAQs)  |
+| Tesorion | Immunity-appliances and software | all | Not vuln | | [source](https://www.tesorion.nl/en/posts/tesorion-products-not-vulnerable-to-log4j/) |
+| Tesorion | SOC-appliances and software | all | Potential Log4j impact mitigated | | [source](https://www.tesorion.nl/en/posts/tesorion-products-not-vulnerable-to-log4j/) |
 | TheHive | Cortex | all | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
 | TheHive | TheHive | all | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
 | Topicus Security | Topicus KeyHub | all | Not vuln | | [source](https://blog.topicus-keyhub.com/topicus-keyhub-is-not-vulnerable-to-cve-2021-44228/) |
