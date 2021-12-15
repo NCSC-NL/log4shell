@@ -1679,6 +1679,18 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | SUSE | SUSE Openstack Cloud | all | Vuln | will get update | [source](https://www.suse.com/c/suse-statement-on-log4j-log4shell-cve-2021-44228-vulnerability/)|
 | SUSE | SUSE Rancher | all | Not vuln | | [source](https://www.suse.com/c/suse-statement-on-log4j-log4shell-cve-2021-44228-vulnerability/)|
 | Synacor | Zimbra | 8.8.15 and 9.x | Not vuln | Zimbra stated (in their private support portal) they're not vulnerable. Currently supported Zimbra versions ship 1.2.6 |[source](https://forums.zimbra.org/viewtopic.php?f=15&t=70240&start=10#p303354) |
+| Syncro Soft | Oxygen Content Fusion | <= v4.1 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen Content Fusion | 3.0.1 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Web Author | v22.1 - v24.0.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Web Author | 23.1.1.2 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen Feedback | 1.4.4 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Publishing Engine | v22.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML WebHelp | v22.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen PDF Chemistry | v22.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen License Server | v22.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Author | v16.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Developer | v16.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Editor | v16.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
 | Synology | DSM | | Not vuln | The base DSM is not affected. Software installed via the package manager may be vulnerable. | [source](https://www.synology.com/en-global/security/advisory/Synology_SA_21_30) |
 | syntevo | DeepGit | >= 4.0 | Fix | 3.0.x and older are vulnerable | [source](https://www.syntevo.com/blog/?p=5240)
 | syntevo | SmartGit | >= 18.1 | Fix | 17.1.x and older are vulnerable | [source](https://www.syntevo.com/blog/?p=5240)
