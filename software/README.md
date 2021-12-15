@@ -1610,7 +1610,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | TrendMicro | ActiveUpdate  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Apex Central (including as a Service)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Apex One (all versions including Mac and Saas)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud App Security  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Cloud App Security  |  | fix | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Cloud Edge  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Cloud One - Application Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Cloud One - Common Services  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
@@ -1618,14 +1618,14 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | TrendMicro | Cloud One - Container Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Cloud One - File Storage Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Cloud One - Network Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Cloud One - Workload Secuity  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Cloud One - Workload Secuity  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Cloud Sandbox  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Deep Discovery Advisor  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Deep Discovery Analyzer  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Deep Discovery Director  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Email Inspector  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Inspector  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Deep Discovery Web Inspector  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Deep Discovery Email Inspector  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Deep Discovery Inspector  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Deep Discovery Not vuln  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Deep Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Endpoint Application Control  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Fraudbuster  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
@@ -1633,10 +1633,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | TrendMicro | Housecall  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Instant Messaging Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Internet Security for Mac (Consumer)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Interscan Messaging Security  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Interscan Messaging Security Virtual Appliance (IMSVA)  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Interscan Web Security Suite  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Interscan Web Security Virtual Appliance (IWSVA)  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Interscan Messaging Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Interscan Messaging Security Virtual Appliance (IMSVA)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Interscan Web Security Suite  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Interscan Web Security Virtual Appliance (IWSVA)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Mobile Secuirty for Enterprise  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | MyAccount (Consumer Sign-on)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Network Viruswall  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
@@ -1646,13 +1646,13 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | TrendMicro | Policy Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Portable Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | PortalProtect  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Remote Manager  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Remote Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Rescue Disk  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Rootkit Buster  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Safe Lock 2.0  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Safe Lock  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | Sandbox as a Service  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
-| TrendMicro | ScanMail for Domino  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Safe Lock  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | Sandbox as a Service  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
+| TrendMicro | ScanMail for Domino  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | ScanMail for Exchange  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Secuirty for Mac  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
 | TrendMicro | Security for NAS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
