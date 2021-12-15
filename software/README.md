@@ -113,8 +113,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Backblaze      | Cloud | N/A (SaaS) | Fix | Cloud service patched |[source](https://help.backblaze.com/hc/en-us/articles/4412580603419) |
-| BeyondTrust    | Privilege Management Cloud | Unknown | Vulnerable | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
-| BeyondTrust    | Privilege Management Reporting | Unknown | Vulnerable | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
+| BeyondTrust    | Privilege Management Cloud | Unknown | Not vuln | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
+| BeyondTrust    | Privilege Management Reporting | Unknown | Not vuln | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
 | Bitdefender   | GravityZone On-Premises | Unknown | Not vuln | |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability) |
 | Bitnami       | Unknown | Unknown | Fix | |[source](https://docs.bitnami.com/general/security/security-2021-12-10/) |
@@ -749,6 +749,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Extreme Networks | VOSS || Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
 | Extreme Networks | WiNG || Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
 | Extreme Networks | XIQ-SE || Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
+| Ewon | eCatcher | 6.7.6 | Fix |  |  [source](https://hmsnetworks.blob.core.windows.net/www/docs/librariesprovider10/downloads-monitored/manuals/release-notes/ecatcher_releasenotes.txt?sfvrsn=4f054ad7_42) |
 
 ### F
 
@@ -840,6 +841,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | HackerOne | Unknown | Unknown | Fix ||[source](https://twitter.com/jobertabma/status/1469490881854013444)|
 | Hashicorp| All products | |Not Vuln | | [source](https://support.hashicorp.com/hc/en-us/articles/4412469195795-CVE-2021-44228-Log4J-has-no-impact-on-HashiCorp-Products)|
+| HCL Software | BigFix Insights | Unknown | Not vuln | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Insights for Vulnerability Remediation | Unknown | Not vuln | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Compliance | Unknown | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
@@ -850,6 +853,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Helpsystems | Clearswift Secure ICAP Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
 | HCL Software | BigFix Compliance | > 2.0.1 ; < 2.0.4 | Workaround | | [source](https://forum.bigfix.com/t/bigfix-compliance-has-a-remediation-for-log4j-vulnerability-cve-2021-44228/40197)|
 | HCL Software | BigFix Inventory | < 10.0.7 | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Lifecycle | Unknown | Not vuln | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Mobile | Unknown | Not vuln | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+
+| HCL Software | BigFix Patch | Unknown | Not vuln | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | Hexagon | ERDAS APOLLO Advantage & Professional | Unknown | Investigation | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hexagon | ERDAS APOLLO Essentials | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hexagon | GeoMedia SmartClient | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
@@ -863,6 +870,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Hexagon | Luciad Lightspeed | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hexagon | M.App Enterprise standalone or with Luciad Fusion | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hexagon | M.App Enterprise | Unknown | Investigation | Might be vulnerable only when used with Geoprocessing Server | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hitachi Energy |  |  | Investigation | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD003132&LanguageCode=en&DocumentPartId=&Action=Launch)|
 | Hitachi Vantara | Pentaho | v8.3.x, v9.2.x | Not vuln | | [source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 | HostiFi | Unifi hosting | Unknown | Fix | Hosted Unifi solution | [source](https://twitter.com/hostifi_net/status/1440311322592231436) |
 | HPE |3PAR StoreServ Arrays| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=a00120086en_us) |
@@ -1100,6 +1108,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Lightbend | Play Framework| Unknown | Not Vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Liongard | All products  | Unknown | Investigation| | [source](https://insights.liongard.com/faq-apache-log4j-vulnerability) |
 | LiquidFiles | LiquidFiles | All versions | Not vuln | |[source](https://mailchi.mp/liquidfiles/liquidfiles-log4j) |
+| LiveAction | LiveNX | <21.5.1 | Fix | [source](https://documentation.liveaction.com/LiveNX/LiveNX%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNX%2021.5.1.1.3) |
+| LiveAction | LiveNA | <21.5.1 | Fix | [source](https://documentation.liveaction.com/LiveNA/LiveNA%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNA%2021.5.1.1.2) |
 | LogZilla | NEO | All versions | Not vuln | LogZilla's engine is C++ |
 | LogicMonitor | LogicMonitor SaaS Platform| Unknown | Fix | Automatic update before 13th December [source](https://communities.logicmonitor.com/topic/7472-logicmonitor-collectors-running-vulnerable-version-of-log4j-are-affected-by-log4shell-cve-2021-44228-vulnerability/) |
 | Lyrasis | DSpace | 7.x | Fix/Workaround | |[source](https://groups.google.com/g/dspace-community/c/Fa4VdjiiNyE) |
@@ -1474,6 +1484,18 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
+| SAE IT-systems  | codeIT Runtime  | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | codeIT Workbench | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | connectIT       | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | net-line series5 | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | setIT           | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | SG-50 / Kombisafe | all | Investigation | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | Straton Runtime   | all | Investigation | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | Straton Workbench | all | Investigation | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | System-4        | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | T10/T7 Touch panel | all | Investigation | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | visIT Runtime   | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
+| SAE IT-systems  | visIT Workbench | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
 | Safe            | FME Server      | | Investigation | | [source](https://community.safe.com/s/article/Is-FME-Server-Affected-by-the-Security-Vulnerability-Reported-Against-log4j) |
 | SailPoint       | IdentityIQ      | 8.0 or later | Workaround      |                 | [source](https://community.sailpoint.com/t5/IdentityIQ-Blog/IdentityIQ-log4j-Remote-Code-Execution-Vulnerability/m-p/206681#M342) |
 | Salesforce      | All products    | | Investigation | | [source](https://status.salesforce.com/generalmessages/826) |
@@ -1803,6 +1825,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Yahoo           | Vespa           |                 | Not vuln        | Your Vespa application may still be affected if log4j is included in your application package |[source](https://blog.vespa.ai/log4j-vulnerability/) |
 | Y Soft          | SAFEQ 6 | <= 6.0.63 | Workaround |  |[source](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf) |
+| Yellowfin       | Yellowfin       | 8.0.10.3, 9.7.0.2 | Fix | v7 and v6 releases are not affected unless you have manually upgraded to Log4j2 | [source](https://community.yellowfinbi.com/announcement/notice-critical-vulnerability-in-log4j2) |
 
 ### Z
 
