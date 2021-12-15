@@ -1989,6 +1989,30 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 ### X
 
+| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+|:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
+| Xerox | All other products | | Investigation | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | AltaLink B8000 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | AltaLink B8100 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | AltaLink C8000 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | AltaLink C8100 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | B1022/1025 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Baltoro HF Inkjet Press | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | EC8036/EC8056 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | iGen 5 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Instant Print Kiosk | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Nuvera EA Perfecting Production Systems | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Nuvera EA Production Systems | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Phaser 3330 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Phaser 3435 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Versant 180/280 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Versant 3100/4100 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | WorkCentre 3335/45 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | WorkCentre 5865i/5875i/58901 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | WorkCentre 7970i | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | WorkCentre EC7836/EC7856 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Workplace Kiosk | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+
 ### Y
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links      |
