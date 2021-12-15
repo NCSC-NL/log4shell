@@ -1686,8 +1686,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Tripwire | Tripwire for Servers (TFS)  |  | Not vuln | |[source](https://www.tripwire.com/log4j) |
 | Tripwire | Tripwire Connect (on-prem)   |  | Vulnerable  | |[source](https://www.tripwire.com/log) |
 | Tripwire | Tripwire Connect SaaS (cloud)  |  | Vulnerable  | |[source](https://www.tripwire.com/log4j) |
-| Tripwire | Tripwire Configuration Manager SaaS  |  | Vulnerable  | |[source](https://www.tripwire.com/log4j) 
-| Tripwire | Tripwire Anyware SCM  |  | Vulnerable  | |[source](https://www.tripwire.com/log4j) 
+| Tripwire | Tripwire Configuration Manager SaaS  |  | Vulnerable  | |[source](https://www.tripwire.com/log4j)
+| Tripwire | Tripwire Anyware SCM  |  | Vulnerable  | |[source](https://www.tripwire.com/log4j)
 | Tripwire | Tripwire State Analyzer  |  | Vulnerable  | |[source](https://www.tripwire.com/log4j) |
 | Tripwire | Tripwire Industrial Sentinel  |  | Workaround  | |[source](https://www.tripwire.com/log4j) |
 
