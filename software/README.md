@@ -12,7 +12,7 @@ NCSC-NL will use the following status:
 | Not vuln     | Software is **NOT** vulnerable for CVE-2021-44228. |
 | Investigation     | Software is under investigation whether it is vulnerable or not |
 
-The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerFplable version(s). If `Status` is Fix, Version indicates the fixed version(s).
+The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerable version(s). If `Status` is Fix, Version indicates the fixed version(s).
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
 
@@ -1787,6 +1787,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Tenable | All products  | | Not vuln  | | [source](https://community.tenable.com/s/article/Log4Shell-FAQs)  |
 | TheHive | Cortex | all | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
 | TheHive | TheHive | all | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
+| TOPdesk | TOPdesk SaaS | all | Not Vuln | | [source](https://my.topdesk.com/tas/public/ssp/content/detail/knowledgeitem?unid=74952771dfab4b0794292e63b0409314) |
+| TOPdesk | TOPdesk On-Premises Virtual Appliance | all | Not Vuln | | [source](https://my.topdesk.com/tas/public/ssp/content/detail/knowledgeitem?unid=74952771dfab4b0794292e63b0409314) |
+| TOPdesk | TOPdesk On-Premises Classic | all | Not Vuln | Althoug the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](https://my.topdesk.com/tas/public/ssp/content/detail/knowledgeitem?unid=74952771dfab4b0794292e63b0409314) |
 | Topicus Security | Topicus KeyHub | all | Not vuln | | [source](https://blog.topicus-keyhub.com/topicus-keyhub-is-not-vulnerable-to-cve-2021-44228/) |
 | Tosibox | All products | | Fix | | [source](https://helpdesk.tosibox.com/support/solutions/articles/2100050946-security-advisory-on-vulnerability-in-apache-log4j-library-cve-2021-44228)|
 | Trend Micro | 5G Mobile Network Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
