@@ -1114,6 +1114,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | McAfee | ePolicy Orchestrator Agent Handlers (ePO-AH) | Unknown | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
 | McAfee | ePolicy Orchestrator Application Server (ePO) | 5.10 CU11 | Workaround || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
 | McAfee | ePolicy Orchestrator Application Server (ePO) | <= 5.10 CU10 | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
+| Meinberg | LANTIME | all | Not Vuln | | [source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535) |
+| Meinberg | microSync | all | Not Vuln | | [source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535) |
 | Memurai | All products | | Not Vuln | | [source](https://www.memurai.com/blog/apache-log4j2-cve-2021-44228) |
 | messageconcept | PeopleSync |  All | Not vuln |  |[source](https://messageconcept.atlassian.net/wiki/spaces/PSKB/pages/2139095041/Is+PeopleSync+affected+by+Log4Shell) |
 | Metabase  | Metabase                         | <0.41.4 | Fix      | Mitigations available for earlier versions                                                                | [source](https://github.com/metabase/metabase/releases/tag/v0.41.4)                                                                                                                                                                                                        |
