@@ -51,7 +51,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Alphatron        | JiveX | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
 | Alphatron        | Zorgbericht | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
 | Amazon        | AMS | | Fix | AMS services are being addresed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | API Gateway | | Fix | Update is in progress |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | API Gateway | | Fix | All hosts now patched |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS CloudHSM | 3.4.1 | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS Elastic Beanstalk | | Not vuln | Default configuration is not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS Glue | | Fix | See source for more info |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
