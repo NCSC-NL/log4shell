@@ -1061,6 +1061,14 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Illumio | QRadar App | | Not vuln | | [source](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)|
 | Illumio | Splunk App | | Not vuln | | [source](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)|
 | Illumio | VEN | | Not vuln | | [source](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)|
+| Imprivata | ConfirmID | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | Cortext | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | GroundControl | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | Identity Governance | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | Mobile Device Access | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | OneSign | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
+| Imprivata | PAM | | Fix | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?urlName=IPAM-Log4j-CVE-2021-44228-vulnerability-mitigation)|
+| Imprivata | PatientSecure | | Not Vuln | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
 | Inductive Automation | Ignition | All versions | Not Vuln| | [source](https://support.inductiveautomation.com/hc/en-us/articles/4416204541709-Regarding-CVE-2021-44228-Log4j-RCE-0-day) |
 | Influxdata | All | All versions | Not Vuln| | [source](https://www.influxdata.com/blog/apache-log4j-vulnerability-cve-2021-44228/) |
 | Informatica | Axon | 7.2.x | Workaround |  | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
