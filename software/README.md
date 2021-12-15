@@ -1997,6 +1997,23 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Wind River | Wind River Linux | > 8 | Not vuln | no support for log4j | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
 | WitFoo | WitFoo Precinct | 6.x | Fix | WitFoo Streamer & Apache Kafka Docker containers are/were vulnerable | [source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
 | Wowza | Wowza Streaming Engine | 4.7.8, 4.8.x | Workaround | |[source](https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve) |
+| WSO2 | WSO2 API Manager | >= 3.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 API Manager Analytics | >= 2.6.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Enterprise Integrator | >= 6.1.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Enterprise Integrator Analytics | >= 6.6.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Identity Server | >= 5.9.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Identity Server Analytics | >= 5.7.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Identity Server as Key Manager | >= 5.9.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Micro Gateway | >= 3.2.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Micro Integrator | >= 1.1.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Micro Integrator Dashboard | >= 4.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Micro Integrator Monitoring Dashboard | >= 1.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Stream Processor | >= 4.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Stream Integrator | >= 1.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Stream Integrator Tooling | >= 1.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Open Banking AM | >= 2.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Open Banking BI | >= 1.3.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
+| WSO2 | WSO2 Open Banking KM | >= 2.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
 
 ### X
 
