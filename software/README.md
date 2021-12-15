@@ -1297,6 +1297,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Pexip | VMR self-service portal | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Planon Software | Planon Universe | all | Not vuln | | [source](https://my.planonsoftware.com/uk/news/log4j-impact-on-planon/) |
 | Plex | Industrial IoT | | Not vuln | Mitigation already applied, patch will be issued today | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
+| Plex | Media Server | | Not vuln | | [source](https://www.reddit.com/r/PleX/comments/rdolem/comment/ho3ve32/?utm_source=share&utm_medium=web2x&context=3) |
 | Portex | Portex | <3.0.2 | Fix | | [source](https://github.com/katjahahn/PortEx/releases)|
 | Postgres | PostgreSQL JDBC | | Not vuln | | [source](https://www.postgresql.org/about/news/postgresql-jdbc-and-the-log4j-cve-2371/) |
 | Progress | DataDirect Hybrid Data Pipeline | | Workaround | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-Hybrid-Data-Pipeline-vulnerable-CVE-2021-44228-Log4j) |
