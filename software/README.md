@@ -1978,6 +1978,45 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Tripwire | Tripwire Anyware SCM  |  | Vulnerable  | |[source](https://www.tripwire.com/log4j)
 | Tripwire | Tripwire State Analyzer  |  | Vulnerable  | |[source](https://www.tripwire.com/log4j) |
 | Tripwire | Tripwire Industrial Sentinel  |  | Workaround  | |[source](https://www.tripwire.com/log4j) |
+| TRUMPF | PFO Smart Teach App |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | QDS 2.0 |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | redpowerDirect |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | Smart Power Tube |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | Smart View Services |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruBend Cell 5000 / 7000 |  | Investigation | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruBend Center |  | Investigation | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruConvert |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruDiode |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruDisk |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruFiber |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruHeat |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruLaser 5000 series |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruLaser all other series |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruLaser Center 7030 |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruMark |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruMatic 1000 fiber |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruMatic 3000 |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruMatic all other series |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruMicro series |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TRUMPF TRUMPF Seamline Remote |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TRUMPF Visionline |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruPlasma |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruPulse |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops Boost |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops Calculate |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops Classic |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops Cell |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops FAB |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops I-PFO |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops Mark 3D |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops Monitor |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops PFO |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops Print |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruTops Print Multilaser Assistant |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruPrint Monitoring Analyzer |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruPunch 1000 / 3000 |  | Investigation  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | TruPunch all other series |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
+| TRUMPF | all other TRUMPF machines and systems |  | Not vuln  | |[source](https://www.trumpf.com/filestorage/TRUMPF_Master/Corporate/Security/TRUMPF-Security-Information-TSI-2021-1.pdf) |
 
 ### U
 
