@@ -31,6 +31,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
+| ABB |  |  | Investigation | | [source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&LanguageCode=en&DocumentPartId=&Action=Launch)|
 | Accellence Technologies | vimacc | All | Not vuln | | [source](https://www.accellence.de/en/articles/national-vulnerability-database-62)
 | Accellence Technologies | EB&#220;S | All | Workaround | EB&#220;S itself is not vulnerable to CVE-2021-44228. Although it includes several 3rd-partie software setups, which may be affected (source will be updated soon with further information). | [source](https://www.accellence.de/en/articles/national-vulnerability-database-62)
 | Acronis       | All |  | Investigation | See further information below| [source](https://security-advisory.acronis.com/advisories/SEC-3859)
@@ -1806,7 +1807,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Tableau | Tableau Desktop | 2021.4| Investigation | | [source](https://www.tableau.com/support/releases/desktop/2021.4)
-| Tableau | Tableau Server | 2021.2.5| Vulnerable | [Fix/workaround](https://medium.com/starschema-blog/log4j-vulnerability-in-tableau-how-to-fix-workaround-unofficial-f6bf63320f13) | [source](https://www.tableau.com/support/releases/server/2021.2.5)
+| Tableau | Tableau Server | 2021.2.5| Investigation | | [source](https://www.tableau.com/support/releases/server/2021.2.5)
 | Talend | Talend Component Kit | | Fix | |[source](https://jira.talendforge.org/browse/TCOMP-2054) |
 | Tanium | All products | all | Not vuln | | [source](https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell#_Toc90296319)
 | TARGIT | All products | all | Not vuln | | [source](vendor-statements/Targit.png)
