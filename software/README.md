@@ -31,7 +31,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| ABB | Alarminsight Cloud | | Investigation | | [source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&LanguageCode=en&DocumentPartId=&Action=Launch)
+| ABB | Alarminsight Cloud | | Investigation | Potentially affected as per the advisory | [source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&LanguageCode=en&DocumentPartId=&Action=Launch)
 | Accellence Technologies | vimacc | All | Not vuln | | [source](https://www.accellence.de/en/articles/national-vulnerability-database-62)
 | Accellence Technologies | EB&#220;S | All | Workaround | EB&#220;S itself is not vulnerable to CVE-2021-44228. Although it includes several 3rd-partie software setups, which may be affected (source will be updated soon with further information). | [source](https://www.accellence.de/en/articles/national-vulnerability-database-62)
 | Acronis       | All |  | Investigation | See further information below| [source](https://security-advisory.acronis.com/advisories/SEC-3859)
