@@ -674,6 +674,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Dell | Wyse Management Suite | Unknown | Vulnerable | Fix Release Timeline TBD | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Wyse Proprietary OS (ThinOS) | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Wyse Windows Embedded | Unknown | Vulnerable | Fix Release Timeline TBD | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
+| Devolutions | All products | | Not vuln | | [source](https://blog.devolutions.net/2021/12/critical-vulnerability-in-log4j/) | 
 | Docker | Docker infrastructure | Unknown | Not vuln | Docker infrastructure not vulnerable, Docker images could be vulnerable. For more info see source. |[source](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/) |
 | Dropwizard | Dropwizard | Unknown | Not vuln | Only vulnerable if you manually added Log4j |[source](https://twitter.com/dropwizardio/status/1469285337524580359) |
 | Dynatrace | ActiveGates | 1.229.49.20211210-165018, 1.227.31.20211210-164955, 1.225.29.20211210-164930, 1.223.30.20211210-164926 | Fix | |[source](https://community.dynatrace.com/t5/Dynatrace-Open-Q-A/Impact-of-log4j-zero-day-vulnerability/m-p/177259/highlight/true#M19282) |
@@ -1087,6 +1088,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Kaseya | Vorex | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Kaseya | products not listed above | Unknown | Investigation | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Keycloak | Keycloak | all version | Not Vuln | | [source](https://github.com/keycloak/keycloak/discussions/9078) |
+| Kofax | Robotic Process Automation (RPA) | 11.1 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
+| Kofax | Robotic Process Automation (RPA) | 11.2 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
+| Kofax | Robot File System (RFS) | >=10.7 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
 
 ### L
 
@@ -1402,6 +1406,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | QlikTech International | Qlik Sense Enterprise | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
 | QlikTech International | QlikView | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
 | QNAP | General information QNAP | | Investigation | Applications maintained by a third-party are under investigation. | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
+| QNAP | QES Operating System | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) | 
 | QNAP | Qsirch | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
 | QNAP | QTS operating system | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
 | QNAP | QuTS hero operating system | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
