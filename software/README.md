@@ -698,11 +698,13 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Elastic         | Logstash | < 6.8.21, < 7.16.1 | Fix | No known remote code execution exposure, Fixed in 6.8.21, 7.16.1 | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Machine Learning | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Swiftype | | Investigation |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| ELO             | Digital Office || Not Vuln || [source](http://www.elo.com)|
-| ESET            | All products | Unknown | Not vuln | |[source](https://support.eset.com/en/alert8188-information-regarding-the-log4j2-vulnerability) |
+| ELO | Digital Office || Not Vuln || [source](http://www.elo.com)|
+| ESET | All products | Unknown | Not vuln | |[source](https://support.eset.com/en/alert8188-information-regarding-the-log4j2-vulnerability) |
 | Esri | ArcGIS Enterprise and related products | < 10.8.0 | Vulnerable |  | [source](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/) |
 | estos            | All products | Unknown | Not vuln | |[source](https://support.estos.de/de/sicherheitshinweise/estos-von-kritischer-schwachstelle-in-log4j-cve-2021-44228-nicht-betroffen) |
 | EVL Labs | JGAAP | <8.0.2 | Fix | | [source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2) |
+| Exivity | Exivity On-Premise | All version | Not Vuln | | [source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228) |
+| Exact | All Products | | Investigation | | [source NL](https://www.exact.com/nl/nieuws/algemeen-statement-apache-lek), [source EN](https://www.exact.com/news/general-statement-apache-leak) |
 | Evolveum | midPoint || Not vuln | | [source](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/) |
 | eXtreme Hosting | All products | Unknown | Not vuln | |[source](https://extremehosting.nl/log4shell-log4j/) |
 | Extreme Networks | 200-series || Investigation |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
@@ -1298,6 +1300,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | PaperCut  | PaperCut Views | | Not vuln | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228) |
 | Parallels | Remote Application Server  | All versions | Not Vuln | | [source](https://kb.parallels.com/en/128696) |
 | Pega | Pega Platform | On Prem | Fix | | [source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability) |
+| Paxton | Net2 Door Entry | >=v5.03.4114.4205 SR3 | Not Vuln | [source](software/vendor-statements/paxton_Net2_door_entry.png)
 | Pexip | Endpoint Activation | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Eptools | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Infinity | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
