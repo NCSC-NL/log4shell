@@ -13,6 +13,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | crypt0jan     | Perform a scan of a single host (using Powershell) to see if it's vulnerable | https://github.com/crypt0jan/log4j-powershell-checker |
 | Diverto | Nmap NSE scripts to check against log4shell | https://github.com/Diverto/nse-log4shell |
 | Dtact | DIVD-2021-00038 log4j scanner Scan paths including archives for vulnerable log4 | https://github.com/dtact/divd-2021-00038--log4j-scanner |
+| Deepfence ThreatMapper | Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless | https://github.com/deepfence/ThreatMapper |
 | FullHunt | Open detection and scanning tool (Python) for discovering and fuzzing for Log4J vulnerability | https://github.com/fullhunt/log4j-scan |
 | Grype   | Open source vulnerability scanner (docker), picks up nested JARs containing log4j | https://github.com/anchore/grype |
 | Huntress  | Online Log4Shell Vulnerability Tester| https://log4shell.huntress.com/ |
