@@ -1755,7 +1755,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Veeam        | All products  | | Not vuln |  | [source](https://www.veeam.com/kb4254)|
-| Wildfly      | Wildfly  | | Not vuln |  | [source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
 | VMware       | API Portal for VMware Tanzu  | 1.x | Fix | Fixed in 1.0.7 | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.pivotal.io/products/api-portal#/releases/1012478) |
 | VMware       | AppDefense Appliance | 2.x | Workaround |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
 | VMware       | App Metrics  | 2.1.1 | Fix |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.pivotal.io/products/apm) |
@@ -1812,6 +1811,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | WatchGuard | WatchGuard System Manager, Dimension, WatchGuard EPDR and Panda AD360 | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
 | Wind River | Wind River Linux | <= 8 | Not vuln | "contain package log4j, but their version is 1.2.x, too old to be affected" | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
 | Wind River | Wind River Linux | > 8 | Not vuln | no support for log4j | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
+| Wildfly      | Wildfly  | | Not vuln |  | [source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
 | WitFoo | WitFoo Precinct | 6.x | Fix | WitFoo Streamer & Apache Kafka Docker containers are/were vulnerable | [source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
 | Wowza | Wowza Streaming Engine | 4.7.8, 4.8.x | Workaround | |[source](https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve) |
 
