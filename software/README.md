@@ -704,6 +704,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Esri | ArcGIS Enterprise and related products | < 10.8.0 | Vulnerable |  | [source](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/) |
 | estos            | All products | Unknown | Not vuln | |[source](https://support.estos.de/de/sicherheitshinweise/estos-von-kritischer-schwachstelle-in-log4j-cve-2021-44228-nicht-betroffen) |
 | EVL Labs | JGAAP | <8.0.2 | Fix | | [source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2) |
+| Exivity | Exivity On-Premise | All version | Not Vuln | | [source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228) |
 | Exact | All Products | | Investigation | | [source NL](https://www.exact.com/nl/nieuws/algemeen-statement-apache-lek), [source EN](https://www.exact.com/news/general-statement-apache-leak) |
 | Evolveum | midPoint || Not vuln | | [source](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/) |
 | eXtreme Hosting | All products | Unknown | Not vuln | |[source](https://extremehosting.nl/log4shell-log4j/) |
