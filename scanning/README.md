@@ -24,7 +24,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | OlafHaalstra | Scans a list of URLs with `GET` or `POST` request with user defined parameters (python) | https://github.com/OlafHaalstra/log4jcheck |
 | righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
-| logpresso | Command-line tool for CVE-2021-44228 vulnerability scanning and mitigation patch | https://github.com/logpresso/CVE-2021-44228-Scanner |
+| logpresso | JAR scanning command-line tool for CVE-2021-44228 vulnerability scanning and mitigation patch | https://github.com/logpresso/CVE-2021-44228-Scanner |
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
