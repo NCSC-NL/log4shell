@@ -826,6 +826,14 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | HackerOne | Unknown | Unknown | Fix ||[source](https://twitter.com/jobertabma/status/1469490881854013444)|
 | Hashicorp| All products | |Not Vuln | | [source](https://support.hashicorp.com/hc/en-us/articles/4412469195795-CVE-2021-44228-Log4J-has-no-impact-on-HashiCorp-Products)|
+| HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Compliance | Unknown | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| HCL Software | BigFix Inventory | Unknown | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| Helpsystems | Clearswift Secure Email Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
+| Helpsystems | Clearswift Secure Exchange Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
+| Helpsystems | Clearswift Secure Web Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
+| Helpsystems | Clearswift Secure ICAP Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
 | HCL Software | BigFix Compliance | > 2.0.1 ; < 2.0.4 | Workaround | | [source](https://forum.bigfix.com/t/bigfix-compliance-has-a-remediation-for-log4j-vulnerability-cve-2021-44228/40197)|
 | HCL Software | BigFix Inventory | < 10.0.7 | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | Hexagon | ERDAS APOLLO Advantage & Professional | Unknown | Investigation | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
