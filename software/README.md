@@ -43,10 +43,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Akamai        | Siem Splunk Connector | =>1.4.10 | Not vuln |  | [source](https://community.akamai.com/customers/s/feed/0D54R00008Osz7sSAB) (paywall) |
 | Akamai        | Siem Splunk Connector | <1.4.10 | Workaround | Akamai SIEM Integration Connector for Splunk is not vulnerable to CVE-2021-44228. Although it includes the vulnerable Log4J component, it is not used by the connector. | [source](https://github.com/akamai/siem-splunk-connector) |
 | Alertus        | Console              | 5.15.0| Fix | | [source](https://help.alertus.com/s/article/Security-Advisory-Log4Shell-Vulnerability?language=en_US)
-| Alphatron        | AMiSconnect | | Not Vuln | | [source] (https://www.alphatronmedical.com/home.html) |
-| Alphatron        | Custo diagnostics  | 5.4 to 5.6 | Vuln | Potentially vulnerable through the HL7 and DICOM communication interfaces | [source] (https://www.alphatronmedical.com/home.html) |
-| Alphatron        | JiveX | | Not Vuln | | [source] (https://www.alphatronmedical.com/home.html) |
-| Alphatron        | Zorgbericht | | Not Vuln | | [source] (https://www.alphatronmedical.com/home.html) |
+| Alphatron        | AMiSconnect | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
+| Alphatron        | Custo diagnostics  | 5.4 to 5.6 | Vuln | Potentially vulnerable through the HL7 and DICOM communication interfaces | [source](https://www.alphatronmedical.com/home.html) |
+| Alphatron        | JiveX | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
+| Alphatron        | Zorgbericht | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
 | Amazon        | AMS | | Fix | AMS services are being addresed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | API Gateway | | Fix | Update is in progress |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS CloudHSM | 3.4.1 | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
@@ -1316,12 +1316,12 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Pexip | Pexip Service | all | Fix | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Reverse Proxy and TURN Server | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | VMR self-service portal | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
-| Philips | IntelliBridge Enterprise | B.13 and B.15 | Vuln | Software only products with customer owned Operating Systems | [source] (https://www.philips.com/a-w/security/security-advisories.html) |
-| Philips | IntelliSpace Precision Medicine | | Vuln | Software only products with customer owned Operating Systems | [source] (https://www.philips.com/a-w/security/security-advisories.html) |
-| Philips | ISPACS | | Workaround | Philips hosting environment is evaluating the VMware provided workaround and in the process of deploying for managed service customers. | [source] (https://www.philips.com/a-w/security/security-advisories.html) |
-| Philips | RIS Clinic | | Vuln | | [source] (https://www.philips.com/a-w/security/security-advisories.html) |
-| Philips | Tasy EMR | | Vuln | | [source] (https://www.philips.com/a-w/security/security-advisories.html) |
-| Philips | VuePACS | | Vuln | | [source] (https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | IntelliBridge Enterprise | B.13 and B.15 | Vuln | Software only products with customer owned Operating Systems | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | IntelliSpace Precision Medicine | | Vuln | Software only products with customer owned Operating Systems | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | ISPACS | | Workaround | Philips hosting environment is evaluating the VMware provided workaround and in the process of deploying for managed service customers. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | RIS Clinic | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | Tasy EMR | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | VuePACS | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Planon Software | Planon Universe | all | Not vuln | | [source](https://my.planonsoftware.com/uk/news/log4j-impact-on-planon/) |
 | Plex | Industrial IoT | | Not vuln | Mitigation already applied, patch will be issued today | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
 | Portex | Portex | <3.0.2 | Fix | | [source](https://github.com/katjahahn/PortEx/releases)|
