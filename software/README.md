@@ -1609,40 +1609,55 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Schneider Electric | All products  |  | Investigation | | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
 | Security Onion Solutions | Security Onion | 2.3.90 20211210 | Fix | | [source](https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html) |
 | Shibboleth      | Shibboleth IdP/SP | | Not Vuln |  | [source](https://shibboleth.net/pipermail/announce/2021-December/000253.html) |
-| Siemens     | Capital (and its derivatives) | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Comos Desktop App | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Advantage Navigator Cloud Service | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Advantage Navigator Software Proxy | all | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Capital (and its derivatives) | >= 2019.1 SP1912 | Workaround | Only vulnerable if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Comfy | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Comos Desktop App | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Desigo CC Advanced Reporting | V4.0, V4.1, V4.2, V5.0, V5.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Desigo CC Info Center | V5.0, V5.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | E-Car OC Cloud Application | | Fix | Vulnerability fixed on central cloud service starting2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | EnergyIP | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | EnergyIP Prepay | 3.7, 3.8 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Geolus | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | HCRA | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | HES UDIS | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Enlighted | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Geolus | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | GMA-Manager | > V8.6.2j-398 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | HCRA | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | HES UDIS | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Industrial Edge Management App (IEM-App) | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Industrial Edge Management OS (IEM-OS) | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Industrial Edge Manangement Hub | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | LOGO! Soft Comfort | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Industrial Edge Manangement Hub | all | Fix | Vulnerability fixed on central cloud service starting 2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | LOGO! Soft Comfort | all | Workaround | Only LOGO! Web Projects deployed to AWS are potentially affected | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Mendix Applications | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Mindsphere Cloud Application | | Fix | Vulnerability fixed on central cloud service starting2021-12-11; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Mindsphere Cloud Application | < 2021-12-11 | Fix | Vulnerability fixed on central cloud service starting2021-12-11; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Opscenter Intelligence | >= 3.2 | Workaround | Only OEM version that ships Tableau is affected | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Operation Scheduler |  >= V1.1.3 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | RUGGEDCOM ELAN | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | RUGGEDCOM MAESTRO | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | RUGGEDCOM ELAN | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | RUGGEDCOM MAESTRO | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | SIGUARD DSA | V4.2, V4.3, V4.4 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SIMATIC WinCC V7.4 | V7.4 SP1 | Fix | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINAMICS TEC - SDK | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINUMERIK Analyze MyWorkpiece / Capture | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINUMERIK Optimize MyMachine | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SiPass Integrated | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SIMATIC WinCC V7.4 | < V7.4 SP1 | Fix | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SINAMICS TEC - SDK | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SINUMERIK Analyze MyWorkpiece / Capture | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SINUMERIK Optimize MyMachine | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SiPass Integrated | V2.80, V2.85 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Siveillance Command |  >= 4.16.2.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Control Pro | < V2.1 | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Siveillance Control Pro | all | Fix | Hotfix available for versions >= V2.1 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Siveillance Control Pro | >= V2.1 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Siveillance Identity | V1.5, V1.6 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Siveillance Vantage | all | Vulnerable | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SIZER Design Tool for SINAMICS | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge Technical Publication | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge Wiring and Harness Design | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Spectrum Power | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | XHQ | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | SIZER Design Tool for SINAMICS | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Solid Edge | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Solid Edge Technical Publication | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Solid Edge Wiring and Harness Design | >= 2020 SP2002 | Workaround | Only affected if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Spectrum Power 4 | all versions only with component jROS in version 3.0.0 | Fix | Patch available for V4.70 SP9 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Spectrum Power 7 | all except < V2.30 SP2 without component jROS | Fix | Patch available for V21Q4 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Teamcenter | all | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Teamcenter Integration for NX (TcIN) | <= NX 2007 | Workaround | Also known as "NX Managed Mode" | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | VeSys | >= 2019.1 SP1912 | Workaround | Only vulnerable if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | XHQ | | Not Vuln | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Xpedition EDM Client | VX.2.6-VX.2.10 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Xpedition EDM Server | VX.2.6-VX.2.10 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Xpedition Package Integrator | VX.2.6-VX.2.10 | Workaround | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Sitecore    | Sitecore Content Hub | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
 | Sitecore    | Sitecore CDP | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
 | Sitecore    | Sitecore Personalize | | Not Vuln | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
