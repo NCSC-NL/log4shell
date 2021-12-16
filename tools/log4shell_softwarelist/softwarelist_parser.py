@@ -62,21 +62,12 @@ def parse_record(record: List[Tag] = None) -> dict:
     return result
 
 @click.group()
-@click.option('--path', help='Path to software list README.md', type=click.File())
-@click.option('--download', help='Download software list README.md', default=False)
+@click.option('--path', default='../../software/README.md', help='Path to software list README.md', type=click.File())
 @click.pass_context
-def main(ctx, path, download):
-
-    if not path and not download:
-        click.echo("No source directory selected or download flag given; exiting")
-        sys.exit(1)
-
-    if download:
-        content = download_softwarelist()
-    else:
-        content = path.read()
+def main(ctx, path):
 
     # Parse Markdown to HTML and get soup
+    content = path.read()
     html = mistune.html(content)
     soup = BeautifulSoup(html, 'html.parser')
 
