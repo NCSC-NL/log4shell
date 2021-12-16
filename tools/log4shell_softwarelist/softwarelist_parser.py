@@ -73,13 +73,14 @@ def main(ctx, path):
 
     # Look for all tr columns with td fields, after first h3 header
     records = list()
-    for h3 in soup.find_all('h3'):
-        for x in h3.next_elements:
-            if isinstance(x, Tag) and x.name == 'tr':
-                tds = x.find_all('td')
+    first_h3 = soup.find('h3')
 
-                if tds:  # ensure empty tr are ignored
-                    records.append(parse_record(tds))
+    for x in first_h3.next_elements:
+        if isinstance(x, Tag) and x.name == 'tr':
+            tds = x.find_all('td')
+
+            if tds:  # ensure empty tr are ignored
+                records.append(parse_record(tds))
 
     ctx.obj['records'] = records
 
