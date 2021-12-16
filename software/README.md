@@ -2213,6 +2213,21 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Veeam        | All products  | | Not vuln |  | [source](https://www.veeam.com/kb4254)|
+| Veritas | Aptare IT Analytics | 10.5 and 10.6 | Workaround | Version 10.4 and earlier are not affected. | [source](https://www.veritas.com/support/en_US/article.100052081) |
+| Veritas | NetBackup Appliance | 3.1.2 through 4.1.0.1 MR1 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Client | 7.7.3 through 9.1.0.1 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup CloudPoint | 2.2.2, 8.3 through 9.1.0.1 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Flex Scale | 2.1 | Workaround | Veritas strongly recommends customers using version 1.3 or 1.3.1 to upgrade to NetBackup FlexScale 2.1 in order to be able to perform the mitigation steps. | [source](https://www.veritas.com/content/support/en_US/article.100052101.html) |
+| Veritas | NetBackup Media Server | 8.1 through 9.1.0.1 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Media Server container on Flex Appliance | 8.1 through 9.1.0.1 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup OpsCenter | 7.7 through 7.7.3 and 8.0 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup OpsCenter | 8.1.2 through 9.1.0.1 | Workaround | Veritas has published updated versions of Log4j that replace the vulnerable libraries used by NetBackup OpsCenter 8.1.2 through 9.1.0.1. | [source](https://www.veritas.com/support/en_US/article.100052100) |
+| Veritas | NetBackup Primary Server | 7.7 through 7.7.3 and 8.0 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Primary Server | 8.1.2 through 9.1.0.1 | Workaround | Veritas has published updated versions of Log4j that replace the vulnerable libraries used by NetBackup Primary Server 8.1.2 through 9.1.0.1. | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Primary Server BYO (also known as Master Server) | 8.1 through 8.1.1 | Workaround | Veritas strongly recommends customers upgrade to NetBackup 8.1.2 or the latest release in order to be able to perform the mitigation steps. | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Primary Server container on Flex Appliance | 8.1.2 through 9.1.0.1 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052084) |
+| Veritas | NetBackup Resiliency Platform | 3.4 through 4.0 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052109) |
+| Veritas | Media Server Deduplication Pool (MSDP) (on NB Appliance) | 3.1.2 and 3.2 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052062) |
 | VMware       | API Portal for VMware Tanzu  | 1.x | Fix | Fixed in 1.0.7 | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.pivotal.io/products/api-portal#/releases/1012478) |
 | VMware       | AppDefense Appliance | 2.x | Workaround |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
 | VMware       | App Metrics  | 2.1.1 | Fix |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.pivotal.io/products/apm) |
