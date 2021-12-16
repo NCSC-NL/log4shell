@@ -143,6 +143,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Atlassian     | Jira Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Avaya         | | | | | [source](https://support.avaya.com/helpcenter/getGenericDetails?detailId=1399839287609) |
 | AVM           | all products | devices, firmware, software incl. MyFritz Service | Not Vuln |  | [source](https://en.avm.de/service/current-security-notifications/) |
+| AXIS          | AXIS OS | All versions | Not Vuln | | [source](https://help.axis.com/axis-os) |
 
 ### B
 
