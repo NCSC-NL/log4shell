@@ -2080,11 +2080,11 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Tableau | Tableau Desktop | 2021.4| Vulnerable | | [source](https://www.tableau.com/support/releases/desktop/2021.4)
 | Tableau | Tableau Server | 2021.2.5| Vulnerable | | [source](https://www.tableau.com/support/releases/server/2021.2.5)
-| Tableau | Tableau Desktop | 2021.4.1 | Fix available | [Fix](https://www.tableau.com/support/releases/desktop/2021.4.1) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
-| Tableau | Tableau Server | 2021.4.1 | Fix available | [Fix](https://www.tableau.com/support/releases/server/2021.4.1) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
-| Tableau | Tableau Prep | 2021.4.2 | Fix available | [Fix](https://www.tableau.com/support/releases/prep/2021.4.2) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
-| Tableau | Tableau Bridge | 20214.21.1214.2057 | Fix available | [Fix](https://www.tableau.com/support/releases/bridge/20214.21.1214.2057) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
-| Tableau | Tableau Reader | unkown | Fix Available | [Fix](https://www.tableau.com/products/reader?_ga=2.154005304.1064648072.1639643339-2071977377.1639643339) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
+| Tableau | Tableau Desktop | 2021.4.1 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
+| Tableau | Tableau Server | 2021.4.1 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
+| Tableau | Tableau Prep | 2021.4.2 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
+| Tableau | Tableau Bridge | 20214.21.1214.2057 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |Apache-Log4j2-vulnerability-Log4shell)
+| Tableau | Tableau Reader | unkown | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
 | Tailscale | Tailscale | all | Not vuln | | [source](https://github.com/tailscale/tailscale/issues/3550) |
 | Talend | Talend Component Kit | | Fix | |[source](https://jira.talendforge.org/browse/TCOMP-2054) |
 | Tanium | All products | all | Not vuln | | [source](https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell#_Toc90296319)
