@@ -12,7 +12,7 @@ NCSC-NL will use the following status:
 | Not vuln     | Software is **NOT** vulnerable for CVE-2021-44228. |
 | Investigation     | Software is under investigation whether it is vulnerable or not |
 
-The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerable version(s). If `Status` is Fix, Version indicates the fixed version(s).
+The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerFplable version(s). If `Status` is Fix, Version indicates the fixed version(s).
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
 
@@ -88,6 +88,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Apache        | Fortress | < 2.0.7 | Fix | Fixed in 2.0.7 | [source](https://blogs.apache.org/security/entry/cve-2021-44228)|
 | Apache        | Geode | 1.14.0 | Fix | Fixed in 1.12.6, 1.13.5, 1.14.1 |[source](https://cwiki.apache.org/confluence/plugins/servlet/mobile?contentId=66849544#ReleaseNotes-1.14.1) |
 | Apache        | Hadoop | 3.3.1 | Vulnerable | Assumed vulnerable, log4j is used. |[source](https://gist.github.com/francescosimoneschi/6530036) |
+| Apache        | HBase | Unknown | Vulnerable | Fix is committed, but not yet released |[source](https://github.com/apache/hbase/pull/3933) |
+| Apache        | Hive | 4.x | Fix | Fix in 4.x | [source](https://issues.apache.org/jira/browse/HIVE-25795) |
 | Apache        | James | 3.6.0 | Vulnerable |  |[source](https://twitter.com/dlitchfield/status/1469809966785564675) |
 | Apache        | Jena | < 4.3.1 | Fix | Fixed in 4.3.1 |[source](https://blogs.apache.org/security/entry/cve-2021-44228)|
 | Apache        | JMeter | Any | Vulnerable| Manual Bypass |[source](https://github.com/apache/jmeter/pull/680#issuecomment-993204248)|
@@ -159,6 +161,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
 | Bitdefender   | GravityZone On-Premises | Unknown | Not vuln | |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability) |
 | Bitnami       | Unknown | Unknown | Fix | |[source](https://docs.bitnami.com/general/security/security-2021-12-10/) |
+| BioJava       | Java library for processing biological data | 6.0.3 | Fix | |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.3) |
 | BMC Software  | 3270 SUPEROPTIMIZER/CICS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | Application Restart Control for Db2    | | Not vuln | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | Application Restart Control for IMS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
@@ -943,7 +946,11 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Hexagon | Luciad Lightspeed | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hexagon | M.App Enterprise standalone or with Luciad Fusion | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
 | Hexagon | M.App Enterprise | Unknown | Investigation | Might be vulnerable only when used with Geoprocessing Server | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hitachi Energy |  |  | Investigation | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD003132&LanguageCode=en&DocumentPartId=&Action=Launch)|
+| Hitachi Energy | all other products | | Investigation | Meta-Advisory listing all known affected products, other are still unter investigation | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD003132&LanguageCode=en&DocumentPartId=&Action=Launch)|
+| Hitachi Energy | FOXMAN-UN | < R11BSP1 | Vulnerable | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000088&LanguageCode=en&DocumentPartId=&Action=Launch) |
+| Hitachi Energy | FOXMAN-UN | R15A, R14B, R14A, R11BSP1 | Workaround | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000088&LanguageCode=en&DocumentPartId=&Action=Launch) |
+| Hitachi Energy | UNEM | < R11BSP1 | Vulnerable | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000089&LanguageCode=en&DocumentPartId=&Action=Launch) |
+| Hitachi Energy | UNEM | R15A, R14B, R14A, R11BSP1 | Workaround | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000089&LanguageCode=en&DocumentPartId=&Action=Launch) |
 | Hitachi Vantara | Pentaho | v8.3.x, v9.2.x | Not vuln | | [source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 | HostiFi | Unifi hosting | Unknown | Fix | Hosted Unifi solution | [source](https://twitter.com/hostifi_net/status/1440311322592231436) |
 | HPE |3PAR StoreServ Arrays| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=a00120086en_us) |
@@ -1155,8 +1162,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Jamf Nation | Jamf Threat Defense| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jazz/IBM | JazzSM DASH | Unknown | See notes | DASH on WebSphere Application Server requires mitigations | [source](https://www.ibm.com/support/pages/node/6525552) |
 | Jenkins | Jenkins CI | Unknown | Not Vuln | Invidivual plugins not developed as part of Jenkins core *may* be vulnerable. | [source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) |
-| JetBrains | IntelliJ IDEA and other IntelliJ platform based IDEs | Unknown | Not vuln	 | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
-| JetBrains | All .NET tools | Unknown | Not vuln	 | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
+| JetBrains | IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm) | Unknown | Not vuln	 | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
+| JetBrains | All .NET tools (ReSharper, Rider, ReSharper C++, dotTrace, dotMemory, dotCover, dotPeek) | Unknown | Not vuln	 | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JetBrains | ToolBox | Unknown | Not vuln	 | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JetBrains | TeamCity | Unknown | Not vuln | | [source](https://youtrack.jetbrains.com/issue/TW-74298) |
 | JetBrains | Hub | 2021.1.14080 | Fix | | [source](https://blog.jetbrains.com/hub/2021/12/14/hub-update-regarding-log4j2-vulnerability/) |
@@ -1271,7 +1278,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | ManageEngine | ADManager Plus | Unknown | Investigation| Mitigation: set `-Dlog4j2.formatMsgNoLookups=true` in `jvm.options`. | [source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-ad-manager-plus) |
 | ManageEngine | Desktop Central | Unknown | Not Vuln | |[source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-security-issue) |
 | ManageEngine | EventLog Analyzer | Unknown | Workaround | |[source](https://pitstop.manageengine.com/portal/en/community/topic/fixing-log4j-cve-2021-44228-vulnerability-in-log360) |
-| Mathworks | MATLAB | All | Not Vuln | |[source](https://www.mathworks.com/content/dam/mathworks/policies/mathworks-response-to-cve-2021-44228-log4j-vulnerability.pdf) |
+| Mattermost   | Mattermost | | Not Vuln | | [source](https://forum.mattermost.org/t/security-update-log4j-security-vulnerability/12695) |
 | McAfee | Data Exchange Layer (DXL) | Unknown | Not Vuln || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
 | McAfee | Enterprise Security Manager (ESM) | 11.x | Workaround || [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
 | McAfee | McAfee Active Response (MAR) | Unknown | Not Vuln | Standalone MAR not vulnerable, for MAR included in bundle see TIE | [source](https://kc.mcafee.com/corporate/index?page=content&id=KB95091) |
@@ -1332,6 +1339,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | MongoDB | Realm | Unknown | Not vuln | including Realm Database, Sync, Functions, APIs | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
 | MongoDB | Tools | Unknown | Not vuln | Including Compass, Database Shell, VS Code Plugin, Atlas CLI, Database Connectors | [source](https://www.mongodb.com/blog/post/log4shell-vulnerability-cve-2021-44228-and-mongodb)
 | Moodle | Moodle | All | Not vuln | | [source](https://moodle.org/mod/forum/discuss.php?d=429966)
+| Moxa | All | All | Not vuln | | [source](https://www.moxa.com/en/support/product-support/security-advisory/moxa-s-response-regarding-the-apache-log4j-vulnerability) |
 
 ### N
 
@@ -1507,11 +1515,18 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Pexip | Pexip Service | all | Fix | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Reverse Proxy and TURN Server | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | VMR self-service portal | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
-| Philips | IntelliBridge Enterprise | B.13 and B.15 | Vuln | Software only products with customer owned Operating Systems | [source](https://www.philips.com/a-w/security/security-advisories.html) |
-| Philips | IntelliSpace Precision Medicine | | Vuln | Software only products with customer owned Operating Systems | [source](https://www.philips.com/a-w/security/security-advisories.html) |
-| Philips | ISPACS | | Workaround | Philips hosting environment is evaluating the VMware provided workaround and in the process of deploying for managed service customers. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | IntelliBridge Enterprise | B.13 and B.15 | Vuln | Software only products with customer owned Operating Systems. For products solutions where the server was provided it is customer responsibility to validate and deploy patches. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | IntelliSite Pathology Solution 5.1 | L1 | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | IntelliSpace PACS | | Workaround | Philips hosting environment is evaluating the VMware provided workaround and in the process of deploying for managed service customers. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | IntelliSpace Precision Medicine | | Vuln | Software only products with customer owned Operating Systems. For products solutions where the server was provided it is customer responsibility to validate and deploy patches. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | Pathology De-identifier 1.0 | L1 | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | Performance Bridge | 3.0 | Vuln | Software only products with customer owned Operating Systems. For products solutions where the server was provided by Philips, it will be Philips responsibility to validate and provide patches. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | Pinnacle | 18.x | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | Protocol Applications | 1.1 | Vuln | Software only products with customer owned Operating Systems. For products solutions where the server was provided by Philips, it will be Philips responsibility to validate and provide patches. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Philips | RIS Clinic | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
-| Philips | Tasy EMR | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | Scanner Protocol Manager | 1.1 | Vuln | Software only products with customer owned Operating Systems. For products solutions where the server was provided by Philips, it will be Philips responsibility to validate and provide patches. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | Tasy EMR | | Vuln | Software only products with customer owned Operating Systems. For products solutions where the server was provided it is customer responsibility to validate and deploy patches. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
+| Philips | Universal Data Manager (UDM) | 1.x,2.1.x,2.2.x,3.1.x | Workaround | Philips hosting environment is evaluating the VMware provided workaround and in the process of deploying for managed service customers. | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Philips | VuePACS | | Vuln | | [source](https://www.philips.com/a-w/security/security-advisories.html) |
 | Phoenix Contact | Cloud Services | | Vulnerable | Remediations are being implemented | [source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability_Statement_Log4J_20211215.pdf) |
 | Phoenix Contact | Physical products containing firmware | |  Not vuln | | [source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability_Statement_Log4J_20211215.pdf) |
@@ -1687,6 +1702,21 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | SailPoint       | IdentityIQ      | 8.0 or later | Workaround      |                 | [source](https://community.sailpoint.com/t5/IdentityIQ-Blog/IdentityIQ-log4j-Remote-Code-Execution-Vulnerability/m-p/206681#M342) |
 | Salesforce      | All products    | | Investigation | | [source](https://status.salesforce.com/generalmessages/826) |
 | SAP             | S/4 HANA On-Premise on ABAP | | Not Vuln | | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | S/4 HANA Cloud Customer systems | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | S/4 HANA Digital Payments Add-On | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Business Intelligence | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Explorer | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Data Services | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Financial Information Management | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | BusinessObjects Knowledge Accelerator | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Database | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Smart Data Integration | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Streaming Analytics | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Spatial Service | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | HANA Streaming Analytics | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | Integrated Business Planning for Supply Chain – Customer systems | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | NetWeaver Application Server for ABAP | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | SuccessFactors Litmos | | Not Vuln | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
 | SAP             | Customer Checkout PoS / manager | 2.0 FP09, 2.0 FP10, 2.0 FP11 PL06 (or lower) and 2.0 FP12 PL04 (or lower) | Fix | SAP note 3130499 | [source](https://launchpad.support.sap.com/#/notes/0003130499) |
 | SAP             | XS Advanced Runtime | 1.0.140 or lower | Fix | SAP note 3130698 | [source](https://launchpad.support.sap.com/#/notes/3130698) |
 | SAS Institute   | JMP | | Not vuln | | [source](https://support.sas.com/content/support/en/security-bulletins/remote-code-execution-vulnerability-cve-2021-44228.html) |
@@ -1696,6 +1726,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Schneider Electric | EcoStruxure IT Expert  |  | Fix | cloud-based offer; no customer action required.  | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
 | Schneider Electric | EcoStruxure IT Gateway  | 1.5.0 - 1.13.0 | Vulnerable | | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
 | Schneider Electric | EcoStruxure IT Gateway  | 1.13.1.5 | Fix | | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
+| Seafile  | Seafile Server | | Fix | | [source] (https://forum.seafile.com/t/security-advisory-seafile-servers-vulnerability-to-log4shell-log4j-vulnerability-cve-2021-44228/15590) |
 | Security Onion Solutions | Security Onion | 2.3.90 20211210 | Fix | | [source](https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html) |
 | Shibboleth      | Shibboleth IdP/SP | | Not Vuln |  | [source](https://shibboleth.net/pipermail/announce/2021-December/000253.html) |
 | Siemens     | Advantage Navigator Cloud Service | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
@@ -1947,9 +1978,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Trend Micro | Interscan Messaging Security Virtual Appliance (IMSVA)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Interscan Web Security Suite  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Interscan Web Security Virtual Appliance (IWSVA)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| Trend Micro | Mobile Secuirty for Enterprise  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| Trend Micro | Mobile Secuirty for Android  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| Trend Micro | Mobile Secuirty for iOS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Mobile Security for Enterprise  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Mobile Security for Android  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Mobile Security for iOS  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | MyAccount (Consumer Sign-on)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Network Viruswall  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | OfficeScan  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
