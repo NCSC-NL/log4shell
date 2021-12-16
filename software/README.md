@@ -1581,6 +1581,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | QNAP | QuTS hero operating system | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
 | QOS.ch          | SLF4J Simple Logging Facade for Java | |  | SLF4J API doesn't protect against the vulnerability when using a vulnerable version of log4j | [source](http://slf4j.org/log4shell.html) |
 | QUEST | Quest KACE SMA | | Not Vuln | | [source](https://support.quest.com/kace-systems-management-appliance/kb/335869/are-the-kace-sma-and-kace-sda-appliances-affected-by-cve-2021-44228) |
+| QUEST | Foglight | 5.9 | Not Vuln | | [source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US) |
+| QUEST | Foglight | 6.0 | Workaround | | [source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US) |
 
 ### R
 
