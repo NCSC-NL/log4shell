@@ -827,7 +827,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |Forcepoint |Web Security                                                                         ||Investigation | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forescout | | | Investigation | | [source](https://www.forescout.com/blog/forescout%e2%80%99s-response-to-cve-2021-44228-apache-log4j-2/)
 |ForgeRock        | Autonomous Identity |  | Workaround | all other ForgeRock products not vuln | [source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa) |
-|Fortinet| FortiAIOps| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiAIOps| version < 1.0.1 |Vulnerable| Fixed in version 1.0.2 |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiAnalyzer Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiAnalyzer| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiAP| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -847,9 +847,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |Fortinet| FortiOS (includes FortiGate & FortiWiFi)| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiPhish Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiPolicy| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiPortal | |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiPortal | Fix |Vulnerable| Fixed in version 6.0.8 and 5.3.8 |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiRecorder| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiSIEM| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiSIEM| Workaround |Vulnerable| [Mitigation steps](https://community.fortinet.com/t5/FortiSIEM/Techincal-Tip-FortiSIEM-Log4j-Mitigating-CVE-2021-44228/ta-p/201008) |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiSOAR| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiSwitch Cloud in FortiLANCloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiSwitch & FortiSwitchManager| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -859,7 +859,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |Fortinet| ShieldX| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |F-Secure| Endpoint Proxy | 13-15| Fix| |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
 |F-Secure| Policy Manager | 13-15| Fix| |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
-|F-Secure| Policy Manager Proxy| 13-15| Fix| |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
+|F-Secure| Policy Manager Proxy| 13-15| Fix | |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
 |FusionAuth| FusionAuth| 1.32|Not Vuln||[source](https://fusionauth.io/blog/2021/12/10/log4j-fusionauth/)|
 
 ### G
