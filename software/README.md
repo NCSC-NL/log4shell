@@ -1812,6 +1812,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Tableau | Tableau Prep | <=2021.4 | Fix available | [Fix](https://www.tableau.com/support/releases/prep/2021.4.2) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
 | Tableau | Tableau Bridge | <=20214.21.1109.1748 | Fix available | [Fix](https://www.tableau.com/support/releases/bridge/20214.21.1214.2057) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
 | Tableau | Tableau Reader | unkown | Fix Available | [Fix](https://www.tableau.com/products/reader?_ga=2.154005304.1064648072.1639643339-2071977377.1639643339) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
+| Tailscale | Tailscale | all | Not vuln | | [source](https://github.com/tailscale/tailscale/issues/3550) |
 | Talend | Talend Component Kit | | Fix | |[source](https://jira.talendforge.org/browse/TCOMP-2054) |
 | Tanium | All products | all | Not vuln | | [source](https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell#_Toc90296319)
 | TARGIT | All products | all | Not vuln | | [source](vendor-statements/Targit.png)
