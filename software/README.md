@@ -811,6 +811,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Devolutions | All products | | Not vuln | | [source](https://blog.devolutions.net/2021/12/critical-vulnerability-in-log4j/) | 
 | DirectAdmin | All products | | Not vuln | Invidivual plugins not developed as part of DirectAdmin core may be vulnerable. | [source](https://forum.directadmin.com/threads/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare.65173/post-339723) |
 | Docker | Docker infrastructure | Unknown | Not vuln | Docker infrastructure not vulnerable, Docker images could be vulnerable. For more info see source. |[source](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/) |
+| DotCMS | Hybrid Content Management System | | Fix | | [source](https://github.com/dotCMS/core/issues/21393) |
 | Draytek | All products | Unknown | Not vuln | |[source](https://www.draytek.com/about/security-advisory/log4shell-vulnerability-(cve-2021-44228)/) |
 | Dräger | All Medical Devices | | Not Vuln | | [source](https://static.draeger.com/security) |
 | Dropwizard | Dropwizard | Unknown | Not vuln | Only vulnerable if you manually added Log4j |[source](https://twitter.com/dropwizardio/status/1469285337524580359) |
