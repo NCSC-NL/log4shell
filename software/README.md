@@ -740,6 +740,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Dell | Wyse Proprietary OS (ThinOS) | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Wyse Windows Embedded | Unknown | Vulnerable | Fix Release Timeline TBD | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Devolutions | All products | | Not vuln | | [source](https://blog.devolutions.net/2021/12/critical-vulnerability-in-log4j/) | 
+| DirectAdmin | All products | | Not vuln | Invidivual plugins not developed as part of DirectAdmin core may be vulnerable. | [source](https://forum.directadmin.com/threads/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare.65173/post-339723) |
 | Docker | Docker infrastructure | Unknown | Not vuln | Docker infrastructure not vulnerable, Docker images could be vulnerable. For more info see source. |[source](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/) |
 | Dropwizard | Dropwizard | Unknown | Not vuln | Only vulnerable if you manually added Log4j |[source](https://twitter.com/dropwizardio/status/1469285337524580359) |
 | Dynatrace | ActiveGates | 1.229.49.20211210-165018, 1.227.31.20211210-164955, 1.225.29.20211210-164930, 1.223.30.20211210-164926 | Fix | |[source](https://community.dynatrace.com/t5/Dynatrace-Open-Q-A/Impact-of-log4j-zero-day-vulnerability/m-p/177259/highlight/true#M19282) |
