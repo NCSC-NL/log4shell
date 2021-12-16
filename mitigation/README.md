@@ -84,3 +84,9 @@ Snort and Suricata rules:
 | Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability fields (Sigma rule) | https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j_fields.yml |
 | Neo23x0   | Florian Roth Detects exploitation attempt against log4j RCE vulnerability (Sigma rule) | https://github.com/SigmaHQ/sigma/blob/master/rules/web/web_cve_2021_44228_log4j.yml |
 | Neo23x0   | Florian Roth Fenrir Simple IOC scanner bash script | https://github.com/Neo23x0/Fenrir |
+
+### Generic detection guidance
+
+| Source      | Notes        | Links |
+|:----------------|:----------------|:---------------:|
+| w4rguy   | Gerrit Kortlever guidance on which detections can take place in different steps of the attack, which conclusions can be derived from them and which logs are required to detect the attempts | https://github.com/NCSC-NL/log4shell/tree/main/mitigation/Log4j%20Attack%20Detection%20Guidance%20-%20Release.pdf |
