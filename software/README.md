@@ -2262,6 +2262,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Variphy      | All products  | | Not vuln |  | [source](https://kb.variphy.com/knowledge-base/cve-2021-44228-critical-vulnerability-in-log4j2/)|
+| Vectra       | All products  | | Not vuln |  | [source](https://support.vectra.ai/s/article/KB-VS-1568)|
 | Veeam        | All products  | | Not vuln |  | [source](https://www.veeam.com/kb4254)|
 | Veritas | Aptare IT Analytics | 10.5 and 10.6 | Workaround | Version 10.4 and earlier are not affected. | [source](https://www.veritas.com/support/en_US/article.100052081) |
 | Veritas | NetBackup Appliance | 3.1.2 through 4.1.0.1 MR1 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
