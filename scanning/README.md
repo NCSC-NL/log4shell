@@ -37,3 +37,4 @@ Checks if the application or system is using Log4j2.
 | Syft | Open source SBOM scanner, can detect all dependencies including log4j | https://github.com/anchore/syft/ |
 | Kelvin Tegelaar | Open sourced(MIT license) PowerShell log4j detection. Uses "Everything" to prevent high system load | https://www.cyberdrain.com/monitoring-with-powershell-detecting-log4j-files/ |
 | DIVD | This scanner will recursively scan paths including archives for vulnerable log4j versions and JndiLookup.class files. |https://github.com/dtact/divd-2021-00038--log4j-scanner |
+| Mergebase | Detects Log4J versions on your file-system within any application that are vulnerable to CVE-2021-44228 and CVE-2021-45046. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too! | https://github.com/mergebase/log4j-detector |
