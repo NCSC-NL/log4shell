@@ -2406,4 +2406,4 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Zesty           | Zesty.io        |                 | Not vuln        | |[source](https://www.zesty.io/mindshare/company-announcements/log4j-exploit/) |
 | Zoho | Online | | Investigation | | [source](https://help.zoho.com/portal/en/community/topic/update-on-the-recent-apache-log4j-vulnerability )|
 | Zscaler         | All products    |                 | Fix        | |[source](https://trust.zscaler.com/posts/9581) |
-| Zyxel           | All products    |                 | Investigation       | |[source](https://community.zyxel.com/en/discussion/12229/zyxel-security-advisory-for-apache-log4j-rce-vulnerability) |
+| Zyxel           | NetAtlas Element Management System (EMS)  |  | Vulnerable       | Hotfix availability Dec. 20, 2021, Patch availability in end of Feb. 2022 |[source](https://community.zyxel.com/en/discussion/12229/zyxel-security-advisory-for-apache-log4j-rce-vulnerability) |
