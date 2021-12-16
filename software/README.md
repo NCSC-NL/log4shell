@@ -1954,6 +1954,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Sprecher Automation | SPRECON-EDIR | all | Not vuln | | [source](https://www.sprecher-automation.com/en/it-security/security-alerts) |
 | Sprecher Automation | SPRECON-SG | all | Not vuln | | [source](https://www.sprecher-automation.com/en/it-security/security-alerts) |
 | Sprecher Automation | SPRECON-V | all | Not vuln | | [source](https://www.sprecher-automation.com/en/it-security/security-alerts) |
+| Stackstate | | 4.3.x, 4.4.x, 4.5.x and SaaS | Workaround | StackState ships with a version of Elasticsearch that contains a vulnerable Log4j library. | [source](https://support.stackstate.com/hc/en-us/articles/4412242847506-Apache-Log4j2-Remote-Code-Execution-RCE-Vulnerability-CVE-2021-44228) |
+| Stackstate | Agent | | Workaround | StackState Agent distributed as an RPM, DEB or MSI package contains a vulnerable Log4j library. | [source](https://support.stackstate.com/hc/en-us/articles/4412242847506-Apache-Log4j2-Remote-Code-Execution-RCE-Vulnerability-CVE-2021-44228) |
 | Stardog | Stardog | <7.8.1 | Fix | | [source](https://community.stardog.com/t/stardog-7-8-1-available/3411) |
 | Stratodesk | NoTouch | 4.5.231 | Fix | | [source](http://cdn.stratodesk.com/repository/notouch-center/10/4.5.231/0/ReleaseNotes-Stratodesk-NoTouch_Center-4.5.231.html) |
 | Sumo logic | Sumu logic | 19.361-12 | Fix | | [source](https://help.sumologic.com/Release-Notes/Collector-Release-Notes#december-11-2021-19-361-12) |
