@@ -2175,9 +2175,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | VMware       | Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87091)|
 | Vuze         | Vuze Torrent (desktop/server/mobile) | Revision 44261 | Unknown | Also know as Azureus | [source](http://svn.vuze.com/public/client/trunk/uis/lib/), [vendor](https://www.vuze.com/)
 
-
-
-
 ### W
 
 | Supplier | Product | Version | Status | Notes | Links |
