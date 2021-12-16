@@ -402,6 +402,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | CaseWare | Cloud | All | Fix | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
 | CaseWare | IDEA | All | Not vuln | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
 | CaseWare | WorkingPapers | All | Not vuln | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
+| Catalogic | CloudCasa | All | Not vuln | |[source](https://cloudcasa.io/forum/topic/no-apache-log4j-issues-in-cloudcasa) |
 | Cepheid | C360 | | Not vuln | | [source](https://www.cepheid.com/en_US/legal/product-security-updates) |
 | Cepheid | GeneXpert | | Investigation | | [source](https://www.cepheid.com/en_US/legal/product-security-updates) |
 | Cerebro | Cerebro Elasticsearch Web Admin | All | Not vuln | Uses logback for logging |[source](https://github.com/lmenezes/cerebro/blob/main/conf/logback.xml#L5) |
