@@ -835,7 +835,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Extreme Networks | VOSS || Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
 | Extreme Networks | WiNG || Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
 | Extreme Networks | XIQ-SE || Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
-| Ewon | eCatcher | 6.7.6 | Fix |  |  [source](https://hmsnetworks.blob.core.windows.net/www/docs/librariesprovider10/downloads-monitored/manuals/release-notes/ecatcher_releasenotes.txt?sfvrsn=4f054ad7_42) |
+| Ewon | eCatcher | 6.7.7 | Fix |  |  [source](https://hmsnetworks.blob.core.windows.net/www/docs/librariesprovider10/downloads-monitored/manuals/release-notes/ecatcher_releasenotes.txt?sfvrsn=4f054ad7_42) |
 
 ### F
 
