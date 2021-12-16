@@ -1083,7 +1083,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | HPE |SGI UV 3000 Server| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |SGI UV 300, 300H, 300RL, 30EX| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |Shasta Monitoring Framework (SMF) |All versions | Vulnerable | | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
-| HPE |Silver Peak Orchestrator |All versions | Vulnerable |All customer managed Orchestrator and legacy GMS products | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
+| HPE | Silver Peak Orchestrator |  | Workaround | |[source](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt), [workaround](https://www.arubanetworks.com/website/techdocs/sdwan/docs/advisories/media/security_advisory_notice_apache_log4j2_cve_2021_44228.pdf) |
 | HPE |SimpliVity 325, 380 Gen9, 380 Gen10 and 2600 Gen10 |All versions | Vulnerable | | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
 | HPE |SimpliVity OmniCube |All versions | Vulnerable | | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
 | HPE |SN8700B 8-Slot Director Switch| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
