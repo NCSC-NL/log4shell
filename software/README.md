@@ -431,7 +431,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Cisco |GGSN Gateway GPRS Support Node|Unknown|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Hosted Collaboration Mediation Fulfillment|Unknown|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |HyperFlex System|Unknown|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco |Identity Services Engine (ISE)|Unknown|Vulnerable||[source](https://tools.cisco.com/bugsearch/bug/CSCwa47133)|
+| Cisco |Identity Services Engine (ISE)|Unknown|Fix||[source](https://tools.cisco.com/bugsearch/bug/CSCwa47133)|
 | Cisco |Integrated Management Controller (IMC) Supervisor| Unknown | Vulnerable || [source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |Intersight|Unknown|Investigation||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Intersight Virtual Appliance| Unknown | Vulnerable || [source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
@@ -1085,29 +1085,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Intel | oneAPI sample browser plugin for Eclipse |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | System Debugger |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | Secure Device Onboard |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
-| InterSystems | API Manager |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | Atelier Integration |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | Cache |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | Ensemble |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | FHIR Accelerator |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Care Community |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Clinical Viewer | 2019.2 to 2021.1 | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Health Connect |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Health Insight |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Message Transformation Service |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Patient Index |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Personal Community |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Provider Directory |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | HealthShare Unified Care Record |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | Health Integration as a Service |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | InterSystems Cloud Manager |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | IRIS |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | IRIS for Health |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | ISC Reports |  | Vulnerable | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | TrakCare Core |  | Vulnerable | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | TrakCare Editions |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | TrakCare Lab |  | Investigation | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
-| InterSystems | VS Code Integration |  | Not Vuln | | [source](https://www.intersystems.com/gt/apache-log4j2/) |
 | IronNet | All products | All verisons | Investigation | | [source](https://www.ironnet.com/blog/ironnet-security-notifications-related-to-log4j-vulnerability) |
 | ISL Online | All products | All versions | Not Vuln | | [source](https://blog.islonline.com/2021/12/13/isl-online-is-not-affected-by-log4shell-vulnerability/) |
 | ISPNext | All products | All versions | Not Vuln | | [source](vendor-statements/ISPNext.png) |
@@ -1731,7 +1708,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | SolarWinds      | Database Performance Analyzer | 2021.1.x, 2021.3.x, 2022.1.x | Workaround | | [source](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228), [workaround](https://support.solarwinds.com/SuccessCenter/s/article/Database-Performance-Analyzer-DPA-and-the-Apache-Log4j-Vulnerability-CVE-2021-44228?language=en_US) |
 | SolarWinds      | Orion Platform core | | Not vuln | | [source](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228) |
 | SolarWinds      | Server & Application Monitor | >= 2020.2.6 | Workaround | | [source](https://www.solarwinds.com/trust-center/security-advisories/cve-2021-44228), [workaround](https://support.solarwinds.com/SuccessCenter/s/article/Server-Application-Monitor-SAM-and-the-Apache-Log4j-Vulnerability-CVE-2021-44228?language=en_US) |
-| Soliton Systems | MailZen Management Portal - On-Premise | 2.36.2, 2.37.3, 2.38.2 | Fix | | [source](https://blog.solitonsystems.com/news/update-on-log4j-vulnerability#:~:text=mailzen%20management%20portal%20%E2%80%93%20on-premise) | 
+| Soliton Systems | MailZen Management Portal – On-Premise | Fixed Portal versions (v2.36.2, v2.37.3, v2.38.2) | Fix | | [source](https://blog.solitonsystems.com/news/update-on-log4j-vulnerability#:~:text=mailzen%20management%20portal%20%E2%80%93%20on-premise) | 
 | Soliton Systems | MailZen Management - Cloud Service | all | Fix | | [source](https://status.solitonsystems.com/) |
 | Soliton Systems | MailZen Push Server | all | Fix | | [source](https://status.solitonsystems.com/) |
 | Soliton Systems | Other products | all | Not vuln | | [source](https://blog.solitonsystems.com/news/update-on-log4j-vulnerability) |
