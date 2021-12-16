@@ -18,14 +18,14 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 ## Software overview
 
-[0-9](#0-9) [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)    
+[0-9](#0-9) [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ### 0-9
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | 3CX           | All      |  | Not vuln |  | [source](https://www.3cx.com/community/threads/log4j-vulnerability-cve-2021-44228.86436/post-407835)
-| 7Signal       | Sapphire |  | Fix |Fix released 2021-12-14 | Corresp. with vendor|               
+| 7Signal       | Sapphire |  | Fix |Fix released 2021-12-14 | Corresp. with vendor|
 
 ### A
 
@@ -89,7 +89,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Apache        | Kafka | All versions | Not vuln | Uses log4j 1.x |[source](https://lists.apache.org/thread/lgbtvvmy68p0059yoyn9qxzosdmx4jdv) |
 | Apache        | Karaf | Unknown | Vulnerable | Depends on [PAX logging](https://github.com/ops4j/org.ops4j.pax.logging/issues/414) which is affected |[source](https://mail-archives.apache.org/mod_mbox/karaf-dev/202112.mbox/browser) |
 | Apache        | Log4j | 2.16.0 | Fix | |[source](https://logging.apache.org/log4j/2.x/security.html) |
-| Apache        | Maven | All Versions | Not Vuln |  |[source](https://blogs.apache.org/security/entry/cve-2021-44228) 
+| Apache        | Maven | All Versions | Not Vuln |  |[source](https://blogs.apache.org/security/entry/cve-2021-44228)
 | Apache        | NiFi | All Versions| Fix | Fixed in 1.15.1, 1.16.0 | [source](https://issues.apache.org/jira/browse/NIFI-9474) |
 | Apache        | OFBiz | < 18.12.03 | Fix | Fixed in 18.12.03 | [source](https://blogs.apache.org/security/entry/cve-2021-44228) |
 | Apache        | Ozone | < 1.2.1 | Fix | Fixed in 1.2.1 | [source](https://blogs.apache.org/security/entry/cve-2021-44228) |
@@ -729,7 +729,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Dell | Wyse Management Suite Import Tool | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Wyse Proprietary OS (ThinOS) | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Wyse Windows Embedded | Unknown | Vulnerable | Fix Release Timeline TBD | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
-| Devolutions | All products | | Not vuln | | [source](https://blog.devolutions.net/2021/12/critical-vulnerability-in-log4j/) | 
+| Devolutions | All products | | Not vuln | | [source](https://blog.devolutions.net/2021/12/critical-vulnerability-in-log4j/) |
 | Docker | Docker infrastructure | Unknown | Not vuln | Docker infrastructure not vulnerable, Docker images could be vulnerable. For more info see source. |[source](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/) |
 | Dropwizard | Dropwizard | Unknown | Not vuln | Only vulnerable if you manually added Log4j |[source](https://twitter.com/dropwizardio/status/1469285337524580359) |
 | Dynatrace | ActiveGates | 1.229.49.20211210-165018, 1.227.31.20211210-164955, 1.225.29.20211210-164930, 1.223.30.20211210-164926 | Fix | |[source](https://community.dynatrace.com/t5/Dynatrace-Open-Q-A/Impact-of-log4j-zero-day-vulnerability/m-p/177259/highlight/true#M19282) |
@@ -1064,10 +1064,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Informatica | Product 360 | All versions | Workaround  | | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
 | Informatica | Secure Agents (Cloud hosted)| Unknown | Fix | Fixed agents may need to be restarted| [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-updates-for-Informatica-Cloud-and-Cloud-Hosted-Software) |
 | Infoblox | All products | All versions | Not Vuln | | [source](https://blogs.infoblox.com/security/infoblox-response-to-apache-log4j-vulnerability/) |
-| INIT GmbH | AppComm | | Not Vuln | | [source](vendor-statements/init.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
-| INIT GmbH | MOBILE-PERDIS | | Not Vuln | | [source](vendor-statements/init.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
-| INIT GmbH | Mobile Plan | 4.22.* and 5.*  | Vulnerable | | [source](vendor-statements/init.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
-| INIT GmbH | WebComm | | Not Vuln | | [source](vendor-statements/init.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| INIT GmbH | AppComm | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| INIT GmbH | MOBILE-PERDIS | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| INIT GmbH | Mobile Plan | 4.22.* and 5.*  | Vulnerable | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| INIT GmbH | WebComm | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | Intel | Audio Development Kit |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | Datacenter Manager |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | oneAPI sample browser plugin for Eclipse |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
@@ -1321,7 +1321,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | New Relic          | Java Agent                                                         |  6.5.1 & 7.4.1  |      Fix      |                                                |                                             [source](https://docs.newrelic.com/docs/security/new-relic-security/security-bulletins/security-bulletin-nr21-03/) |
 | NextCloud | All products | | Not vuln | Invidivual plugins not developed as part of Nextcloud core may be vulnerable. | [source](https://help.nextcloud.com/t/apache-log4j-does-not-affect-nextcloud/129244) |
 | NextGen Healthcare | Mirth                                                              | Unknown  |   Not Vuln    |                                                |                [source](https://github.com/nextgenhealthcare/connect/discussions/4892#discussioncomment-1789526) |
-|Nomachine | All products | All versions | Not vuln | | [source](https://forums.nomachine.com/topic/apache-log4j-notification) | 
+|Nomachine | All products | All versions | Not vuln | | [source](https://forums.nomachine.com/topic/apache-log4j-notification) |
 | NSA | Ghidra| < 10.1| Fix | | [source](https://github.com/NationalSecurityAgency/ghidra/blob/2c73c72f0ba2720c6627be4005a721a5ebd64b46/README.md#warning), [fix](https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.1_build)|
 | Nutanix | General Guidance | Nutanix updating Security Advisory #23 multiple times per day, please check source link for absolute latest status | | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 | Nutanix | AHV | All supported versions | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
