@@ -40,6 +40,13 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Acronis       | Cyber Files | 8.6.2 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Infrastrcuture | 3.5 and 4.x  | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Protection Home Office | 2017 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
+| Acunetix | 360 | All | Not Vuln | | [source] (https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | Application | All | Not Vuln |   | [source] (https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | Agents | All | Not Vuln |   | [source] (https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: NodeJS | All | Not Vuln |   | [source] (https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: ASP. NET | All | Not Vuln |   | [source] (https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: PHP | All | Not Vuln |   | [source] (https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: Java | All | Workaround| AcuSensor IAST module needs attention | [source] (https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
 | Adobe         | All | | Investigation | | [source](https://helpx.adobe.com/security/products/log4j-2-advisory.html) |
 | Adobe         | Cold Fusion | All | Vulnerable | Fix planned for Dec 17th | [source](https://helpx.adobe.com/coldfusion/kb/log4j-vulnerability-coldfusion.html) |
 | AFAS | All | | Not vuln | | [source](https://help.afas.nl/vraagantwoord/NL/SE/120439.htm) |
@@ -576,8 +583,12 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Citrix | Virtual Apps and Desktops (XenApp & XenDesktop) | Unknown | Investigation | Not vulnerable: App Layering, Delivery Controller, Director, FAS, HDX, Profile Management, PVS, Session Recording, Storefront, Studio, Windows VDA, WEM | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Workspace App  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Workspace  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
- Clavister | EasyAccess | <= 4.1.2 | Workaround | | [source](https://kb.clavister.com/343410234/high-severity-vulnerability-in-apache-log4j-2) |
-| Clavister | InCenter | <= 1.68.03, 2.0.0 and 2.1.0 | Workaround | | [source](https://kb.clavister.com/343410462/vulnerability-in-apache-log4j-2-which-is-used-in-incenter) |
+| Clavister    | NetWall | - | Not vuln  |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | NetShield  | - | Not vuln  |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | InControl  | - | Not vuln  |  | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | OneConnect  | - | Vulnerable  | Fixed | [source](https://www.clavister.com/advisories/security/clav-sa-0297-high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | EasyAccess  | <= 4.1.2 | Vulnerable  | See link for fix | [source](https://kb.clavister.com/343410234/high-severity-vulnerability-in-apache-log4j-2) |
+| Clavister    | InCenter  | <= 1.68.03, 2.0.0 and 2.1.0 | Vulnerable  | See link for fix | [source](https://kb.clavister.com/343410462/vulnerability-in-apache-log4j-2-which-is-used-in-incenter) |
 | CODESYS | all | all | Not vuln  || [source](https://www.codesys.com/news-events/news/article/log4j-not-used-in-codesys.html) |
 | Commvault | Cloud Apps & Oracle & MS-SQL | All supported versions | Fix || [source](https://documentation.commvault.com/11.24/essential/146231_security_vulnerability_and_reporting.html) |
 | Compumatica | CryptoGuard | all | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
@@ -926,6 +937,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | HCL Software | BigFix Compliance | Unknown | Investigation | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Compliance | Unknown | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 | HCL Software | BigFix Inventory | Unknown | Workaround | | [source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+| Heimdal Security | web-based services | Cloud | Not vuln || [source] (https://heimdalsecurity.com/blog/log4j-vulnerability/) |
 | Helpsystems | Clearswift Secure Email Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
 | Helpsystems | Clearswift Secure Exchange Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
 | Helpsystems | Clearswift Secure Web Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
@@ -1736,6 +1748,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Schneider Electric | EcoStruxure IT Expert  |  | Fix | cloud-based offer; no customer action required.  | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
 | Schneider Electric | EcoStruxure IT Gateway  | 1.5.0 - 1.13.0 | Vulnerable | | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
 | Schneider Electric | EcoStruxure IT Gateway  | 1.13.1.5 | Fix | | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
+| SecurityRoots | Dradis Professional | All | Not vuln  |  | [source](screenshotemail) |
 | Seafile  | Seafile Server | | Fix | | [source] (https://forum.seafile.com/t/security-advisory-seafile-servers-vulnerability-to-log4shell-log4j-vulnerability-cve-2021-44228/15590) |
 | Security Onion Solutions | Security Onion | 2.3.90 20211210 | Fix | | [source](https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html) |
 | Shibboleth      | Shibboleth IdP/SP | | Not Vuln |  | [source](https://shibboleth.net/pipermail/announce/2021-December/000253.html) |
@@ -2165,10 +2178,13 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier | Product | Version | Status | Notes | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
 | Watcher | [Watcher](https://github.com/thalesgroup-cert/Watcher) | all | Not vuln | | [source](https://twitter.com/felix_hrn/status/1470387338001977344)
+| WatchGuard | AuthPoint | Cloud | Fixed | See link | [source] (https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | WatchGuard | Dimension | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
 | WatchGuard | Firebox | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
+| WatchGuard | Threat Detection and Response | Cloud | Fixed | See link | [source] (https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | WatchGuard | WatchGuard EPDR and Panda AD360 | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
 | WatchGuard | WatchGuard System Manager, Dimension, WatchGuard EPDR and Panda AD360 | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
+| WatchGuard | Wi-Fi Cloud | Cloud | Fixed | See link | [source] (https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | WildFly | WildFly | < 22 | Not vuln | "No log4j artifact shipped" | [source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
 | WildFly | WildFly | >= 22; <= 26.0.0.Beta1 | Not vuln | "ships log4j-api but not vulnerable code from log4j-core; version of log4j-api might seem to be vulnerable but is not" | [source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
 | WildFly | WildFly | > 26.0.0.Final | Not vuln | "ships log4j-api where version matches patched version" | [source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
