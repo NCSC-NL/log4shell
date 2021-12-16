@@ -2275,6 +2275,10 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Xerox | AltaLink C8100 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
 | Xerox | B1022/1025 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
 | Xerox | Baltoro HF Inkjet Press | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | DocuShare | | Not vuln | DocuShare using Solr search is vulnerable, see below. | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
+| Xerox | DocuShare Flex | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
+| Xerox | DocuShare Go | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
+| Xerox | DocuShare using Solr search | 7.5 hotfix 11 | Fixed | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228.pdf) |
 | Xerox | EC8036/EC8056 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
 | Xerox | iGen 5 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
 | Xerox | Instant Print Kiosk | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
