@@ -666,6 +666,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Datto | All Datto products | Unknown | Not vuln | |[source](https://www.datto.com/blog/dattos-response-to-log4shell) |
 | Datto | All Datto products | Unknown | Not vuln | |[source](https://www.datto.com/blog/dattos-response-to-log4shell) |
 | DBeaver | DBeaver | Unknown | Not vuln | |[source](https://dbeaver.io/2021/12/15/log4shell-vulnerability-is-not-dangerous-for-dbeaver-users/) |
+| Debian | Apache-log4j.1.2 | stretch, buster,  bullseye | Fix| |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
 | Debian | Apache-log4j2 | stretch, buster,  bullseye | Fix| |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
 | Dell | Alienware Command Center | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Alienware OC Controls | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
