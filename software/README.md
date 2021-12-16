@@ -143,6 +143,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Atlassian     | Jira Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Avaya         | | | | | [source](https://support.avaya.com/helpcenter/getGenericDetails?detailId=1399839287609) |
 | AVM           | all products | devices, firmware, software incl. MyFritz Service | Not Vuln |  | [source](https://en.avm.de/service/current-security-notifications/) |
+| AXIS          | AXIS OS | All versions | Not Vuln | | [source](https://help.axis.com/axis-os) |
 
 ### B
 
@@ -172,6 +173,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
 | Bitdefender   | GravityZone On-Premises | Unknown | Not vuln | |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability) |
 | Bitnami       | Unknown | Unknown | Fix | |[source](https://docs.bitnami.com/general/security/security-2021-12-10/) |
+| Bitwarden     | Bitwarden | All | Not Vuln | | [source](https://community.bitwarden.com/t/log4j-log4shell-cve-is-bitwarden-affected-due-to-docker-image/36177) |
 | BioJava       | Java library for processing biological data | 6.0.3 | Fix | |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.3) |
 | BlackBerry    | Enterprise Mobility Server | 2.12 and above | Workaround | |[source](https://support.blackberry.com/community/s/article/90708) |
 | BlackBerry    | Workspaces On-prem Server | All | Workaround | |[source](https://support.blackberry.com/community/s/article/90708) |
@@ -667,7 +669,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Datev | All Datev products | Unknown | Vulnerable | german source |[source](https://www.datev-community.de/t5/Freie-Themen/Log4-J-Schwachstelle/td-p/258147) |
 | Dataverse | The Dataverse Project | | Vulnerable || [source](dataverse.org)
 | Datto | All Datto products | Unknown | Not vuln | |[source](https://www.datto.com/blog/dattos-response-to-log4shell) |
-| Debian | Apache-log4j.1.2 | stretch, buster, bullseye | Fix | |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
+| Datto | All Datto products | Unknown | Not vuln | |[source](https://www.datto.com/blog/dattos-response-to-log4shell) |
+| DBeaver | DBeaver | Unknown | Not vuln | |[source](https://dbeaver.io/2021/12/15/log4shell-vulnerability-is-not-dangerous-for-dbeaver-users/) |
+| Debian | Apache-log4j.1.2 | stretch, buster,  bullseye | Fix| |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
 | Debian | Apache-log4j2 | stretch, buster,  bullseye | Fix| |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
 | Dell | Alienware Command Center | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Alienware OC Controls | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
@@ -1321,7 +1325,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Kaseya | VSA SaaS and VSA On-Premises | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Kaseya | Vorex | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Kaseya | products not listed above | Unknown | Investigation | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
-| Keeper | SSO Connect On-Prem | 16.0.2 | Fix | | |
+| Keeper | SSO Connect On-Prem | 16.0.2 | Fix | | [source](vendor-statements/Keeper.png), [source](https://docs.keeper.io/release-notes/on-prem-components/sso-connect/sso-connect-version-16.0.2)|
 | Keycloak | Keycloak | all version | Not Vuln | | [source](https://github.com/keycloak/keycloak/discussions/9078) |
 | Kofax | Robotic Process Automation (RPA) | 11.1 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
 | Kofax | Robotic Process Automation (RPA) | 11.2 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
@@ -1402,7 +1406,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Mirantis      | Mirantis OpenStack         |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | Lens                       |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | K0s                        |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
-| Mitel      | MiCollab |  All | Investigation |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
+| Mitel      | MiCollab |  prior to and 9.4 | Vulnerable |  |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
 | Mitel      | MiContact Center  Enterprise |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiContact Center Business |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiVoice 5000 |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
@@ -1829,6 +1833,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Seafile  | Seafile Server | | Fix | | [source](https://forum.seafile.com/t/security-advisory-seafile-servers-vulnerability-to-log4shell-log4j-vulnerability-cve-2021-44228/15590) |
 | Security Onion Solutions | Security Onion | 2.3.90 20211210 | Fix | | [source](https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html) |
 | Sentry.io | Self Hosted and SaaS | All Versions | Not Vuln | Not affected as it is written in Python and Rust. Makes use of unaffected versions of log4j 1.x in Kafka and Zookeeper subsystems | [source](https://blog.sentry.io/2021/12/15/sentrys-response-to-log4j-vulnerability-cve-2021-44228) |
+| Scootersoftware | Beyond Compare | All | Not Vuln | | [source](https://www.scootersoftware.com/index.php) |
 | Shibboleth      | Shibboleth IdP/SP | | Not Vuln |  | [source](https://shibboleth.net/pipermail/announce/2021-December/000253.html) |
 | Siemens     | Advantage Navigator Cloud Service | | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
 | Siemens     | Advantage Navigator Software Proxy | all | Investigation | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
@@ -1934,6 +1939,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Sophos          | Sophos Mobile EAS Proxy | 9.7.2 | Fix | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | Sophos          | Sophos Mobile |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | Sophos          | Sophos ZTNA |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| Specops Software | All |  | Not Vuln | | [source](https://specopssoft.com/blog/apache-log4j-vulnerability/) |
 | Splunk          | Add-On: Java Management Extensions | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Add-On: JBoss | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Add-On: Tomcat | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
@@ -2208,6 +2214,21 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Veeam        | All products  | | Not vuln |  | [source](https://www.veeam.com/kb4254)|
+| Veritas | Aptare IT Analytics | 10.5 and 10.6 | Workaround | Version 10.4 and earlier are not affected. | [source](https://www.veritas.com/support/en_US/article.100052081) |
+| Veritas | NetBackup Appliance | 3.1.2 through 4.1.0.1 MR1 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Client | 7.7.3 through 9.1.0.1 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup CloudPoint | 2.2.2, 8.3 through 9.1.0.1 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Flex Scale | 2.1 | Workaround | Veritas strongly recommends customers using version 1.3 or 1.3.1 to upgrade to NetBackup FlexScale 2.1 in order to be able to perform the mitigation steps. | [source](https://www.veritas.com/content/support/en_US/article.100052101.html) |
+| Veritas | NetBackup Media Server | 8.1 through 9.1.0.1 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Media Server container on Flex Appliance | 8.1 through 9.1.0.1 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup OpsCenter | 7.7 through 7.7.3 and 8.0 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup OpsCenter | 8.1.2 through 9.1.0.1 | Workaround | Veritas has published updated versions of Log4j that replace the vulnerable libraries used by NetBackup OpsCenter 8.1.2 through 9.1.0.1. | [source](https://www.veritas.com/support/en_US/article.100052100) |
+| Veritas | NetBackup Primary Server | 7.7 through 7.7.3 and 8.0 | Not vuln | | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Primary Server | 8.1.2 through 9.1.0.1 | Workaround | Veritas has published updated versions of Log4j that replace the vulnerable libraries used by NetBackup Primary Server 8.1.2 through 9.1.0.1. | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Primary Server BYO (also known as Master Server) | 8.1 through 8.1.1 | Workaround | Veritas strongly recommends customers upgrade to NetBackup 8.1.2 or the latest release in order to be able to perform the mitigation steps. | [source](https://www.veritas.com/content/support/en_US/article.100052058) |
+| Veritas | NetBackup Primary Server container on Flex Appliance | 8.1.2 through 9.1.0.1 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052084) |
+| Veritas | NetBackup Resiliency Platform | 3.4 through 4.0 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052109) |
+| Veritas | Media Server Deduplication Pool (MSDP) (on NB Appliance) | 3.1.2 and 3.2 | Workaround | | [source](https://www.veritas.com/content/support/en_US/article.100052062) |
 | VMware       | API Portal for VMware Tanzu  | 1.x | Fix | Fixed in 1.0.7 | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.pivotal.io/products/api-portal#/releases/1012478) |
 | VMware       | AppDefense Appliance | 2.x | Workaround |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
 | VMware       | App Metrics  | 2.1.1 | Fix |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.pivotal.io/products/apm) |
@@ -2343,4 +2364,5 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Zerto           | Zerto Virtual Manager |           | Not vuln        | |[source](https://help.zerto.com/kb/000004822) |
 | Zesty           | Zesty.io        |                 | Not vuln        | |[source](https://www.zesty.io/mindshare/company-announcements/log4j-exploit/) |
 | Zoho | Online | | Investigation | | [source](https://help.zoho.com/portal/en/community/topic/update-on-the-recent-apache-log4j-vulnerability )|
+| Zscaler         | All products    |                 | Fix        | |[source](https://trust.zscaler.com/posts/9581) |
 | Zyxel           | All products    |                 | Investigation       | |[source](https://community.zyxel.com/en/discussion/12229/zyxel-security-advisory-for-apache-log4j-rce-vulnerability) |
