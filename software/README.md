@@ -143,6 +143,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Atlassian     | Jira Server & Data Center | On prem | Vulnerable | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Avaya         | | | | | [source](https://support.avaya.com/helpcenter/getGenericDetails?detailId=1399839287609) |
 | AVM           | all products | devices, firmware, software incl. MyFritz Service | Not Vuln |  | [source](https://en.avm.de/service/current-security-notifications/) |
+| AXIS          | AXIS OS | All versions | Not Vuln | | [source](https://help.axis.com/axis-os) |
 
 ### B
 
@@ -1625,9 +1626,9 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | Polycom | RealAccess  | | Workaround | | [source](https://support.polycom.com/content/dam/polycom-support/global/documentation/plygn-21-08-poly-systems-apache.pdf)|
 | Portex | Portex | <3.0.2 | Fix | | [source](https://github.com/katjahahn/PortEx/releases)|
 | Postgres | PostgreSQL JDBC | | Not vuln | | [source](https://www.postgresql.org/about/news/postgresql-jdbc-and-the-log4j-cve-2371/) |
-| PowerDNS | dnsdist | | Not vuln | | [source](https://blog.powerdns.com/2021/12/16/powerdns-and-log4j-log4shell/) |
-| PowerDNS | PowerDNS Authoritative | | Not vuln | | [source](https://blog.powerdns.com/2021/12/16/powerdns-and-log4j-log4shell/) |
-| PowerDNS | PowerDNS Recursor | | Not vuln | | [source](https://blog.powerdns.com/2021/12/16/powerdns-and-log4j-log4shell/) |
+| PowerDNS | dnsdist | | Not vuln | | source: PowerDNS |
+| PowerDNS | PowerDNS Authoritative | | Not vuln | | source: PowerDNS |
+| PowerDNS | PowerDNS Recursor | | Not vuln | | source: PowerDNS |
 | Progress | DataDirect Hybrid Data Pipeline | | Workaround | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-Hybrid-Data-Pipeline-vulnerable-CVE-2021-44228-Log4j) |
 | Progress | OpenEdge | | Workaround | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-OpenEdge-vulnerable-to-CVE-2021-44228-Log4j) |
 | Proxmox | Backup Server | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
