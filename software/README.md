@@ -828,7 +828,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 |F5| All products | |Not Vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
 | Fiix | CMMS core | V5  | Fix | | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
-|FileCap| All products | <5.1.0 | Vulnerable | Fix: 5.1.1 |[source](https://mailchi.mp/3f82266e0717/filecap-update-version-511)|
+|FileCap| FileCap Server | 5.1.1 | Fix | |[source](https://mailchi.mp/3f82266e0717/filecap-update-version-511)|
+|FileCap| FileCap Plugins || Not vuln | ||
 |Forcepoint |Advanced Malware Detection                                                           ||Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Behavioral Analytics                                                                 ||Investigation | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Bitglass SSE                                                                         ||Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
