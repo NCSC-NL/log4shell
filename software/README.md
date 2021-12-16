@@ -1067,7 +1067,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | INIT GmbH | AppComm | | Not Vuln | | [source](vendor-statements/init.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | INIT GmbH | MOBILE-PERDIS | | Not Vuln | | [source](vendor-statements/init.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | INIT GmbH | Mobile Plan | 4.22.* and 5.*  | Vulnerable | | [source](vendor-statements/init.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
-| INIT GmbH | WebComm | | Not Vuln | | [source](vendor-statements/init.md) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| INIT GmbH | WebComm | | Not Vuln | | [source](vendor-statements/init.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | Intel | Audio Development Kit |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | Datacenter Manager |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | oneAPI sample browser plugin for Eclipse |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
