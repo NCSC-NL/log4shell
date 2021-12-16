@@ -12,7 +12,7 @@ NCSC-NL will use the following status:
 | Not vuln     | Software is **NOT** vulnerable for CVE-2021-44228. |
 | Investigation     | Software is under investigation whether it is vulnerable or not |
 
-The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerable version(s). If `Status` is Fix, Version indicates the fixed version(s).
+The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerFplable version(s). If `Status` is Fix, Version indicates the fixed version(s).
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
 
@@ -160,6 +160,7 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
 | Bitdefender   | GravityZone On-Premises | Unknown | Not vuln | |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability) |
 | Bitnami       | Unknown | Unknown | Fix | |[source](https://docs.bitnami.com/general/security/security-2021-12-10/) |
+| BioJava       | Java library for processing biological data | 6.0.3 | Fix | |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.3) |
 | BMC Software  | 3270 SUPEROPTIMIZER/CICS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | Application Restart Control for Db2    | | Not vuln | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | Application Restart Control for IMS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
