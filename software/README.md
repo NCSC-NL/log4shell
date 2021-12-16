@@ -1937,6 +1937,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
 |:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+| Tableau | Tableau Desktop | 2021.4| Vulnerable | | [source](https://www.tableau.com/support/releases/desktop/2021.4)
+| Tableau | Tableau Server | 2021.2.5| Vulnerable | | [source](https://www.tableau.com/support/releases/server/2021.2.5)
 | Tableau | Tableau Desktop | 2021.4.1 | Fix available | [Fix](https://www.tableau.com/support/releases/desktop/2021.4.1) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
 | Tableau | Tableau Server | 2021.4.1 | Fix available | [Fix](https://www.tableau.com/support/releases/server/2021.4.1) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
 | Tableau | Tableau Prep | 2021.4.2 | Fix available | [Fix](https://www.tableau.com/support/releases/prep/2021.4.2) | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell)
