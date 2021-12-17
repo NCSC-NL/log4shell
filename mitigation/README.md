@@ -77,6 +77,12 @@ Snort and Suricata rules:
 |:----------------|:----------------|:----------------|:---------------:|
 | Nginx           | Infiniroot      | Block requests with known patterns in URI and headers using LUA | [Github](https://github.com/infiniroot/nginx-mitigate-log4shell) |
 
+ModSecurity OWASP CoreRuleSet :
+
+| Note                     | Rule | Links | 
+|:----------------|:----------------|:---------------:|
+| Included rule which blocks all, when applied to all headers, with 1 exception.  | 932130 | [source](https://coreruleset.org/20211213/crs-and-log4j-log4shell-cve-2021-44228/) |
+| New rule which blocks all  | 1005 | [source](https://coreruleset.org/20211213/crs-and-log4j-log4shell-cve-2021-44228/) [challenge](https://coreruleset.org/20211216/public-hunt-for-log4j-log4shell-evasions-waf-bypasses/) |
 
 ### Host based detection
 
