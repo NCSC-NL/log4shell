@@ -1217,7 +1217,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Infoland | Zenya (iProva) | | Not Vuln | | [source](https://community.infoland.nl/infoland-nieuws-128/geen-beveiligingslek-apache-log4j2-zenya-iprova-en-iqualify-3589) |
 | INIT GmbH | AppComm | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | INIT GmbH | MOBILE-PERDIS | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
-| INIT GmbH | Mobile Plan | 4.22.* and 5.*  | Vulnerable | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
+| INIT GmbH | Mobile Plan | 4.22.x and 5.x  | Vulnerable | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | INIT GmbH | WebComm | | Not Vuln | | [source](vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru) |
 | Intel | Audio Development Kit |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
 | Intel | Datacenter Manager |  | Vulnerable | | [source](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html) |
@@ -1274,9 +1274,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Jamf Nation | Jamf Threat Defense| Unknown | Not Vuln | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jazz/IBM | JazzSM DASH | Unknown | See notes | DASH on WebSphere Application Server requires mitigations | [source](https://www.ibm.com/support/pages/node/6525552) |
 | Jenkins | Jenkins CI | Unknown | Not Vuln | Invidivual plugins not developed as part of Jenkins core *may* be vulnerable. | [source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) |
-| JetBrains | IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm) | Unknown | Not vuln	 | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
-| JetBrains | All .NET tools (ReSharper, Rider, ReSharper C++, dotTrace, dotMemory, dotCover, dotPeek) | Unknown | Not vuln	 | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
-| JetBrains | ToolBox | Unknown | Not vuln	 | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
+| JetBrains | IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm) | Unknown | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
+| JetBrains | All .NET tools (ReSharper, Rider, ReSharper C++, dotTrace, dotMemory, dotCover, dotPeek) | Unknown | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
+| JetBrains | ToolBox | Unknown | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JetBrains | TeamCity | Unknown | Not vuln | | [source](https://youtrack.jetbrains.com/issue/TW-74298) |
 | JetBrains | Hub | 2021.1.14080 | Fix | | [source](https://blog.jetbrains.com/hub/2021/12/14/hub-update-regarding-log4j2-vulnerability/) |
 | JetBrains | YouTrack Standalone | 2021.4.35970 | Fix | | [source](https://blog.jetbrains.com/youtrack/2021/12/youtrack-update-regarding-log4j2-vulnerability/) |
@@ -1569,10 +1569,10 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Okta       | Radius Server Agent                                | 2.17.0                           | Fix        |                                                    | [source/fix](https://trust.okta.com/security-advisories/okta-radius-server-agent-cve-2021-44228)                |
 | Okta       | Verify                                             | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
 | Okta       | Workflow                                           | Unknown                          | Not Vuln   |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
-| OneSpan    | Authentication Appliance	                          | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
+| OneSpan    | Authentication Appliance                          | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
 | OneSpan    | Authentication Server                              | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
 | OneSpan    | Digipass Gateway                                   | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
-| OneSpan    | OneSpan Sign	                                      | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
+| OneSpan    | OneSpan Sign                                      | Unknown | Vulnerable | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
 | OneSpan    | Mobile Security Suite                              | 4.31.1  | Fix        |                                         | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
 | openHAB    | openHAB                                            | 3.0.4, 3.1.1                          | Fix |            | [source](https://github.com/openhab/openhab-distro/security/advisories/GHSA-j99j-qp89-pcfq) |
 | OpenMRS    | Talk                                               | 2.4.0-2.4.1                      | Vulnerable | Mitigations are available, pending a new release   | [source](https://talk.openmrs.org/t/urgent-security-advisory-2021-12-11-re-apache-log4j-2/35341)                                                                  |
@@ -2063,18 +2063,18 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | SUSE | SUSE Openstack Cloud | all | Vuln | will get update | [source](https://www.suse.com/c/suse-statement-on-log4j-log4shell-cve-2021-44228-vulnerability/)|
 | SUSE | SUSE Rancher | all | Not vuln | | [source](https://www.suse.com/c/suse-statement-on-log4j-log4shell-cve-2021-44228-vulnerability/)|
 | Synacor | Zimbra | 8.8.15 and 9.x | Not vuln | Zimbra stated (in their private support portal) they're not vulnerable. Currently supported Zimbra versions ship 1.2.6 |[source](https://forums.zimbra.org/viewtopic.php?f=15&t=70240&start=10#p303354) |
-| Syncro Soft | Oxygen Content Fusion | <= v4.1 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen Content Fusion | 3.0.1 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen XML Web Author | v22.1 - v24.0.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen XML Web Author | 23.1.1.2 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen Feedback | 1.4.4 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen XML Publishing Engine | v22.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen XML WebHelp | v22.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen PDF Chemistry | v22.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen License Server | v22.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen XML Author | v16.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen XML Developer | v16.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
-| Syncro Soft | Oxygen XML Editor | v16.1 - v24.0 | Fix |	Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen Content Fusion | <= v4.1 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen Content Fusion | 3.0.1 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Web Author | v22.1 - v24.0.0 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Web Author | 23.1.1.2 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen Feedback | 1.4.4 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Publishing Engine | v22.1 - v24.0 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML WebHelp | v22.1 - v24.0 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen PDF Chemistry | v22.1 - v24.0 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen License Server | v22.1 - v24.0 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Author | v16.1 - v24.0 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Developer | v16.1 - v24.0 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| Syncro Soft | Oxygen XML Editor | v16.1 - v24.0 | Fix | Fix available | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
 | Synology | DSM | | Not vuln | The base DSM is not affected. Software installed via the package manager may be vulnerable. | [source](https://www.synology.com/en-global/security/advisory/Synology_SA_21_30) |
 | syntevo | DeepGit | >= 4.0 | Fix | 3.0.x and older are vulnerable | [source](https://www.syntevo.com/blog/?p=5240)
 | syntevo | SmartGit | >= 18.1 | Fix | 17.1.x and older are vulnerable | [source](https://www.syntevo.com/blog/?p=5240)
