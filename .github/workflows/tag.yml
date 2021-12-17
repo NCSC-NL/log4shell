@@ -1,0 +1,24 @@
+name: Create daily tag
+
+on:
+  schedule:
+    - cron: "59 23 * * *"
+
+jobs:
+  tag:
+    name: Create daily tag
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y%m%d')"
+
+    - name: Check-out repository
+      uses: actions/checkout@v2
+
+    - name: Create tag
+      uses: rickstaa/action-create-tag@v1
+      with:
+        tag: log4shell_info_${{ steps.date.outputs.date }}
+        message: Log4shell info ${{ steps.date.outputs.date }}
