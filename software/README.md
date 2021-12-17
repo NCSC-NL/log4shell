@@ -2020,6 +2020,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Schneider Electric | EcoStruxure IT Expert  |  | Fix | cloud-based offer; no customer action required.  | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
 | Schneider Electric | EcoStruxure IT Gateway  | 1.5.0 - 1.13.0 | Vulnerable | | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
 | Schneider Electric | EcoStruxure IT Gateway  | 1.13.1.5 | Fix | | [source](https://download.schneider-electric.com/files?p_Doc_Ref=SESB-2021-347-01) |
+| SecurityHive | All products | All | Not vuln | | [source](https://blog.securityhive.nl/security-info/securityhive-informs-log4j-vulnerable-customers-using-threat-intelligence/) |
 | SecurityRoots | Dradis Professional | All | Not vuln  |  | [source](screenshotemail) |
 | Seafile  | Seafile Server | | Fix | | [source](https://forum.seafile.com/t/security-advisory-seafile-servers-vulnerability-to-log4shell-log4j-vulnerability-cve-2021-44228/15590) |
 | Seagull Scientific | BarTender | All | Not vuln | | [source](https://support.seagullscientific.com/hc/en-us/articles/4415794235543-Apache-Log4Shell-Vulnerability) |
