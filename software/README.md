@@ -38,20 +38,20 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Abbott | All | | Investigation | | [source](https://www.abbott.com/policies/cybersecurity/apache-Log4j.html) |
 | Accellence Technologies | vimacc | All | Not vuln | | [source](https://www.accellence.de/en/articles/cve-2021-44228-62) |
 | Accellence Technologies | EB&#220;S | All | Workaround | EB&#220;S itself is not vulnerable to CVE-2021-44228. Although it includes several 3rd-partie software setups, which may be affected (see source for more info). | [source](https://www.accellence.de/en/articles/cve-2021-44228-62) |
+| Accruent       | Accruent Single Sign On (SSO, Central Auth) | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Analytics | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Asset Enterprise | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | BigCenter | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
-| Accruent       | Meridian | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | EMS | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Evoco | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Expesite | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Famis 360 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Lucernex | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
-| Accruent       | Asset Enterprise | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Maintenance Connection | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Meridian | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | SiteFM3 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | SiteFM4 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Siterra | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
-| Accruent       | Accruent Single Sign On (SSO, Central Auth) | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | TMS | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | VxField | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | VxMaintain/VxObserve/VxSustain | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
@@ -417,8 +417,6 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| Carbon Black | Cloud Workload Appliance | Unknown | Mitigation | More information on pages linked bottom of blogpost (behind login)| [source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134) |
-| Carbon Black | EDR Servers| Unknown | Mitigation | More information on pages linked bottom of blogpost (behind login)| [source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134) |
 | CareStream | All | | Not vuln | | [source](https://www.carestream.com/en/us/services-and-support/cybersecurity-and-privacy) |
 | CaseWare | Cloud | All | Fix | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
 | CaseWare | IDEA | All | Not vuln | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
