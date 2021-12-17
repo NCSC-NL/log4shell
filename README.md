@@ -4,6 +4,7 @@ This repo contains operational information regarding the vulnerability in the Lo
 
 * [NCSC-NL advisory](https://www.ncsc.nl/actueel/advisory?id=NCSC-2021-1052)
 * [MITRE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
+* [CSIRT network members advisories](https://github.com/enisaeu/CNW/tree/main/log4shell)
 
 ## Repository contents
 
