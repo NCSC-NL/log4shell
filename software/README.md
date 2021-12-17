@@ -79,7 +79,15 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Acunetix | IAST: Java | All | Workaround| AcuSensor IAST module needs attention | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
 | Adobe         | Acrobate Reader | | Not Vuln | | [source](https://community.adobe.com/t5/acrobat-discussions/acrobat-affected-by-apache-log4j-vulnerability-cve-2021-44228/td-p/12590329?profile.language=fr) |
 | Adobe         | All | | Investigation | | [source](https://helpx.adobe.com/security/products/log4j-2-advisory.html) |
+| Adobe         | Automated Forms Conversion Service | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Cold Fusion | All | Vulnerable | Fix planned for Dec 17th | [source](https://helpx.adobe.com/coldfusion/kb/log4j-vulnerability-coldfusion.html) |
+| Adobe         | Experience Manager 6.4 Forms Designer | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.5 Forms Designer | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager Forms on OSGi (all versions) | Not vuln | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager Forms Workbench (all versions) | Not vuln | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.3 Forms on JEE (all versions from 6.3 GA to 6.3.3) | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.4 Forms on JEE (all versions from 6.4 GA to 6.4.8) | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.5 Forms on JEE (all versions from 6.5 GA to 6.5.11) | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | ADP           | All | | Investigation | Patching were needed, no signs of intrusion | [source](https://www.adp.com/about-adp/data-security/alerts/adp-vulnerability-statement-apache-log4j-vulnerability-cve-2021-44228-update.aspx) |
 | AFAS | All | | Not vuln | | [source](https://help.afas.nl/vraagantwoord/NL/SE/120439.htm) |
 | Ahsay | AhsayPRD | version 2.0 | Not vuln | | [source](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j) |
