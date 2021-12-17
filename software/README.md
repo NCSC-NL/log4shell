@@ -26,6 +26,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
+| 1Password     | All      |  | Not vuln |  | [source](https://1password.community/discussion/comment/622612/#Comment_622612) |
 | 2Brightsparks | All      |  | Not vuln |  | [source](vendor-statements/2Brightsparks.png) |
 | 3CX           | All      |  | Not vuln |  | [source](https://www.3cx.com/community/threads/log4j-vulnerability-cve-2021-44228.86436/post-407835) |
 | 7Signal       | Sapphire |  | Fix |Fix released 2021-12-14 | Corresp. with vendor|
