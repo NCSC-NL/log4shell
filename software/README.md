@@ -1004,6 +1004,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | GitLab | DAST analyzer | | Not vuln | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
 | GitLab | Dependency Scanning | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
 | GitLab | Gemnasium-Maven | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
+| GitLab | GitLab | | Not vuln | | [source](https://forum.gitlab.com/t/cve-2021-4428/62763/8)|
 | GitLab | PMD OSS | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
 | GitLab | SAST | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
 | GitLab | Spotbugs | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
