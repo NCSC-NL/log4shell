@@ -399,8 +399,6 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| Carbon Black | Cloud Workload Appliance | Unknown | Mitigation | More information on pages linked bottom of blogpost (behind login)| [source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134) |
-| Carbon Black | EDR Servers| Unknown | Mitigation | More information on pages linked bottom of blogpost (behind login)| [source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134) |
 | CareStream | All | | Not vuln | | [source](https://www.carestream.com/en/us/services-and-support/cybersecurity-and-privacy) |
 | CaseWare | Cloud | All | Fix | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
 | CaseWare | IDEA | All | Not vuln | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
