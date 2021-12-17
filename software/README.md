@@ -2323,7 +2323,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Tableau | Tableau Desktop | 2021.4.1 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
 | Tableau | Tableau Server | 2021.4.1 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
 | Tableau | Tableau Prep | 2021.4.2 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
-| Tableau | Tableau Bridge | 20214.21.1214.2057 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |Apache-Log4j2-vulnerability-Log4shell) |
+| Tableau | Tableau Bridge | 20214.21.1214.2057 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
 | Tableau | Tableau Reader | unkown | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
 | Tailscale | Tailscale | all | Not vuln | | [source](https://github.com/tailscale/tailscale/issues/3550) |
 | Talend | Talend Component Kit | | Fix | |[source](https://jira.talendforge.org/browse/TCOMP-2054) |
