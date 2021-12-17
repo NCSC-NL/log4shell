@@ -2403,6 +2403,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Yahoo           | Vespa           |                 | Not vuln        | Your Vespa application may still be affected if log4j is included in your application package |[source](https://blog.vespa.ai/log4j-vulnerability/) |
 | Y Soft          | SAFEQ 6 | <= 6.0.63 | Workaround |  |[source](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf) |
 | Yellowfin       | Yellowfin       | 8.0.10.3, 9.7.0.2 | Fix | v7 and v6 releases are not affected unless you have manually upgraded to Log4j2 | [source](https://community.yellowfinbi.com/announcement/notice-critical-vulnerability-in-log4j2) |
+| Yenlo | Connext | 2.x| Not vuln |Connext Platform (Managed WSO2 Cloud) and all underlying middleware components are not vulnerable |[source](https://www.yenlo.com/news/vulnerability-code-log4shell-log4j2)|
 
 ### Z
 
