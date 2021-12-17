@@ -85,9 +85,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Adobe         | Experience Manager 6.5 Forms Designer | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager Forms on OSGi (all versions) | Not vuln | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager Forms Workbench (all versions) | Not vuln | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
-| Adobe         | Experience Manager 6.3 Forms on JEE (all versions from 6.3 GA to 6.3.3) | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
-| Adobe         | Experience Manager 6.4 Forms on JEE (all versions from 6.4 GA to 6.4.8) | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
-| Adobe         | Experience Manager 6.5 Forms on JEE (all versions from 6.5 GA to 6.5.11) | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.3 Forms on JEE (all versions from 6.3 GA to 6.3.3) | Fix | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.4 Forms on JEE (all versions from 6.4 GA to 6.4.8) | Fix | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.5 Forms on JEE (all versions from 6.5 GA to 6.5.11) | Fix | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | ADP           | All | | Investigation | Patching were needed, no signs of intrusion | [source](https://www.adp.com/about-adp/data-security/alerts/adp-vulnerability-statement-apache-log4j-vulnerability-cve-2021-44228-update.aspx) |
 | AFAS | All | | Not vuln | | [source](https://help.afas.nl/vraagantwoord/NL/SE/120439.htm) |
 | Ahsay | AhsayPRD | version 2.0 | Not vuln | | [source](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j) |
