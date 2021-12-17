@@ -14,6 +14,7 @@ This repo contains operational information regarding the vulnerability in the Lo
 | [mitigation](mitigation/README.md) | Contains info regarding mitigation, such as regexes for detecting scanning activity and more |
 | [scanning](scanning/README.md)     | Contains references to methods and tooling used for scanning for the Log4j vulnerability |
 | [software](software/README.md)     | Contains a list of known vulnerable and not vulnerable software |
+| [tools](tools/README.md)           | Contains a list of tools for automatically parsing info on this repo |
 
 **Please note that these directories are not complete, and are currently being expanded.**
 
