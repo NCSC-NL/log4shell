@@ -4,6 +4,7 @@ This repo contains operational information regarding the vulnerability in the Lo
 
 * [NCSC-NL advisory](https://www.ncsc.nl/actueel/advisory?id=NCSC-2021-1052)
 * [MITRE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
+* [CSIRT network members advisories](https://github.com/enisaeu/CNW/tree/main/log4shell)
 
 ## Repository contents
 
@@ -14,6 +15,7 @@ This repo contains operational information regarding the vulnerability in the Lo
 | [mitigation](mitigation/README.md) | Contains info regarding mitigation, such as regexes for detecting scanning activity and more |
 | [scanning](scanning/README.md)     | Contains references to methods and tooling used for scanning for the Log4j vulnerability |
 | [software](software/README.md)     | Contains a list of known vulnerable and not vulnerable software |
+| [tools](tools/README.md)           | Contains a list of tools for automatically parsing info on this repo |
 
 **Please note that these directories are not complete, and are currently being expanded.**
 

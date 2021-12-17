@@ -33,6 +33,7 @@ Checks if the application or system is using Log4j2.
 | Aholzel | Splunk query's to detect the used Log4j version and detect abuse | https://github.com/aholzel/log4j_splunk_querys |
 | Devotech | Powershell: Queries domain servers and scans for log4j-core files. (slow) | https://github.com/devotech/check-log4j |
 | DIVD | This scanner will recursively scan paths including archives for vulnerable log4j versions and JndiLookup.class files. |https://github.com/dtact/divd-2021-00038--log4j-scanner |
+| Forescout | Samples of exploit attempts; The evolving Log4Shell story: analysis of ongoing and future exploits | https://github.com/Forescout/log4j_response |
 | Kelvin Tegelaar | Open sourced(MIT license) PowerShell log4j detection. Uses "Everything" to prevent high system load | https://www.cyberdrain.com/monitoring-with-powershell-detecting-log4j-files/ |
 | Mergebase | Detects vulnerable Log4J versions on your file-system. It is able to find instances that are hidden several layers deep. Linux/Windows/Mac | https://github.com/mergebase/log4j-detector |
 | NCCgroup  | Version hashes (MD5, SHA1 and SHA256) for log4j2 versions| https://github.com/nccgroup/Cyber-Defence/tree/master/Intelligence/CVE-2021-44228 |
