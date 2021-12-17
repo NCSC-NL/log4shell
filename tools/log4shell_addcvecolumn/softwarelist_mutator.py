@@ -1,25 +1,4 @@
-import csv as py_csv
-import sys
-import json as py_json
-import pathlib
-import re
-import tempfile
-
-from typing import List
-
 import click
-import unicodedata
-
-line_re = re.compile('(\|[^|]+\|[^|]+\|[^|]+\|)([^|]+)(\|.*)')
-
-HEADERS = [
-    'Supplier',
-    'Product',
-    'Version',
-    'Status',
-    'Notes',
-    'Links'
-]
 
 @click.command()
 @click.option('--path', default='../../software/README.md', help='Path to software list README.md', type=click.File())
