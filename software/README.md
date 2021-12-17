@@ -2500,6 +2500,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Wind River | Wind River Linux | > 8 | Not vuln | no support for log4j | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
 | Wireshark | Wireshark | | Not vuln | | [source](https://www.wireshark.org/news/20211215.html)|
 | WitFoo | WitFoo Precinct | 6.x | Fix | WitFoo Streamer & Apache Kafka Docker containers are/were vulnerable | [source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
+| WordPress | All | | Not vuln | | [source](https://wordpress.org/support/topic/is-the-log4j-vulnerability-an-issue/)|
 | Wowza | Wowza Streaming Engine | 4.7.8, 4.8.x | Workaround | |[source](https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve) |
 | WSO2 | WSO2 API Manager | >= 3.0.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
 | WSO2 | WSO2 API Manager Analytics | >= 2.6.0 | Workaround | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
