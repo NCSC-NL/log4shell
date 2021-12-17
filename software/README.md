@@ -1793,7 +1793,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Parallels | Remote Application Server  | All versions | Not Vuln | | [source](https://kb.parallels.com/en/128696) |
 | PDQ | PDQ Deploy | All versions | Investigation | | [source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&utm_medium=social&utm_source=twitter&hss_channel=tw-90432152) |
 | PDQ | PDQ Inventory | All versions | Investigation | | [source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&utm_medium=social&utm_source=twitter&hss_channel=tw-90432152) |
-| Pega | Pega Platform | On Prem | Fix | | [source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability) |
+| Pega | Pega Platform | 7.3.x - 8.6.x | Fix | Hotfixes made available for registered customers by Pega. When using Stream nodes, the embedded Kafka instances require a separate hotfix to be installed. | [source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability) |
 | Pexip | Endpoint Activation | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Eptools | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
 | Pexip | Infinity | all | Not vuln | | [source](https://www.pexip.com/blog1.0/pexip-statement-on-log4j-vulnerability) |
