@@ -35,8 +35,26 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | ABB | Alarminsight Cloud | | Investigation | Potentially affected as per the advisory | [source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&LanguageCode=en&DocumentPartId=&Action=Launch)
+| Abbott | All | | Investigation | | [source](https://www.abbott.com/policies/cybersecurity/apache-Log4j.html) |
 | Accellence Technologies | vimacc | All | Not vuln | | [source](https://www.accellence.de/en/articles/cve-2021-44228-62)
-| Accellence Technologies | EB&#220;S | All | Workaround | EB&#220;S itself is not vulnerable to CVE-2021-44228. Although it includes several 3rd-partie software setups, which may be affected (see source for more info). | [source](https://www.accellence.de/en/articles/cve-2021-44228-62)
+| Accellence Technologies | EB&#220;S | All | Workaround | EB&#220;S itself is not vulnerable to CVE-2021-44228. Although it includes several 3rd-partie software setups, which may be affected (see source for more info). | [source](https://www.accellence.de/en/articles/cve-2021-44228-62) 
+| Accruent       | Analytics | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | BigCenter | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Meridian | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | EMS | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Evoco | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Expesite | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Famis 360 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Lucernex | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Asset Enterprise | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Maintenance Connection | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | SiteFM3 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | SiteFM4 | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Siterra | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | Accruent Single Sign On (SSO, Central Auth) | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | TMS | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | VxField | | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
+| Accruent       | VxMaintain/VxObserve/VxSustain | | Fix | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Acronis       | All |  | Investigation | See further information below| [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Backup | 12.5 | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
 | Acronis       | Cyber Files | 8.6.2 onwards | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859)
@@ -60,7 +78,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Aiden | all | all | Not vuln | | [source](https://www.meetaiden.com/knowledge-base/is-aiden-vulnerable-to-cve-2021-44228-log4j-log4shell/) |
 | AIL           | AIL | all | Not vuln | | [source](https://twitter.com/ail_project/status/1470373644279119875)
 | Alexion Software | Alexion CRM | All | Not vuln | | [source](https://alexion.nl/blog/alexion-crm-niet-vatbaar-voor-log4shell)
-| Akamai        | Eanterprise Application Access Connector |  | Not vulnerable |  | Source: Akamai support |
+| Akamai        | Enterprise Application Access (EAA) connector |  | Not vulnerable |  | Source: Akamai support |
 | Akamai        | Siem Splunk Connector | =>1.4.10 | Not vuln |  | [source](https://community.akamai.com/customers/s/feed/0D54R00008Osz7sSAB) (paywall) |
 | Akamai        | Siem Splunk Connector | <1.4.10 | Workaround | Akamai SIEM Integration Connector for Splunk is not vulnerable to CVE-2021-44228. Although it includes the vulnerable Log4J component, it is not used by the connector. | [source](https://github.com/akamai/siem-splunk-connector) |
 | Alertus        | Console              | 5.15.0| Fix | | [source](https://help.alertus.com/s/article/Security-Advisory-Log4Shell-Vulnerability?language=en_US)
@@ -147,8 +165,8 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Apache        | Tomcat|| Not vuln|| [source](https://tomcat.apache.org/tomcat-9.0-doc/logging.html) |
 | Apache        | TrafficControl | | Vulnerable | | [source](https://blogs.apache.org/security/entry/cve-2021-44228)|
 | Apache        | Zookeeper|| Not vuln| Zookeeper uses Log4j 1.2 version | [source](https://issues.apache.org/jira/browse/ZOOKEEPER-4423) |
-| APC           | PowerChute Business Edition | Unknow to 10.0.2.301 | Vulnerable |  |  |
-| APC           | PowerChute Network Shutdown | Unknow to 4.2.0 | Vulnerable |  |  |
+| APC           | PowerChute Business Edition | 9.5,10.0,10.0.1-10.0.4 | Workaround |  | [source](https://download.schneider-electric.com/files?p_enDocType=Security+and+Safety+Notice&p_File_Name=SESB-2021-347-01_Apache_Log4j_Log4Shell_Vulnerability_Security_Bulletin_V3.0.pdf&p_Doc_Ref=SESB-2021-347-01) |
+| APC           | PowerChute Network Shutdown | 4.2-4.4,4.4.1 | Workaround |  | [source](https://download.schneider-electric.com/files?p_enDocType=Security+and+Safety+Notice&p_File_Name=SESB-2021-347-01_Apache_Log4j_Log4Shell_Vulnerability_Security_Bulletin_V3.0.pdf&p_Doc_Ref=SESB-2021-347-01) |
 | Apereo        | CAS | 6.3.x & 6.4.x | Fix | Other versions still in active maintainance might need manual inspection |[source](https://apereo.github.io/2021/12/11/log4j-vuln/) |
 | Apereo        | Opencast | < 9.10, < 10.6 | Fix | |[source](https://github.com/opencast/opencast/security/advisories/GHSA-mf4f-j588-5xm8) |
 | Apigee        | Edge and OPDK products | All version | Not vuln | |[source](https://status.apigee.com/incidents/3cgzb0q2r10p) |
@@ -1255,6 +1273,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Ivanti | File Director | All versions | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Apache-Log4j-Zero-Day-Vulnerability-and-Ivanti-File-Director-CVE-2021-44228) |
 | Ivanti | MobileIron Core | All versions | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j) |
 | Ivanti | MobileIron Sentry | 9.13, 9.14 | Workaround | Information behind login | [source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j) |
+| Ivanti | Xtraction | 2019.2 | Not vuln |  | [source](https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping?language=en_US) |
 
 ### J
 
@@ -1354,6 +1373,8 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Kaseya | products not listed above | Unknown | Investigation | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Keeper | SSO Connect On-Prem | 16.0.2 | Fix | | [source](vendor-statements/Keeper.png), [source](https://docs.keeper.io/release-notes/on-prem-components/sso-connect/sso-connect-version-16.0.2)|
 | Keycloak | Keycloak | all version | Not Vuln | | [source](https://github.com/keycloak/keycloak/discussions/9078) |
+| Kofax | Capture | All | Not Vuln | | [source](https://knowledge.kofax.com/Capture/Kofax_Capture/Reference/Log4J_Vulnerability_CVE-2021-44228_Does_Not_Affect_Kofax_Capture) |
+| Kofax | Communication Manager (KCM) |5.3-5.5 | Fix | | [source](https://knowledge.kofax.com/Communications_Manager/Troubleshooting/log4j_vulnerability_in_Kofax_Communications_Manager) |
 | Kofax | Robotic Process Automation (RPA) | 11.1 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
 | Kofax | Robotic Process Automation (RPA) | 11.2 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
 | Kofax | Robot File System (RFS) | >=10.7 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
@@ -1452,6 +1473,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | LiquidFiles | LiquidFiles | All versions | Not vuln | |[source](https://mailchi.mp/liquidfiles/liquidfiles-log4j) |
 | LiveAction | LiveNX | <21.5.1 | Fix | | [source](https://documentation.liveaction.com/LiveNX/LiveNX%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNX%2021.5.1.1.3) |
 | LiveAction | LiveNA | <21.5.1 | Fix | | [source](https://documentation.liveaction.com/LiveNA/LiveNA%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNA%2021.5.1.1.2) |
+| LogRhythm | SIEM | 7.4-7.8 | Workaround | Link is behind a login | [source](https://community.logrhythm.com/t5/Product-Security/Log4J-Remediation-Update-CloudAI-and-NetMon-Complete-LogRhythm/td-p/494350) |
 | LogZilla | NEO | All versions | Not vuln | LogZilla's engine is C++ |
 | LogicMonitor | LogicMonitor SaaS Platform| Unknown | Fix | Automatic update before 13th December | [source](https://communities.logicmonitor.com/topic/7472-logicmonitor-collectors-running-vulnerable-version-of-log4j-are-affected-by-log4shell-cve-2021-44228-vulnerability/) |
 | Lyrasis | DSpace | 7.x | Fix/Workaround | |[source](https://groups.google.com/g/dspace-community/c/Fa4VdjiiNyE) |
@@ -1512,7 +1534,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Mirantis      | Mirantis OpenStack         |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | Lens                       |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | K0s                        |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
-| Mitel      | MiCollab |  prior to and 9.4 | Fix |  |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
+| Mitel      | MiCollab |  >=7.1 to <=9.4 | Fix | Below v7.0 not vuln |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
 | Mitel      | MiContact Center  Enterprise |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiContact Center Business |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | Mitel CMG Suite |  All | Investigation |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
@@ -2101,6 +2123,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Sophos          | Sophos Mobile EAS Proxy | 9.7.2 | Fix | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | Sophos          | Sophos Mobile |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | Sophos          | Sophos ZTNA |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| SOS (Berlin)    | Jobscheduler | 1.12.15, 1.13.10, 2.2.0, 2.1.3 | Fix | | [source](https://www.sos-berlin.com/en/news-maintenance-releases-and-patches-mitigation-log4j-vulnerabilities) 
 | Specops Software | All |  | Not Vuln | | [source](https://specopssoft.com/blog/apache-log4j-vulnerability/) |
 | Splunk          | Add-On: Java Management Extensions | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Add-On: JBoss | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
