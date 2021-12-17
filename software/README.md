@@ -236,6 +236,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | BlackBerry    | Enterprise Mobility Server | 2.12 and above | Workaround | |[source](https://support.blackberry.com/community/s/article/90708) |
 | BlackBerry    | Workspaces On-prem Server | All | Workaround | |[source](https://support.blackberry.com/community/s/article/90708) |
 | BlackBerry    |  2FA | All | Workaround | |[source](https://support.blackberry.com/community/s/article/90708) |
+| Bluemind    |  All | 3.5.x and 4.x | Not vuln | |[source](https://twitter.com/bluemind/status/1470379923034578946?s=20) |
 | BMC Software  | 3270 SUPEROPTIMIZER/CICS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | Application Restart Control for Db2    | | Not vuln | |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | Application Restart Control for IMS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
