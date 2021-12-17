@@ -980,6 +980,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |Fortinet| FortiManager Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiManager| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiNAC| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiNAC| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiOS (includes FortiGate & FortiWiFi)| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiPhish Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiPolicy| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -1214,23 +1215,65 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | IBM | All products | | Investigation | | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/)|
+| IBM | IBM Application Navigator | All | Fix | | [source](https://www.ibm.com/support/pages/node/6526612)|
 | IBM | Business Automation Workflow | 18.0.0+ | Fix | JR64456 / JR64096 | [source](https://www.ibm.com/support/pages/node/6525834)|
-| IBM | Cloud Object Storage | All versions  | Fix | Fix: 3.16.0.53 and 3.16.2.57 | [source](https://www.ibm.com/support/pages/mitigation-and-software-update-cve-2021-44228-vulnerability?cm_sp=s033-_-OCSTXNRM-_-F&mync=F&mynp=OCSTXNRM&myns=s033)|
+| IBM | IBM Cognos Analytics | 11.2.x, 11.1.x, 11.0.x | Fix |  | [source](https://www.ibm.com/support/pages/node/6526474)|
+| IBM | IBM Cognos Controller | 10.4.2 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526468)|
+| IBM | IBM Cloud Object Storage Systems | Long Term Support Release – 3.16.0.47 and Prior 3.16.0 Releases | Fix | | [source](https://www.ibm.com/blogs/psirt/security-bulletin-apache-log4j-vulnerabilities-affect-ibm-cloud-object-storage-systems-clevos-cve-2021-44228/)|
+| IBM | IBM Cloud Object Storage Systems | Active Release – 3.16.1.39 and Prior 3.16.1 Releases | Fix | | [source](https://www.ibm.com/blogs/psirt/security-bulletin-apache-log4j-vulnerabilities-affect-ibm-cloud-object-storage-systems-clevos-cve-2021-44228/)|
+| IBM | IBM Cloud Transformation Advisor | 2.5.0 | Fix | | [source](https://www.ibm.com/support/pages/node/6526212)|
 | IBM | Curam SPM | 8.0.0, 7.0.11 | Vulnerable | | [source](https://www.ibm.com/blogs/psirt/security-bulletin-vulnerability-in-apache-log4j-may-affect-cram-social-program-management-cve-2019-17571/)|
-| IBM | DB2 Server | 11.5 | Vulnerable | | [source](https://www.ibm.com/support/pages/node/6526462) |
-| IBM | IBM Netezza Analytics for NPS | All versions <= 11.2.21 | Vulnerable | Fix should be available from 14th Dec | [source](https://www.ibm.com/support/pages/node/6525816)|
-| IBM | IBM Netezza Analytics | All versions <= 3.3.9 | Vulnerable | Fix should be available from 14th Dec | [source](https://www.ibm.com/support/pages/node/6525816)|
-| IBM | IBM Security Access Manager | 9.0.7-ISS-ISAM-FP0002 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526174)|
-| IBM | IBM Security Access Manager | 10.0.2-ISS-ISVA-FP0000 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526174)|
-| IBM | IBM MQ | iFix 9.2-IBM-MQ-LinuxX64-LAIT39386 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526274)|
+| IBM | IBM® Db2® | 11.5 | Fix | | [source](https://www.ibm.com/support/pages/node/6526462)|
+| IBM | IBM® Db2® | V9.7, V10.1, V10.5 and V11.1 | Not vuln | | [source](https://www.ibm.com/blogs/psirt/security-bulletin-vulnerability-in-apache-log4j-affects-some-features-of-ibm-db2-cve-2021-44228/)|
+| IBM | IBM Disconnected Log Collector | 1.0 - v1.7 | Fix | | [source](https://www.ibm.com/support/pages/node/6526178)|
+| IBM | i2 Analyze | 4.3.5.0 | Fix | i2 Analyze application server and Solr bundled with EIA 2.4.1.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Analyze | 4.3.4.0 | Fix | i2 Analyze application server and Solr bundled with EIA 2.4.0.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Analyze | 4.3.3.0 | Fix | i2 Analyze application server and Solr bundled with EIA 2.3.4.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Connect | 1.1.1 | Fix | i2 Analyze application server and Solr shipped with i2 Analyze 4.3.5.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Connect | 1.1.0 | Fix | i2 Analyze application server and Solr shipped with i2 Analyze 4.3.4.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Connect | 1.0.3 | Fix | i2 Analyze application server and Solr shipped with i2 Analyze 4.3.3.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | Analyst's Notebook Premium | 9.3.1, 9.3.0 | Fix |  i2 Analyze application server and Solr; Chart store component | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | Analyst's Notebook Premium | 9.3.1 | Fix |  i2 Analyze application server and Solr; Chart store component | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Analyze | 4.3.2.0 | Fix | Solr only bundled with EIA 2.3.2.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Analyze | 4.3.1.1 | Fix | Solr only bundled with EIA 2.3.1.1 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Analyze | 4.3.1.0 | Fix | Solr only bundled with EIA 2.3.1.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Connect | 1.0.2 | Fix | Solr only shipped with i2 Analyze 4.3.2.0 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | i2 Connect | 1.0.1.1 | Fix | Solr only shipped with i2 Analyze 4.3.1.1 | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | Analyst's Notebook Premium | 9.2.2 | Fix | Solr only; Chart Store component | [source](https://www.ibm.com/support/pages/node/6526220)|
+| IBM | IBM MQ | 9.2 CD, 9.1 CD, 9.2 LTS | Fix |  | [source](https://www.ibm.com/support/pages/node/6526274)|
+| IBM | IBM Netezza Analytics for NPS | All versions <= 11.2.21 | Fix | | [source](https://www.ibm.com/support/pages/node/6525816)|
+| IBM | IBM Netezza Analytics | All versions <= 3.3.9 | Fix | | [source](https://www.ibm.com/support/pages/node/6525816)|
+| IBM | IBM Planning Analytics Workspace | 2.0.57 => | Fix | | [source](https://www.ibm.com/support/pages/node/6525700)|
 | IBM | Power Hardware Management Console | V10.1.1010.0,V9.2.950.0 | Fix | Fix: MH01913,MF69263 | [source](https://www.ibm.com/support/pages/node/6526172)|
+| IBM | QRadar User Behavior Analytics | All | Fix | | [source](https://www.ibm.com/support/pages/node/6526640)|
+| IBM | IBM Security Access Manager | 9.0.7-ISS-ISAM-FP0002 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526174)|
+| IBM | IBM Security Verify Access Docker | 10.0.0 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526174)|
+| IBM | IBM Security Verify Access | 10.0.2-ISS-ISVA-FP0000 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526174)|
+| IBM | IBM Spectrum Conductor | 2.4.1, 2.5.0, 2.5.1 | Fix | | [source](https://www.ibm.com/support/pages/node/6526528)|
+| IBM | IBM Spectrum Protect Client web user interface | 8.1.7.0-8.1.13.0 (Linux and Windows) | Fix | | [source](https://www.ibm.com/support/pages/node/6527080)|
+| IBM | IBM Spectrum Protect Client web user interface | 8.1.9.0-8.1.13.0 (AIX) | Fix | | [source](https://www.ibm.com/support/pages/node/6527080)|
+| IBM | IBM Spectrum Protect for Virtual Environments: Data Protection for VMware | 8.1.0.0-8.1.13.0 | Fix | see Note 1 | [source](https://www.ibm.com/support/pages/node/6527080)|
+| IBM | IBM Spectrum Protect for Virtual Environments: Data Protection for VMware | 7.1.0.0-7.1.8.12 | Fix | | [source](https://www.ibm.com/support/pages/node/6527080)|
+| IBM | IBM Spectrum Protect for Virtual Environments: Data Protection for Hyper-V | 8.1.4.0-8.1.13.0 | Fix | see Note 1 | [source](https://www.ibm.com/support/pages/node/6527080)|
+| IBM | IBM Spectrum Symphony | 7.2.0.2, 7.2.1, 7.2.1.1 | Fix | | [source](https://www.ibm.com/support/pages/node/6526520)|
+| IBM | IBM Spectrum Symphony Developer Edition | 7.2.0.2, 7.2.1, 7.2.1.1 | Fix | | [source](https://www.ibm.com/support/pages/node/6526520)|
+| IBM | IBM Spectrum Symphony | 7.3, 7.3.1, 7.3.2 | Fix | | [source](https://www.ibm.com/support/pages/node/6526520)|
 | IBM | SPSS Statistics | 25.0, 26.0, 27.0.1, 28.0.1 | Fix | Link is behind a login | [source](https://www.ibm.com/support/pages/node/6526182)|
+| IBM | SPSS Statistics Subscription | 1.0 | Fix | | [source](https://www.ibm.com/support/pages/node/6526184)|
+| IBM | IBM Sterling File Gateway | 6.0.0.0 - 6.1.1.0 | Mitigation | | [source](https://www.ibm.com/support/pages/node/6526204)|
 | IBM | Sterling Fulfillment Optimizer | Unknown | Vulnerable | | [source](https://www.ibm.com/support/pages/node/6525544)|
 | IBM | Sterling Inventory Visibility | Unknown | Vulnerable | | [source](https://www.ibm.com/support/pages/node/6525544)|
 | IBM | Sterling Order Management | Unknown | Not vuln | | [source](https://www.ibm.com/support/pages/node/6525544)|
+| IBM | IBM Transformation Extender | 10.0.3.0, 10.1.0.0, 10.1.0.1, 10.1.1.0 | Fix | | [source](https://www.ibm.com/support/pages/node/6526646)|
 | IBM | VM Manager Tool (part of License Metric Tool) | >9.2.21,<9.2.26 | Vulnerable | | [source](https://www.ibm.com/support/pages/node/6525762/)|
+| IBM | IBM Watson Explorer Deep Analytics Edition Foundational Components | 12.0.0.0, 12.0.1, 12.0.2.0 – 12.0.2.2, 12.0.3.0 – 12.0.3.7 | Fix | | [source](https://www.ibm.com/support/pages/node/6525826)|
+| IBM | IBM Watson Explorer Deep Analytics Edition Analytical Components | 12.0.0.0, 12.0.1, 12.0.2.0 – 12.0.2.2, 12.0.3.0 – 12.0.3.7 | Fix | | [source](https://www.ibm.com/support/pages/node/6525826)|
+| IBM | IBM Watson Explorer Deep Analytics Edition oneWEX | 12.0.0.0, 12.0.0.1, 12.0.1, 12.0.2.0 – 12.0.2.2, 12.0.3.0 – 12.0.3.7 | Fix | | [source](https://www.ibm.com/support/pages/node/6525826)|
+| IBM | IBM Watson Explorer Foundational Components | 11.0.0.0 – 11.0.0.3, 11.0.1, 11.0.2.0 – 11.0.2.11 | Fix | | [source](https://www.ibm.com/support/pages/node/6525826)|
+| IBM | IBM Watson Explorer Analytical Components | 11.0.0.0 – 11.0.0.3, 11.0.1, 11.0.2.0 – 11.0.2.11 | Fix | | [source](https://www.ibm.com/support/pages/node/6525826)|
 | IBM | Websphere | 8.5 | Vulnerable | fix: PH42728 | [source](https://www.ibm.com/support/pages/node/6525706/)|
 | IBM | Websphere | 9.0 | Vulnerable | fix: PH42728 | [source](https://www.ibm.com/support/pages/node/6525706/)|
+| IBM | Websphere Hybrid Edition | All | Vulnerable | fix: PH42728 | [source](https://www.ibm.com/support/pages/node/6525706/)|
 | IGEL | Universal Management Suite | | Workaround | | [source](https://kb.igel.com/securitysafety/en/isn-2021-11-ums-log4j-vulnerability-54086712.html) |
 | iGrafix | All | Latest | Fix || [source](https://www.igrafx.com/igrafx-thwarts-log4j-vulnerability/) |
 | Illumio | C-VEN | | Not vuln | | [source](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)|
