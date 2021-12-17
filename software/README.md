@@ -1068,7 +1068,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Hitachi Energy | UNEM | R15A, R14B, R14A, R11BSP1 | Workaround | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000089&LanguageCode=en&DocumentPartId=&Action=Launch) |
 | Hitachi Vantara | Pentaho | v8.3.x, v9.2.x | Not vuln | | [source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 | HostiFi | Unifi hosting | Unknown | Fix | Hosted Unifi solution | [source](https://twitter.com/hostifi_net/status/1440311322592231436) |
-| HPE |3PAR Service Processor | 5.x | Vulnerable | | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
+| HPE |3PAR Service Processor | 5.x | Fix | Fixed in version 5.0.9.2 | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us), [release notes](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=a00002915en_us) |
 | HPE |3PAR StoreServ Arrays| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=a00120086en_us) |
 | HPE |AirWave Management Platform| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |Alletra 6000| | Not vuln| |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
