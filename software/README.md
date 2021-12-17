@@ -4,13 +4,13 @@ This page contains an overview of any related software regarding the Log4j vulne
 
 NCSC-NL will use the following status:
 
-| Status         | Description                  |
-|:---------------|:-----------------------------|
-| Vulnerable     | Software is vulnerable for CVE-2021-44228. |
-| Fix            | Software contains a fix for CVE-2021-44228 |
-| Workaround | Software is vulnerable but mitigation steps are available |
-| Not vuln     | Software is **NOT** vulnerable for CVE-2021-44228. |
-| Investigation     | Software is under investigation whether it is vulnerable or not |
+| Status CVE-2021-xxx | Description                                                      |
+|:--------------------|:-----------------------------------------------------------------|
+| Vulnerable          | Software is vulnerable to CVE-2021-xxx.                          |
+| Fix                 | Software contains a fix for CVE-2021-xxx.                        |
+| Workaround          | Software is vulnerable but mitigation steps are available.       |
+| Not vuln            | Software is **NOT** vulnerable for CVE-2021-xxx.                 |
+| Investigation       | Software is under investigation whether it is vulnerable or not. |
 
 The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerable version(s). If `Status` is Fix, Version indicates the version(s) in which the fix was introduced.
 
@@ -34,7 +34,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### A
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | ABB | ABB Remote Service | | Fix | Details are shared with customers with an active RAP subscription | [source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&LanguageCode=en&DocumentPartId=&Action=Launch) |
 | ABB | Alarminsight Cloud | | Not vuln | | [source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&LanguageCode=en&DocumentPartId=&Action=Launch) |
@@ -220,7 +220,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### B
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Backblaze      | Cloud | N/A (SaaS) | Fix | Cloud service patched |[source](https://help.backblaze.com/hc/en-us/articles/4412580603419) |
 | Barco          | Demetra | | Investigation | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
@@ -458,7 +458,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### C
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Canon | Alphenix (Angio Workstation) |  | Investigation |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 | Canon | CT Medical Imaging Products |  | Not Vuln |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
@@ -762,7 +762,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### D
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | DatadogHQ | Datadog Agent | 6 < [6.32.3](https://github.com/DataDog/datadog-agent/releases/tag/6.32.3), 7 < [7.32.3](https://github.com/DataDog/datadog-agent/releases/tag/7.32.3) | Fix/workaround | JMX monitoring component leverages an impacted version of log4j | [source](https://www.datadoghq.com/log4j-vulnerability/) |
 | DatadogHQ | datadog-lambda-java | < 0.3.3 or < 1.4.0 | Fix | following AWS’s recommendation, library updated using the latest version of amazon-lambda-java-log4j2 (1.4.0). | [source](https://www.datadoghq.com/log4j-vulnerability/) |
@@ -904,7 +904,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### E
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | EAL | ATS Classic | All Versions | Not Vuln | | See vendor-statements |
 | EclecticIQ | TIP | < 2.11 | Vulnerable | The Threat Intel Platform includes Neo4j 3.5.12 (not vulnerable) and Elasticsearch and Logstash OSS 7.9.1 (vulnerable) see Elasticsearch below for mitigation. see link in their own fix for Logstash (Support account needed, ongoing investigation) | [source/fix](https://docs.eclecticiq.com/security-advisories/security-issues-and-mitigation-actions/eiq-2021-0016-2) |
@@ -978,7 +978,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### F
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 |F5| All products | |Not Vuln | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
 | Fiix | CMMS core | V5  | Fix | | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
@@ -1044,7 +1044,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### G
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Genesys | All products || Investigation ||[source](https://www.genesys.com/blog/post/genesys-update-on-the-apache-log4j-vulnerability)|
 | GeoSolutions | GeoServer |All versions | Not vuln ||[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
@@ -1074,7 +1074,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### H
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | HackerOne | Unknown | Unknown | Fix ||[source](https://twitter.com/jobertabma/status/1469490881854013444)|
 | Hashicorp| All products | |Not Vuln | | [source](https://support.hashicorp.com/hc/en-us/articles/4412469195795-CVE-2021-44228-Log4J-has-no-impact-on-HashiCorp-Products)|
@@ -1253,7 +1253,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### I
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | IBM | All products | | Investigation | | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/)|
 | IBM | Business Automation Workflow | 18.0.0+ | Fix | JR64456 / JR64096 | [source](https://www.ibm.com/support/pages/node/6525834)|
@@ -1357,7 +1357,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### J
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | JFrog | all products | | Not Vuln | | [source](https://twitter.com/jfrog/status/1469385793823199240) |
 | Jamf Nation     | Jamf Cloud | Unknown| Fix | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
@@ -1440,7 +1440,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### K
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Kaseya | AuthAnvil | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Kaseya | BMS | Unknown | Not Vuln | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
@@ -1467,7 +1467,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### L
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Lancom Systems | All products  | All versions | Not Vuln| | [source](https://www.lancom-systems.com/service-support/instant-help/general-security-information) |
 | Lansweeper | All products | All versions | Not Vuln| | [source](https://www.lansweeper.com/vulnerability/critical-log4j-vulnerability-affects-millions-of-applications/) |
@@ -1569,7 +1569,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### M
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Macrium Software | All | | Not vuln | | [source](https://www.macrium.com/log4j-vulnerabilities-update) |
 | MailStore | MailStore | all | Not Vuln  | | [source](https://www.mailstore.com/en/blog/mailstore-affected-by-log4shell/) |
@@ -1661,7 +1661,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### N
 
-| Supplier           | Product                                                            | Version  (See Status) |    Status     | Notes                                          |                                                                                                            Links |
+| Supplier           | Product                                                            | Version  (See Status) |    Status CVE-2021-44228    | Notes                                          |                                                                                                            Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | N-able             | Backup                                                             | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
 | N-able             | Mail Assure                                                        | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
@@ -1752,7 +1752,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### O
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Obsidian Dynamics | kafdrop | all | Investigation | | [source](https://github.com/obsidiandynamics/kafdrop/issues/315) |
 | OCLC   | all | all | Fix | | [source](https://oc.lc/status) |
@@ -1812,7 +1812,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### P
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Paessler | PRTG | | Not vuln | | [source](https://kb.paessler.com/en/topic/90213-is-prtg-affected-by-cve-2021-44228) |
 | PagerDuty | Rundeck | 3.3+ | Fix | | [source](https://docs.rundeck.com/docs/history/CVEs/#log4shell-cves), [fix](https://github.com/rundeck/rundeck/pull/7427) |
@@ -1970,7 +1970,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### Q
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Qconferencing | FaceTalk | | Fix | | [source](https://qconferencing.com/status-vulnerability-log4j-en-qconferencing/) |
 | QlikTech International | Compose | | Investigation | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
@@ -1992,7 +1992,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### R
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Red Hat         | A-MQ Clients 2 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat build of Quarkus |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
@@ -2113,7 +2113,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### S
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | SAE IT-systems  | codeIT Runtime  | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
 | SAE IT-systems  | codeIT Workbench | all | Not vuln | | [source](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97) |
@@ -2397,7 +2397,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### T
 
-| Supplier        | Product         | Version         | Status          | Notes           | Links |
+| Supplier        | Product         | Version         | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Tableau | Tableau Desktop | 2021.4| Vulnerable | | [source](https://www.tableau.com/support/releases/desktop/2021.4) |
 | Tableau | Tableau Server | 2021.2.5| Vulnerable | | [source](https://www.tableau.com/support/releases/server/2021.2.5) |
@@ -2562,7 +2562,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### U
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Ubiquiti | UniFi Network Application | 6.5.55 | Fix | Update log4j version to 2.16.0 (CVE-2021-45046) |[source](https://community.ui.com/releases/UniFi-Network-Application-6-5-55/48c64137-4a4a-41f7-b7e4-3bee505ae16e) |
 | Unify | First Response OpenScape Policy Store |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
@@ -2579,7 +2579,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### V
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Variphy      | All products  | | Not vuln |  | [source](https://kb.variphy.com/knowledge-base/cve-2021-44228-critical-vulnerability-in-log4j2/)|
 | Vectra       | All products  | | Not vuln |  | [source](https://support.vectra.ai/s/article/KB-VS-1568)|
@@ -2649,7 +2649,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### W
 
-| Supplier | Product | Version | Status | Notes | Links |
+| Supplier | Product | Version | Status CVE-2021-44228| Notes | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Watcher | [Watcher](https://github.com/thalesgroup-cert/Watcher) | all | Not vuln | | [source](https://twitter.com/felix_hrn/status/1470387338001977344) |
 | WatchGuard | AuthPoint | Cloud | Fixed | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
@@ -2691,7 +2691,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### X
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Xerox | All other products | | Investigation | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
 | Xerox | AltaLink B8000 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
@@ -2721,7 +2721,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### Y
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links      |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links      |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Yahoo           | Vespa           |                 | Not vuln        | Your Vespa application may still be affected if log4j is included in your application package |[source](https://blog.vespa.ai/log4j-vulnerability/) |
 | Y Soft          | SAFEQ 6 | <= 6.0.63 | Workaround |  |[source](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf) |
@@ -2730,7 +2730,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 ### Z
 
-| Supplier        | Product         | Version (see Status) | Status          | Notes           | Links      |
+| Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links      |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Zabbix          | Zabbix          |                 | Not vuln        | Zabbix is aware of this vulnerability, has completed verification, and can conclude that the only product where we use Java is Zabbix Java Gateway, which does not utilize the log4j library, thereby is not impacted by this vulnerability. |[source](https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/) |
 | Zammad          | Zammad          |                 | Workaround      | Most of Zammad instances make use of Elasticsearch which might be vulnerable. |[source](https://community.zammad.org/t/cve-2021-44228-elasticsearch-users-be-aware/8256) |
