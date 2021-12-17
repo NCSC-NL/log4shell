@@ -695,7 +695,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Copadata | Zenon product family | All | Not vuln | |[source](https://www.copadata.com/en/support-services/knowledge-base-faq/pare-products-in-the-zenon-product-family-affect-4921/) |
 | Coralogix | Coralogix | Unknown | Fix | |[source](https://status.coralogix.com/incidents/zzfn8t0fzdy2?u=1q9952ycm1gr) |
 | Couchbase | Couchbase ElasticSearch connector| < 4.3.3 & < 4.2.13 | Fix | |[source](https://forums.couchbase.com/t/ann-elasticsearch-connector-4-3-3-4-2-13-fixes-log4j-vulnerability/32402) |
-| Coveo | Platform (hosted service) | | Not vuln | | [source](https://docs.coveo.com/en/ccv2ac/whats_new_20211213/news/2021-13-12-update) |
+| Coveo | Platform (hosted services) | | Not vuln | | [source](https://docs.coveo.com/en/ccv2ac/whats_new_20211213/news/2021-13-12-update) |
 | Coveo | On-Premises Crawling Module | | Not vuln | | [source](https://docs.coveo.com/en/ccv2ac/whats_new_20211213/news/2021-13-12-update) |
 | cPanel | cPanel | Unknown | Mitigation | | [source](https://forums.cpanel.net/threads/log4j-cve-2021-44228-does-it-affect-cpanel.696249/) |
 | Cryptshare | Cryptshare for Notes | All | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
