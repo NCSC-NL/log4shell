@@ -1166,6 +1166,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | IBM | All products | | Investigation | | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/)|
+| IBM | App Connect Enterprise | V11.0.0.10 to V11.0.0.15 and V12.0.1.0 to V12.0.3.0| Fix | | [source](https://www.ibm.com/support/pages/node/6527726?myns=swgws&mynp=OCSSDR5J&mync=E&cm_sp=swgws-_-OCSSDR5J-_-E/)|
 | IBM | Business Automation Workflow | 18.0.0+ | Fix | JR64456 / JR64096 | [source](https://www.ibm.com/support/pages/node/6525834)|
 | IBM | Cloud Object Storage | All versions  | Fix | Fix: 3.16.0.53 and 3.16.2.57 | [source](https://www.ibm.com/support/pages/mitigation-and-software-update-cve-2021-44228-vulnerability?cm_sp=s033-_-OCSTXNRM-_-F&mync=F&mynp=OCSTXNRM&myns=s033)|
 | IBM | Curam SPM | 8.0.0, 7.0.11 | Vulnerable | | [source](https://www.ibm.com/blogs/psirt/security-bulletin-vulnerability-in-apache-log4j-may-affect-cram-social-program-management-cve-2019-17571/)|
