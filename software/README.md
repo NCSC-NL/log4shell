@@ -1209,6 +1209,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | IBM | IBM Security Access Manager | 10.0.2-ISS-ISVA-FP0000 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526174)|
 | IBM | IBM MQ | iFix 9.2-IBM-MQ-LinuxX64-LAIT39386 | Fix |  | [source](https://www.ibm.com/support/pages/node/6526274)|
 | IBM | Power Hardware Management Console | V10.1.1010.0,V9.2.950.0 | Fix | Fix: MH01913,MF69263 | [source](https://www.ibm.com/support/pages/node/6526172)|
+| IBM | SPSS Statistics | 25.0, 26.0, 27.0.1, 28.0.1 | Fix | Link is behind a login | [source](https://www.ibm.com/support/pages/node/6526182)|
 | IBM | Sterling Fulfillment Optimizer | Unknown | Vulnerable | | [source](https://www.ibm.com/support/pages/node/6525544)|
 | IBM | Sterling Inventory Visibility | Unknown | Vulnerable | | [source](https://www.ibm.com/support/pages/node/6525544)|
 | IBM | Sterling Order Management | Unknown | Not vuln | | [source](https://www.ibm.com/support/pages/node/6525544)|
