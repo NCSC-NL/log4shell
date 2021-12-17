@@ -2331,6 +2331,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | TARGIT | All products | all | Not vuln | | [source](vendor-statements/Targit.png) |
 | Tealium | All products | | Fix | |[source](https://community.tealiumiq.com/t5/Announcements-Blog/Update-on-Log4j-Security-Vulnerability/ba-p/36824) |
 | Teamviewer  | All products | | Fix | Server-side hotfix deployed. No user interaction required | [source](https://www.teamviewer.com/en-us/trust-center/security-bulletins/hotfix-log4j2-issue/)|
+| TECLIB | GLPI | all | Not vuln | | [source](https://glpi-project.org/glpi-is-not-affected-by-the-log4j-vulnerability-cve-2021-44228/) |
+| TECLIB | GLPI Android Agent | all | Not vuln | | [source](https://glpi-project.org/glpi-is-not-affected-by-the-log4j-vulnerability-cve-2021-44228/) |
+| TECLIB | GLPI Agent | all | Not vuln | | [source](https://glpi-project.org/glpi-is-not-affected-by-the-log4j-vulnerability-cve-2021-44228/) |
 | Tenable | All products  | | Not vuln  | | [source](https://community.tenable.com/s/article/Log4Shell-FAQs)  |
 | Tesorion | Immunity-appliances and software | all | Not vuln | | [source](https://www.tesorion.nl/en/posts/tesorion-products-not-vulnerable-to-log4j/) |
 | Tesorion | SOC-appliances and software | all | Fix | Potential Log4j impact mitigated | [source](https://www.tesorion.nl/en/posts/tesorion-products-not-vulnerable-to-log4j/) |
