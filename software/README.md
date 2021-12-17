@@ -89,7 +89,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | AIL           | AIL | all | Not vuln | | [source](https://twitter.com/ail_project/status/1470373644279119875) |
 | Alexion Software | Alexion CRM | All | Not vuln | | [source](https://alexion.nl/blog/alexion-crm-niet-vatbaar-voor-log4shell) |
 | Akamai        | Enterprise Application Access (EAA) connector |  | Not vulnerable |  | Source: Akamai support |
-| Akamai        | Siem Splunk Connector | =>1.4.10 | Not vuln |  | [source](https://splunkbase.splunk.com/app/4310/) |
+| Akamai        | Siem Splunk Connector | =>1.4.10 | Not vuln | v1.4.11 is the new recommendation for mitigation of log4j vulnerabilities. | [source](https://splunkbase.splunk.com/app/4310/) |
 | Akamai        | Siem Splunk Connector | <1.4.10 | Workaround | Akamai SIEM Integration Connector for Splunk is not vulnerable to CVE-2021-44228. Although it includes the vulnerable Log4J component, it is not used by the connector. | [source](https://splunkbase.splunk.com/app/4310/) |
 | Alertus        | Console              | 5.15.0| Fix | | [source](https://help.alertus.com/s/article/Security-Advisory-Log4Shell-Vulnerability?language=en_US) |
 | Alphatron        | AMiSconnect | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
