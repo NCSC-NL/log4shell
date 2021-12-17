@@ -2021,6 +2021,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Sophos          | Sophos Mobile EAS Proxy | 9.7.2 | Fix | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | Sophos          | Sophos Mobile |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | Sophos          | Sophos ZTNA |  | Not Vuln | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
+| SOS (Berlin)    | Jobscheduler | 1.12.15, 1.13.10, 2.2.0, 2.1.3 | Fix | | [source](https://www.sos-berlin.com/en/news-maintenance-releases-and-patches-mitigation-log4j-vulnerabilities) 
 | Specops Software | All |  | Not Vuln | | [source](https://specopssoft.com/blog/apache-log4j-vulnerability/) |
 | Splunk          | Add-On: Java Management Extensions | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Add-On: JBoss | 3.0.0, 2.1.0 | Vulnerable | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
