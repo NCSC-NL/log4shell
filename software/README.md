@@ -1826,6 +1826,39 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | PowerDNS | PowerDNS Recursor | | Not vuln | | [source](https://blog.powerdns.com/2021/12/16/powerdns-and-log4j-log4shell/) |
 | Progress | DataDirect Hybrid Data Pipeline | | Workaround | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-Hybrid-Data-Pipeline-vulnerable-CVE-2021-44228-Log4j) |
 | Progress | OpenEdge | | Workaround | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-OpenEdge-vulnerable-to-CVE-2021-44228-Log4j) |
+| Proofpoint | Archiving Appliance | | Vulnerable | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Archiving Backend | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Cloud App Security Broker | | Vulnerable | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Cloudmark Cloud/Cloudmark Hybrid | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Cloudmark on Premise | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Content Patrol | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Data Discover | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | DLP Core Engine | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Email Continuity | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Email Fraud Defense (EFD) | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Email Protection on Demand (PoD), including Email DLP and Email Encryption | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | mail Protection On-Premises (PPS), including Email DLP and Email Encryption | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Email Security Relay | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Endpoint DLP | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Essentials Archive | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Essentials Email | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Insider Threat Management On-prem | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Insider Threat Management SaaS | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Isolation | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | ITM SaaS Endpoint Agents | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Meta/ZTNA | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Nexus People Risk Explorer | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Proofpoint Compliance Gateway | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Secure Email Relay | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Secure Share | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Security Awareness Training | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Sentrion | | Fix | Version 4.4 and earlier are not vulnerable. For version 4.5 patches have been made available to remediate the vulnerability. | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Social Discover | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | SocialPatrol | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Targeted Attack Protection (TAP) | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Threat Response (TRAP) | | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Web Gateway | | Fix | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Web Security | | Vulnerable | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
 | Proxmox | Backup Server | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
 | Proxmox | Mail Gateway | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
 | Proxmox | VE | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
