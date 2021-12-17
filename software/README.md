@@ -30,6 +30,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | 2Brightsparks | All      |  | Not vuln |  | [source](vendor-statements/2Brightsparks.png) |
 | 3CX           | All      |  | Not vuln |  | [source](https://www.3cx.com/community/threads/log4j-vulnerability-cve-2021-44228.86436/post-407835) |
 | 7Signal       | Sapphire |  | Fix |Fix released 2021-12-14 | Corresp. with vendor|
+| 7-Zip         | All      |  | Not vuln |  | [source](https://sourceforge.net/p/sevenzip/discussion/45797/thread/b977bbd4d1/) |
 
 ### A
 
