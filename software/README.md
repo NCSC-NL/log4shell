@@ -2481,7 +2481,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Unify | OpenScape UC | >= 10.2.9.0 | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | Unify | OpenScape Voice | simplex deployments | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | US Signal       | Remote Management and Monitoring platform | | Workaround | |[source](https://ussignal.com/blog/apache-log4j-vulnerability) |
-| USoft | USoft | 9.1.1F | Vulnerable | Found by manual scanning | [proof](<https://ibb.co/tqV40qB>) |
+| USoft | USoft | < 9.1 | Not vuln | | [source](https://community.usoft.com/news-announcements-2/apache-log4j-security-vulnerability-issue-1301) |
+| USoft | USoft | 9.1 | Fix | Fixed in 9.1.1S | [source](https://community.usoft.com/product-updates/release-notes-9-1-1s-log4j-security-vulnerability-fix-1302) |
+| USoft | USoft | 10.0 | Fix | Fixed in 10.0.1C+ | [source](https://community.usoft.com/product-updates/release-notes-10-0-1c-log4j-security-vulnerability-fix-1300) |
 
 ### V
 
