@@ -1536,7 +1536,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Mirantis      | Mirantis OpenStack         |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | Lens                       |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | K0s                        |  All | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
-| Mitel      | MiCollab |  prior to and 9.4 | Fix |  |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
+| Mitel      | MiCollab |  >=7.1 to <=9.4 | Fix | Below v7.0 not vuln |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
 | Mitel      | MiContact Center  Enterprise |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiContact Center Business |  All | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | Mitel CMG Suite |  All | Investigation |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
