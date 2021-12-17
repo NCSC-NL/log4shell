@@ -663,6 +663,12 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Confluence | CIS-CAT Pro Assessor v4 Service | v1.13.0 | Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Confluence | CIS-CAT Pro Dashboard | | Not Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Confluence | CIS-Hosted CSAT | | Not Vuln | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
+| Confluent | Confluent Cloud | | Fix | server-side fix | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
+| Confluent | Confluent Community Platform | | Not vuln | | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
+| Confluent | Confluent Platform | 7.0.1 | Fix | | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
+| Confluent | Confluent for Kubernetes | 2.1.0-1 and 2.2.0-1 | Fix | Only applicable to confluent-init-container | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
+| Confluent | Confluent Connectors | see link | Fix | List of vulnerable connectors available at Confluent | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
+| Confluent | Community/Standalone Package of ksqlDB |  | Not vuln | No exploitable conditions found, working on package without log4j2 | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
 | Connect2id | Connect2id server | < 12.5.1 | Fix || [source](https://connect2id.com/blog/connect2id-server-12-5-1) |
 | Connectwise | Global search capability of Manage Cloud | Unknown | Mitigation || [source](https://www.connectwise.com/company/trust/advisories) |
 | Connectwise | Manage on-premise's Global Search  | Unknown | Mitigation || [source](https://www.connectwise.com/company/trust/advisories) |
