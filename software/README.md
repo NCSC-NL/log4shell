@@ -2258,8 +2258,8 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | TOPdesk | TOPdesk On-Premises Classic | all | Not Vuln | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
 | Topicus Security | Topicus KeyHub | all | Not vuln | | [source](https://blog.topicus-keyhub.com/topicus-keyhub-is-not-vulnerable-to-cve-2021-44228/) |
 | Tosibox | All products | | Fix | | [source](https://helpdesk.tosibox.com/support/solutions/articles/2100050946-security-advisory-on-vulnerability-in-apache-log4j-library-cve-2021-44228)|
-| TP-Link | Omada SDN Controller (Windows)  | 5.0.27 | Fix | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
-| TP-Link | Omada SDN Controller (Linux) | 4.4.6 | Fix | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
+| TP-Link | Omada SDN Controller (Windows)  | 5.0.29 | Fix | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
+| TP-Link | Omada SDN Controller (Linux) | 4.4.8 | Fix | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
 | Trend Micro | 5G Mobile Network Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | ActiveUpdate  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Apex Central (including as a Service)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
