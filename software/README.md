@@ -1012,6 +1012,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Grafana | All products | | Not vuln | | [source](https://grafana.com/blog/2021/12/14/grafana-labs-core-products-not-impacted-by-log4j-cve-2021-44228-and-related-vulnerabilities/) |
 | Gravwell | All products | | Not vuln | Gravwell products do not use Java | [source](https://www.gravwell.io/blog/cve-2021-44228-log4j-does-not-impact-gravwell-products) |
 | Graylog | Graylog | 3.3.15, 4.0.14, 4.1.9, 4.2.3 | Fix | The vulnerable Log4j library is used to record GrayLog's own log information. Vulnerability is not triggered when GrayLog stores exploitation vector from an outer system. Graylog [version 4.2.4 fixes](https://github.com/Graylog2/graylog2-server/compare/4.2.3...4.2.4) [another vulnerability](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/) | [source](https://www.graylog.org/post/graylog-update-for-log4j)|
+| Greenshot | Greenshot |  | Not vuln | | [source](https://greenshot.atlassian.net/browse/BUG-2871) |
 | GuardedBox | GuardedBox | 3.1.2 | Fix | | [source](https://twitter.com/GuardedBox/status/1469739834117799939) |
 
 ### H
