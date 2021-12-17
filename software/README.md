@@ -1915,6 +1915,10 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Puppet | Continuous Delivery for Puppet Enterprise | 3.x, < 4.10.2| Fix | Update available for version 4.x, mitigations for 3.x which is EOL| [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/), [workaround](https://puppet.com/docs/continuous-delivery/4.x/cd_release_notes.html#cd_release_notes-version-4-10-3),[mitigations](https://support.puppet.com/hc/en-us/articles/360046708133-Puppet-Response-to-CVE-2021-44228-FAQ/) |
 | Puppet | Puppet agents | | Not Vuln | | [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/) |
 | Puppet | Puppet Enterprise| | Not Vuln | | [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/) |
+| Pure Storage | Cloud Block Store | All versions | Vulnerable | See Link for planned Fixes | [source](https://support.purestorage.com/Field_Bulletins/Interim_Security_Advisory_Regarding_CVE-2021-44228_log4j) |
+| Pure Storage | FlashArray | All versions | Vulnerable | See Link for planned Fixes | [source](https://support.purestorage.com/Field_Bulletins/Interim_Security_Advisory_Regarding_CVE-2021-44228_log4j) |
+| Pure Storage | FlashBlade | All versions | Vulnerable | See Link for planned Fixes | [source](https://support.purestorage.com/Field_Bulletins/Interim_Security_Advisory_Regarding_CVE-2021-44228_log4j) |
+| Pure Storage | VM Analytics OVA Collector | <v3.1.4 | Fix | | [source](https://support.purestorage.com/Pure1/Pure1_Manage/005_Pure1_Manage_-_Fleet/06_Pure1_Manage_-_Virtual_Machines_(VM_Analytics)#The_OVA_Collector) |
 | PuTTY | PuTTY | | Not Vuln | | [source](https://www.chiark.greenend.org.uk/~sgtatham/putty/) |
 | Pyramid Analytics                               | Pyramid Analytics                               | All     | Not vuln      |       | [source](https://community.pyramidanalytics.com/t/83hjjt4/log4j-security-vulnerability-pyramid) |
 
