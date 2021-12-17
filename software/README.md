@@ -1576,7 +1576,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 ### N
 
 | Supplier           | Product                                                            | Version  (See Status) |    Status     | Notes                                          |                                                                                                            Links |
-|--------------------|--------------------------------------------------------------------|:---------------------:|:-------------:|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------:|
+|:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | N-able             | Backup                                                             | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
 | N-able             | Mail Assure                                                        | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
 | N-able             | MSP Manager                                                        | Unknown  |   Not Vuln    |                                                |                                 [source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability) |
@@ -2233,7 +2233,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 ### T
 
 | Supplier        | Product         | Version         | Status          | Notes           | Links |
-|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+|:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Tableau | Tableau Desktop | 2021.4| Vulnerable | | [source](https://www.tableau.com/support/releases/desktop/2021.4)
 | Tableau | Tableau Server | 2021.2.5| Vulnerable | | [source](https://www.tableau.com/support/releases/server/2021.2.5)
 | Tableau | Tableau Desktop | 2021.4.1 | Fix | | [source](https://kb.tableau.com/articles/issue/Apache-Log4j2-vulnerability-Log4shell), [fix](https://www.tableau.com/products/reader) |
@@ -2477,7 +2477,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 ### W
 
 | Supplier | Product | Version | Status | Notes | Links |
-|:----------------|:----------------|:---------------:|:---------------:|:----------------|-----------:|
+|:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Watcher | [Watcher](https://github.com/thalesgroup-cert/Watcher) | all | Not vuln | | [source](https://twitter.com/felix_hrn/status/1470387338001977344)
 | WatchGuard | AuthPoint | Cloud | Fixed | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | WatchGuard | Dimension | - | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
