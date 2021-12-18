@@ -811,7 +811,12 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | DatadogHQ | datadog-lambda-java | < 0.3.3 or < 1.4.0 | Fix | following AWS’s recommendation, library updated using the latest version of amazon-lambda-java-log4j2 (1.4.0). | [source](https://www.datadoghq.com/log4j-vulnerability/) |
 | DatadogHQ | datadog-kafka-connect-logs | < 1.0.2 | Fix | Version 1.0.2 of the library uses version 2.16.0 of Log4j. | [source](https://www.datadoghq.com/log4j-vulnerability/) |
 | DataNet Quality Systems | WinSPC | | Not vuln | Note: this is not **WinSCP**. This is a Statistical Process Control software. | Email from customer support. See vendor-statements folder. |
-| Datev | All Datev products | Unknown | Vulnerable | german source |[source](https://www.datev-community.de/t5/Freie-Themen/Log4-J-Schwachstelle/td-p/258147) |
+| Datev | DATEVasp |  | Fix | German source |[source](https://apps.datev.de/help-center/documents/1022948) |
+| Datev | DATEV-SmartIT |  | Fix | German source |[source](https://apps.datev.de/help-center/documents/1022948) |
+| Datev | DATEV Mittelstand Faktura and DATEV Mittelstand Faktura mit Rechnungswesen compact |  | Fix | German source |[source](https://apps.datev.de/help-center/documents/1022948) |
+| Datev | DATEV Wages and Salaries compact |  | Fix | German source |[source](https://apps.datev.de/help-center/documents/1022948) |
+| Datev | Jasper Reports |  | Fix | German source |[source](https://apps.datev.de/help-center/documents/1022948) |
+| Datev | Lawyer's mailbox |  | Fix | German source |[source](https://apps.datev.de/help-center/documents/1022948) |
 | Dataverse | The Dataverse Project | | Vulnerable || [source](dataverse.org) |
 | Datto | All Datto products | Unknown | Not vuln | |[source](https://www.datto.com/blog/dattos-response-to-log4shell) |
 | Datto | All Datto products | Unknown | Not vuln | |[source](https://www.datto.com/blog/dattos-response-to-log4shell) |
