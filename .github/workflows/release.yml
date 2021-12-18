@@ -4,6 +4,10 @@ on:
   push:
     tags:
       - '*'
+  workflow_run:
+    workflows: ["Create daily tag"]
+    types:
+      - completed
 
 jobs:
   release:

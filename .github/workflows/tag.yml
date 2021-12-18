@@ -2,7 +2,7 @@ name: Create daily tag
 
 on:
   schedule:
-    - cron: "59 23 * * *"
+    - cron: "58 23 * * *"
 
 jobs:
   tag:
