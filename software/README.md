@@ -677,13 +677,20 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | CIS-CAT|CIS-CAT Pro Dashboard| All| Not vuln||[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | Citrix | Analytics | Unknown | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Application Delivery Management (NetScaler MAS)  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Cloud Connector |  | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Connector Appliance for Cloud Services |  | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Content Collaboration (ShareFile Integration) |  | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Endpoint Management (XenMobile Server)  | 10.12 RP10, 10.13 RP5 and 10.14 RP2 | Fix |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Hypervisor (XenServer)   | Unknown | Not Vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Files for Mac |  | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Files for Outlook |  | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Files for Windows |  | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Hypervisor (XenServer) | Unknown | Not Vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | License Server |  | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | NetScaler ADC | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | NetScaler Gateway | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | SD-WAN  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Sharefile  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Virtual Apps and Desktops (XenApp & XenDesktop) | Unknown | Investigation | Not vulnerable: App Layering, Delivery Controller, Director, FAS, HDX, Profile Management, PVS, Session Recording, Storefront, Studio, Windows VDA, WEM | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Sharefile  | Unknown | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Virtual Apps and Desktops (XenApp & XenDesktop) | Unknown | Fix/Workaround | Impacted – Linux VDA (non-LTSR versions only), Not vulnerable: App Layering, Delivery Controller, Director, FAS, HDX, Profile Management, PVS, Session Recording, Storefront, Studio, Windows VDA, WEM | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Workspace App  | All versions | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Workspace  | Unknown | Not vuln  |  | [source](https://support.citrix.com/article/CTX335705) |
 | Clavister    | EasyAccess  | <= 4.1.2 | Fix |  | [source](https://kb.clavister.com/343410234/high-severity-vulnerability-in-apache-log4j-2) |
