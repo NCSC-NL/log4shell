@@ -2608,7 +2608,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | VMware       | Cloud Foundation  | 4.x, 3.x | Workaround |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87095)|
 | VMware       | HCX | 4.2.3, 4.1.0.2 | Fix |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) |
 | VMware       | Healthwatch for Tanzu Application Service  | 2.1.7, 1.8.6 | Fix |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://network.pivotal.io/products/p-healthwatch) |
-| VMware       | Horizon | 8.x, 7.x | Workaround |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87073) |
+| VMware       | Horizon | 8.x, 7.x | Fix |   | [source](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_horizon/2111), [workaround](https://kb.vmware.com/s/article/87073) |
 | VMware       | Horizon Cloud Connector | 1.x, 2.x | Fix | Fixed in 2.1.1 | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [fix](https://customerconnect.vmware.com/downloads/details?downloadGroup=HCS-CC-210&productId=716&rPId=79131#product_downloads)|
 | VMware       | Horizon DaaS | 9.1.x, 9.0.x | Workaround |   | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87101)|
 | VMware       | Identity Manager    | 3.3.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87093) |
