@@ -88,9 +88,6 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Adobe         | Experience Manager 6.3 Forms on JEE | all versions from 6.3 GA to 6.3.3 | Workaround | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager 6.4 Forms on JEE | all versions from 6.4 GA to 6.4.8 | Workaround | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager 6.5 Forms on JEE | all versions from 6.5 GA to 6.5.11 | Workaround | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
-=======
-| Adobe | Experience Manager | | Workaround | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
->>>>>>> Stashed changes
 | ADP           | All | | Investigation | Patching were needed, no signs of intrusion | [source](https://www.adp.com/about-adp/data-security/alerts/adp-vulnerability-statement-apache-log4j-vulnerability-cve-2021-44228-update.aspx) |
 | AFAS | All | | Not vuln | | [source](https://help.afas.nl/vraagantwoord/NL/SE/120439.htm) |
 | Ahsay | AhsayPRD | version 2.0 | Not vuln | | [source](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j) |
