@@ -80,7 +80,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Adobe         | Acrobat Reader | | Not Vuln | | [source](https://community.adobe.com/t5/acrobat-discussions/acrobat-affected-by-apache-log4j-vulnerability-cve-2021-44228/td-p/12590329?profile.language=fr) |
 | Adobe         | All | | Investigation | | [source](https://helpx.adobe.com/security/products/log4j-2-advisory.html) |
 | Adobe         | Automated Forms Conversion Service | | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
-| Adobe         | Cold Fusion | All | Vulnerable | Fix planned for Dec 17th | [source](https://helpx.adobe.com/coldfusion/kb/log4j-vulnerability-coldfusion.html) |
+| Adobe         | ColdFusion | All | Fix | [Patched on Dec 17th](https://helpx.adobe.com/coldfusion/kb/log4j-vulnerability-coldfusion.html) | [source](https://helpx.adobe.com/coldfusion/kb/log4j-vulnerability-coldfusion.html) |
 | Adobe         | Experience Manager 6.4 Forms Designer | | Vulnerable | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager 6.5 Forms Designer | | Fix | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager Forms on OSGi | all versions | Not vuln | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
