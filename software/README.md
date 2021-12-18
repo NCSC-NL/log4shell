@@ -105,51 +105,89 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Alphatron        | JiveX | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
 | Alphatron        | Zorgbericht | | Not Vuln | | [source](https://www.alphatronmedical.com/home.html) |
 | Amazon        | AMS | | Fix | Work in progress, portion of customers may still be vulnerable. Actively monitoring this issue, and are working on addressing it for any AMS services which use Log4j2 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | API Gateway | | Fix | All hosts now patched |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | API Gateway | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Athena JDBC driver | | Not vuln | All versions vended to customers were not affected |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Athena | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS AppFlow | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS AppSync | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 and CVE-2021-45046 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS AWS Certificate Manager Private CA | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS AWS Certificate Manager | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS AWS Service Catalog | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS CloudHSM | 3.4.1 | Fix | CloudHSM JCE SDK 3.4.1 or higher is not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | AWS Directory Service | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS CodeBuild | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 and CVE-2021-45046 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS CodePipeline | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 and CVE-2021-45046 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Directory Service | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS Elastic Beanstalk | | Not vuln | Default configuration of application's usage of Log4j versions is not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Fargate | | Not vuln | Opt-in hot-patch to mitigate the Log4j issue in JVM layer will be available as platform versions |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [hotpatch](https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/) |
 | Amazon        | AWS Glue | | Fix | Has been updated. Vulnerable only if ETL jobs load affected versions of Apache Log4j |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS Greengrass | | Fix | Updates for all Greengrass V2 components Stream Manager (2.0.14) and Secure Tunneling (1.0.6) are available. For Greengrass versions 1.10.x and 1.11.x, an update for the Stream Manager feature is included in Greengrass patch versions 1.10.5 and 1.11.5 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS IoT SiteWise Edge | | Fix | Updates for all AWS IoT SiteWise Edge components that use Log4j were made available; OPC-UA collector (v2.0.3), Data processing pack (v2.0.14), and Publisher (v2.0.2) |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | AWS KMS | | Fix | AWS KMS has been updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS KMS | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS Lambda | | Fix | Vulnerable when using aws-lambda-java-log4j2 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Polly | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS QuickSight | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS SDK | | Not vuln | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | AWS Secrets Manager | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Cloud Directory | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | CloudFront | | Fix | CloudFront services have been updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | CloudWatch | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Connect | | Fix | Connect services have been updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | DocumentDB | | Fix | Patched to mitigate the Log4j issue referenced in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Secrets Manager | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Systems Manager Agent | | Not vuln | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Systems Manager | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS Textract | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Chime | | Fix | Amazon Chime and Chime SDK services have been updated to mitigate the issues identified in CVE-2021-44228 and CVE-2021-45046 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Cloud Directory | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | CloudFront | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | CloudWatch | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Cognito | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Connect | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Corretto | | Not vuln | 10/19 release distribution does not include Log4j. Vulnerable only if customer's applications use affected versions of Apache Log4j |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | DocumentDB | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | DynamoDB | | Fix | DynamoDB and DynamoDB Accelerator have been updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | EC2 || Fix | Packages for Amazon Linux 1 and 2 not affected, package for Amazon Linux 2022 is |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [fix](https://alas.aws.amazon.com/cve/html/CVE-2021-44228.html) |
-| Amazon        | ElastiCache || Fix | Amazon ElastiCache completed patching the Apache Log4j2 issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | EMR | | Not vuln | Vulnerable only if affected EMR releases are used and untrusted sources are configured to be processed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Inspector Classic | | Fix | Patched against the Log4j issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Inspector | | Fix | Patched against the Log4j issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | ECR Public | | Fix | Amazon-owned images published under a Verified Account on Amazon ECR Public are not affected by the Log4j issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | ECS | | Not vuln | As an Amazon Linux package, opt-in hot-patch to mitigate the Log4j issue in JVM layer is available |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [hotpatch](https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/) |
+| Amazon        | EKS | | Not vuln | As a DaemonSet, opt-in hot-patch to mitigate the Log4j issue in JVM layer is available |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [hotpatch](https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/) |
+| Amazon        | Elastic Load Balancing || Fix | Services have been updated. All Elastic Load Balancers, as well as Classic, Application, Network and Gateway, are not affected by this Log4j issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | ElastiCache || Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | EMR | | Fix | Many customers are estimated to be vulnerable. Vulnerable only if affected EMR releases are used and untrusted sources are configured to be processed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | EventBridge | | Fix ||[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Fraud Detector | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Inspector Classic | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Inspector | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | Kafka (MSK) | | Fix | Applying updates as required, portion of customers may still be vulnerable. Some MSK-specific service components use Log4j > 2.0.0 library and are being patched where needed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Keyspaces (for Apache Cassandra) | | Fix | Has been updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Kendra | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Keyspaces (for Apache Cassandra) | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | Kinesis Data Analytics | | Fix | Updates are available. See source for more information |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | Kinesis Data Streams | | Fix | KCL 2.x, KCL 1.14.5 or higher, and KPL are not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | Kinesis | | Fix | Update for Kinesis Agent is available |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | Lake Formation | | Fix | Update in progress, portion of customers may still be vulnerable. AWS Lake Formation service hosts are being updated to the latest version of Log4j |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Managed Workflows for Apache Airflow (MWAA) | | Fix | Completed all required updates to the MWAA service code to address the issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | MemoryDB for Redis | | Fix | Amazon MemoryDB for Redis completed patching the Apache Log4j2 issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | MQ | | Fix | All required updates have been completed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Neptune | | Fix | All active Amazon Neptune clusters have been automatically updated |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Lex | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Linux 1 (AL1) | | Not vuln | By default not vulnerable. Opt-in hot-patch to mitigate the Log4j in JVM layer issue is available |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [hotpatch](https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/) |
+| Amazon        | Linux 2 (AL2) | | Fix | By default not vulnerable, and a new version of Amazon Kinesis Agent which is part of AL2 addresses the Log4j issue. Opt-in hot-patch to mitigate the Log4j issue in JVM layer is available |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [hotpatch](https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/) |
+| Amazon        | Lookout for Equipment | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Macie Classic | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Macie | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Managed Workflows for Apache Airflow (MWAA) | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | MemoryDB for Redis | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Monitron | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | MQ | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Neptune | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | NICE | | Fix | Recommended to update EnginFrame or Log4j library |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | OpenSearch | R20211203-P2 | Fix | Update released, customers need to update their clusters to the fixed release |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | RDS for Oracle | | Fix | Amazon RDS Oracle has updated the version of Log4j2 in use within the service |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | RDS | | Fix | Update in progress, portion of customers may still be vulnerable. Amazon RDS and Amazon Aurora are actively addressing all service usage of Log4j2 by applying updates |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Redshift | | Fix | Amazon Redshift clusters have been automatically updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | S3| | Fix | All S3 systems are patched |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Pinpoint | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | RDS Aurora | Rolling update has completed | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | RDS for Oracle | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | RDS | Rolling update has completed | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Redshift | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Rekognition | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Route53 | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | S3| | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | SageMaker | | Fix | Completed patching for the Apache Log4j2 issue (CVE-2021-44228). Vulnerable only if customer's applications use affected versions of Apache Log4j |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | Simple Notification Service (SNS) | | Fix | Systems that serve customer traffic are patched against the Log4j2 issue. Working to apply the patch to sub-systems that operate separately from SNS’s systems that serve customer traffic. |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Simple Queue Service (SQS) | | Fix | Completed patching. |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Simple Workflow Service (SWF) | | Fix | Amazon Simple Workflow Service (SWF) has been updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Single Sign-On | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Step Functions | | Fix | AWS Step Functions has been updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | Timestream | | Fix | Updated to mitigate the issues identified in CVE-2021-44228 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | WorkSpaces/AppStream 2.0 | | Fix | Not affected by CVE-2021-44228 with default configurations. WorkDocs Sync client versions 1.2.895.1 and older within Windows WorkSpaces, which contain the Log4j component, are vulnerable; For update instruction, see source for more info |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Simple Queue Service (SQS) | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Simple Workflow Service (SWF) | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Single Sign-On | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Step Functions | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Timestream | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | VPC | | Fix | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | WorkSpaces/AppStream 2.0 | | Fix | Not affected with default configurations. WorkDocs Sync client versions 1.2.895.1 and older within Windows WorkSpaces, which contain the Log4j component, are vulnerable; For update instruction, see source for more info |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | AOMEI         | All Products | | Not Vuln | | [source](https://www.aomeitech.com/forum/index.php?p=/discussion/7651/aomei-and-log4j) |
 | Apache        | Archiva | <2.2.6 | Fix | Fixed in 2.2.6 | [source](https://blogs.apache.org/security/entry/cve-2021-44228), [fix](https://lists.apache.org/thread/bmvhs0jxhf4vxcjxyhozm058pchykcqx) |
 | Apache        | Camel | all | Not vuln | |[source](https://camel.apache.org/blog/2021/12/log4j2/) |
