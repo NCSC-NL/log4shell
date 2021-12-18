@@ -1706,7 +1706,6 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | IBM | Sterling Fulfillment Optimizer | Unknown | Vulnerable |  | [source](https://www.ibm.com/support/pages/node/6525544) |
 | IBM | Sterling Gentran | All | Not vuln |  | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis) |
 | IBM | Sterling Inventory Visibility | Unknown | Vulnerable |  | [source](https://www.ibm.com/support/pages/node/6525544) |
-| IBM | Sterling Order Management | All | Not vuln |  | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis) |
 | IBM | Sterling Order Management | Unknown | Not vuln |  | [source](https://www.ibm.com/support/pages/node/6525544) |
 | IBM | Sterling Transformation Extender Pack for ACORD | All | Not vuln |  | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis) |
 | IBM | Sterling Transformation Extender Pack for Financial Services | All | Not vuln |  | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis) |
