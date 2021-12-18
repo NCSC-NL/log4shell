@@ -376,6 +376,19 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | BMC Software  | ULTRAOPT/CICS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | ULTRAOPT/IMS    | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
 | BMC Software  | zDetect  | | Not vuln |  |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability) |
+| Boston Scientific | Heart Connect Tablet | 3933 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LATITUDE Clarity™ | 7260 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LATITUDE™ Classic | 6488 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LATITUDE™ Communicators | 6299, 6476, 6496, 6468, 6420, 6498, 6443 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LATITUDE Consult™ | 6297 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LATITUDE™ EMR Secure Courier Client | 6455, 6624 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LATITUDE Link™ | 6215 | Workaround | Customer action needed to secure customer system. | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LATITUDE™ NXT | 6446, 6447, 6448, 6449, 6460 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LATITUDE™ Programmer & Apps | 3300 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | LUX-Dx™ Clinic Assistant App | 2935 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | MyLATITUDE™ Patient App | | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | myLUX™ Patient App | 2925 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
+| Boston Scientific | ZOOM™ Programmer & Apps | 3120 | Not Vuln | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html) |
 | Brian Pangburn | SwingSet | < 4.0.6 | Fix | |[source](https://github.com/bpangburn/swingset/releases/tag/swingset-4.0.6) |
 | Broadcom      | Advanced Secure Gateway (ASG) | Unknown | Investigation | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793) |
 | Broadcom      | BCAAA | Unknown | Investigation | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793) |
@@ -447,6 +460,14 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
+| Canon | Alphenix (Angio Workstation) |  | Investigation |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | CT Medical Imaging Products |  | Not Vuln |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | Infinix-i (Angio Workstation) |  | Investigation |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | MR Medical Imaging Products |  | Not Vuln |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | NM Medical Imaging Products |  | Not Vuln |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | UL Medical Imaging Products |  | Not Vuln |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | Vitrea Advanced | 7.x | Investigation |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | XR Medical Imaging Products |  | Not Vuln |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 | Carbon Black | Cloud Workload Appliance | Unknown | Mitigation | More information on pages linked bottom of blogpost (behind login)| [source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134) |
 | Carbon Black | EDR Servers| Unknown | Mitigation | More information on pages linked bottom of blogpost (behind login)| [source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134) |
 | CareStream | All | | Not vuln | | [source](https://www.carestream.com/en/us/services-and-support/cybersecurity-and-privacy) |
@@ -1370,6 +1391,11 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | JetBrains | UpSource | 2020.1.1952 | Fix | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JGraph | DrawIO | All | Not vuln || [source](https://github.com/jgraph/drawio/issues/2490) |
 | Jitsi | jitsi-videobridge | v2.1-595-g3637fda42 | Fix  | | [source](https://github.com/jitsi/security-advisories/blob/4e1ab58585a8a0593efccce77d5d0e22c5338605/advisories/JSA-2021-0004.md)|
+| Johnson Controls | C•CURE‐9000 | 2.90.x and 2.80.x | Not Vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | Facility Explorer | 14.x | Not Vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | Metasys Products and Tools | All | Not Vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | victor | 5.x | Not Vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | victor/ C•CURE‐9000 Unified | 3.81.x / victor 5.4.1 / C•CURE‐9000 2.80 and 3.91.x / victor 5.6.1 / C•CURE‐9000 2.90 | Not Vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | jPOS | (ISO-8583) bridge | Unknown | Not Vuln  | | [source](https://github.com/jpos/jPOS/commit/d615199a1bdd35c35d63c07c10fd0bdbbc96f625)|
 | Juniper Networks | Cross Provisioning Platform | Unspecified | Under investigation | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | JSA Series | Unspecified | Under investigation | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
@@ -2619,6 +2645,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | VMware       | Workspace ONE Access   | 21.x, 20.x | Workaround |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87090) |
 | VMware       | Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87091)|
 | Vuze         | Vuze Torrent (desktop/server/mobile) | Revision 44261 | Investigation | Also know as Azureus | [source](http://svn.vuze.com/public/client/trunk/uis/lib/), [vendor](https://www.vuze.com/) |
+| Vyaire medical | All |  | Not Vuln |  | [source](https://www.vyaire.com/product-security) |
 
 ### W
 
@@ -2707,6 +2734,12 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Zabbix          | Zabbix          |                 | Not vuln        | Zabbix is aware of this vulnerability, has completed verification, and can conclude that the only product where we use Java is Zabbix Java Gateway, which does not utilize the log4j library, thereby is not impacted by this vulnerability. |[source](https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/) |
 | Zammad          | Zammad          |                 | Workaround      | Most of Zammad instances make use of Elasticsearch which might be vulnerable. |[source](https://community.zammad.org/t/cve-2021-44228-elasticsearch-users-be-aware/8256) |
+| Zeiss | Cataract Suite | 1.3.1 | Fix | Patch is available | [source](https://www.zeiss.com/meditec/int/cybersecurity/apache-log4j/english.html) |
+| Zeiss | EQ Workplace | 1.6 and 1.8 | Fix | Patch is available | [source](https://www.zeiss.com/meditec/int/cybersecurity/apache-log4j/english.html) |
+| Zeiss | FORUM | 4.2.x | Fix | Patch is available | [source](https://www.zeiss.com/meditec/int/cybersecurity/apache-log4j/english.html) |
+| Zeiss | Glaucoma Workplace | 3.5.x | Fix | Patch is available | [source](https://www.zeiss.com/meditec/int/cybersecurity/apache-log4j/english.html) |
+| Zeiss | Laser Treatment Workplace | 1.x | Fix | Patch is available | [source](https://www.zeiss.com/meditec/int/cybersecurity/apache-log4j/english.html) |
+| Zeiss | Retina Workplace | 2.5.x and 2.6.x | Fix | Patch is available | [source](https://www.zeiss.com/meditec/int/cybersecurity/apache-log4j/english.html) |
 | Zendesk         | Zendesk         |                 | Workaround      | SaaS - No user action |[source](https://support.zendesk.com/hc/en-us/articles/4413583476122-2021-12-13-Security-Advisory-Apache-Log4j-CVE-2021-44228-) |
 | Zerto           | Virtual Replication Appliance   | | Not vuln        | |[source](https://help.zerto.com/kb/000004822) |
 | Zerto           | Zerto Cloud Appliance |           | Not vuln        | |[source](https://help.zerto.com/kb/000004822) |
