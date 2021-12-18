@@ -216,6 +216,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Backblaze      | Cloud | N/A (SaaS) | Fix | Cloud service patched |[source](https://help.backblaze.com/hc/en-us/articles/4412580603419) |
 | Barco          | Demetra | | Investigation | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
+| Barco          | OpSpace | 1.8 | Workaround | | [source](https://www.barco.com/en/support/knowledge-base/KB12493) |
 | Barco          | Other products | | Not vuln | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
 | Barco          | Projector Toolset | | Investigation | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
 | Basis Technology | Autopsy | 4.18.0 onwards | Workaround | version 4.18.0 onwards use Apache Solr 8 | [source](https://www.autopsy.com/autopsy-and-log4j-vulnerability) |
