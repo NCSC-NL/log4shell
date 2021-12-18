@@ -1064,6 +1064,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | GoAnywhere| MFT | version 5.3.0 or later | Fix | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | GoAnywhere| MFT Agents | 1.4.2 or later | Vulnerable | Versions less than GoAnywhere Agent version 1.4.2 are not affected | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | GoAnywhere| Open PGP Studio | Unknown | Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+| GoAnywhere| Surveyor/400 | Unknown | Not vuln | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | Gradle | Gradle |  | Not vuln | Gradle Scala Compiler Plugin depends upon log4j-core but it is not used. | [source](https://blog.gradle.org/log4j-vulnerability) |
 | Gradle | Gradle Enterprise | 2021.3.6 | Fix | | [source](https://security.gradle.com/advisory/2021-11) |
 | Gradle | Gradle Enterprise Test Distribution Agent | 1.6.2 | Fix | | [source](https://security.gradle.com/advisory/2021-11) |
