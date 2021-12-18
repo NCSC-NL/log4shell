@@ -740,7 +740,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| DatadogHQ | Datadog Agent | 6 < [6.32.2](https://github.com/DataDog/datadog-agent/releases/tag/6.32.2), 7 < [7.32.2](https://github.com/DataDog/datadog-agent/releases/tag/7.32.2) | Fix/workaround | JMX monitoring component leverages an impacted version of log4j | [source](vendor-statements/DatadogHQ%20-%20Our_response_to_log4j_vulnerability.pdf) |
+| DatadogHQ | Datadog Agent | 6 < [6.32.3](https://github.com/DataDog/datadog-agent/releases/tag/6.32.3), 7 < [7.32.3](https://github.com/DataDog/datadog-agent/releases/tag/7.32.3) | Fix/workaround | JMX monitoring component leverages an impacted version of log4j | [source](https://www.datadoghq.com/log4j-vulnerability/) |
+| DatadogHQ | datadog-lambda-java | < 0.3.3 or < 1.4.0 | Fix | following AWS’s recommendation, library updated using the latest version of amazon-lambda-java-log4j2 (1.4.0). | [source](https://www.datadoghq.com/log4j-vulnerability/) |
+| DatadogHQ | datadog-kafka-connect-logs | < 1.0.2 | Fix | Version 1.0.2 of the library uses version 2.16.0 of Log4j. | [source](https://www.datadoghq.com/log4j-vulnerability/) |
 | DataNet Quality Systems | WinSPC | | Not vuln | Note: this is not **WinSCP**. This is a Statistical Process Control software. | Email from customer support. See vendor-statements folder. |
 | Datev | All Datev products | Unknown | Vulnerable | german source |[source](https://www.datev-community.de/t5/Freie-Themen/Log4-J-Schwachstelle/td-p/258147) |
 | Dataverse | The Dataverse Project | | Vulnerable || [source](dataverse.org) |
