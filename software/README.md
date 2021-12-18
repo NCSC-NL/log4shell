@@ -2002,20 +2002,25 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Red Hat         | A-MQ Clients 2 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat build of Quarkus |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat CodeReady Studio 12 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Data Grid 8 |  | Fixed | [RHSA-2021:5132](https://access.redhat.com/errata/RHSA-2021:5132)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Data Grid 8 | 8.2.2 | Fixed | [RHSA-2021:5132](https://access.redhat.com/errata/RHSA-2021:5132)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Descision Manager 7 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Integration Camel K |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Integration Camel Quarkus |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss A-MQ Streaming |  | Fixed | [RHSA-2021:5133](https://access.redhat.com/errata/RHSA-2021:5133)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss A-MQ Streaming | 1.6.5 | Fixed | [RHSA-2021:5133](https://access.redhat.com/errata/RHSA-2021:5133)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat JBoss Enterprise Application Platform 6 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat JBoss Enterprise Application Platform Expansion Pack |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss Fuse 7 |  | Fixed | [RHSA-2021:5134](https://access.redhat.com/errata/RHSA-2021:5134) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Application Runtimes |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 3.11 openshift3/ose-logging-elasticsearch5 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-logging-elasticsearch6 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-metering-hive |  | Fixed | [RHSA-2021:5108](https://access.redhat.com/errata/RHSA-2021:5108) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-metering-presto |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging logging-elasticsearch6-container |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss Fuse 7 | 7.10.0 | Fixed | [RHSA-2021:5134](https://access.redhat.com/errata/RHSA-2021:5134) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Application Runtimes 1.0 | n.a. (see notes) | Fixed | [RHSA-2021:5093](https://access.redhat.com/errata/RHSA-2021:5093) - Red Hat build of Eclipse Vert.x 4.1.5 SP1 | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 3.11 openshift3/ose-logging-elasticsearch5 | 3.11.z | Fixed | [RHSA-2021:5094](https://access.redhat.com/errata/RHSA-2021:5094) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-logging-elasticsearch6 | 4.6.z | Fixed | [RHSA-2021:5106](https://access.redhat.com/errata/RHSA-2021:5106) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-metering-hive | 4.8.z | Fixed | [RHSA-2021:5108](https://access.redhat.com/errata/RHSA-2021:5108) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4.6 openshift4/ose-metering-presto | 4.6.52 | Fixed | [RHSA-2021:5141](https://access.redhat.com/errata/RHSA-2021:5141) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4.7 openshift4/ose-metering-presto | 4.7.40 | Fixed | [RHSA-2021:5107](https://access.redhat.com/errata/RHSA-2021:5107) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4.8 openshift4/ose-metering-presto | 4.8.24 | Fixed | [RHSA-2021:5148](https://access.redhat.com/errata/RHSA-2021:5148)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8	 | 5.0.10 | Fixed | [RHSA-2021:5137](https://access.redhat.com/errata/RHSA-2021:5137)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.1 openshift-logging/elasticsearch6-rhel8	 | 5.1.5 | Fixed | [RHSA-2021:5128](https://access.redhat.com/errata/RHSA-2021:5128)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.2 openshift-logging/elasticsearch6-rhel8	 | 5.2.4 | Fixed | [RHSA-2021:5127](https://access.redhat.com/errata/RHSA-2021:5127)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8	 | 5.3.1 | Fixed | [RHSA-2021:5129](https://access.redhat.com/errata/RHSA-2021:5129)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenStack Platform 13 (Queens) opendaylight |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Process Automation 7 |  | Vulnerable | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Single Sign-On 7 |  | Not Vuln | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
