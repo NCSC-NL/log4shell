@@ -886,6 +886,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | EAL | ATS Classic | All Versions | Not Vuln | | See vendor-statements |
 | EclecticIQ | TIP | < 2.11 | Vulnerable | The Threat Intel Platform includes Neo4j 3.5.12 (not vulnerable) and Elasticsearch and Logstash OSS 7.9.1 (vulnerable) see Elasticsearch below for mitigation. see link in their own fix for Logstash (Support account needed, ongoing investigation) | [source/fix](https://docs.eclecticiq.com/security-advisories/security-issues-and-mitigation-actions/eiq-2021-0016-2) |
+| eG Innovations         | eG Enterprise | 7.1.8-7.1.9 | Not Vuln |  Patch to Remove old log4j | [source](https://www.eginnovations.com/brochures/eGEnterprise-and-Log4jShell-Vulnerability.pdf) |
 | Elastic         | APM Java Agent | 1.17.0-1.28.0 | Workaround |  Only vulnerable with specific configuration | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | APM Server | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Beats | | Not Vuln |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
