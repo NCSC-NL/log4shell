@@ -1059,9 +1059,11 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | GitLab | PMD OSS | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
 | GitLab | SAST | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
 | GitLab | Spotbugs | | Fix | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
-| GoAnywhere| Agents| Unknown| Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
-| GoAnywhere| Gateway| Unknown| Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
-| GoAnywhere| MFT| Unknown| Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+| GoAnywhere| Agents | Unknown | Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+| GoAnywhere| Gateway| version 2.7.0 or later | Fix | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+| GoAnywhere| MFT | version 5.3.0 or later | Fix | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+| GoAnywhere| MFT Agents | Unknown | Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+| GoAnywhere| Open PGP Studio | Unknown | Workaround | | [source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 | Gradle | Gradle |  | Not vuln | Gradle Scala Compiler Plugin depends upon log4j-core but it is not used. | [source](https://blog.gradle.org/log4j-vulnerability) |
 | Gradle | Gradle Enterprise | 2021.3.6 | Fix | | [source](https://security.gradle.com/advisory/2021-11) |
 | Gradle | Gradle Enterprise Test Distribution Agent | 1.6.2 | Fix | | [source](https://security.gradle.com/advisory/2021-11) |
