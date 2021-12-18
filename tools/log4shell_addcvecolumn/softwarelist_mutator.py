@@ -1,45 +1,61 @@
 import click
+import sys
+from typing import List
+
 
 @click.command()
-@click.option('--path', default='../../software/README.md', help='Path to software list README.md', type=click.File())
-@click.argument('output', default='-', type=click.File('w+'))
+@click.argument('input', default='software/README.md', type=click.File())
 @click.pass_context
-def mutate(ctx, path, output):
-    for line in path:
-        if line[0] != '|':
-            print(line, file=output)
-            continue
-        if line.count('|') == 3:
-            print(line, file=output)
-            continue # status table
-        if '| Supplier' in line:
-            print(mutate_header(line), file=output)
-            continue # table header
-        if '|:----' in line:
-            print(mutate_underline(line), file=output)
-            continue # table underline
+def mutate(ctx, input):
+    with sys.stdout as output:
+        for line in input:
+            try:
+                # not a table, just copy
+                if line[0] != '|':
+                    output.write(line)
+                    continue
+                # initial status table, just copy
+                if line.count('|') == 3:
+                    output.write(line)
+                    continue
+                # table header, add header fields
+                if '| Supplier' in line:
+                    output.write(mutate_header(line))
+                    continue
+                # table underline, add header fields
+                if '|:----' in line:
+                    output.write(mutate_underline(line))
+                    continue
 
-        print(mutate_record(line), file=output)
+                # table line, add cells
+                output.write(mutate_record(line))
+            except ValueError as e:
+                print("\nOffending line:", file=sys.stderr)
+                print(line, file=sys.stderr)
+                raise e
 
-def mutate_header(line):
+
+def mutate_header(line) -> str:
     cve4104 = ' Status CVE-2021-4104 '
     cve45046 = ' Status CVE-2021-45046 '
-    cve44228 =' Status CVE-2021-44228 '
+    cve44228 = ' Status CVE-2021-44228 '
 
     _, vendor, product, version, status, comment, link, _ = line.split('|')
 
-    return('|'+'|'.join([vendor, product, version, cve4104, cve44228, cve45046, comment, link])+'|')
+    return(table_line([vendor, product, version, cve4104, cve44228, cve45046, comment, link]))
 
-def mutate_underline(line):
+
+def mutate_underline(line) -> str:
     cve4104 = ':--------------------:'
     cve45046 = ':---------------------:'
-    cve44228 =':---------------------:'
+    cve44228 = ':---------------------:'
 
     _, vendor, product, version, status, comment, link, _ = line.split('|')
 
-    return('|'+'|'.join([vendor, product, version, cve4104, cve44228, cve45046, comment, link])+'|')
+    return(table_line([vendor, product, version, cve4104, cve44228, cve45046, comment, link]))
 
-def mutate_record(line):
+
+def mutate_record(line) -> str:
     cve4104 = ' '
     cve45046 = ' '
     _, vendor, product, version, status, comment, link, _ = line.split('|')
@@ -49,7 +65,12 @@ def mutate_record(line):
         cve4104 = ' Not Vuln '
         cve45046 = ' Not Vuln '
 
-    return('|'+'|'.join([vendor, product, version, cve4104, cve44228, cve45046, comment, link])+'|')
+    return(table_line([vendor, product, version, cve4104, cve44228, cve45046, comment, link]))
+
+
+def table_line(fields: List[str]) -> str:
+    return("|"+"|".join(fields)+"|\n")
+
 
 if __name__ == '__main__':
     mutate(obj={})
