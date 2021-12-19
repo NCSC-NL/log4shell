@@ -18,7 +18,9 @@ HEADERS = [
     'Supplier',
     'Product',
     'Version',
-    'Status',
+    'Status CVE-2021-4104',
+    'Status CVE-2021-44228',
+    'Status CVE-2021-45046',
     'Notes',
     'Links'
 ]
