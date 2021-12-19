@@ -2470,7 +2470,43 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Proxmox | Backup Server | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
 | Proxmox | Mail Gateway | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
 | Proxmox | VE | | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
-| PTC | Windchill PDMLink | 12.0.2.0, 12.0.2.1, 12.0.2.2 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | ACA Client | | Workaround | | [source](https://www.ptc.com/en/support/article/CS358990) |
+| PTC | Adapter Toolkit | | Workaround | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | AdaWorld | | Not Vuln | | [source](https://www.ptc.com/en/documents/log4j) |
+| PTC | ApexAda | | Not Vuln | | [source](https://www.ptc.com/en/documents/log4j) |
+| PTC | Arbortext Editor, Styler & Publishing Engine | >8.0.0.0 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358998) |
+| PTC | Arena | | Not Vuln | | [source](https://www.ptc.com/en/documents/log4j) |
+| PTC | Axeda | | Workaround | | [source](https://www.ptc.com/en/support/article/CS358990) |
+| PTC | Creo Elements/Direct Model Manager | | Workaround | | [source](https://www.ptc.com/en/support/article/CS358965) |
+| PTC | Flexnet License Server | | Workaround | | [source](https://www.ptc.com/en/support/article/CS358831) |
+| PTC | FlexPLM | 12.0.2.2 (CPS03), 12.0.2.3 | Vulnerable | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | FlexPLM | 12.0.2.0 (CPS01 and CPS02) | Workaround | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | FlexPLM | <= 11.1 M020, 11.2.1, 12.0.0 | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | Implementer | | Investigation | | [source](https://www.ptc.com/en/support/article/CS359084) |
+| PTC | Intellicus | >=19.1 SP11 | Fix | | [source](https://www.ptc.com/en/support/article/CS358886) |
+| PTC | OnShape | | Not Vuln | | [source](https://forum.onshape.com/discussion/comment/77206#Comment_77206) |
+| PTC | Servigistics Service Parts Management | 12.1, 12.2 | Fix | | [source](https://www.ptc.com/en/support/article/CS358886) |
+| PTC | Servigistics Service Parts Pricing | 12.1, 12.2 | Fix | | [source](https://www.ptc.com/en/support/article/CS358886) |
+| PTC | ThingWorx Analytics |8.5, 9.0, 9.1, 9.2 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Advisor Apps | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Agents | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx DPM | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Extensions | | Workaround | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Flow | 8.5, 9.0, 9.1, 9.2 | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Kepware | <=1.3 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358996) |
+| PTC | ThingWorx Manufacturing Apps | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Navigate | 9.1, 9.2 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Ping Federate Integration | >=9.1 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Platform | >=8.5.7 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | ThingWorx Platform High Availability | 9.0, 9.1, 9.2 | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358901) |
+| PTC | WCTK | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | Windchill PDMLink | <=11.1 M020, 11.2.1 | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | Windchill PDMLink | 12.0.2.0 (CPS01 & CPS02) | Workaround | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | Windchill PDMLink | 12.0.2.2 (CPS03) | Vulnerable | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | Windchill Performance Advisor | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | Windchill Rest Services | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358789) |
+| PTC | Windchill RV&S (Integrity Lifecycle Manager) | 4.6/ 8.6 4.6 SP0 to 12.5 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358804) |
+| PTC | Windchill Workgroup Manager | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358789) |
 | PTV Group                                       | PTV Arrival Board / Trip Creator / EM Portal    | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV Balance and PTV Epics                       | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV Developer                                   | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
