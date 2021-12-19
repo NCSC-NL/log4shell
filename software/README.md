@@ -1525,83 +1525,105 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | LastPass | Other products | | Not Vuln | | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
 | LastPass | LastPass MFA |  | Fix | Universal Proxy on Windows with Debug logging enabled are highly recommended to update to the newest version of the Universal Proxy 3.0.2 or 4.1.2 | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
 | LeanIX | All products | All versions | Fix | | [source](https://www.leanix.net/en/blog/log4j-vulnerability-log4shell) |
-| Lenovo | Any 5594 UPS unit | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Any 5595 UPS unit | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | BIOS/UEFI | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Chassis Management Module 2 (CMM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Commercial Vantage | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Confluent | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | CP6000 (ThinkAgile) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | CP-CB-10E (Lenovo) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | CP-CB-10 (Lenovo) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | CP-CN-10E (ThinkAgile) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | CP-CN-10 (ThinkAgile) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | CP-I-10 (ThinkAgile) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | CP-SB-D20E (ThinkAgile) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | CP-SB-D20E (ThinkAgile) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | CP-SB-D20 (ThinkAgile) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkAgile,-Product) |
-| Lenovo | DM120S (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM240N (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM240S (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM3000H (ThinkSystem)| | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM5000F (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM5000H (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM5100F (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM600S (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM7000F (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM7000H (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM7100F (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | DM7100H (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Storage-,Product,-Component) |
-| Lenovo | Eaton UPS Network Management Card (NMC) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Eaton UPS Network Management Card (NMC) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Fan Power Controller2 (FPC2) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Fan Power Controller (FPC) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | IBM Advanced Management Module (AMM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | IBM Advanced Management Module (AMM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo Cloud Deploy | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo Device Intelligence (LDI) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo DSS-G | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=the%20vulnerable%20Component.-,Software,-Product) |
-| Lenovo | Lenovo Dynamic System Analysis (DSA) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo Dynamic System Analysis (DSA) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo Dynamic System Analysis (DSA) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo Thin Installer | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo ThinkSystem Digital 2x1x16 KVM Switch, 1754-D1T | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo Update Retriever | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo Update Retriever | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo Vantage | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo XClarity Administrator | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=the%20vulnerable%20Component.-,Software,-Product) |
-| Lenovo | Lenovo XClarity Controller (XCC) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo XClarity Energy Manager | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=the%20vulnerable%20Component.-,Software,-Product) |
-| Lenovo | Lenovo XClarity Essentials (LXCE) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo XClarity Integrator (LXCI) for Microsoft System Center | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo xClarity Integrator | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=the%20vulnerable%20Component.-,Software,-Product) |
-| Lenovo | Lenovo XClarity Mobile (LXCM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo XClarity Mobile (LXCM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo XClarity Orchestrator (LXCO) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Lenovo XClarity Provisioning Manager (LXPM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | Network Switches | | Not vuln | Lenovo CNOS, Lenovo ENOS, IBM ENOS, Brocade FOS | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | P920 Rack Workstation | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=TBD-,ThinkStation,-Product) |
-| Lenovo | SR530 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR550 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR570 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR590 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR630 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR630 V2 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR645 (ThinkSystem)| | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR650 (ThinkSystem)| | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR650 V2 (ThinkSystem)| | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR665 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR850 V2 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | SR860 V2 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | ST550 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | ST558 (ThinkSystem) | | Vulnerable | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=%C2%A0-,ThinkSystem,-Product) |
-| Lenovo | System Management Module (SMM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | System Management Module (SMM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | ThinkSystem 2x1x16 Digital KVM Switch - Type 1754D1T | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | ThinkSystem DE Series Storage | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | ThinkSystem DM Series Storage | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | ThinkSystem DS Series Storage | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
-| Lenovo | ThinkSystem Manager (TSM) | | Not vuln | | [source](https://support.lenovo.com/ca/en/product_security/len-76573#:~:text=Not%20Affected-,Any%205594%20UPS%20unit,-Any%205595%20UPS) |
+| Lenovo | Any 5594 UPS unit |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Any 5595 UPS unit |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | B300 FC SAN Switch | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | B6505 FC SAN Switch | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | B6510 FC SAN Switch | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | BIOS/UEFI |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Chassis Management Module 2 (CMM) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Cloud Deploy |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Commercial Vantage |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Confluent |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP-CB-10 (Lenovo) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP-CB-10E (Lenovo) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP-CN-10 (ThinkAgile) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP-CN-10E (ThinkAgile) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP-I-10 (ThinkAgile) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP-SB-D20 (ThinkAgile) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP-SB-D20E (ThinkAgile) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP-SB-S10 (ThinkAgile) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | CP6000 (ThinkAgile) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Device Intelligence (LDI) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | DM120S (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM240N (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM240S (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM3000H (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM5000F (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM5000H (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM5100F (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM600S (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM7000F (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM7000H (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM7100F (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DM7100H (ThinkSystem) |  | Workaround |  | [source](https://datacentersupport.lenovo.com/us/en/solutions/ht513178) |
+| Lenovo | DSS-G |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Dynamic System Analysis (DSA) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Eaton UPS Network Management Card (NMC) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Fan Power Controller (FPC) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Fan Power Controller2 (FPC2) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | GCM16 Global Console Managers |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | GCM32 Global Console Managers |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | IBM Advanced Management Module (AMM) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | IBM GCM16 Global Console Managers |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | IBM GCM32 Global Console Managers |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | IBM LCM16 Local Console Managers |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | IBM LCM8 Local Console Managers |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Integrated Management Module II (IMM2) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | LCM16 Local Console Managers |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | LCM8 Local Console Managers |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Network Switches |  | Not vuln | Lenovo CNOS, Lenovo ENOS, IBM ENOS, Brocade FOS | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | P920 Rack Workstation |  | Vulnerable | Patch 2021-12-20 | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Patch for MEM |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR530 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR550 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR570 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR590 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR630 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR630 V2 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR645 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR650 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR650 V2 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR665 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR850 V2 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | SR860 V2 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | ST550 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | ST558 (ThinkSystem) |  | Vulnerable |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | System Management Module (SMM) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | System Management Module 2 (SMM2) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | System Update |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Thin Installer |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | ThinkAgile HX (VMware Components) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | ThinkAgile VX (VMware Components) |  | Fix |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) |
+| Lenovo | ThinkSystem 2x1x16 Digital KVM Switch - Type 1754D1T |  | Fix |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) |
+| Lenovo | ThinkSystem DB400D FC Switch |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | ThinkSystem DB610S FC Switch | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | ThinkSystem DB620S FC Switch | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | ThinkSystem DB630S FC Switch | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | ThinkSystem DB720S FC Switch | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | ThinkSystem DB800D FC Switch | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | ThinkSystem DE Series Storage | 2.0.0, 2.1.0, 2.1.1 | Workaround |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
+| Lenovo | ThinkSystem Digital 2x1x16 KVM Switch, 1754-D1T |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | ThinkSystem DM Series Storage |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | ThinkSystem DS Series Storage |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | ThinkSystem Manager (TSM) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Update Retriever |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | UPS Network Management Card, p/n 46M4110 |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Vantage |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | Vertiv rPDUs for Lenovo |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Administrator |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Controller (XCC) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Energy Manager |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Essentials (LXCE) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | xClarity Integrator |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Integrator (LXCI) for Microsoft Azure Analytics |  | Fix |  | [source](https://datacentersupport.lenovo.com/us/en/products/solutions-and-software/software/lenovo-xclarity/lxca/downloads/ds554079-lenovo-xclarity-administrator-ga-fix-345-for-anyos) |
+| Lenovo | XClarity Integrator (LXCI) for Microsoft System Center |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Integrator (LXCI) for Nagios |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Integrator (LXCI) for ServiceNow |  | Vulnerable | Patch 2021-12-20 | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Integrator (LXCI) for Windows Admin Center |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Mobile (LXCM) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Orchestrator (LXCO) |  | Vulnerable | Patch 2021-12-21 | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
+| Lenovo | XClarity Provisioning Manager (LXPM) |  | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
 | Lightbend | Akka  | Unknown | Not Vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Lightbend | Akka Serverless | Unknown | Not Vuln| | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Lightbend | Lagom Framework | Unknown | Not Vuln by default | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
