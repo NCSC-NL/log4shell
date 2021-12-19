@@ -3288,31 +3288,70 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
-| Xerox | All other products | | Investigation | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | AltaLink B8000 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | AltaLink B8100 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | AltaLink C8000 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | AltaLink C8100 Series | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | B1022/1025 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Baltoro HF Inkjet Press | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | DocuShare | | Not vuln | DocuShare using Solr search is vulnerable, see below. | [source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896) |
-| Xerox | DocuShare Flex | | Not vuln | | [source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896) |
-| Xerox | DocuShare Go | | Not vuln | | [source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896) |
-| Xerox | DocuShare using Solr search | 7.5 hotfix 11 | Fixed | | [source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896) |
-| Xerox | EC8036/EC8056 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | iGen 5 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Instant Print Kiosk | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Nuvera EA Perfecting Production Systems | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Nuvera EA Production Systems | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Phaser 3330 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Phaser 3435 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Versant 180/280 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Versant 3100/4100 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | WorkCentre 3335/45 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | WorkCentre 5865i/5875i/58901 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | WorkCentre 7970i | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | WorkCentre EC7836/EC7856 | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
-| Xerox | Workplace Kiosk | | Not vuln | | [source](https://security.business.xerox.com/wp-content/uploads/2021/12/Xerox-Special-Bulletin-Regarding-CVE-2021-44228.pdf) |
+| Xerox | Account Payable Services |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | AltaLink Products |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | App Gallery |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | B1022/25 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | B225, B235 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | B230 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | B310 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Baltoro HF Injet Press |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Branded ConnectKey Applications |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | C230 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | C235 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | C310 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Campaigns on Demand |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | CareAR |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Color EC70 Printer |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Color EC70 Printer |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | D95A/D110/D125 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Digital Mailroom Services |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | DocuCentre SC2020 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | DocuShare |  | Not vuln | DocuShare using Solr search is vulnerable, see below. | [source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896) |
+| Xerox | DocuShare Flex |  | Not vuln |  | [source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896) |
+| Xerox | DocuShare Go |  | Not vuln |  | [source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896) |
+| Xerox | DocuShare using Solr search | 7.5 hotfix 11 | Fix |  | [source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896) |
+| Xerox | ECxx and WorkCentre Ecxx |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | ED95A/ED125 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | ElemX |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | FreeFlow Core |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | FreeFlow Express to Print |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | FreeFlow Makeready |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | FreeFlow Output Manager |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | FreeFlow Print Manager - APP |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | FreeFlow Variable Information Suite |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | iGen 5 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Instant Print Kiosk |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Intelligent Workplace Services |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Iridesse Production Press |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Nuvera EA Perfecting Production Systems |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Nuvera EA Production Systems |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Phaser 3330 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Phaser 3435 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Phaser 6000 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Phaser 6020 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Phaser 6510 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | PrimeLink Products |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | PrimeLink Products |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | PrimeLink Products |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Print and Scan Experience |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Team Availability Application |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | VersaLink Products |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Versant 180/280 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Versant 3100/4100 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | WorkCentre 33xx |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | WorkCentre 53xx |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | WorkCentre 58xx |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | WorkCentre 6025 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | WorkCentre 6515 |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | WorkCentre 7970i |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Workflow Central Platform |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Workplace Kiosk |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Workplace Suite |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | Workspace Cloud |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | XMPie Data-Driven Print and VDP |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | XMPie Omnichannel Communications |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
+| Xerox | XMPie Web to Print |  | Not vuln |  | [source](Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf) |
 
 ### Y
 
