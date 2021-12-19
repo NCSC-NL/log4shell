@@ -985,7 +985,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Enovation | All | | Not Vuln | | [source](https://enovationgroup.com/nl/nieuws/log4j-vulnerability-cve-2021-44228/) |
 | ESET | All products | Unknown | Not vuln | |[source](https://support.eset.com/en/alert8188-information-regarding-the-log4j2-vulnerability) |
 | ESET | Secure Authentication | Unknown | Workaround | |[source](https://support.eset.com/en/kb8190-vulnerability-log4j2-in-the-reporting-engine-elasticsearch-of-eset-secure-authentication?ref=esf) |
-| Esri | ArcGIS Enterprise and related products | < 10.8.0 | Workaround | See source for workaround  | [source](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/) |
+| Esri | ArcGIS Enterprise and related products | | Workaround | See source for workaround  | [source](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/) |
 | estos            | All products | Unknown | Not vuln | |[source](https://support.estos.de/de/sicherheitshinweise/estos-von-kritischer-schwachstelle-in-log4j-cve-2021-44228-nicht-betroffen) |
 | EVL Labs | JGAAP | <8.0.2 | Fix | | [source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2) |
 | Exivity | Exivity On-Premise | All version | Not Vuln | | [source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228) |
