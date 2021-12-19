@@ -508,6 +508,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | CaseWare | IDEA | All | Not vuln | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
 | CaseWare | WorkingPapers | All | Not vuln | |[source](https://www.caseware.com/case-knowledge/caseware-ensuring-customers-protected-log4j-vulnerabilities) |
 | Catalogic | CloudCasa | All | Not vuln | |[source](https://cloudcasa.io/forum/topic/no-apache-log4j-issues-in-cloudcasa) |
+| Cendio | ThinLinc | All | Not vuln | |[source](https://community.thinlinc.com/t/log4shell-vulnerability/286) |
 | Cepheid | C360 | | Not vuln | | [source](https://www.cepheid.com/en_US/legal/product-security-updates) |
 | Cepheid | GeneXpert | | Investigation | | [source](https://www.cepheid.com/en_US/legal/product-security-updates) |
 | Cerebro | Cerebro Elasticsearch Web Admin | All | Not vuln | Uses logback for logging |[source](https://github.com/lmenezes/cerebro/blob/main/conf/logback.xml#L5) |
