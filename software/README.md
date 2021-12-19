@@ -3160,13 +3160,53 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Ubiquiti | UniFi Network Application | 6.5.55 | Fix | Update log4j version to 2.16.0 (CVE-2021-45046) |[source](https://community.ui.com/releases/UniFi-Network-Application-6-5-55/48c64137-4a4a-41f7-b7e4-3bee505ae16e) |
-| Unify | First Response OpenScape Policy Store |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
-| Unify | Hipath DS-Win |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
-| Unify | OpenScape Contact Center |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
-| Unify | OpenScape Contact Media Service |  | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
-| Unify | OpenScape Enterprise Express |  | Investigation | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
-| Unify | OpenScape UC | >= 10.2.9.0 | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
-| Unify | OpenScape Voice | simplex deployments | Vulnerable | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | AC-Win SL | V3 | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify First Response Emergency Services Applicaction |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify First Response Gemma | V2 & V3 | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify First Response MSBF |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify First Response OpenScape Policy Store |  | Vulnerable | Fix planned for 01/2022 | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify Office |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape 4000 and Manager |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Accounting Management |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Alarm Response |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Backup & Recovery |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape BCF |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Branch |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Business |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Common Management Portal |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Composer |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Concierge |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Contact Center | >= V9 | Vulnerable |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Contact Center Extensions | V3R1 | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Contact Media Service | >= V9 | Vulnerable |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Cordless IP |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape DECT Phones S6/SL6 |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Deployment Service |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Desk Phones / OpenStage Phones |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Enterprise Express | V9 & V10 | Vulnerable | Follow instructions for OpenScape UC and OpenScape Contact Center | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape ESRP |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Fault Management |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape License Management CLA/CLM |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Media Server |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Personal Edition | V7 | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape SBC |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Sesap |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape UC | >= 10.2.9.0 | Vulnerable |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape UC Clients |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Voice |  | Vulnerable | Fix for embedded OS UC planned for V10 R2 | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Voice (except simplex deployments) |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Voice Trace Manager |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Web Collaboration | V7 | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape WLAN Phone Wireless Service Gateway |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape WLAN Phone WL4 |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Xpert Clients |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Xpert MLC |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Xpert System Manager |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Atos Unify OpenScape Xpressions |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Circuit |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Circuit Meeting Room |  | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Hipath Cap | V3 | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
+| Unify | Hipath DS-Win | >= V4 R6.29.0 | Fix |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | US Signal       | Remote Management and Monitoring platform | | Workaround | |[source](https://ussignal.com/blog/apache-log4j-vulnerability) |
 | USoft | USoft | < 9.1 | Not vuln | | [source](https://community.usoft.com/news-announcements-2/apache-log4j-security-vulnerability-issue-1301) |
 | USoft | USoft | 9.1 | Fix | Fixed in 9.1.1S | [source](https://community.usoft.com/product-updates/release-notes-9-1-1s-log4j-security-vulnerability-fix-1302) |
