@@ -2507,35 +2507,38 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | PTC | Windchill Rest Services | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358789) |
 | PTC | Windchill RV&S (Integrity Lifecycle Manager) | 4.6/ 8.6 4.6 SP0 to 12.5 | Workaround | | [source](https://www.ptc.com/en/support/article/CS358804) |
 | PTC | Windchill Workgroup Manager | | Not Vuln | | [source](https://www.ptc.com/en/support/article/CS358789) |
-| PTV Group                                       | PTV Arrival Board / Trip Creator / EM Portal    | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Balance and PTV Epics                       | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Developer                                   | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Drive&Arrive App                            | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Drive&Arrive                                | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Hyperpath                                   | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV MaaS Modeller                               | Unknown | Vulnerable    |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Map&Guide internet                          | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Map&Guide intranet                          | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Map&Market                                  | Unknown | Vulnuerable |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Navigator App                               | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Navigator Licence Manager                   | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Optima                                      | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Road Editor                                 | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Route Optimiser CL                          | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Route Optimiser ST (on prem - xServer2)     | Unknown | Fix | Fixed by integrating Log4j 2.16.0. and Patch 34 for Version 2019.1, Patch 28 for Version 2020.1 or Patch 16 for Version 2021.1 (15.12.21)      | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Route Optimiser ST (TourOpt)                | Unknown | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Route Optimizer SaaS / Demonstrator         | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV TLN planner internet                        | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV TRE and PTV Tre-Addin                       | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Vissim                                      | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Vistro                                      | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Visum                                       | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Visum Publisher                             | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Viswalk                                     | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV xServer < 1.34 (on prem)                    | Unknown | Not vuln      |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV xServer 1.34 (on prem)                      | Unknown | Vulnerable    |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV xServer 2.x (on prem)                       | Unknown | Vulnerable    |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV xServer internet 1 / PTV xServer internet 2 | Unknown | Fix           |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | Map&Market | < 2018 | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | Map&Market | > 2017 | Vulnerable |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Arrival Board / Trip Creator / EM Portal |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Balance and PTV Epics |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Content Update Service | 2 (on prem) | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Developer |  | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Drive&Arrive |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Drive&Arrive App |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Hyperpath |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV MaaS Modeller |  | Vulnerable |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Map&Guide internet |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Map&Guide intranet |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Navigator App |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Navigator Licence Manager |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Optima |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Road Editor |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Route Optimiser CL |  | Vulnerable |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Route Optimiser ST | (on prem - xServer2) | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Route Optimiser ST (TourOpt) |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Route Optimizer SaaS / Demonstrator |  | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV TLN planner internet |  | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV TRE and PTV Tre-Addin |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Vissim |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Vistad Euska |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Vistro |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Visum |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Visum Publisher |  | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV Viswalk |  | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV xServer | < 1.34 (on prem) | Not vuln |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV xServer | 1.34 (on prem) | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV xServer | 2 (on prem) | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group | PTV xServer internet 1 / PTV xServer internet 2 |  | Fix |  | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | Pulse Secure | Ivanti Connect Secure (ICS) | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
 | Pulse Secure | Ivanti Neurons for secure Access | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
 | Pulse Secure | Ivanti Neurons for ZTA | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
