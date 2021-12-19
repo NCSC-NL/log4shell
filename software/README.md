@@ -1141,19 +1141,48 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Helpsystems | Clearswift Secure Exchange Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
 | Helpsystems | Clearswift Secure Web Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
 | Helpsystems | Clearswift Secure ICAP Gateway | 5.4.0 ,5.3.0 |Vulnerable | Investigation | [source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&redirect=false)|
-| Hexagon | ERDAS APOLLO Advantage & Professional | Unknown | Investigation | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | ERDAS APOLLO Essentials | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | GeoMedia SmartClient | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | GeoMedia | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | GeoMedia WebMap | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | Geospatial Portal | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | Geospatial SDI | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | ImageStation | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | IMAGINE | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | Luciad Fusion | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | Luciad Lightspeed | Unknown | Not vuln | The only risk is if Log4J was implemented outside of the default product install | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | M.App Enterprise standalone or with Luciad Fusion | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
-| Hexagon | M.App Enterprise | Unknown | Investigation | Might be vulnerable only when used with Geoprocessing Server | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2)|
+| Hexagon | ERDAS APOLLO - Catalog Explorer | Unknown | Fix | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2?language=en_US#:~:text=For%20the%20following%20products%20fixes%20are%20available)|
+| Hexagon | ERDAS APOLLO Advantage & Professional | Unknown | Investigation | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | ERDAS APOLLO Essentials | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | GeoCompressor | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | GeoMedia | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | GeoMedia SmartClient | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | GeoMedia WebMap | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Geospatial Portal | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Geospatial SDI | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Geoprocessing Server | Unknown | Fix | Fixed with 2022GeoprocessingLog4j-SecurityVulnerability.zip | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2?language=en_US#:~:text=For%20the%20following%20products%20fixes%20are%20available)|
+| Hexagon | HxGN Connect | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN InService (All InService products) | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN NetWorks Comms (G/Tech Fiber Optic Works) | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN NetWorks Core (G/Technology products) | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/Hexagon-Security-Alert-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN NetWorks WebServices (NetWotks) | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN OnCall Analytics | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN OnCall Dispatch | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN OnCall Mobile | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN OnCall Mobile Admin | Unknown | Vulnerable | | [source](https://supportsi.hexagon.com/help/s/article/Hexagon-Security-Alert-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN OnCall Mobile Unit | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN OnCall Planning & Response | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN OnCall Records | Unknown | Fix | | [source](https://supportsi.hexagon.com/help/s/article/Hexagon-Security-Alert-CVE-2021-44228?language=en_US#:~:text=of%20these%20products.-,%5BUpdate%202%5D,-Hexagon%20has%20released)|
+| Hexagon | HxGN OnCall Security | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | HxGN Xalt | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | I/Map Editor | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | ImageStation | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | IMAGINE | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | inPURSUIT Client | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | inPURSUIT Server (Workflow) | Unknown | Fix | | [source](https://supportsi.hexagon.com/help/s/article/Hexagon-Security-Alert-CVE-2021-44228?language=en_US#:~:text=inPURSUIT%20Server%20(Workflow))|
+| Hexagon | Intergraph CAD (All I/CAD products) | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Intergraph Fiber Optic Works – ESC | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Intergraph G!NIUS | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Intergraph G/Technology – ESC | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Intergraph LEADS (All I/LEADS products) | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Intergraph Mobile (I/Mobile, Mobile Public Safety, Mobile Responder) | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Intergraph NetWorks - ESC | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | Intergraph Security (All I/Security products) | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | LuciadFusion | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | LuciadLightspeed | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
+| Hexagon | M.App Enterprise | Unknown | Vulnerable | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2?language=en_US#:~:text=in%20ERDAS%20APOLLO%2C%C2%A0-,M.App%20Enterprise,-and%20M.App)|
+| Hexagon | M.App X - Geoprocessing Server | Unknown | Vulnerable | | [source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2?language=en_US#:~:text=App%20Enterprise%20and-,M.App%20X,-have%20been%20found)|
+| Hexagon | NIBRS | Unknown | Not vuln | | [source](https://supportsi.hexagon.com/help/s/article/log4j2-Security-Product-Vulnerability-Summary-CVE-2021-44228?language=en_US)|
 | Hitachi Energy | all other products | | Investigation | Meta-Advisory listing all known affected products, other are still unter investigation | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD003132&LanguageCode=en&DocumentPartId=&Action=Launch)|
 | Hitachi Energy | FOXMAN-UN | < R11BSP1 | Vulnerable | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000088&LanguageCode=en&DocumentPartId=&Action=Launch) |
 | Hitachi Energy | FOXMAN-UN | R15A, R14B, R14A, R11BSP1 | Workaround | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000088&LanguageCode=en&DocumentPartId=&Action=Launch) |
