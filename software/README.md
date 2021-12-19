@@ -1025,7 +1025,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Dell | Warnado MLK (firmware) | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Dell | Wyse Management Suite | Version 3.5 and earlier | Fix |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194459/dsa-2021-267-dell-wyse-management-suite-security-update-for-apache-log4j-remote-code-execution-vulnerability-cve-2021-44228) |
 | Dell | Wyse Proprietary OS (ThinOS) | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
-| Dell | Wyse Windows Embedded Suit | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
+| Dell | Wyse Windows Embedded Suite | Unknown | Not vuln |  | [source](https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability) |
 | Device42 | Device42 | All | Not vuln |  | [source](https://blog.device42.com/2021/12/13/log4j-zero-day/) |
 | Devolutions | All products | | Not vuln | | [source](https://blog.devolutions.net/2021/12/critical-vulnerability-in-log4j/) |
 | DirectAdmin | All products | | Not vuln | Invidivual plugins not developed as part of DirectAdmin core may be vulnerable. | [source](https://forum.directadmin.com/threads/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare.65173/post-339723) |
