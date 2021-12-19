@@ -16,6 +16,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
 
+**Important: github only shows the first 512kb of this file in the preview. If you don't see the entire software list, please click [here](README.md) to load the entire list.**
+
 _Note: daily releases of this software list are listed, including CSV and JSON files, in the [releases](https://github.com/NCSC-NL/log4shell/releases) overview. Please check the [software list parser](https://github.com/NCSC-NL/log4shell/tree/main/tools/log4shell_softwarelist) tool to generate a CSV or JSON on your own._
 
 ## Software overview
