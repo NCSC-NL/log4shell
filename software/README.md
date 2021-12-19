@@ -2563,12 +2563,32 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-44228         | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:---------------:|:----------------|-----------:|
 | Qconferencing | FaceTalk | | Fix | | [source](https://qconferencing.com/status-vulnerability-log4j-en-qconferencing/) |
-| QlikTech International | Compose | | Investigation | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
-| QlikTech International | Nprinting | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
-| QlikTech International | QEM products | | Investigation | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
-| QlikTech International | Qlik Replicate | | Investigation | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
-| QlikTech International | Qlik Sense Enterprise | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
-| QlikTech International | QlikView | | Not Vuln | | [source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368) |
+| QlikTech International | AIS, including ARC, | All | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Attunity Visibility |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | AutoML |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Blendr |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Compose | 2021.2, 2021.5, 2021.8 | Workaround |  | [source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-log4j-lookups-critical-vulnerability/ta-p/1869985) |
+| QlikTech International | Compose for Data Lakes | 6.6 | Workaround |  | [source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-log4j-lookups-critical-vulnerability/ta-p/1869987) |
+| QlikTech International | Compose for Data Warehouses | 6.6, 6.6.1, 7.0 | Workaround |  | [source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-log4j-lookups-critical-vulnerability/ta-p/1869990) |
+| QlikTech International | Enterprise Manager | 6.6, 7.0, 2021.5, 2021.11 | Workaround |  | [source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-log4j-lookups-critical-vulnerability/ta-p/1869994) |
+| QlikTech International | GeoAnalytics | all supported versions | Workaround |  | [source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-log4j-lookups-critical-vulnerability/ta-p/1869805) |
+| QlikTech International | GeoAnalytics Plus | all supported versions | Workaround |  | [source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-log4j-lookups-critical-vulnerability/ta-p/1869805) |
+| QlikTech International | Nodegraph |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Nprinting | All | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | ODBC Connector Package |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Qlik Alerting | All | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Qlik Catalog | May 2021 release and onward are vulnerable | Workaround | supported versions before May 2021 are not affected | [source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-LOG4J-Lookups-Critical-Vulnerability/ta-p/1871126) |
+| QlikTech International | Qlik Data Transfer |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Qlik Forts |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Qlik RepliWeb and ARC | All | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Qlik Sense Business |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Qlik Sense Enterprise | All | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Qlik Sense Enterprise SaaS |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Qlik Web Connectors | All | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | QlikView | All | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Replicate | 6.6, 7.0, 2021.5, 2021.11 | Workaround |  | [source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-log4j-lookups-critical-vulnerability/ta-p/1869996) |
+| QlikTech International | REST Connectors |  | Not vuln |  | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
+| QlikTech International | Salesforce and SAP |  | Not vuln | Connectors are not affected | [source](Vulnerability Testing -  Apache Log4j, reference C... - Qlik Community - 1869368) |
 | QNAP | General information QNAP | | Investigation | Applications maintained by a third-party are under investigation. | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
 | QNAP | Qsirch | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
 | QNAP | QES Operating System | | Not Vuln | | [source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58) |
