@@ -1086,8 +1086,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 | IBM | Sterling Inventory Visibility | Unknown | Vulnerable | | [source](https://www.ibm.com/support/pages/node/6525544)|
 | IBM | Sterling Order Management | Unknown | Not vuln | | [source](https://www.ibm.com/support/pages/node/6525544)|
 | IBM | VM Manager Tool (part of License Metric Tool) | >9.2.21,<9.2.26 | Vulnerable | | [source](https://www.ibm.com/support/pages/node/6525762/)|
-| IBM | Websphere | 8.5 | Vulnerable | fix: PH42728 | [source](https://www.ibm.com/support/pages/node/6525706/)|
-| IBM | Websphere | 9.0 | Vulnerable | fix: PH42728 | [source](https://www.ibm.com/support/pages/node/6525706/)|
+| IBM | WebSphere | 8.5 | Vulnerable | fix: PH42728, PH42762 | [source](https://www.ibm.com/support/pages/node/6525706/), [source](https://www.ibm.com/support/pages/node/6526750)|
+| IBM | WebSphere | 9.0 | Vulnerable | fix: PH42728, PH42762 | [source](https://www.ibm.com/support/pages/node/6525706/), [source](https://www.ibm.com/support/pages/node/6526750)|
 | IGEL | Universal Management Suite | | Workaround | | [source](https://kb.igel.com/securitysafety/en/isn-2021-11-ums-log4j-vulnerability-54086712.html) |
 | iGrafix | All | Latest | Fix || [source](https://www.igrafx.com/igrafx-thwarts-log4j-vulnerability/)
 | Illumio | C-VEN | | Not vuln | | [source](https://support.illumio.com/knowledge-base/articles/Customer-Security-Advisory-on-log4j-RCE-CVE-2021-44228.html)|
