@@ -2875,7 +2875,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | SonicWall       | Gen7 Firewalls |  | Not vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
 | SonicWall       | GMS |  | Not vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
 | SonicWall       | MSW |  | Not vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
-| SonicWall       | NSM |  | Investigation | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
+| SonicWall       | NSM |  | Fix | SonicWall automatically pushed a new NSM firmware | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032#:~:text=NSM%202.x%20(OnPrem%2C%20SaaS)) |
 | SonicWall       | SMA 1000 | | Not vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
 | SonicWall       | SMA 100 |  | Not vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
 | SonicWall       | SonicCore |  | Not vuln | | [source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032) |
