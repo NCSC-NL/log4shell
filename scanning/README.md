@@ -19,12 +19,14 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Grype   | Open source vulnerability scanner (docker), picks up nested JARs containing log4j | https://github.com/anchore/grype |
 | Huntress  | Online Log4Shell Vulnerability Tester| https://log4shell.huntress.com/ |
 | logpresso | Scans for java files that are vulnerable and may rename it for mitigation | https://github.com/logpresso/CVE-2021-44228-Scanner |
+| Logout4shell | Exploits the log4shell vulnerability in order to vaccinate the vulnerable target | https://github.com/Cybereason/Logout4Shell |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker (python) | https://github.com/NorthwaveSecurity/log4jcheck |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
 | OlafHaalstra | Scans a list of URLs with `GET` or `POST` request with user defined parameters (python) | https://github.com/OlafHaalstra/log4jcheck |
 | righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
-| Logout4shell | Exploits the log4shell vulnerability in order to vaccinate the vulnerable target | https://github.com/Cybereason/Logout4Shell |
+| Trendmicro | Online Log4j tester Trendmicro | https://log4j-tester.trendmicro.com/ |
+
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
