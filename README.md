@@ -1,4 +1,4 @@
-# Log4j Vulnerability (CVE-2021-44228)
+# Log4shell vulnerabilities (CVE-2021-44228, CVE-2021-45046)
 
 This repo contains operational information regarding the vulnerability in the Log4j logging library (CVE-2021-44228). For additional information see:
 
