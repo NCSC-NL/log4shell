@@ -12,7 +12,7 @@ NCSC-NL will use the following status:
 | Not vuln            | Software is **NOT** vulnerable for CVE-2021-xxx.                 |
 | Investigation       | Software is under investigation whether it is vulnerable or not. |
 
-The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version indicates vulnerable version(s). If `Status` is Fix, Version indicates the version(s) in which the fix was introduced.
+The `Version` relates to the `Status` column. If `Status` is _Vulnerable_, `Version` indicates vulnerable version(s). If `Status` is _Fix_, `Version` indicates the version(s) in which the fix was introduced.
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
 
