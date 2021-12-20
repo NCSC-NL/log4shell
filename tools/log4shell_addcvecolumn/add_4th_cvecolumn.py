@@ -80,8 +80,7 @@ def sanitize_status_field(status):
     if sanitized in VALID_STATUS:
         return ' '+sanitized+' '
     else:
-        return status
-        #raise ValueError(f"Invalid status: {status}")
+        raise ValueError(f"Invalid status: {status}")
 
 
 def table_line(fields: List[str]) -> str:

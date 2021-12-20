@@ -824,8 +824,8 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | DBeaver | DBeaver | Unknown | Not vuln | Not vuln | Not vuln | |[source](https://dbeaver.io/2021/12/15/log4shell-vulnerability-is-not-dangerous-for-dbeaver-users/) |
 | Debian | Apache-log4j.1.2 | stretch, buster,  bullseye | Not vuln | Fix | | |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
 | Debian | Apache-log4j2 | stretch, buster,  bullseye | Not vuln | Fix | | |[source](https://security-tracker.debian.org/tracker/CVE-2021-44228) |
-| Decos | JOIN Zaak & Document (Private Cloud) | All | Not vuln | Vulnerable/Fix | | The SaaS hosted solution contains Logstash + Elasticsearch (vulnerable). Mitigating actions taken | [source](https://decos.freshdesk.com/a/solutions/articles/17000121598?lang=nl) |
-| Decos | JOIN Zaak & Document (on-premise) | All | Not vuln | Vulnerable/Fix | | The solution contains Elasticsearch (vulnerable). Mitigating actions available on our WIKI | [source](https://decos.freshdesk.com/a/solutions/articles/17000121598?lang=nl) |
+| Decos | JOIN Zaak & Document (Private Cloud) | All | Not vuln | Fix | | The SaaS hosted solution contains Logstash + Elasticsearch (vulnerable). Mitigating actions taken | [source](https://decos.freshdesk.com/a/solutions/articles/17000121598?lang=nl) |
+| Decos | JOIN Zaak & Document (on-premise) | All | Not vuln | Workaround | | The solution contains Elasticsearch (vulnerable). Mitigating actions available on our WIKI | [source](https://decos.freshdesk.com/a/solutions/articles/17000121598?lang=nl) |
 | Decos | JOIN Klant Contact | All | Not vuln | Not vuln | Not vuln |  |  |
 | Decos | Fixi | All | Not vuln | Not vuln | Not vuln |  |  |
 | Decos | Integrations (StUF/ZGW/Doclogic-DataIntegrator) | All | Not vuln | Not vuln | Not vuln |  |  |
@@ -1893,7 +1893,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
 | JFrog | all products | | | Not Vuln | | | [source](https://twitter.com/jfrog/status/1469385793823199240) |
 | Jamf Nation     | Jamf Cloud | Unknown| Not vuln | Fix | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jamf Nation     | Jamf Pro (hosted on-prem) | < 10.34.1 | | See notes | | <10.14 vulnerable, 10.14-10.34 patch, >= 10.34.1 fix | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740) |
+| Jamf Nation     | Jamf Pro (hosted on-prem) | 10.34.1 | | Fix | | <10.14 vulnerable, 10.14-10.34 patch, >= 10.34.1 fix | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740) |
 | Jamf Nation | Health Care Listener| Unknown | | Not Vuln | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jamf Nation | Jamf Connect | Unknown | | Not Vuln | | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jamf Nation | Jamf Data Policy| Unknown | | Not Vuln | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
@@ -1903,7 +1903,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Jamf Nation | Jamf Protect | Unknown | | Not Vuln | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jamf Nation | Jamf School| Unknown | | Not Vuln | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jamf Nation | Jamf Threat Defense| Unknown | | Not Vuln | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-| Jazz/IBM | JazzSM DASH | Unknown | | See notes | | DASH on WebSphere Application Server requires mitigations | [source](https://www.ibm.com/support/pages/node/6525552) |
+| Jazz/IBM | JazzSM DASH | Unknown | | Workaround | | DASH on WebSphere Application Server requires mitigations | [source](https://www.ibm.com/support/pages/node/6525552) |
 | Jenkins | Jenkins CI | Unknown | | Not Vuln | | Invidivual plugins not developed as part of Jenkins core *may* be vulnerable. | [source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) |
 | JetBrains | IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm) | Unknown | Not vuln | Not vuln | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JetBrains | All .NET tools (ReSharper, Rider, ReSharper C++, dotTrace, dotMemory, dotCover, dotPeek) | Unknown | Not vuln | Not vuln | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
@@ -1929,8 +1929,8 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Johnson Controls | victor | 5.x | | Not Vuln | |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | victor/ C•CURE‐9000 Unified | 3.81.x / victor 5.4.1 / C•CURE‐9000 2.80 and 3.91.x / victor 5.6.1 / C•CURE‐9000 2.90 | | Not Vuln | |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | jPOS | (ISO-8583) bridge | Unknown | | Not Vuln | | | [source](https://github.com/jpos/jPOS/commit/d615199a1bdd35c35d63c07c10fd0bdbbc96f625)|
-| Juniper Networks | Cross Provisioning Platform | Unspecified | | Under investigation | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | JSA Series | Unspecified | | Under investigation | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Cross Provisioning Platform | Unspecified | | Investigation | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | JSA Series | Unspecified | | Investigation | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Juniper Networks Advanced Threat Prevention (JATP) | Unspecified | | Not Vuln | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Juniper Networks AppFormix | Unspecified | | Not Vuln | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Juniper Networks Apstra System | Unspecified | | Not Vuln | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
@@ -1963,11 +1963,11 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Juniper Networks | MIST: Juniper Networks Wi-Fi Assurance | Unspecified | | Not Vuln | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | MIST: Juniper Networks Wired Assurance | Unspecified | | Not Vuln | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Northstar Controller | Unspecified | | Vulnerable | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Northstar Planner | Unspecified | | Under investigation | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Northstar Planner | Unspecified | | Investigation | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Paragon Insights | >= 21 version 21.1 ; >= 22 version 22.2  | | Vulnerable | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Paragon Pathfinder | >= 21 version 21.1 ; >= 22 version 22.2 | | Vulnerable | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | Paragon Planner | >= 21 version 21.1 ; >= 22 version 22.2 | | Vulnerable | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
-| Juniper Networks | Secure Analytics | Unspecified | | Under investigation | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
+| Juniper Networks | Secure Analytics | Unspecified | | Investigation | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | User Engagement Virtual BLE | Unspecified | | Not Vuln | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 
 ### K
@@ -2107,8 +2107,8 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Lenovo | XClarity Provisioning Manager (LXPM) |  | Not vuln | Not vuln | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
 | Lightbend | Akka  | Unknown | | Not Vuln | | | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Lightbend | Akka Serverless | Unknown | | Not Vuln | | | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
-| Lightbend | Lagom Framework | Unknown | | Not Vuln by default | | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
-| Lightbend | Play Framework| Unknown | | Not Vuln by default | | Users that switched from logback to log4j are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Lagom Framework | Unknown | | Not Vuln | | Users that switched from logback to log4j (non-default) are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
+| Lightbend | Play Framework| Unknown | | Not Vuln | | Users that switched from logback to log4j (non-default) are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Liongard | All products  | Unknown | | Investigation | | | [source](https://insights.liongard.com/faq-apache-log4j-vulnerability) |
 | LiquidFiles | LiquidFiles | All versions | Not vuln | Not vuln | Not vuln | |[source](https://mailchi.mp/liquidfiles/liquidfiles-log4j) |
 | LiveAction | LiveNX | <21.5.1 | Not vuln | Fix | | | [source](https://documentation.liveaction.com/LiveNX/LiveNX%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNX%2021.5.1.1.3) |
@@ -2116,7 +2116,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | LogRhythm | SIEM | 7.4-7.8 | Not vuln | Workaround | | Link is behind a login | [source](https://community.logrhythm.com/t5/Product-Security/Log4J-Remediation-Update-CloudAI-and-NetMon-Complete-LogRhythm/td-p/494350) |
 | LogZilla | NEO | All versions | Not vuln | Not vuln | Not vuln | LogZilla's engine is C++ | |
 | LogicMonitor | LogicMonitor SaaS Platform| Unknown | Not vuln | Fix | | Automatic update before 13th December | [source](https://communities.logicmonitor.com/topic/7472-logicmonitor-collectors-running-vulnerable-version-of-log4j-are-affected-by-log4shell-cve-2021-44228-vulnerability/) |
-| Lyrasis | DSpace | 7.x | Not vuln | Fix/Workaround | | |[source](https://groups.google.com/g/dspace-community/c/Fa4VdjiiNyE) |
+| Lyrasis | DSpace | 7.1.1 | Not vuln | Fix | | |[source](https://groups.google.com/g/dspace-community/c/Fa4VdjiiNyE) |
 | The Linux Foundation | StackStorm (ST2) | All versions | Not vuln | Not vuln | Not vuln | |[source](https://github.com/StackStorm/st2/discussions/5503) |
 | The Linux Foundation | XCP-ng | All versions | Not vuln | Not vuln | Not vuln | |[source](https://xcp-ng.org/forum/topic/5315/log4j-vulnerability-impact) |
 | LucaNet  | LucaNet | 12 LTS - 1911.0.192+3, 13 LTS - 2011.0.112+7, 22 LTS - 2111.0.11+9 | Not vuln | Fix | | |[source](https://www.lucanet.com/en/blog/update-vulnerability-log4j) |
@@ -2164,8 +2164,8 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Microsoft | Azure DevOps Server       | 2019-2020.1 | | Vulnerable | | When Azure DevOps Server Search is configured. Uses Elasticsearch OSS 6.2.4 (vulnerable) see Elasticsearch above for mitigation                                                                                                          | [source](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability/?WT.mc_id=DOP-MVP-5001511)                                                                                                                                                                  |
 | Microsoft | Azure Front Door                 | Unknown | | Not Vuln | |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
 | Microsoft | Azure WAF                        | Unknown | | Not Vuln | |                                                                                                           | [source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)                                                                                                                                                                  |
-| Microsoft | Cosmos DB Kafka Connector | Fix | | 1.2.1 | | | [source](https://github.com/microsoft/kafka-connect-cosmosdb/releases/tag/v1.2.1) |
-| Microsoft | Events Hub Extension | Fix | | 3.3.1 | | | [source](https://mvnrepository.com/artifact/com.microsoft.azure/azure-eventhubs-extensions/3.3.1) |
+| Microsoft | Cosmos DB Kafka Connector | 1.2.1 | | Fix | | | [source](https://github.com/microsoft/kafka-connect-cosmosdb/releases/tag/v1.2.1) |
+| Microsoft | Events Hub Extension | 3.3.1 | | Fix | | | [source](https://mvnrepository.com/artifact/com.microsoft.azure/azure-eventhubs-extensions/3.3.1) |
 | Microsoft | Kafka Connect for Azure Cosmo DB | < 1.2.1 | Not vuln | Fix | |                                                                                                           | [source](https://github.com/microsoft/kafka-connect-cosmosdb/blob/0f5d0c9dbf2812400bb480d1ff0672dfa6bb56f0/CHANGELOG.md)                                                                                                                                                   |
 | Microsoft | Microsoft Defender for IoT | 10.5.2 | Not vuln | Fix | | | [source](https://docs.microsoft.com/en-us/azure/defender-for-iot/organizations/release-notes#october-2021) |
 | Microsoft | Minecraft Java Edition | 1.18.1 | Not vuln | Fix | | | [source](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition), [fix](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-18-1) |
@@ -2363,7 +2363,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | OVHCloud       | Logs Data Platform                                             |                           | Not vuln | Fix | |                                                    | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)                                                                                                         |
 | OVHCloud       | Hosted Private Cloud powered by VMware                                             |  | | Vulnerable| | Deploying the workarounds provided by VMWare   | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/) |
 | OVHCloud       | ML serving                                             |                           | Not vuln | Fix | |                                                    | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)                                                                                                         |
-| OVHCloud       | OVHcloud Internal Systems                                             |                           | Not vuln | Fix & Under Investigation | |                                                    | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)                                                                                                         |
+| OVHCloud       | OVHcloud Internal Systems                                             |                           | Not vuln | Investigation | |                                                    | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)                                                                                                         |
 
 ### P
 
@@ -2517,7 +2517,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | PTV Group                                       | PTV MaaS Modeller                               | Unknown | | Vulnerable | |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV Map&Guide internet                          | Unknown | Not vuln | Not vuln | Not vuln |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV Map&Guide intranet                          | Unknown | Not vuln | Not vuln | Not vuln |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
-| PTV Group                                       | PTV Map&Market                                  | Unknown | | Vulnuerable | |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
+| PTV Group                                       | PTV Map&Market                                  | Unknown | | Vulnerable | |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV Navigator App                               | Unknown | Not vuln | Not vuln | Not vuln |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV Navigator Licence Manager                   | Unknown | Not vuln | Not vuln | Not vuln |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
 | PTV Group                                       | PTV Optima                                      | Unknown | Not vuln | Not vuln | Not vuln |       | [source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information) |
@@ -2608,25 +2608,25 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Red Hat         | A-MQ Clients 2 |  | | Not Vuln | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat build of Quarkus |  | | Not Vuln | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat CodeReady Studio 12 |  | | Vulnerable | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat Data Grid 8 | 8.2.2 | Not vuln | Fixed | | [RHSA-2021:5132](https://access.redhat.com/errata/RHSA-2021:5132)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat Data Grid 8 | 8.2.2 | Not vuln | Fix | | [RHSA-2021:5132](https://access.redhat.com/errata/RHSA-2021:5132)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Descision Manager 7 |  | | Vulnerable | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Integration Camel K |  | | Vulnerable | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Integration Camel Quarkus |  | | Vulnerable | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss A-MQ Streaming | 1.6.5 | Not vuln | Fixed | | [RHSA-2021:5133](https://access.redhat.com/errata/RHSA-2021:5133)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss A-MQ Streaming | 1.6.5 | Not vuln | Fix | | [RHSA-2021:5133](https://access.redhat.com/errata/RHSA-2021:5133)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat JBoss Enterprise Application Platform 6 |  | | Not Vuln | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat JBoss Enterprise Application Platform Expansion Pack |  | | Not Vuln | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat JBoss Fuse 7 | 7.10.0 | Not vuln | Fixed | | [RHSA-2021:5134](https://access.redhat.com/errata/RHSA-2021:5134) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Application Runtimes 1.0 | n.a. (see notes) | Not vuln | Fixed | | [RHSA-2021:5093](https://access.redhat.com/errata/RHSA-2021:5093) - Red Hat build of Eclipse Vert.x 4.1.5 SP1 | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 3.11 openshift3/ose-logging-elasticsearch5 | 3.11.z | Not vuln | Fixed | | [RHSA-2021:5094](https://access.redhat.com/errata/RHSA-2021:5094) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-logging-elasticsearch6 | 4.6.z | Not vuln | Fixed | | [RHSA-2021:5106](https://access.redhat.com/errata/RHSA-2021:5106) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-metering-hive | 4.8.z | Not vuln | Fixed | | [RHSA-2021:5108](https://access.redhat.com/errata/RHSA-2021:5108) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4.6 openshift4/ose-metering-presto | 4.6.52 | Not vuln | Fixed | | [RHSA-2021:5141](https://access.redhat.com/errata/RHSA-2021:5141) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4.7 openshift4/ose-metering-presto | 4.7.40 | Not vuln | Fixed | | [RHSA-2021:5107](https://access.redhat.com/errata/RHSA-2021:5107) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Container Platform 4.8 openshift4/ose-metering-presto | 4.8.24 | Not vuln | Fixed | | [RHSA-2021:5148](https://access.redhat.com/errata/RHSA-2021:5148)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8	 | 5.0.10 | Not vuln | Fixed | | [RHSA-2021:5137](https://access.redhat.com/errata/RHSA-2021:5137)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging 5.1 openshift-logging/elasticsearch6-rhel8	 | 5.1.5 | Not vuln | Fixed | | [RHSA-2021:5128](https://access.redhat.com/errata/RHSA-2021:5128)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging 5.2 openshift-logging/elasticsearch6-rhel8	 | 5.2.4 | Not vuln | Fixed | | [RHSA-2021:5127](https://access.redhat.com/errata/RHSA-2021:5127)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8	 | 5.3.1 | Not vuln | Fixed | | [RHSA-2021:5129](https://access.redhat.com/errata/RHSA-2021:5129)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat JBoss Fuse 7 | 7.10.0 | Not vuln | Fix | | [RHSA-2021:5134](https://access.redhat.com/errata/RHSA-2021:5134) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Application Runtimes 1.0 | n.a. (see notes) | Not vuln | Fix | | [RHSA-2021:5093](https://access.redhat.com/errata/RHSA-2021:5093) - Red Hat build of Eclipse Vert.x 4.1.5 SP1 | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 3.11 openshift3/ose-logging-elasticsearch5 | 3.11.z | Not vuln | Fix | | [RHSA-2021:5094](https://access.redhat.com/errata/RHSA-2021:5094) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-logging-elasticsearch6 | 4.6.z | Not vuln | Fix | | [RHSA-2021:5106](https://access.redhat.com/errata/RHSA-2021:5106) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4 openshift4/ose-metering-hive | 4.8.z | Not vuln | Fix | | [RHSA-2021:5108](https://access.redhat.com/errata/RHSA-2021:5108) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4.6 openshift4/ose-metering-presto | 4.6.52 | Not vuln | Fix | | [RHSA-2021:5141](https://access.redhat.com/errata/RHSA-2021:5141) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4.7 openshift4/ose-metering-presto | 4.7.40 | Not vuln | Fix | | [RHSA-2021:5107](https://access.redhat.com/errata/RHSA-2021:5107) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Container Platform 4.8 openshift4/ose-metering-presto | 4.8.24 | Not vuln | Fix | | [RHSA-2021:5148](https://access.redhat.com/errata/RHSA-2021:5148)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8	 | 5.0.10 | Not vuln | Fix | | [RHSA-2021:5137](https://access.redhat.com/errata/RHSA-2021:5137)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.1 openshift-logging/elasticsearch6-rhel8	 | 5.1.5 | Not vuln | Fix | | [RHSA-2021:5128](https://access.redhat.com/errata/RHSA-2021:5128)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.2 openshift-logging/elasticsearch6-rhel8	 | 5.2.4 | Not vuln | Fix | | [RHSA-2021:5127](https://access.redhat.com/errata/RHSA-2021:5127)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8	 | 5.3.1 | Not vuln | Fix | | [RHSA-2021:5129](https://access.redhat.com/errata/RHSA-2021:5129)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenStack Platform 13 (Queens) opendaylight |  | | Vulnerable | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Process Automation 7 |  | | Vulnerable | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Single Sign-On 7 |  | | Not Vuln | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
@@ -2938,9 +2938,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Sophos          | Sophos ZTNA |  | | Not Vuln | | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | SOS (Berlin)    | Jobscheduler | 1.12.15, 1.13.10, 2.2.0, 2.1.3 | Not vuln | Fix | | | [source](https://www.sos-berlin.com/en/news-maintenance-releases-and-patches-mitigation-log4j-vulnerabilities) |
 | Specops Software | All |  | | Not Vuln | | | [source](https://specopssoft.com/blog/apache-log4j-vulnerability/) |
-| Splunk          | Add-On: Java Management Extensions | 5.2.1 | Not vuln | Fixed | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
-| Splunk          | Add-On: JBoss | 3.0.1 | Not vuln | Fixed | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
-| Splunk          | Add-On: Tomcat | 3.0.1 | Not vuln | Fixed | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
+| Splunk          | Add-On: Java Management Extensions | 5.2.1 | Not vuln | Fix | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
+| Splunk          | Add-On: JBoss | 3.0.1 | Not vuln | Fix | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
+| Splunk          | Add-On: Tomcat | 3.0.1 | Not vuln | Fix | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Admin Config Service | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Analytics Workspace | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Behavior Analytics | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
@@ -2949,7 +2949,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Splunk          | Developer Tools: AppInspect | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Enterprise Security | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Intelligence Management (TruSTAR) | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
-| Splunk          | IT Service Intelligence (ITSI) | 4.11.2, 4.10.4, 4.9.6, 4.7.4 | Not vuln | Fixed | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
+| Splunk          | IT Service Intelligence (ITSI) | 4.11.2, 4.10.4, 4.9.6, 4.7.4 | Not vuln | Fix | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | KV Service | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Mission Control | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | MLTK | all | Not vuln | Not vuln | Not vuln | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
@@ -3330,13 +3330,13 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Supplier | Product | Version | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Notes | Links |
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
 | Watcher | [Watcher](https://github.com/thalesgroup-cert/Watcher) | all | Not vuln | Not vuln | Not vuln | | [source](https://twitter.com/felix_hrn/status/1470387338001977344) |
-| WatchGuard | AuthPoint | Cloud | Not vuln | Fixed | | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
+| WatchGuard | AuthPoint | Cloud | Not vuln | Fix | | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | WatchGuard | Dimension | - | Not vuln | Not vuln | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
 | WatchGuard | Firebox | - | Not vuln | Not vuln | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
-| WatchGuard | Threat Detection and Response | Cloud | Not vuln | Fixed | | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
+| WatchGuard | Threat Detection and Response | Cloud | Not vuln | Fix | | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | WatchGuard | WatchGuard EPDR and Panda AD360 | - | Not vuln | Not vuln | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
 | WatchGuard | WatchGuard System Manager, Dimension, WatchGuard EPDR and Panda AD360 | - | Not vuln | Not vuln | Not vuln | |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/) |
-| WatchGuard | Wi-Fi Cloud | Cloud | Not vuln | Fixed | | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
+| WatchGuard | Wi-Fi Cloud | Cloud | Not vuln | Fix | | See link | [source](https://techsearch.watchguard.com/KB?type=Security%20Issues&SFDCID=kA16S000000SNnuSAG&lang=en_US)  |
 | Weblib | Ucopia | | Not vuln | Not vuln | Not vuln | | [source](vendor-statements/Ucopia.png)  |
 | Wibu Systems | CodeMeter Keyring for TIA Portal  | > 1.30 | Not vuln | Fix | | Only the Password Manager is affected | [source](https://cdn.wibu.com/fileadmin/wibu_downloads/security_advisories/Advisory_WIBU-211213-01.pdf)|
 | Wibu Systems | CodeMeter Cloud Lite  | > 2.2 | Not vuln | Fix | |  | [source](https://cdn.wibu.com/fileadmin/wibu_downloads/security_advisories/Advisory_WIBU-211213-01.pdf)|
