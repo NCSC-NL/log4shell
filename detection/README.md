@@ -1,13 +1,13 @@
-# Log4j overview Detection rules and software
+# Log4j Detection rules and software
 
-This page contains an overview of any detection software regarding the Log4j vulnerability. On this page NCSC-NL will maintain a list of all known rules to detect Log4j presence or (suspected) Exploitation. Futhermore any references will contain specific information regarding detection.
+This page contains an overview of any detection software regarding the Log4j vulnerability. On this page NCSC-NL will maintain a list of all known rules to detect Log4j presence or (suspected) exploitation. Furthermore any references will contain specific information regarding detection.
 
-**NCSC-NL has not verified the rules and detection software listed below and therefore cannot guarantee the validity of said rules.
+**NCSC-NL has not verified the rules and software listed below and therefore cannot guarantee the validity of said rules.
 However NCSC-NL strives to provide rules and detection software from reliable sources.**
 
 ## Detection Regex
 
-### Overall detection regex
+### Overall JNDI detection regex
 
 ```plain
 \${(\${(.*?:|.*?:.*?:-)('|"|`)*(?1)}*|[jndi:lapsrm]('|"|`)*}*){9,11}
@@ -15,17 +15,32 @@ However NCSC-NL strives to provide rules and detection software from reliable so
 
 #### Caveats
 - Please note that due to nested resolution of `${...}` and multiple available obfuscation methods, this regular expression may not detect all forms of exploitation. It is impossible to write exhaustive regular expression.
-- This regular expression only works on URL-decoded logs. URL encoding is a popular second layer of obfuscation currently in use by attackers.
-- This regular expression searches for the original strings supplied by the attacker. These only remain in their original, unresolved form in the logs of non-vulnerable applications, such as WAF or reverse proxy with ability to log before the vulnerable code is executed. **They are not present in the logs of a vulnerable application.**
+- This regular expression only works on URL-decoded logs. URL encoding is a popular second layer of obfuscation currently in use by attackers. 
 
-#### Logs in vulnerable applications
+> **Warning:** In a non-vulnerable Log4J instance injected JNDI strings will be logged but not evaluated. However the presence of injected JNDI strings in log files written to by Log4J does not mean your Log4J instance is not vulnerable, since JNDI strings might also be logged (and evaluated) in vulnerable Log4J instances. See the *Logs in vulnerable applications* section below for more details.
 
-This detection regex would not have matches in a log of vulnerable application, because only the result of `${...}` resolution is stored instead of the original pattern. Presence of any of these signatures is a strong sign of successful exploitation in these applications:
+### Logs in vulnerable applications
+Injected JNDI strings are displayed differently in log files written to by a vulnerable Log4J instance depending on the situation. A JNDI string is always evaluated first (i.e. a DNS/LDAP/RMI request is sent). Depending on the response a different result is logged:
 
+- In case no response is received, the injected JNDI string will be displayed.
+- In case a response is received the corresponding classname will be logged such as `com.sun.jndi.dns.DnsContext` for DNS. In case of RMI the loaded local class will be displayed, for example `javax.el.ELProcessor`, but this might be any class on the vulnerable host loaded by an attacker.
+- Some cases have been observed where LDAP requests are being sent and a malicious class being loaded/executed, but no logging was written by Log4J due to Log4J crashing while executing/evaluation the provided class.
+
+Presence of these signatures in log files written to by Log4J is a strong sign of successful exploitation:
+
+Classes:
 ```plain
-com.sun.jndi.
 com.sun.jndi.dns.DnsContext
 com.sun.jndi.ldap.LdapCtx
+javax.el.ElProcessor
+groovy.lang.GroovyShell
+```
+
+> **Warning**: Since RMI can be used to load classes on the vulnerable Log4J system the list presented here cannot be seen as a complete. Other classes might be loaded and misused to manipulate the system.**
+
+More generic strings:
+```plain
+com.sun.jndi.
 Error looking up JNDI resource
 ```
 
