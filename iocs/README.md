@@ -49,6 +49,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 |:----------------|:----------------|
 | GelosSnake  | https://twitter.com/GelosSnake/status/1469341429541576715 |
 | CronUp  | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets |
+| CronUp (2)  | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-19_MiraiLog4ShellWorm |
 | yt0ng  | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
 | eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
 | jamesspi | https://log4shell.threatsearch.io/ |
