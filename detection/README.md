@@ -20,7 +20,7 @@ However NCSC-NL strives to provide rules and detection software from reliable so
 > **Warning:** In a non-vulnerable Log4J instance injected JNDI strings will be logged but not evaluated. However the presence of injected JNDI strings in log files written to by Log4J does not mean your Log4J instance is not vulnerable, since JNDI strings might also be logged (and evaluated) in vulnerable Log4J instances. See the *Logs in vulnerable applications* section below for more details.
 
 ### Logs in vulnerable applications
-Injected JNDI strings are displayed differently in log files written to by a vulnerable Log4J instance depending on the situation. A JNDI string is always evaluated first (i.e. a DNS/LDAP/RMI request is sent). Depending on the response a different result is logged:
+Injected JNDI strings are displayed differently in log files written to by a vulnerable Log4J instance depending on the situation. A JNDI string is always evaluated first (e.g. a DNS/LDAP/RMI request is sent). Depending on the response a different result is logged:
 
 - In case no response is received, the injected JNDI string will be displayed.
 - In case a response is received the corresponding classname will be logged such as `com.sun.jndi.dns.DnsContext@<hashcode>` for DNS. In case of RMI the loaded local class will be displayed, for example `javax.el.ELProcessor@<hashcode>`, but this might be any class on the vulnerable host loaded by an attacker.
@@ -29,7 +29,7 @@ Injected JNDI strings are displayed differently in log files written to by a vul
 > **Java Hashcodes**:
 When an object is printed it is followed by a `@<hashcode>`. For example: `com.sun.jndi.dns.DnsContext@28a418fc`. Java uses the hash of an object to perform actions such as sorting a collection of object. For more information see [Object::hashCode](https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#hashCode()).
 
-Presence of these signatures in log files written to by Log4J is a strong sign of successful exploitation, but you should investigate whether these signatures appeared due to your own actions (i.e. Log4J scanning tools):
+Presence of these signatures in log files written to by Log4J is a strong sign of successful exploitation, but you should investigate whether these signatures appeared due to your own actions (e.g. Log4J scanning tools):
 
 Class signatures:
 ```plain
