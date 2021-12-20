@@ -23,6 +23,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker (python) | https://github.com/NorthwaveSecurity/log4jcheck |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
 | OlafHaalstra | Scans a list of URLs with `GET` or `POST` request with user defined parameters (python) | https://github.com/OlafHaalstra/log4jcheck |
+| ProferoSec | Scans network or IP address for Log4j vulnerability by making callback to scanning host | https://github.com/proferosec/log4jScanner |
 | righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
 | Trendmicro | Online Log4j tester Trendmicro | https://log4j-tester.trendmicro.com/ |
@@ -44,4 +45,3 @@ Checks if the application or system is using Log4j2.
 | Neo23x0   | Florian Roth Log4j2 detection script | https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b |
 | sp4ir     | Powershell script to detect Log4Shell| https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1 |
 | Syft | Open source SBOM scanner, can detect all dependencies including log4j | https://github.com/anchore/syft/ |
-| ProferoSec | Scans network or IP address for Log4j vulnerability by making callback to scanning host | https://github.com/proferosec/log4jScanner |
