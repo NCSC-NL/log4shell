@@ -19,14 +19,11 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Grype   | Open source vulnerability scanner (docker), picks up nested JARs containing log4j | https://github.com/anchore/grype |
 | Huntress  | Online Log4Shell Vulnerability Tester| https://log4shell.huntress.com/ |
 | logpresso | Scans for java files that are vulnerable and may rename it for mitigation | https://github.com/logpresso/CVE-2021-44228-Scanner |
-| Logout4shell | Exploits the log4shell vulnerability in order to vaccinate the vulnerable target | https://github.com/Cybereason/Logout4Shell |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker (python) | https://github.com/NorthwaveSecurity/log4jcheck |
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
 | OlafHaalstra | Scans a list of URLs with `GET` or `POST` request with user defined parameters (python) | https://github.com/OlafHaalstra/log4jcheck |
 | righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
-| Trendmicro | Online Log4j tester Trendmicro | https://log4j-tester.trendmicro.com/ |
-
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
@@ -37,7 +34,6 @@ Checks if the application or system is using Log4j2.
 | Devotech | Powershell: Queries domain servers and scans for log4j-core files. (slow) | https://github.com/devotech/check-log4j |
 | DIVD | This scanner will recursively scan paths including archives for vulnerable log4j versions and JndiLookup.class files. |https://github.com/dtact/divd-2021-00038--log4j-scanner |
 | Forescout | Samples of exploit attempts; The evolving Log4Shell story: analysis of ongoing and future exploits | https://github.com/Forescout/log4j_response |
-| GoHoyer | Bash script to detect vulnerable log4j-2 jar files | https://gist.github.com/gohoyer/9a40d8e0e46c4c78c99cc9d5e9adc5aa |
 | Kelvin Tegelaar | Open sourced(MIT license) PowerShell log4j detection. Uses "Everything" to prevent high system load | https://www.cyberdrain.com/monitoring-with-powershell-detecting-log4j-files/ |
 | Mergebase | Detects vulnerable Log4J versions on your file-system. It is able to find instances that are hidden several layers deep. Linux/Windows/Mac | https://github.com/mergebase/log4j-detector |
 | NCCgroup  | Version hashes (MD5, SHA1 and SHA256) for log4j2 versions| https://github.com/nccgroup/Cyber-Defence/tree/master/Intelligence/CVE-2021-44228 |
