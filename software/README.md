@@ -1337,7 +1337,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
-| IBM | All products | |  | Investigation |  | | | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/)|
+| IBM | All products | |  | Investigation |  | | IBM updates their advisories quite often. We will try to update accordingly. Please see their advisory | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/)|
 | IBM | A9000/R | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis) |
 | IBM | Analytics Engine Serverless | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis) |
 | IBM | App Configuration | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis) |
