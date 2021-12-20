@@ -1,6 +1,6 @@
 # Log4shell software list mutation tool
 
-This directory contains a script to add additional columns to the software list. This script parses the Software list markdown table and splits out the status column for additional CVEs.
+This directory contains scripts to add additional columns to the software list. This script parses the Software list markdown table and splits out the status column for additional CVEs.
 
 ## Installation
 
@@ -18,7 +18,7 @@ From within this directory execute the following:
 
 ```bash
 # To mutate the software list
-python softwarelist_mutator.py software/README.mdown > /tmp/README.mdown
+python <scriptname>.py software/README.mdown > /tmp/README.mdown
 
 # show differences
 diff -y -M200 software/README.mdown /tmp/README.mdown
