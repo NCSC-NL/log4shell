@@ -55,6 +55,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | yt0ng  | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
 | eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
 | jamesspi | https://log4shell.threatsearch.io/ |
+| NOC.org | https://reputation.noc.org/jndi-attack-logs/ |
 
 
 ## Twitter IoC search tool
