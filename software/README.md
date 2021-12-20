@@ -3201,7 +3201,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
-| Ubiquiti | UniFi Network Application | 6.5.55 | Not vuln | Fix | | Update log4j version to 2.16.0 (CVE-2021-45046) |[source](https://community.ui.com/releases/UniFi-Network-Application-6-5-55/48c64137-4a4a-41f7-b7e4-3bee505ae16e) |
+| Ubiquiti | UniFi Network Application | 6.5.55 | Not vuln | Fix | Not vuln | Update log4j version to 2.16.0 (CVE-2021-45046) |[source1](https://community.ui.com/releases/UniFi-Network-Application-6-5-55/48c64137-4a4a-41f7-b7e4-3bee505ae16e) [source2](https://community.ui.com/releases/Security-Advisory-Bulletin-023-023/808a1db0-5f8e-4b91-9097-9822f3f90207#comment/f689e3fb-6ad8-46b0-8054-2ea3656a8778) |
 | Unify | AC-Win SL | V3 | Not vuln | Not vuln | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | Unify | Atos Unify First Response Emergency Services Applicaction |  | Not vuln | Not vuln | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
 | Unify | Atos Unify First Response Gemma | V2 & V3 | Not vuln | Not vuln | Not vuln |  | [source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) |
