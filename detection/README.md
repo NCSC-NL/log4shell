@@ -23,18 +23,22 @@ However NCSC-NL strives to provide rules and detection software from reliable so
 Injected JNDI strings are displayed differently in log files written to by a vulnerable Log4J instance depending on the situation. A JNDI string is always evaluated first (i.e. a DNS/LDAP/RMI request is sent). Depending on the response a different result is logged:
 
 - In case no response is received, the injected JNDI string will be displayed.
-- In case a response is received the corresponding classname will be logged such as `com.sun.jndi.dns.DnsContext` for DNS. In case of RMI the loaded local class will be displayed, for example `javax.el.ELProcessor`, but this might be any class on the vulnerable host loaded by an attacker.
-- Some cases have been observed where LDAP requests are being sent and a malicious class being loaded/executed, but no logging was written by Log4J due to Log4J crashing while executing/evaluation the provided class.
+- In case a response is received the corresponding classname will be logged such as `com.sun.jndi.dns.DnsContext@<hashcode>` for DNS. In case of RMI the loaded local class will be displayed, for example `javax.el.ELProcessor@<hashcode>`, but this might be any class on the vulnerable host loaded by an attacker.
+- Some cases have been observed where LDAP requests are being sent and a malicious class being loaded/executed, but no logging was written by Log4J, probably due to Log4J crashing while executing/evaluation the provided class. 
 
-Presence of these signatures in log files written to by Log4J is a strong sign of successful exploitation:
+> **Java Hashcodes**:
+When an object is printed it is followed by a `@<hashcode>`. For example: `com.sun.jndi.dns.DnsContext@28a418fc`. Java uses the hash of an object to perform actions such as sorting a collection of object. For more information see [Object::hashCode](https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#hashCode()).
 
-Classes:
+Presence of these signatures in log files written to by Log4J is a strong sign of successful exploitation, but you should investigate whether these signatures appeared due to your own actions (i.e. Log4J scanning tools):
+
+Class signatures:
 ```plain
 com.sun.jndi.dns.DnsContext
 com.sun.jndi.ldap.LdapCtx
 javax.el.ElProcessor
 groovy.lang.GroovyShell
 ```
+**Note:** Hashcodes are omitted because they change based on the value in the fields of Java object.
 
 > **Warning**: Since RMI can be used to load classes on the vulnerable Log4J system the list presented here cannot be seen as a complete. Other classes might be loaded and misused to manipulate the system.**
 
