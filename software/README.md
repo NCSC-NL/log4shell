@@ -2307,7 +2307,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Nutanix | Sizer | SaaS | Not vuln | Fix | Fix | Vulnerable | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Volumes | All | Not vuln | Not vuln | Not vuln | Vulnerable | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Witness VM | All | Not vuln | Workaround | Workaround | Vulnerable | | [source](https://portal.nutanix.com/kb/12491) |
-| Nutanix | X-Ray | All | Not vuln | Not vuln | Not vuln | Vulnerable | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
+| Nutanix | X-Ray | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix |  | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | Not vuln | Workaround |  | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NXLog | NXLog Manager |  5.x |  | Not vuln |  | | |                                                                                                                                                                                                                     [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228) |
