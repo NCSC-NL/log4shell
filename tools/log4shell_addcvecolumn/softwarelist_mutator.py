@@ -62,14 +62,14 @@ def mutate_record(line) -> str:
     cve44228 = ' '+status.strip()+' '
 
     if 'Fix' in cve44228:
-        cve4104 = ' Not Vuln '
+        cve4104 = ' Not vuln '
 
     if 'Not vuln' in cve44228:
-        cve4104 = ' Not Vuln '
-        cve45046 = ' Not Vuln '
+        cve4104 = ' Not vuln '
+        cve45046 = ' Not vuln '
 
     if 'Workaround' in cve44228:
-        cve4104 = ' Not Vuln '
+        cve4104 = ' Not vuln '
 
     return(table_line([vendor, product, version, cve4104, cve44228, cve45046, comment, link]))
 
