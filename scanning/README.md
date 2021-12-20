@@ -26,7 +26,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
 | Trendmicro | Online Log4j tester Trendmicro | https://log4j-tester.trendmicro.com/ |
-
+| ProferoSec | Scans network or IP address for Log4j vulnerability by making callback to scanning host | https://github.com/proferosec/log4jScanner |
 
 ## Log4j2 Detection
 Checks if the application or system is using Log4j2.
