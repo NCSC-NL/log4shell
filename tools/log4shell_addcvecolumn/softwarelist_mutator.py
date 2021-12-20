@@ -59,7 +59,7 @@ def mutate_record(line) -> str:
     cve4104 = ' '
     cve45046 = ' '
     _, vendor, product, version, status, comment, link, _ = line.split('|')
-    cve44228 = status
+    cve44228 = ' '+status.strip()+' '
 
     if 'Fix' in cve44228:
         cve4104 = ' Not Vuln '
