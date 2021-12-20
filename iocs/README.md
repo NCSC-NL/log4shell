@@ -18,6 +18,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | GovCert.ch | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/|
 | isc.sans.edu | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
 | cert-agid.gov.it | https://cert-agid.gov.it/download/log4shell-iocs.txt |
+| Nozomi Networks | https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/ |
 | NLD Police | https://thanksforallthefish.nl/log4j_hashes.txt (Thor format) Auto Updated every 15min |
 | NLD Police | https://thanksforallthefish.nl/log4j_hashes_sha256.txt (line-by-line)  Auto Updated every 15min |
 | NLD Police | https://thanksforallthefish.nl/log4j_hashes_sha1md5.txt (line-by-line)  Auto Updated every 15min |
@@ -36,6 +37,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | Microsoft(Contains scan IP's) | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv |
 | RedDrip7 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
 | CrowdSec (Scan IP validation)| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
+| Cyble | https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/ |
 | Bad Packets (Contains scan IP's)| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
 | NCC Group (Contains scan IP's) | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
 | Lacework | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
