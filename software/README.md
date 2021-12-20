@@ -1923,11 +1923,24 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | JetBrains | UpSource | 2020.1.1952 | Not vuln | Fix |  | | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
 | JGraph | DrawIO | All | Not vuln | Not vuln | Not vuln | Not vuln || [source](https://github.com/jgraph/drawio/issues/2490) |
 | Jitsi | jitsi-videobridge | v2.1-595-g3637fda42 | Not vuln | Fix |  | | | [source](https://github.com/jitsi/security-advisories/blob/4e1ab58585a8a0593efccce77d5d0e22c5338605/advisories/JSA-2021-0004.md)|
-| Johnson Controls | C•CURE‐9000 | 2.90.x and 2.80.x |  | Not vuln |  | |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
-| Johnson Controls | Facility Explorer | 14.x |  | Not vuln |  | |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
-| Johnson Controls | Metasys Products and Tools | All |  | Not vuln |  | |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
-| Johnson Controls | victor | 5.x |  | Not vuln |  | |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
-| Johnson Controls | victor/ C•CURE‐9000 Unified | 3.81.x / victor 5.4.1 / C•CURE‐9000 2.80 and 3.91.x / victor 5.6.1 / C•CURE‐9000 2.90 |  | Not vuln |  | |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | CEM AC2000 | All |  | Not Vuln |  | |  |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | CEM Hardware Products | All |  | Not Vuln | | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | CloudVue Gateway | All |  | Not Vuln | | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | CloudVue Web | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | C•CURE‐9000 | 2.90.x and 2.80.x | | Not Vuln | | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | DLS | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | Entrapass | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | Facility Explorer | 14.x | | Not Vuln | | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | Illustra Cameras | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | Illustra Insight | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | Metasys Products and Tools | All | | Not Vuln | | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | PowerSeries NEO | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | PowerSeries Pro | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | Qolsys IQ Panels | All |  | Not Vuln |  |  | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | Sur‐Gard Receivers | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+|  Johnson Controls  | Tyco AI | All |  | Not Vuln |  | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | victor | 5.x | | Not Vuln | | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | victor/ C•CURE‐9000 Unified | 3.81.x / victor 5.4.1 / C•CURE‐9000 2.80 and 3.91.x / victor 5.6.1 / C•CURE‐9000 2.90 | | Not Vuln | | | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | jPOS | (ISO-8583) bridge | Unknown |  | Not vuln |  | | | [source](https://github.com/jpos/jPOS/commit/d615199a1bdd35c35d63c07c10fd0bdbbc96f625)|
 | Juniper Networks | Cross Provisioning Platform | Unspecified |  | Investigation |  | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
 | Juniper Networks | JSA Series | Unspecified |  | Investigation |  | | | [source](https://kb.juniper.net/InfoCenter/index?page=content&id=JSA11259&actp=SUBSCRIPTION) |
@@ -2301,8 +2314,11 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Nutanix | Sizer | SaaS | Not vuln | Fix |  | | WAF updated to block exploit, backend production patched |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Volumes | All supported versions | Not vuln | Not vuln | Not vuln | Not vuln | |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | X-Ray | All supported versions | Not vuln | Not vuln | Not vuln | Not vuln | |                                                                                                                                                                                                                      [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
-| NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix |  | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | Not vuln | Workaround |  | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | CUDA Toolkit Nsight Eclipse Edition | <11.0 | | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | CUDA Toolkit Visual Profiler | 11.5 and Prior | | Vulnerable | Vulnerable|  | Updated CUDA Toolkit version available mid-January 2022 | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix | | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | NetQ | Versions 2.x, 3.x, and 4.0.x | | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | Not vuln | Workaround | | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NXLog | NXLog Manager |  5.x |  | Not vuln |  | | |                                                                                                                                                                                                                     [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228) |
 
 ### O
@@ -3324,6 +3340,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | VMware       | Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Not vuln | Workaround |  | |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87091)|
 | Vuze         | Vuze Torrent (desktop/server/mobile) | Revision 44261 |  | Investigation |  | | Also know as Azureus | [source](http://svn.vuze.com/public/client/trunk/uis/lib/), [vendor](https://www.vuze.com/) |
 | Vyaire medical | All |  |  | Not vuln |  | |  | [source](https://www.vyaire.com/product-security) |
+| Vyaire medical | Mirth Connect |  | Vulnerable | Not Vuln | | | Mirth Connect does not make use of the vulnerable JMSAppender in its Log4j configuration by default. | [source](https://www.vyaire.com/product-security) |
 
 ### W
 
