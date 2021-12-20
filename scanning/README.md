@@ -27,6 +27,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
 | Trendmicro | Online Log4j tester Trendmicro | https://log4j-tester.trendmicro.com/ |
+| welk1n | JNDI-Injection-Exploit | https://github.com/welk1n/JNDI-Injection-Exploit |
 
 
 ## Log4j2 Detection
