@@ -3066,7 +3066,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | TheHive | Cortex | all | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
 | TheHive | TheHive | all | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
 | Tools4ever | HelloID | All |  | Not vuln |  | |  | [source](https://forum.helloid.com/forum/main-forum/642-log4j-vulnerability) |
-| TOPdesk | TOPdesk SaaS | all | Not vuln | Not vuln | Not vuln | | [source](vendor-statements/TOPdesk.png) |
+| TOPdesk | TOPdesk SaaS | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](vendor-statements/TOPdesk.png) |
 | TOPdesk | TOPdesk On-Premises Virtual Appliance | all |  | Not vuln |  | | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
 | TOPdesk | TOPdesk On-Premises Classic | all |  | Not vuln |  | | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
 | Topicus Security | Topicus KeyHub | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://blog.topicus-keyhub.com/topicus-keyhub-is-not-vulnerable-to-cve-2021-44228/) |
