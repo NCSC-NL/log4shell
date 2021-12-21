@@ -16,6 +16,7 @@ We try to steer potential contributors to PRs over issues, because PRs guide con
 ## Reviewing a pull request
 
   1. Open a PR
+     - claim the PR by clicking _assign yourself_ under *Assignees* on the right side. 
      - review the PR title. It should be something like _"Add <vendor/product name>"_ (instead of "Update README.md"). The title should tell you what the author intended to change. You'll need this during your review.
   2. Navigate to the *Files changed* tab of the interface. This where the bulk of your review work happens.
   3. Review which files have changes.
@@ -39,6 +40,7 @@ We try to steer potential contributors to PRs over issues, because PRs guide con
      - Be sure to thank the author of a PR for their contribution, no matter how small.
      - You can also provide feedback on specific lines, by clicking the *+* symbol next to the line numbers. This can be helpful to the author when reviewing large PRs.
   6. No review comments? Proceed to merge the contribution.
+  7. If you requested changes, unassign yourself. This allows other maintainers to pick improvements by the author in your absence.
 
 ## Merging a pull request
 
