@@ -208,7 +208,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Apache        | Jena | < 4.3.1 | Not vuln | Fix |  | | Fixed in 4.3.1 |[source](https://blogs.apache.org/security/entry/cve-2021-44228)|
 | Apache        | JMeter | Any |  | Vulnerable |  | | Manual Bypass |[source](https://github.com/apache/jmeter/pull/680#issuecomment-993204248)|
 | Apache        | JSPWiki | 2.11.1 | Not vuln | Fix |  | | |[source](https://jspwiki-wiki.apache.org/Wiki.jsp?page=Log4J-CVE-2021-44228) |
-| Apache        | Kafka | All versions | Not vuln | Not vuln | Not vuln | Not vuln | Uses log4j 1.x |[source](https://lists.apache.org/thread/lgbtvvmy68p0059yoyn9qxzosdmx4jdv) |
+| Apache        | Kafka | All versions | Workaround | Not vuln | Not vuln | Not vuln | Uses Log4j 1.2.17 | [source](https://kafka.apache.org/cve-list) |
 | Apache        | Karaf | Unknown |  | Vulnerable |  | | Depends on [PAX logging](https://github.com/ops4j/org.ops4j.pax.logging/issues/414) which is affected |[source](https://mail-archives.apache.org/mod_mbox/karaf-dev/202112.mbox/browser) |
 | Apache        | Log4j | 2.16.0 | Not vuln | Fix |  | | |[source](https://logging.apache.org/log4j/2.x/security.html) |
 | Apache        | Maven | All Versions |  | Not vuln |  | |  |[source](https://blogs.apache.org/security/entry/cve-2021-44228) |
