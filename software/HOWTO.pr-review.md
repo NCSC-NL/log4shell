@@ -29,7 +29,7 @@ We try to steer potential contributors to PRs over issues, because PRs guide con
 | Vendor              | MUST be correctly sorted wrt. other rows. |
 | Product             | MUST be correctly sorted wrt. other rows. SHOULD NOT start with the vendor name |
 | Version             | MUST relate to the `Status` column: if `Status` is _Vulnerable_ or _Workaround_, `Version` indicates vulnerable version(s). If `Status` is _Fix_, `Version` indicates the version(s) in which the fix was introduced (no ranges). |
-| Status CVE-2021-XXX | MUST use a status value as listed in the table at the top of the document |
+| Status CVE-2021-XXX | MUST use a status value as listed in the table at the top of the document. Status _Fix_ requires a released `Version` that includes the fix, otherwise list it as _Workaround_. |
 | Links               | MUST refer to a vendor statement as the source for the row. This can either be a hyperlink to the vendor's website (in markdown-format \[link text\]\(https://example.org/url\)) or a hyperlink to an (provided) file in the `software/vendor-statements/` directory. URLs are preferred. Be sure to check any included vendor-statement files for the absence of personal data. |
 
      - For each row deleted, check the `Vendor` and `Product` against the Pull request title. Sometimes authors make their changes against a stale copy of the list. Their PR then effectively reverts recent changes. If this happens, ask the author to either fix the deletions, or open a new PR based of a non-stale version.
