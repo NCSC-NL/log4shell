@@ -1083,6 +1083,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Devolutions | All products | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://blog.devolutions.net/2021/12/critical-vulnerability-in-log4j/) |
 | DirectAdmin | All products | | Not vuln | Not vuln | Not vuln | Not vuln | Invidivual plugins not developed as part of DirectAdmin core may be vulnerable. | [source](https://forum.directadmin.com/threads/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare.65173/post-339723) |
 | Docker | Docker infrastructure | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | Docker infrastructure not vulnerable, Docker images could be vulnerable. For more info see source. |[source](https://www.docker.com/blog/apache-log4j-2-cve-2021-44228/) |
+| Docvue | Docvue Client Agent | fix | Unknown | Unknown | Unknown | Unknown | New client package can be retrieved from support. | |
 | DotCMS | Hybrid Content Management System | | Not vuln | Fix |  | | | [source](https://github.com/dotCMS/core/issues/21393) |
 | Draytek | All products | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://www.draytek.com/about/security-advisory/log4shell-vulnerability-(cve-2021-44228)/) |
 | Dräger | All Medical Devices | |  | Not vuln |  | | | [source](https://static.draeger.com/security) |
