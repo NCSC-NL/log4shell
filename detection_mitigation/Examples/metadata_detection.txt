@@ -1,0 +1,19 @@
+JNDIExploit
+http.method = 'GET'
+http.uri = '/Exploit[a-zA-Z0-9]{10}.class'
+http.user_agent = 'Java/.*' (depends on version installed on system)
+http.response_mime_type = 'application/x-java-applet'
+http.response_body = Java-class file (0xcafebabe00 file magic)
+
+JNDI-Exploit-Kit
+http.method = 'GET'
+http.uri = '/ExecTemplateJDK[5678].class'
+User-agent = 'Java/.*' (depends on version installed on system)
+http.response_mime_type = 'application/x-java-applet'
+http.response_body = Java-class file (0xcafebabe00 file magic)
+
+Marshallsec
+http.uri = '*.class'
+http.user_agent = 'Java/.*' (depends on version installed on system)
+http.response_mime_type = 'application/x-java-applet'
+http.response_body = Java-class file (0xcafebabe00 file magic)
