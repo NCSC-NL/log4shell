@@ -2279,11 +2279,11 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | NiceLabel | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://help.nicelabel.com/hc/en-001/articles/4413846986385-Apache-Log4j-Vulnerability-Log4Shell-CVE-2021-44228-does-not-affect-NiceLabel-applications)|
 |Nomachine | All products | All versions | Not vuln | Not vuln | Not vuln | Not vuln | |                                                                                                                                                                                                                        [source](https://forums.nomachine.com/topic/apache-log4j-notification) |
 | NSA | Ghidra| < 10.1| Not vuln | Fix |  | | |                                                                            [source](https://github.com/NationalSecurityAgency/ghidra/blob/2c73c72f0ba2720c6627be4005a721a5ebd64b46/README.md#warning), [fix](https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.1_build) |
-| Nulab | Backlog | N/A (SaaS) | Not vuln | Fix |  | || [source](https://nulab.com/blog/company-news/log4shell/) |
-| Nulab | Backlog Enterprise (On-premises) | 1.11.6 | Not vuln | Fix |  | || [source](https://nulab.com/blog/company-news/log4shell/) |
-| Nulab | Cacoo | N/A (SaaS) | Not vuln | Fix |  | || [source](https://nulab.com/blog/company-news/log4shell/) |
-| Nulab | Cacoo Enterprise (On-premises) | 4.0.2 | Not vuln | Fix |  | || [source](https://nulab.com/blog/company-news/log4shell/) |
-| Nulab | Typetalk | N/A (SaaS) | Not vuln | Fix |  | || [source](https://nulab.com/blog/company-news/log4shell/) |
+| Nulab | Backlog | N/A (SaaS) | Not vuln | Fix | Fix | Fix || [source](https://nulab.com/blog/company-news/log4shell/) |
+| Nulab | Backlog Enterprise (On-premises) | 1.11.7 | Not vuln | Fix | Fix | Fix || [source](https://nulab.com/blog/company-news/log4shell/) |
+| Nulab | Cacoo | N/A (SaaS) | Not vuln | Fix | Fix | Fix || [source](https://nulab.com/blog/company-news/log4shell/) |
+| Nulab | Cacoo Enterprise (On-premises) | 4.0.4 | Not vuln | Fix | Fix | Fix || [source](https://nulab.com/blog/company-news/log4shell/) |
+| Nulab | Typetalk | N/A (SaaS) | Not vuln | Fix | Fix | Fix || [source](https://nulab.com/blog/company-news/log4shell/) |
 | Nutanix | General Guidance | | | | | | Nutanix updating Security Advisory #23 multiple times per day, please check source link for absolute latest status | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | AHV | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | AOS (Community Edition) | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
