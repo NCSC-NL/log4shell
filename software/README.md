@@ -268,7 +268,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Barco          | Projector Toolset | |  | Investigation |  | | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
 | Basis Technology | Autopsy | 4.18.0 onwards | Not vuln | Workaround |  | | version 4.18.0 onwards use Apache Solr 8 | [source](https://www.autopsy.com/autopsy-and-log4j-vulnerability) |
 | BCT            | CORSA | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
-| BCT            | LIBER | 1.25.3 | Not vuln | Fix | Fix | Not vuln | Details are shared on BCT portal. | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
+| BCT            | LIBER | 1.125.3 | Not vuln | Fix | Fix | Not vuln | Details are shared on BCT portal. | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
 | BCT            | BerichtenCentrale (BCE) & Integrations | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
 | BCT            | IDT | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
 | BCT            | e-Invoice | 2.10.210 | Not vuln | Fix | Fix | Fix | Details are shared on BCT portal. | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
