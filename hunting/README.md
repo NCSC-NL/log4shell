@@ -3,6 +3,7 @@
 This page contains an overview of any related hunting information.
 
 ## SIEMs
-
-* [Splunk](Splunk.md)
-* [Microsoft 365 Defender advanced hunting queries](Log4j-Microsoft-Defender.md)
+|  Links |
+|:----------------|
+| [Elastic](https://www.elastic.co/blog/detecting-log4j2-with-elastic-security) |
+| [Microsoft 365 Defender advanced hunting queries](Microsoft-Defender.md) |

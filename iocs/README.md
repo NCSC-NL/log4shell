@@ -17,7 +17,15 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | Malwar3Ninja | https://twitter.com/bad_packets/status/1469225135504650240|
 | GovCert.ch | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/|
 | isc.sans.edu | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
-| cert-agid.gov.it | https://cert-agid.gov.it/download/log4shell-iocs.txt |
+| cert-agid.gov.it (Contains scan IP's) | https://cert-agid.gov.it/download/log4shell-iocs.txt |
+| Nozomi Networks | https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/ |
+| NLD Police | https://thanksforallthefish.nl/log4j_hashes.txt (Thor format) Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_hashes_sha256.txt (line-by-line)  Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_hashes_sha1md5.txt (line-by-line)  Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_domains.txt (Thor format)  Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_urls.txt (line-by-line)  Auto Updated every 15min |
+| NLD Police | https://thanksforallthefish.nl/log4j_blocklist.txt (line-by-line)  Not Verified |
+
 
 ## List of IoC's from security vendors
 
@@ -29,6 +37,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | Microsoft(Contains scan IP's) | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv |
 | RedDrip7 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
 | CrowdSec (Scan IP validation)| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
+| Cyble | https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/ |
 | Bad Packets (Contains scan IP's)| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
 | NCC Group (Contains scan IP's) | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
 | Lacework | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
@@ -42,9 +51,11 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 |:----------------|:----------------|
 | GelosSnake  | https://twitter.com/GelosSnake/status/1469341429541576715 |
 | CronUp  | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets |
+| CronUp (2)  | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-19_MiraiLog4ShellWorm |
 | yt0ng  | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
 | eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
 | jamesspi | https://log4shell.threatsearch.io/ |
+| NOC.org | https://reputation.noc.org/jndi-attack-logs/ |
 
 
 ## Twitter IoC search tool

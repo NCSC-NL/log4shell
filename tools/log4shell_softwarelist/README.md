@@ -1,6 +1,6 @@
 # Log4shell software list tool
 
-This directory contains info for the softwarelist parser tool. This script parsers the Software list markdown table and can export it to CSV or JSON format.
+This directory contains info for the softwarelist parser tool. This script parses the Software list markdown table and can export it to CSV or JSON format.
 
 ## Installation
 
