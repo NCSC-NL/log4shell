@@ -2546,7 +2546,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Palo Alto | Cortex XSOAR  | |  | Not vuln |  | | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
 | Palo Alto | Exact Data Matching CLI  | < 1.2 |  | Vulnerable |  | | >= 1.2 Not vuln | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
 | Palo Alto | GlobalProtect App  | |  | Not vuln |  | | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
-| Palo Alto | PAN-OS for Panorama | 9.0.x, 9.1.x, 10.0.x |  | Vulnerable |  | | 8.1.x, 10.1.x Not vuln | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
+| Palo Alto | PAN-OS for Panorama | < 9.0.15, < 10.0.8-h8, < 9.1.12-h3 |  | Fix | Fix | Fix | 8.1.*, 10.1.*, >= 9.0.15, >= 10.0.8-h8, >= 9.1.12-h3 Not vuln | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
 | Palo Alto | PAN-OS for Firewall and Wildfire | |  | Not vuln |  | | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
 | Palo Alto | Prisma Cloud Compute | |  | Not vuln |  | | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
 | Palo Alto | Prisma Cloud  | |  | Not vuln |  | | | [source](https://security.paloaltonetworks.com/CVE-2021-44228) |
