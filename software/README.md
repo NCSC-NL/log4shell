@@ -290,7 +290,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Bitdefender   | GravityZone On-Premises | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability) |
 | Bitnami       | Unknown | Unknown | Not vuln | Fix |  | | |[source](https://docs.bitnami.com/general/security/security-2021-12-10/) |
 | Bitwarden     | Bitwarden | All |  | Not vuln |  | | | [source](https://community.bitwarden.com/t/log4j-log4shell-cve-is-bitwarden-affected-due-to-docker-image/36177) |
-| BioJava       | Java library for processing biological data | 6.0.3 | Not vuln | Fix | Fix | Fix | Vulnerable |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.3) |
+| BioJava       | Java library for processing biological data | 6.0.3 | Not vuln | Fix | Fix |  Vulnerable |  |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.3) |
 | BlackBerry    | Enterprise Mobility Server | 2.12 and above | Not vuln | Workaround |  | | |[source](https://support.blackberry.com/community/s/article/90708) |
 | BlackBerry    | Workspaces On-prem Server | All | Not vuln | Workaround |  | | |[source](https://support.blackberry.com/community/s/article/90708) |
 | BlackBerry    |  2FA | All | Not vuln | Workaround |  | | |[source](https://support.blackberry.com/community/s/article/90708) |
