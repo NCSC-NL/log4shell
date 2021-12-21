@@ -1105,12 +1105,12 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Elastic         | Elastic Cloud on Kubernetes | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Elastic Endgame | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Elastic Maps Service | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Elasticsearch | < 6.8.9, 7 - 7.8  | Not vuln | Fix |  | | Information leakage vulnerability, Fixed in 7.16.1 and 6.8.21 | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Elasticsearch | 7.16.2  | Not vuln | Fix | Fix | Fix | | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Endpoint Security | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Enterprise Search | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Fleet Server | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Kibana | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
-| Elastic         | Logstash | < 6.8.21, < 7.16.1 | Not vuln | Fix |  | | No known remote code execution exposure, Fixed in 6.8.21, 7.16.1 | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
+| Elastic         | Logstash | 6.8.22 | Not vuln | Fix | Fix | Fix | No known remote code execution exposure. Fixed in 6.8.22 | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Machine Learning | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Swiftype | |  | Investigation |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | ELO | Digital Office ||  | Not vuln |  | || [source](http://www.elo.com)|
