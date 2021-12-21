@@ -1974,6 +1974,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Imprivata | PatientSecure | |  | Not vuln |  | | Link is behind a login | [source](https://support.imprivata.com/NewCommunityArticleView?url=ka52M000000AZkgQAG)|
 | Inductive Automation | Ignition | All versions |  | Not vuln |  | | | [source](https://support.inductiveautomation.com/hc/en-us/articles/4416204541709-Regarding-CVE-2021-44228-Log4j-RCE-0-day) |
 | Influxdata | All | All versions |  | Not vuln |  | | | [source](https://www.influxdata.com/blog/apache-log4j-vulnerability-cve-2021-44228/) |
+| Infor | Private Cloud Tenant (IBM Websphere) | Dependent on Infor configuration |   | Vulnerable |  |  | No official statement from Vendor. See screenshot.  | [source](vendor-statements/InforLog4Shell.png) |
+| Infor | Rich Desktop Client | Unknown |  |  | Vulnerable |  |  | No official statement from Vendor. See screenshot | [source](vendor-statements/InforLog4Shell.png) |
 | Informatica | Axon | 7.2.x | Not vuln | Workaround |  | |  | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
 | Informatica | Data Privacy Management | 10.5, 10.5.1 | Not vuln | Workaround |  | |  | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
 | Informatica | Information Deployment Manager |  | Not vuln | Fix |  | | | [source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products) |
