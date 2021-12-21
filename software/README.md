@@ -2183,7 +2183,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Trend Micro | Trend Micro ID Security  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Trend Micro Remote Manager  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Trend Micro Security (Consumer)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| Trend Micro | Trend Micro Virtual Patch for Endpoint  |  | Investigation | |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Trend Micro Virtual Patch for Endpoint  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Trend Micro Web Security  |  | Fix | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | TXOne (Edge Series)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | TXOne (Stekkar Series)  |  | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
