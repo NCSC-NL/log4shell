@@ -3096,11 +3096,11 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Tesorion | SOC-appliances and software | all | Not vuln | Fix |  | | Potential Log4j impact mitigated | [source](https://www.tesorion.nl/en/posts/tesorion-products-not-vulnerable-to-log4j/) |
 | TheHive | Cortex | all | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/) |
 | TheHive | TheHive | all | Not vuln | Not vuln | Not vuln | Not vuln | Safety release done removing log4j, despite not being vulnerable |[source](https://twitter.com/StrangeBee/status/1472854290943381504) |
-| THK Group | FlinQ Foresight | All | | Vuln | | | | Security statement from vendor |
-| THK Group | FlinQ | All | | Not vul | | | | Security statement from vendor |
-| THK Group | VDG Sense | All | | Not vul | | | | Security statement from vendor |
-| THK Group | iProtect | All | | Not vul | | | | Security statement from vendor |
-| THK Group | Fore! | All | | Not vul | | | | Security statement from vendor |
+| THK Group | FlinQ Foresight | All | | Vulnerable | | | | [source](vendor-statements/thkgroup.png) |
+| THK Group | FlinQ | All | | Not vul | | | | [source](vendor-statements/thkgroup.png)|
+| THK Group | VDG Sense | All | | Not vul | | | | [source](vendor-statements/thkgroup.png) |
+| THK Group | iProtect | All | | Not vul | | | | [source](vendor-statements/thkgroup.png)|
+| THK Group | Fore! | All | | Not vul | | | | [source](vendor-statements/thkgroup.png) |
 | Tools4ever | HelloID | All |  | Not vuln |  | |  | [source](https://forum.helloid.com/forum/main-forum/642-log4j-vulnerability) |
 | TOPdesk | TOPdesk SaaS | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](vendor-statements/TOPdesk.png) |
 | TOPdesk | TOPdesk On-Premises Virtual Appliance | all |  | Not vuln |  | | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
