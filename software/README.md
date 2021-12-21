@@ -10,7 +10,7 @@ NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally
 #### Daily CSV/JSON releases
 Daily releases of this software list are listed, including CSV and JSON files, in the [releases](https://github.com/NCSC-NL/log4shell/releases) overview. Please check the [software list parser](https://github.com/NCSC-NL/log4shell/tree/main/tools/log4shell_softwarelist) tool to generate a CSV or JSON on your own.
 
-> **Disclaimer:** _We aim to provide as the information as accurately as possible with the resources available to us. However, we do not have the capacity to monitor all software for updates/fixes. If you detect any mistakes, please create a Pull Request.
+> **Disclaimer:** _We aim to provide as the information as accurately as possible with the resources available to us. However, we do not have the capacity to monitor all software for updates/fixes. You are advised to review the links provided for available updates. If you find updates or mistakes, please contribute by creating a Pull Request. [Learn how](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository).
 
 ## Software overview
 NCSC-NL will use the following status labels:
