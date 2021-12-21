@@ -44,7 +44,9 @@ We try to steer potential contributors to PRs over issues, because PRs guide con
 
   1. Open a PR
   2. Check the merge indicator near the bottom of the screen:
+
     - if it states _This branch has no conflicts with the base branch_, your merge will be simple
     - alternatively, you need to resolve a conflict.
   3. Merge use _Rebase and merge_ if you can (note that this button is a dropdown which remembers your last selection)
+
     - Alternatively, use _Squash and merge_ when the author of the PR used additional commits to improve their contribution. This is especially relevant when they redacted information, say by blurring personal data in a `software/vendor-statements/' screenshot.
