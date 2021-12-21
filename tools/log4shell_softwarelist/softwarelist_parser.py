@@ -21,6 +21,7 @@ HEADERS = [
     'Status CVE-2021-4104',
     'Status CVE-2021-44228',
     'Status CVE-2021-45046',
+    'Status CVE-2021-45105',
     'Notes',
     'Links'
 ]
@@ -51,8 +52,8 @@ def parse_record(record: List[Tag] = None) -> dict:
 
     for index, header in enumerate(HEADERS):
         # Parse links differently
-        if index == 5:
-            if len(record) == 5:
+        if index == 8:
+            if len(record) == 8:
                 result[header] = {}
             else:
                 result[header] = parse_links(record[index].find_all('a'))
