@@ -45,6 +45,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | RiskIQ (IP's contain scan IP's) | https://community.riskiq.com/article/57abbfcf/indicators |
 | Valtix | https://valtix.com/blog/log4shell-observations/ |
 | Infoblox | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
+| Orange Cyberdefense (IP's contain scan IP's) | https://github.com/Orange-Cyberdefense/log4shell_iocs
 
 ## List of IoC's from Honeypot's
 | Note     | Links |
