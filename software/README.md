@@ -1173,6 +1173,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 |FileCap| FileCap Server | 5.1.1 | Not vuln | Fix |  | | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 |FileCap| FileCap Plugins || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 | FileZilla | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://forum.filezilla-project.org/viewtopic.php?f=6&t=54338)|
+| FEDEX | Ship Manager | 3509 | not vuln |  not vuln |  not vuln | Vuln | Fedex Ship Manager version 3510 scheduled for release 1/24 with Log4j ver 2.17 | direct msg to rep |
 |Forcepoint |Advanced Malware Detection                                                           || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Behavioral Analytics                                                                 ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Bitglass SSE                                                                         || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
