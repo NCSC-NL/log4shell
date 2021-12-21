@@ -2608,7 +2608,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Progress | OpenEdge | | Not vuln | Workaround |  | | | [source](https://www.progress.com/security), [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-OpenEdge-vulnerable-to-CVE-2021-44228-Log4j) |
 | Proofpoint | Archiving Appliance | |  | Vulnerable |  | | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
 | Proofpoint | Archiving Backend | | Not vuln | Fix |  | | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
-| Proofpoint | Cloud App Security Broker | |  | Vulnerable |  | | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Cloud App Security Broker | |  | Fix |  | | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
 | Proofpoint | Cloudmark Cloud/Cloudmark Hybrid | | Not vuln | Fix |  | | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
 | Proofpoint | Cloudmark on Premise | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
 | Proofpoint | Content Patrol | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
@@ -2638,7 +2638,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Proofpoint | Targeted Attack Protection (TAP) | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
 | Proofpoint | Threat Response (TRAP) | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
 | Proofpoint | Web Gateway | | Not vuln | Fix |  | | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
-| Proofpoint | Web Security | |  | Vulnerable |  | | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
+| Proofpoint | Web Security | |  | Fix |  | | | [source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability) |
 | Proxmox | Backup Server | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
 | Proxmox | Mail Gateway | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
 | Proxmox | VE | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://forum.proxmox.com/threads/log4j-exploit-what-to-do.101254/#post-436880) |
