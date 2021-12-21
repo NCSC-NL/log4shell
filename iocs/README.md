@@ -17,7 +17,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | Malwar3Ninja | https://twitter.com/bad_packets/status/1469225135504650240|
 | GovCert.ch | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/|
 | isc.sans.edu | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
-| cert-agid.gov.it | https://cert-agid.gov.it/download/log4shell-iocs.txt |
+| cert-agid.gov.it (Contains scan IP's) | https://cert-agid.gov.it/download/log4shell-iocs.txt |
 | Nozomi Networks | https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/ |
 | NLD Police | https://thanksforallthefish.nl/log4j_hashes.txt (Thor format) Auto Updated every 15min |
 | NLD Police | https://thanksforallthefish.nl/log4j_hashes_sha256.txt (line-by-line)  Auto Updated every 15min |
