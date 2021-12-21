@@ -8,6 +8,7 @@ Table of Contents:
 1. [Detection](#detection)
     - [Overall JNDI detection regex](#overall-jndi-detection-regex)
     - [Behavior of injected JNDI strings in vulnerable Log4J instances](#behavior-of-injected-jndi-strings-in-vulnerable-log4j-instances)
+    - Metadata detection, Rules and PCAPS for JNDI-Exploit, JNDI-Exploit-Kit and Marshallsec, see https://github.com/NCSC-NL/log4shell/tree/main/detection_mitigation/Examples
 2. [Opensource Intelligence](#opensource-intelligence)
     - [Network based detection](#network-based-detection)
     - [Web-server mitigation](#web-server-mitigation)
