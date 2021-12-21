@@ -2778,6 +2778,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | SAP             | BusinessObjects Data Services | |  | Not vuln |  | | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
 | SAP             | BusinessObjects Financial Information Management | |  | Not vuln |  | | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
 | SAP             | BusinessObjects Knowledge Accelerator | |  | Not vuln |  | | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
+| SAP             | Hana Cockpit | <1.1.23 | Not vuln | Fix | Fix | Fix |  | [source](https://blogs.sap.com/2021/12/14/hana-xsa-log4j-cve-2021-44228/) |
 | SAP             | HANA Database | |  | Not vuln |  | | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
 | SAP             | HANA Smart Data Integration | |  | Not vuln |  | | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
 | SAP             | HANA Streaming Analytics | |  | Not vuln |  | | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
@@ -2787,7 +2788,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | SAP             | NetWeaver Application Server for ABAP | |  | Not vuln |  | | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
 | SAP             | SuccessFactors Litmos | |  | Not vuln |  | | (behind login) | [source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-center/sap-tc-01-5025.pdf) |
 | SAP             | Customer Checkout PoS / manager | 2.0 FP09, 2.0 FP10, 2.0 FP11 PL06 (or lower) and 2.0 FP12 PL04 (or lower) | Not vuln | Fix |  | | SAP note 3130499 | [source](https://launchpad.support.sap.com/#/notes/0003130499) |
-| SAP             | XS Advanced Runtime | 1.0.140 or lower | Not vuln | Fix |  | | SAP note 3130698 | [source](https://launchpad.support.sap.com/#/notes/3130698) |
+| SAP             | XS Advanced Runtime | 1.0.140 or lower | Not vuln | Fix | Fix | Fix | SAP note 3130698 | [source](https://launchpad.support.sap.com/#/notes/3130698) |
 | SAS Institute   | JMP | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.sas.com/content/support/en/security-bulletins/remote-code-execution-vulnerability-cve-2021-44228.html) |
 | SAS Institute   | SAS Cloud Solutions | | Not vuln | Workaround |  | | | [source](https://support.sas.com/content/support/en/security-bulletins/remote-code-execution-vulnerability-cve-2021-44228.html) |
 | SAS Institute   | SAS Profile | | Not vuln | Fix |  | | | [source](https://support.sas.com/content/support/en/security-bulletins/remote-code-execution-vulnerability-cve-2021-44228.html) |
