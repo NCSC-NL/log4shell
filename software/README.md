@@ -978,11 +978,11 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Elastic         | Machine Learning | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | Swiftype | |  | Investigation |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | ELO | Digital Office ||  | Not vuln |  | || [source](http://www.elo.com)|
-| Enfocus | BoardingPass | All |  | Not vuln |  | | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enfocus | Connect | All |  | Not vuln |  | | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enfocus | Switch | All |  | Not vuln |  | | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enfocus | PDF Review Module | All |  | Not vuln |  | | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
-| Enfocus | PitStop | All |  | Not vuln |  | | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | BoardingPass | All |  | Not vuln | Not vuln | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | Connect | All |  | Not vuln | Not vuln | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | Switch | All |  | Not vuln | Not vuln | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | PDF Review Module | All |  | Not vuln | Not vuln | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
+| Enfocus | PitStop | All |  | Not vuln | Not vuln | Not vuln | | [source](https://enfocus-community.force.com/customers/s/article/Are-the-Enfocus-products-impacted-by-the-log4j-security-vulnerability?language=en_US)|
 | Enovation | All | |  | Not vuln |  | | | [source](https://enovationgroup.com/nl/nieuws/log4j-vulnerability-cve-2021-44228/) |
 | ESET | All products | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.eset.com/en/alert8188-information-regarding-the-log4j2-vulnerability) |
 | ESET | Secure Authentication | Unknown | Not vuln | Workaround |  | | |[source](https://support.eset.com/en/kb8190-vulnerability-log4j2-in-the-reporting-engine-elasticsearch-of-eset-secure-authentication?ref=esf) |
@@ -1293,7 +1293,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | HPE |ntegrity Rx2800/Rx2900| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |OfficeConnect| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |Primera Storage| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
-| HPE |Real Time Management System (RTMS) |3.0.x and 3.1.x |  | Vulnerable |  | | | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
+| HPE |Real Time Management System (RTMS) |3.0.x and 3.1.x | | Fix | Fix | Fix | Fixed in version 3.00.72.1 | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us), [security bulletin](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=hpesbgn04224en_us) |
 | HPE |Remote SIM Provisioning Manager (RSPM) |1.3.2 and 1.4.1 |  | Vulnerable |  | | | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
 | HPE |RepoServer part of OPA (on Premises aggregator)| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |Resource Aggregator for Open Distributed Infrastructure Management| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
