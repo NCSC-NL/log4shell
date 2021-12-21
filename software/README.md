@@ -1293,7 +1293,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | HPE |ntegrity Rx2800/Rx2900| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |OfficeConnect| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |Primera Storage| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
-| HPE |Real Time Management System (RTMS) |3.0.x and 3.1.x |  | Vulnerable |  | | | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
+| HPE |Real Time Management System (RTMS) |3.0.x and 3.1.x | | Fix | Fix | Fix | Fixed in version 3.00.72.1 | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us), [security bulletin](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=hpesbgn04224en_us) |
 | HPE |Remote SIM Provisioning Manager (RSPM) |1.3.2 and 1.4.1 |  | Vulnerable |  | | | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us) |
 | HPE |RepoServer part of OPA (on Premises aggregator)| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
 | HPE |Resource Aggregator for Open Distributed Infrastructure Management| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_USdocId=a00120086en_us) |
