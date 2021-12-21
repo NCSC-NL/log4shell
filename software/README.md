@@ -2840,84 +2840,9 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Sentry.io | Self Hosted and SaaS | All Versions |  | Not vuln |  | | Not affected as it is written in Python and Rust. Makes use of unaffected versions of log4j 1.x in Kafka and Zookeeper subsystems | [source](https://blog.sentry.io/2021/12/15/sentrys-response-to-log4j-vulnerability-cve-2021-44228) |
 | Scootersoftware | Beyond Compare | All |  | Not vuln |  | | | [source](https://www.scootersoftware.com/index.php) |
 | Shibboleth      | Shibboleth IdP/SP | |  | Not vuln |  | |  | [source](https://shibboleth.net/pipermail/announce/2021-December/000253.html) |
-| Siemens     | Advantage Navigator Cloud Service | 2021-12-13 | Not vuln | Fix |  | |Vulnerability fixed on central cloud service starting 2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Advantage Navigator Software Proxy | all |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Capital (and its derivatives) | >= 2019.1 SP1912 | Not vuln | Workaround |  | | Only vulnerable if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Cerberus DMS | V5.0, V5.1 with Advanced Reporting EM installed | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Comfy | |  | Investigation |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Comos Desktop App | all |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Desigo CC Advanced Reporting | V4.0, V4.1, V4.2, V5.0, V5.1 |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Desigo CC Info Center | V5.0, V5.1 |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | E-Car OC Cloud Application | | Not vuln | Fix |  | | Vulnerability fixed on central cloud service starting 2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Energy Engate | V3.1 | Not vuln | Fix |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | EnergyIP | V8.5, V8.6, V8.7, V9.0 | Not vuln | Fix |  | | EnergyIP V8.5 and V8.6 applications are not directly affected, but CAS is.| [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | EnergyIP Prepay | V3.7, V3.8 |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Enlighted | |  | Investigation |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Geolus | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | GMA-Manager | V8.6.2-472 | Not vuln | Fix |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | HCRA | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | HES UDIS | all |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Industrial Edge Management App (IEM-App) | all |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Industrial Edge Manangement Hub | all | Not vuln | Fix |  | | Vulnerability fixed on central cloud service starting 2021-12-13; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Industrial Edge Management OS (IEM-OS) | all |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | LOGO! Soft Comfort | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Mendix Applications | all |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Mindsphere Cloud Application | 2021-12-11 | Not vuln | Fix |  | | Vulnerability fixed on central cloud service starting 2021-12-11; no user actions necessary | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Mindsphere Cloud Foundry | |  | Not vuln |  | | Although Cloud Foundry environment itself is not vulnerable, nevertheless it's recommended to upgrade log4j-core to the latest available version if log4j-core is part of your project | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | NX | all | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Opcenter EX CP Process Automation Control | >= V17.2.3 and < V18.1 | Not vuln | Workaround |  | | Update to V18.1 or later version to fix CVE-2021-44228 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Opcenter Intelligence | >= 3.2 | Not vuln | Workaround |  | | Only OEM version that ships Tableau is affected | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Operation Scheduler |  >= V1.1.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | RUGGEDCOM ELAN | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | RUGGEDCOM MAESTRO | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SENTRON powermanager V4 | V4.1, V4.2 |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SIGUARD DSA | V4.2, V4.3, V4.4 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SIMATIC WinCC V7.4 | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Simcenter 3D | <= V2022.1 |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINAMICS TEC - SDK | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINUMERIK Analyze MyWorkpiece / Capture | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SINUMERIK Optimize MyMachine | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SiPass Integrated | V2.80, V2.85 |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Command | >= 4.16.2.1 |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Control Pro | all | Not vuln | Fix |  | | Hotfix available for versions >= V2.1 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Control Pro | >= V2.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Identity | V1.5, V1.6 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Vantage | all |  | Vulnerable |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Siveillance Viewpoint | all |  | Vulnerable |  | | Only the legacy product Siveillance Viewpoint is affected. The successor product Siveillance Control is not affected | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SIZER Design Tool for SINAMICS | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge CAM Pro | all |  | Vulnerable |  | | All versions delivered with Solid Edge SE 2020 or later version | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge Technical Publication | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Solid Edge Harness Design | >= 2020 SP2002 | Not vuln | Workaround |  | | Only affected if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Spectrum Power 4 | all versions only with component jROS in version 3.0.0 | Not vuln | Fix |  | | Patch available for V4.70 SP9 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Spectrum Power 7 | all except < V2.30 SP2 without component jROS | Not vuln | Fix |  | | Patch available for V21Q4 | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | SPPA-T3000 SeS3000 Security Server | all | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-714170.pdf) |
-| Siemens     | Teamcenter | >= V13.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Active Workspace | >= V4.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Briefcase Browser | >= V13.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Data Share Manager | >= V13.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Deployment Center | >= V3.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Dispatcher Service | >= V11.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter EDA | >= V2.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter FMS | >= V11.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Integration for NX (TcIN) | <= NX 2007 | Not vuln | Workaround |  | | Also known as "NX Managed Mode" | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Integration Framework | <= 13.2 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter MBSE Gateway | >= 4.0 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Mendix Connector | V1.0 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Microservices Framework | >= 5.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Polarion Integration | >= 5.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Rapid Start | >= V13.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Reporting and Analytics | All versions based on Java SOA client >= V11.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Requirements Integrator | All versions based on Java SOA client >= V11.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Retail Footwear and Apparel | >= 4.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Security Services | >= V11.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Supplier Collaboration | >= V5.1 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter System Modeling Workbench | All versions based on Java SOA client >= V11.3 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Teamcenter Technical Publishing | >= V2.10 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | VeSys | >= 2019.1 SP1912 | Not vuln | Workaround |  | | Only vulnerable if Teamcenter integration feature is used | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | XHQ | |  | Not vuln |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Xpedition Enterprise | >= VX.2.6 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
-| Siemens     | Xpedition Package Integrator | >= VX.2.6 | Not vuln | Workaround |  | | | [source](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf) |
+| Siemens     | Affected Products | | | x | x | | See pdf for the complete list of affected products, CSAF for automated parsing of data | [pdf](https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf), [CSAF](https://cert-portal.siemens.com/productcert/csaf/ssa-661247.json) |
+| Siemens     | Affected Products | | | | | x | See pdf for the complete list of affected products, CSAF for automated parsing of data | [pdf](https://cert-portal.siemens.com/productcert/pdf/ssa-501673.pdf), [CSAF](https://cert-portal.siemens.com/productcert/csaf/ssa-501673.json) |
+| Siemens Energy  | Affected Products | | | x | x | | See pdf for the complete list of affected products, CSAF for automated parsing of data | [pdf](https://cert-portal.siemens.com/productcert/pdf/ssa-714170.pdf), [CSAF](https://cert-portal.siemens.com/productcert/csaf/ssa-714170.json) |
 | Sitecore    | Sitecore Content Hub | |  | Not vuln |  | | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
 | Sitecore    | Sitecore CDP | |  | Not vuln |  | | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
 | Sitecore    | Sitecore Personalize | |  | Not vuln |  | | | [source](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB1001391) |
