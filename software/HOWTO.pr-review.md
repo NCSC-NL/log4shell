@@ -26,8 +26,8 @@ We try to steer potential contributors to PRs over issues, because PRs guide con
 
 | Column              | Review criteria |
 |---------------------|-----------------|
-| Vendor              | MUST be correctly sorted wrt. other rows. |
-| Product             | MUST be correctly sorted wrt. other rows. SHOULD NOT start with the vendor name |
+| Vendor              | MUST be correctly alphabetically sorted with respect to other rows. |
+| Product             | MUST be correctly alphabetically sorted with respect to other rows. SHOULD NOT start with the vendor name |
 | Version             | MUST relate to the `Status` column: if `Status` is _Vulnerable_ or _Workaround_, `Version` indicates vulnerable version(s). If `Status` is _Fix_, `Version` indicates the version(s) in which the fix was introduced (no ranges). |
 | Status CVE-2021-XXX | MUST use a status value as listed in the table at the top of the document. Status _Fix_ requires a released `Version` that includes the fix, otherwise list it as _Workaround_. |
 | Links               | MUST refer to a vendor statement as the source for the row. This can either be a hyperlink to the vendor's website (in markdown-format \[link text\]\(https://example.org/url\)) or a hyperlink to an (provided) file in the `software/vendor-statements/` directory. URLs are preferred. Be sure to check any included vendor-statement files for the absence of personal data. |
