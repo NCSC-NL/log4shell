@@ -110,7 +110,7 @@ Detection can be split up to three phases:
 ### Overall JNDI detection regex
 
 ```plain
-\044%7B\\44{env:NOTHING:-j}\u0024{lower:N}\\u0024{lower:${upper:d}}}i:dns:/127.0.0.1:1389}
+{env:NOTHING:-j}\u0024{lower:N}\\u0024{lower:${upper:d}}}i:dns:/127.0.0.1:1389}
 ${${::-j}nd${upper:ı}:rm${upper:ı}://127.0.0.1:1389}
 ${${base64:JHtqbmRpOmxkYXA6YWRkcn0=}}
 ${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//127.0.0.1:1389}
@@ -133,6 +133,17 @@ ${${eh:wDUdos:jKY:-j}${xksV:Xgi:-n}${hNdb:SbmXU:goWgvJ:iqAV:Ux:-d}${MXWN:oOi:c:U
 Source: https://github.com/back2root/log4shell-rex
 
 RegEx101: https://regex101.com/r/KqGG3W/24
+
+### Deobfuscation method
+The following method can be used for deobfuscation:
+```
+sed -E -e 's/%24/\$/'g -e 's/%7B/{/'gi -e 's/%7D/\}/'gi -e 's/%3A/:/'gi -e 's/%2F/\//'gi -e 's/\\(\\*u0*|\\*0*)44/\$/'g -e 's/\\(\\*u0*|\\*0*)24/\$/'g -e 's/\$\{(lower:|upper:|::-)([^\}]+)\}/\2/'g -e 's/\$\{(lower:|upper:|::-)([^\}]+)\}\}/\2/'g -e 's/\$\{[^-$]+-([^\}]+)\}/\1/'g input.txt >> output.txt
+```
+Example:
+```
+${${::-j}nd${upper:ı}:rm${upper:ı}://127.0.0.1:1389} ->> ${jndı:rmı://127.0.0.1:1389}
+```
+Thanks and credits to Aholzol (https://github.com/aholzel).
 
 #### Caveats
 - Please note that due to nested resolution of `${...}` and multiple available obfuscation methods, this regular expression may not detect all forms of exploitation. It is impossible to write exhaustive regular expression.
