@@ -874,7 +874,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Citrix | Cloud Connector |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Connector Appliance for Cloud Services |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Content Collaboration (ShareFile Integration) |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
-| Citrix | Endpoint Management (XenMobile Server)  | 10.12 RP10, 10.13 RP5 and 10.14 RP2 | Not vuln | Fix |  | |  | [source](https://support.citrix.com/article/CTX335705) |
+| Citrix | Endpoint Management (XenMobile Server)  | 10.12 RP10, 10.13 RP5 and 10.14 RP2 | Not vuln | Fix | Fix | Investigation |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Files for Mac |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Files for Outlook |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Files for Windows |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
