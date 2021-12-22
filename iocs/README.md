@@ -18,6 +18,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | GovCert.ch | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/|
 | isc.sans.edu | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
 | cert-agid.gov.it (Contains scan IP's) | https://cert-agid.gov.it/download/log4shell-iocs.txt |
+| jamesspi (Contains scan IP's) | https://log4shell.threatsearch.io/ |
 | Nozomi Networks | https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/ |
 | NLD Police | https://thanksforallthefish.nl/log4j_hashes.txt (Thor format) Auto Updated every 15min |
 | NLD Police | https://thanksforallthefish.nl/log4j_hashes_sha256.txt (line-by-line)  Auto Updated every 15min |
@@ -29,34 +30,33 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 
 ## List of IoC's from security vendors
 
-| Note     | Links |
-|:----------------|:----------------|
-| Talos Intelligence  | https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html |
-| 360 Netlab  | https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnet |
-| 360 Netlab (Additional) | https://blog.netlab.360.com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/ |
-| Microsoft(Contains scan IP's) | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv |
-| RedDrip7 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
-| CrowdSec (Scan IP validation)| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
-| Cyble | https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/ |
-| Bad Packets (Contains scan IP's)| https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
-| NCC Group (Contains scan IP's) | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
-| Lacework | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
-| Securelist by Kaspersky | https://securelist.com/cve-2021-44228-vulnerability-in-apache-log4j-library/ |
-| RiskIQ (IP's contain scan IP's) | https://community.riskiq.com/article/57abbfcf/indicators |
-| Valtix | https://valtix.com/blog/log4shell-observations/ |
-| Infoblox | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
-| Orange Cyberdefense (IP's contain scan IP's) | https://github.com/Orange-Cyberdefense/log4shell_iocs
+| Note     | Date of Report | Link |
+|:----------------|:----------------|:----------------|
+| Talos Intelligence | Almost Daily | https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html |
+| 360 Netlab  | 11-12-2021 | https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/ |
+| 360 Netlab (Additional) | 13-12-2021 | https://blog.netlab.360.com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/ |
+| Microsoft(Contains scan IP's) | Almost Daily | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv |
+| RedDrip7 | 15-12-2021 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
+| CrowdSec (Scan IP validation)| Dynamically updated | https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
+| Cyble | 13-12-2021 | https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/ |
+| Fortinet | 21-12-2021 | https://www.fortinet.com/blog/threat-research/critical-apache-log4j-log4shell-vulnerability-what-you-need-to-know |
+| NCC Group (Contains scan IP's) | 12-12-2021 | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
+| Lacework | 12-12-2021 | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
+| Securelist by Kaspersky | 13-12-2021 | https://securelist.com/cve-2021-44228-vulnerability-in-apache-log4j-library/ |
+| RiskIQ (IP's contain scan IP's) | 13-12-2021 | https://community.riskiq.com/article/57abbfcf/indicators |
+| Valtix | 14-12-2021 | https://valtix.com/blog/log4shell-observations/ |
+| Infoblox | 13-12-2021 | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
+| Orange Cyberdefense (IP's contain scan IP's) | Almost Daily | https://github.com/Orange-Cyberdefense/log4shell_iocs |
 
 ## List of IoC's from Honeypot's
-| Note     | Links |
-|:----------------|:----------------|
-| GelosSnake  | https://twitter.com/GelosSnake/status/1469341429541576715 |
-| CronUp  | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets |
-| CronUp (2)  | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-19_MiraiLog4ShellWorm |
-| yt0ng  | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
-| eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
-| jamesspi | https://log4shell.threatsearch.io/ |
-| NOC.org | https://reputation.noc.org/jndi-attack-logs/ |
+| Note   | Date of Report | Threat  | Links |
+|:----------------|:----------------|:----------------|:----------------|
+| GelosSnake | 10-12-2021| Kinsing | https://twitter.com/GelosSnake/status/1469341429541576715 |
+| CronUp  | 13-12-2021 | Kinsing, Mirai, Muhstik | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets |
+| CronUp (2) | 19-12-2021 | Kinsing, Mirai | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-19_MiraiLog4ShellWorm |
+| yt0ng | 15-12-2021 | Muhstik, Monero Miner | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
+| eromang | 21-12-2021 | Backdoor.Ganiw.A, Mirai, Monero Miner | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
+| NOC.org | Dynamicly updated | Various | https://reputation.noc.org/jndi-attack-logs/ |
 
 
 ## Twitter IoC search tool
