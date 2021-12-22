@@ -2615,7 +2615,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | NVIDIA | CUDA Toolkit Nsight Eclipse Edition | 11.0 | Not Vuln | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | CUDA Toolkit Visual Profiler | 11.5 and Prior |  | Vulnerable | Vulnerable | | Updated CUDA Toolkit version available mid-January 2022 | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | NetQ | Versions 2.x, 3.x, and 4.0.x | | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | NetQ | 4.1.0 | | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | | Workaround | Workaround | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NXLog | NXLog Manager |  5.x |  | Not vuln |  | | |                                                                                                                                                                                                                     [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228) |
 
