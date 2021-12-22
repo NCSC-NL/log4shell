@@ -1,23 +1,38 @@
-# Log4j Vulnerability (CVE-2021-44228)
+# Log4shell vulnerabilities (CVE-2021-44228, CVE-2021-45046, CVE-2021-4104, CVE-2021-45105)
 
-This repo contains operational information regarding the vulnerability in the Log4j logging library (CVE-2021-44228). For additional information see:
+This repo contains operational information regarding the Log4shell vulnerability in the Log4j logging library. 
+Especially CVE-2021-44228 / CVE-2021-45046 and also covers CVE-2021-4104 / CVE-2021-45105. For additional information see:
 
 * [NCSC-NL advisory](https://www.ncsc.nl/actueel/advisory?id=NCSC-2021-1052)
 * [MITRE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
+* [CSIRT network members advisories](https://github.com/enisaeu/CNW/tree/main/log4shell)
+* [Log4shell vulnerability overview](https://github.com/NCSC-NL/log4shell/blob/main/log4shell_en.png)
 
 ## Repository contents
 
 | Directory                          | Purpose |
 |:-----------------------------------|:--------|
+| [hunting](hunting/README.md)       | Contains info regarding hunting for exploitation |
 | [iocs](iocs/README.md)             | Contains any Indicators of Compromise, such as scanning IPs, etc |
-| [mitigation](mitigation/README.md) | Contains info regarding mitigation, such as regexes for detecting scanning activity and more |
+| [detection & mitigation](detection_mitigation/README.md)   | Contains info regarding detection and mitigation, such as regexes for detecting scanning activity and more |
 | [scanning](scanning/README.md)     | Contains references to methods and tooling used for scanning for the Log4j vulnerability |
 | [software](software/README.md)     | Contains a list of known vulnerable and not vulnerable software |
+| [tools](tools/README.md)           | Contains a list of tools for automatically parsing info on this repo |
 
 **Please note that these directories are not complete, and are currently being expanded.**
 
 **NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.**
 
-## Pull request welcome
+## Contributions welcome
 
-If you have any additional information to share relevant to the Log4j vulnerability, please feel free to open a Pull request.
+If you have any additional information to share relevant to the Log4j vulnerability, please feel free to open a Pull request. New to this? [Read how to contribute in GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository).
+
+### Thank you
+
+Dear contributors, partners all over the world,
+
+We have received an impressive/enormous number of pull requests on this repo. It contains vital information that contributes to the situational overview around the Log4j vulnerability. The list of vulnerable applications is currently one of the most up-to-date ones with continuous input from across the globe. It is still expanding and we are working hard to process all the contributions. 
+
+Due to our joint efforts and strong cooperation we are confident that we will be better equipped to manage this situation.
+
+Thank you all very much for your hard work and we keep welcoming your input via GitHub. 
