@@ -1310,10 +1310,11 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
-|F5| All products | |  | Not vuln |  | | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
-| Fiix | CMMS core | V5  | Not vuln | Fix |  | | | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
-|FileCap| FileCap Server | 5.1.1 | Not vuln | Fix |  | | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
-|FileCap| FileCap Plugins || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
+| F5     | All products | |  | Not vuln |  | | F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
+| FEDEX | Ship Manager | 3509 | Not vuln |  Not vuln |  Not vuln | Vulnerable | Fedex Ship Manager version 3510 scheduled for release 1/24/2022 with Log4j ver 2.17 | direct msg to rep |
+| Fiix      | CMMS core | V5  | Not vuln | Fix |  | | | [source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605) |
+| FileCap   | FileCap Server | 5.1.1 | Not vuln | Fix |  | | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
+| FileCap   | FileCap Plugins || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 | FileZilla | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://forum.filezilla-project.org/viewtopic.php?f=6&t=54338)|
 |Forcepoint |Advanced Malware Detection                                                           || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Behavioral Analytics                                                                 ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
@@ -2446,7 +2447,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Meinberg | microSync | all |  | Not vuln |  | | | [source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535) |
 | Memurai | All products | |  | Not vuln |  | | | [source](https://www.memurai.com/blog/apache-log4j2-cve-2021-44228) |
 | messageconcept | PeopleSync |  All | Not vuln | Not vuln | Not vuln | Not vuln |  |[source](https://messageconcept.atlassian.net/wiki/spaces/PSKB/pages/2139095041/Is+PeopleSync+affected+by+Log4Shell) |
-| Metabase  | Metabase                         | <0.41.4 | Not vuln | Fix |  | | Mitigations available for earlier versions                                                                | [source](https://github.com/metabase/metabase/releases/tag/v0.41.4)                                                                                                                                                                                                        |
+| Metabase  | Metabase | <0.41.4 | Not vuln | Fix |  | | Mitigations available for earlier versions | [source](https://github.com/metabase/metabase/releases/tag/v0.41.4) |
 | Micro Focus | ArcSight ESM                   | 7.2, 7.5 |  | Vulnerable |  | | | [source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228) |
 | Micro Focus | ArcSight Logger                | 7.2 and above |  | Vulnerable |  | | | [source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228) |
 | Micro Focus | ArcSight Recon                 | All Versions |  | Vulnerable |  | | | [source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228) |
@@ -3333,8 +3334,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | TOPdesk | TOPdesk On-Premises Classic | all |  | Not vuln |  | | Although the standard product is not vulnerable, we advise our customers to scan for vulnerabilies if they modified the product, installed add-ons or bespoke work | [source](vendor-statements/TOPdesk.png) |
 | Topicus Security | Topicus KeyHub | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://blog.topicus-keyhub.com/topicus-keyhub-is-not-vulnerable-to-cve-2021-44228/) |
 | Tosibox | All products | | Not vuln | Fix |  | | | [source](https://helpdesk.tosibox.com/support/solutions/articles/2100050946-security-advisory-on-vulnerability-in-apache-log4j-library-cve-2021-44228)|
-| TP-Link | Omada SDN Controller (Windows)  | 5.0.29 | Not vuln | Fix |  | | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
-| TP-Link | Omada SDN Controller (Linux) | 4.4.8 | Not vuln | Fix |  | | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
+| TP-Link | Omada SDN Controller (Windows)  | 5.0.29 | Not vuln | Fix | Fix | | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
+| TP-Link | Omada SDN Controller (Linux) | 4.4.8 | Not vuln | Fix | Fix | | |[source](https://community.tp-link.com/en/business/forum/topic/514452) |
 | Trend Micro | 5G Mobile Network Security  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | ActiveUpdate  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Apex Central (including as a Service)  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
