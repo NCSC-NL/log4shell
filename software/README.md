@@ -2688,6 +2688,22 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | OVHCloud       | Hosted Private Cloud powered by VMware                                             |  |  | Vulnerable |  | | Deploying the workarounds provided by VMWare   | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/) |
 | OVHCloud       | ML serving                                             |                           | Not vuln | Fix |  | |                                                    | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)                                                                                                         |
 | OVHCloud       | OVHcloud Internal Systems                                             |                           | Not vuln | Investigation |  | |                                                    | [source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)                                                                                                         |
+| OxygenXML       | Author | 16.1-24.0 |  | Fix |  |  | Fixed in 24.0 build 2021121518, 23.1 build 2021121415, 22.1 build 2021121715 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Batch Document Converter | <3.2.0 |  | Fix |  |  | Fixed in 3.2.1 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Content Fusion | 2.0-4.1 |  | Fix |  |  | Fixed in 4.1 build 2021121611, 3.0.1 build 2021121414, 2.0.3 build 2021121417 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Developer | 16.1-24.0 |  | Fix |  |  | Fixed in 24.0 build 2021121518, 23.1 build 2021121415, 22.1 build 2021121715 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Editor | 16.1-24.0 |  | Fix |  |  | Fixed in 24.0 build 2021121518, 23.1 build 2021121415, 22.1 build 2021121715 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Feedback Enterprise | < 1.4.4 |  | Fix |  |  | Fixed in 1.4.5 build 2021121314 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Git Client | < 3.0.0 |  | Fix |  |  | Fixed in 3.2.1 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | License Server | 22.1-24.0 |  | Fix |  |  | Fixed in 24.0 build 2021121311 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | PDF Chemistry | 22.1-24.0 |  | Fix |  |  | Fixed in 24.0 build 2021121611, 23.1 build 2021121413, 22.1 build 2021121712 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Publishing Engine | 22.1-24.0 |  | Fix |  |  | Fixed in 24.0 build 2021121611, 23.1 build 2021121413, 22.1 build 2021121712 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | SDK | 22.1-24.0 |  | Fix |  |  | Fixed in 24.0.0.2, 23.1.0.4, 22.1.0.6 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Web Author | 22.1-24.0 |  | Fix |  |  | Fixed in 24.0.0 build 2021121314, 23.1.1.2 build 2021121408, 22.1.0.4 build 2021121415 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Web Author PDF Plugin | 23.0.0.0-24.0.0.0 |  | Fix |  |  | Fixed in 24.0.0.1, 23.1.1.2 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | Web Author Test Server Add-on | 22.1.0-24.0.0 |  | Fix |  |  | Fixed in 24.0.1, 23.1.2, 22.1.1 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | WebHelp | 22.1-24.0 |  | Fix |  |  | Fixed in 24.0 build 2021121511, 23.1 build 2021121412, 22.1 build 2021121712 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
+| OxygenXML       | XSD to JSON Schema Converter | 22.0-24.0 |  | Fix |  |  | Fixed in 24.0.1, 23.1.2, 22.1.1 | [source](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) |
 
 ### P
 
