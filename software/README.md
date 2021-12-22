@@ -268,6 +268,12 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Barco          | OpSpace | 1.8 - 1.9.4.1 | Not vuln | Fix | Vulnerable | Vulnerable | | [source](https://www.barco.com/en/support/knowledge-base/KB12493) |
 | Barco          | Other products | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.barco.com/en/support/knowledge-base/KB12495) |
 | Basis Technology | Autopsy | 4.18.0 onwards | Not vuln | Workaround |  | | version 4.18.0 onwards use Apache Solr 8 | [source](https://www.autopsy.com/autopsy-and-log4j-vulnerability) |
+| BCT            | BerichtenCentrale (BCE) & Integrations | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
+| BCT            | CORSA | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
+| BCT            | e-Invoice | 2.10.210 | Not vuln | Fix | Fix | Fix | Details are shared on BCT portal. | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
+| BCT            | IDT | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
+| BCT            | iGEN | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
+| BCT            | LIBER | 1.125.3 | Not vuln | Fix | Fix | Not vuln | Details are shared on BCT portal. | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
 | Belden | all Hirschmann networking devices and software tools | |  | Not vuln |  |  | Hirschmann is a brand of Belden | [source](https://hirschmann-support.belden.com/file.php/18672XKMWSCRYGG186719202C5BA4/Hirschmann_Statement_Log4j_Vulnerability_Dec2021.pdf) |
 | Bender GmbH und Co. KG | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.bender.de/en/cert) |
 | B. Braun       | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b-braun-statement-on-Apache_Log4j.html) |
