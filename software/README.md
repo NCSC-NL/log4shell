@@ -3067,6 +3067,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Ruckus          | SmartZone 300 (SZ-300) | 5.1 to 6.0 |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 | Ruckus          | Unleashed |  |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 | Ruckus          | Virtual SmartZone (vSZ) | 5.1 to 6.0 |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
+| RuneCast        | RuneCast Analyzer | < 6.0.4 | Not vuln | Fix | Fix | Fix | CVE-2021-44228 was Fixed in 6.0.1.0 later patches fix CVE-2021-45046, CVE-2021-45105 | [source](https://www.runecast.com/release-notes) |
 
 ### S
 
