@@ -278,19 +278,133 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Belden | all Hirschmann networking devices and software tools | |  | Not vuln |  |  | Hirschmann is a brand of Belden | [source](https://hirschmann-support.belden.com/file.php/18672XKMWSCRYGG186719202C5BA4/Hirschmann_Statement_Log4j_Vulnerability_Dec2021.pdf) |
 | Bender GmbH und Co. KG | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.bender.de/en/cert) |
 | B. Braun       | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b-braun-statement-on-Apache_Log4j.html) |
-| BD             | Arctic Sun Analytics | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | Diabetes Care App Cloud | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | HealthSight Clinical Advisor | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | HealthSight Data Manager | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | HealthSight Diversion Management | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | HealthSight Infection Advisor | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | HealthSight Inventory Optimization Analytics | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | HealthSight Medication Safety | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | Knowledge Portal for Infusion Technologies | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | Knowledge Portal for Medication Technologies | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | Knowledge Portal for BD Pyxis Supply | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | Synapsys Informatics Solution | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
-| BD             | Veritor COVID At Home Solution Cloud | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j) |
+| BD | Alaris™CCPlusGuardrails™SyringePump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ CC Plus Syringe Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Enteral Plus Syringe Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Gateway Workstation| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ GP Plus Guardrails™ Volumetric Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ GP Plus Volumetric Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ PK Plus Syringe Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Technical Utility (ATU)| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ TiVA Syringe Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ VP Plus Guardrails™ Volumetric Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Accuri™ C6 Plus| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Auto-ID Module Model| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Communications Engine| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ CQI Event Reporter| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Guardrails™ Editor| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Infusion Central| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ neXus CC Syringe Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ neXus Editor v5.0| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ neXus GP Volumetric Pump| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ PCA Module Model 8120| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Plus Editor| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Point-of-Care Software| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Point-of-Care Unit (PCU) Model 8015| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Pump Module Model 8100| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Syringe Module Model 8110| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ System Maintenance| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Alaris™ Systems Manager| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Arctic Sun™ 5000 Temperature Management System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Arctic Sun™ 6000 Stat Temperature Management System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Assurity Linc™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | BACTEC™ 9050/9120/9240| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | BACTEC™ FX| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | BACTEC™ FX40| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | BACTEC™ MGIT™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Care Coordination Engine (CCE)| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Cato™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | COR™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | EpiCenter™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSAria™ Fusion| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSAria™ II| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSAria™ III| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSCanto™ 10-color| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSCanto™ 10-color clinical| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSCanto™ II (w Diva 9.0)| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSCanto™ II clinical| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSCelesta™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSDuet™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSLink™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSLyric™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSMelody™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSPresto™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACS™ Lyse Wash Assistant| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACS™ Sample Prep Assistant (SPA) III| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACS™ Workflow Manager| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSVia™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSymphony™ A1| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSymphony™ A3 / A5| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FACSymphony™ S6| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FocalPoint™ APPS instrument| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FocalPoint™ APPS workstation| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FocalPoint™ LLS/SLS/GSRS| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | HD Check system| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Intelliport™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Intelliport™ Medication Management System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Kiestra™ InoqulA| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Kiestra™ InoqulA+| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | MAX™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Phoenix™ 100| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Phoenix™ AP| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Phoenix™ M50| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Prevue™ II Peripheral Vascular Access System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Probetec™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ Anesthesia Station 4000| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ Anesthesia Station ES| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ CIISafe™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ CUBIE™ System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ ES System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ IV Prep| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ Logistics (Pyxis™ Pharmogistics™)| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ Med Link Queue & Waste| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ MedBank| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ MedStation™ 4000 System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ MedStation™ ES| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ Order Viewer| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ ParAssist| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ PARx™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ PharmoPack™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ ReadyMed| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ SupplyStation™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ Tissue & Implant Management System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Pyxis™ Track and Deliver| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Remote Support Services (RSS)| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Rhapsody™ Single-Cell Analysis System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Rowa™ - Dose (Windows 10 platform)| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Rowa™ - Dose (Windows 7 Workstations only)| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Rowa™ - ProLog| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Rowa™ - Smart| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Rowa™ - Vmax| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Rowa™ Pouch Packaging Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Sensica™ Urine Output System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Site~Rite™ 8 Ultrasound Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Totalys™ DataLink| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Totalys™ Multiprocessor| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Totalys™ SlidePrep| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Veritor™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Viper™ LT| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Viper™ XTR™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | ® LSR II| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | ® Research Cloud| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | CoreLite| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | EnCor Enspire® Breast Biopsy System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | EnCor Ultra® Breast Biopsy System| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FlowJo™ Portal| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | FlowJo™ Software| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Influx™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | LSRFortessa™| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | LSRFortessa™ X-20| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | PleurX| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | QUANTAFLO™ Peripheral Arterial Disease Test| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Restock Order| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | SeqGeq™ Software| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Sherlock 3CG™ Standalone Tip Confirmation Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Site~Rite Prevue® PICC Ultrasound Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Site~Rite Prevue® Plus Ultrasound Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+| BD | Specimen Collection Verification| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+![image](https://user-images.githubusercontent.com/96186424/147099817-d24b696b-aa5c-490a-b275-e22305c07706.png)
+
 | BeyondTrust    | Privilege Management Cloud | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
 | BeyondTrust    | Privilege Management Reporting | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
