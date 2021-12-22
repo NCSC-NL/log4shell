@@ -143,7 +143,7 @@ Example:
 ```
 ${${::-j}nd${upper:ı}:rm${upper:ı}://127.0.0.1:1389} ->> ${jndı:rmı://127.0.0.1:1389}
 ```
-Thanks and credits to Aholzol (https://github.com/aholzel).
+Thanks and credits to Aholzel (https://github.com/aholzel).
 
 #### Caveats
 - Please note that due to nested resolution of `${...}` and multiple available obfuscation methods, this regular expression may not detect all forms of exploitation. It is impossible to write exhaustive regular expression.
