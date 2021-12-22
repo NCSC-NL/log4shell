@@ -2612,7 +2612,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Nutanix | Volumes | All | Not vuln | Not vuln | Not vuln | Vulnerable | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Witness VM | All | Not vuln | Workaround | Workaround | Vulnerable | | [source](https://portal.nutanix.com/kb/12491) |
 | Nutanix | X-Ray | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
-| NVIDIA | CUDA Toolkit Nsight Eclipse Edition | <11.0 | Not Vuln | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | CUDA Toolkit Nsight Eclipse Edition | 11.0 | Not Vuln | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | CUDA Toolkit Visual Profiler | 11.5 and Prior |  | Vulnerable | Vulnerable | | Updated CUDA Toolkit version available mid-January 2022 | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | NetQ | Versions 2.x, 3.x, and 4.0.x | | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
