@@ -2195,6 +2195,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Jamf Nation | Jamf Protect | Unknown |  | Not vuln |  | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jamf Nation | Jamf School| Unknown |  | Not vuln |  | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 | Jamf Nation | Jamf Threat Defense| Unknown |  | Not vuln |  | | | [source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
+| Java Melody | Java Melody | 1.90.0 | Unkown | Fix | Fix | Unknown | | [source](https://github.com/javamelody/javamelody/wiki/ReleaseNotes)
 | Jazz/IBM | JazzSM DASH | Unknown |  | Workaround |  | | DASH on WebSphere Application Server requires mitigations | [source](https://www.ibm.com/support/pages/node/6525552) |
 | Jenkins | Jenkins CI | Unknown |  | Not vuln |  | | Invidivual plugins not developed as part of Jenkins core *may* be vulnerable. | [source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) |
 | JetBrains | IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm) | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/) |
