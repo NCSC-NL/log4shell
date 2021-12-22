@@ -1273,6 +1273,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Exact | All Products | | Not vuln | Not vuln | Not vuln | Not vuln | | [source NL](https://www.exact.com/nl/nieuws/algemeen-statement-apache-lek), [source EN](https://www.exact.com/news/general-statement-apache-leak) |
 | Evolveum | midPoint || Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/) |
 | Extensis | Universal Type Server | =>7.0.6 | Not vuln | Fix |  | | |[source](https://help.extensis.com/hc/en-us/articles/4412767414299-Universal-Type-Server-7-and-Log4j-vulnerabilities)  |
+| ExtraHop      | EXA Sensors | < 8.4.7, 8.5-8.5.4, 8.6-8.6.5, | Not vuln | Fix | Not vuln |  | Fixed in 8.7, 8.6.5, 8.5.4. 8.4.7 | [source](https://forums.extrahop.com/t/extrahop-update-on-log4shell/8148/4) |
 | eXtreme Hosting | All products | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://extremehosting.nl/log4shell-log4j/) |
 | Extreme Networks | 200-series ||  | Investigation |  | |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
 | Extreme Networks | BOSS || Not vuln | Not vuln | Not vuln | Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
