@@ -2953,6 +2953,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Redis | Redis Enterprise & Open Source | all |  | Not vuln |  | | Redis Enterprise and Open Source Redis (self-managed software product) does not use Java and is therefore not impacted by this vulnerability | [source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/) |
 | ResMed | AirView | |  | Not vuln |  | | | [source](https://www.resmed.com/en-us/security/) |
 | ResMed | myAir | |  | Not vuln |  | | | [source](https://www.resmed.com/en-us/security/) |
+| Revenera | FlexNet Publisher 64-bit License Server Manager | |  | Vulnerable |  | Vulnerable | | [source](https://community.flexera.com/t5/FlexNet-Publisher-Knowledge-Base/CVE-2021-44228-amp-CVE-2021-45105-Log4j-vulnerability-impact-on/ta-p/217384) |
 | Ricoh | Commercial & Industrial Printing - Garment Printers | |  | Not vuln |  | | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
 | Ricoh | Commercial & Industrial Printing - Production Printers | |  | Investigation |  | | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
 | Ricoh | Office Products - Digital Duplicators | |  | Not vuln |  | | | [source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/) |
