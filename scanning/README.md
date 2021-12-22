@@ -52,17 +52,16 @@ Checks if the application or system is using Log4j2.
 | DIVD | This scanner will recursively scan paths including archives for vulnerable log4j versions and JndiLookup.class files. |https://github.com/dtact/divd-2021-00038--log4j-scanner |
 | Forescout | Samples of exploit attempts; The evolving Log4Shell story: analysis of ongoing and future exploits | https://github.com/Forescout/log4j_response |
 | GoHoyer[^2] | Bash script to detect vulnerable log4j-2 jar files | https://gist.github.com/gohoyer/9a40d8e0e46c4c78c99cc9d5e9adc5aa |
-| JFrog[^3] | Detects files containing vulnerable Log4j versions and also scans for locations in code where log4j 2 is called. | https://github.com/jfrog/log4j-tools |
-| Kelvin Tegelaar[^4] | Open sourced(MIT license) PowerShell log4j detection. Uses "Everything" to prevent high system load | https://www.cyberdrain.com/monitoring-with-powershell-detecting-log4j-files/ |
+| JFrog | Detects files containing vulnerable Log4j versions and also scans for locations in code where log4j 2 is called. | https://github.com/jfrog/log4j-tools |
+| Kelvin Tegelaar[^3] | Open sourced(MIT license) PowerShell log4j detection. Uses "Everything" to prevent high system load | https://www.cyberdrain.com/monitoring-with-powershell-detecting-log4j-files/ |
 | Mergebase | Detects vulnerable Log4J versions on your file-system. It is able to find instances that are hidden several layers deep. Linux/Windows/Mac | https://github.com/mergebase/log4j-detector |
 | NCCgroup  | Version hashes (MD5, SHA1 and SHA256) for log4j2 versions| https://github.com/nccgroup/Cyber-Defence/tree/master/Intelligence/CVE-2021-44228 |
-| Neo23x0[^5]   | Florian Roth Log4j2 detection script | https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b |
-| sp4ir[^6]     | Powershell script to detect Log4Shell| https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1 |
+| Neo23x0[^4]   | Florian Roth Log4j2 detection script | https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b |
+| sp4ir[^5]     | Powershell script to detect Log4Shell| https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1 |
 | Syft | Open source SBOM scanner, can detect all dependencies including log4j | https://github.com/anchore/syft/ |
 
 [^1]: Only scans filenames, does not search for vulnerable JndiLookup.class, does not scan nested Java archives, does not scan .war and .ear files.
 [^2]: Only scans filenames, does not scan nested Java archives, does not scan .war and .ear files.
-[^3]: Does not scan nested war files, does not scan .ear files.
-[^4]: Does not scan nested Java archives, does not scan .war and .ear files.
-[^5]: Windows and Linux scripts are limited and do not scan nested java archives.
-[^6]: Only scans filenames, does not scan nested Java archives, does not scan .war and .ear files.
+[^3]: Does not scan nested Java archives, does not scan .war and .ear files.
+[^4]: Windows and Linux scripts are limited and do not scan nested java archives.
+[^5]: Only scans filenames, does not scan nested Java archives, does not scan .war and .ear files.
