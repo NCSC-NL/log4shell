@@ -39,13 +39,14 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | RedDrip7 | 15-12-2021 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
 | CrowdSec (Scan IP validation)| Dynamically updated | https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
 | Cyble | 13-12-2021 | https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/ |
+| Fortinet | 21-12-2021 | https://www.fortinet.com/blog/threat-research/critical-apache-log4j-log4shell-vulnerability-what-you-need-to-know |
 | NCC Group (Contains scan IP's) | 12-12-2021 | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
 | Lacework | 12-12-2021 | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
 | Securelist by Kaspersky | 13-12-2021 | https://securelist.com/cve-2021-44228-vulnerability-in-apache-log4j-library/ |
 | RiskIQ (IP's contain scan IP's) | 13-12-2021 | https://community.riskiq.com/article/57abbfcf/indicators |
 | Valtix | 14-12-2021 | https://valtix.com/blog/log4shell-observations/ |
 | Infoblox | 13-12-2021 | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
-| Orange Cyberdefense (IP's contain scan IP's) | Almost Daily | https://github.com/Orange-Cyberdefense/log4shell_iocs
+| Orange Cyberdefense (IP's contain scan IP's) | Almost Daily | https://github.com/Orange-Cyberdefense/log4shell_iocs |
 
 ## List of IoC's from Honeypot's
 | Note   | Date of Report | Threat  | Links |
