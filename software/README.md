@@ -2624,8 +2624,11 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Nutanix | Volumes | All | Not vuln | Not vuln | Not vuln | Vulnerable | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
 | Nutanix | Witness VM | All | Not vuln | Workaround | Workaround | Vulnerable | | [source](https://portal.nutanix.com/kb/12491) |
 | Nutanix | X-Ray | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf) |
-| NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix |  | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | Not vuln | Workaround |  | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | CUDA Toolkit Nsight Eclipse Edition | 11.0 | Not Vuln | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | CUDA Toolkit Visual Profiler | 11.5 and Prior |  | Vulnerable | Vulnerable | | Updated CUDA Toolkit version available mid-January 2022 | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix | Fix | Fix | Updates can be installed through the package manager | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | NetQ | 4.1.0 | | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | | Workaround | Workaround | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NXLog | NXLog Manager |  5.x |  | Not vuln |  | | |                                                                                                                                                                                                                     [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228) |
 
 ### O
@@ -3584,7 +3587,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | VMware       | Workspace ONE Access   | 21.x, 20.x | Not vuln | Workaround |  | |  | [source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html), [workaround](https://kb.vmware.com/s/article/87090) |
 | VMware       | Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Not vuln | Workaround |  | |   | [source](https://kb.vmware.com/s/article/87068), [workaround](https://kb.vmware.com/s/article/87091)|
 | Vuze         | Vuze Torrent (desktop/server/mobile) | Revision 44261 |  | Investigation |  | | Also know as Azureus | [source](http://svn.vuze.com/public/client/trunk/uis/lib/), [vendor](https://www.vuze.com/) |
-| Vyaire medical | All |  |  | Not vuln |  | |  | [source](https://www.vyaire.com/product-security) |
+| Vyaire medical | All |  |  | Not Vuln | | | | [source](https://www.vyaire.com/product-security) |
+| Vyaire medical | Mirth Connect |  | Vulnerable | Not Vuln | Not Vuln | Not Vuln | Mirth Connect does not make use of the vulnerable JMSAppender in its Log4j configuration by default. | [source](https://www.vyaire.com/product-security) |
 
 ### W
 
