@@ -212,7 +212,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Apache        | JSPWiki | 2.11.1 | Not vuln | Fix |  | | |[source](https://jspwiki-wiki.apache.org/Wiki.jsp?page=Log4J-CVE-2021-44228) |
 | Apache        | Kafka | All versions | Workaround | Not vuln | Not vuln | Not vuln | Uses Log4j 1.2.17 | [source](https://kafka.apache.org/cve-list) |
 | Apache        | Karaf | Unknown |  | Vulnerable |  | | Depends on [PAX logging](https://github.com/ops4j/org.ops4j.pax.logging/issues/414) which is affected |[source](https://mail-archives.apache.org/mod_mbox/karaf-dev/202112.mbox/browser) |
-| Apache        | Log4j | 2.16.0 | Not vuln | Fix |  | | |[source](https://logging.apache.org/log4j/2.x/security.html) |
+| Apache        | Log4j 2 | 2.3.1,<br>2.12.3,<br>2.17.0 | Not vuln | Fix | Fix | Fix | |[source](https://logging.apache.org/log4j/2.x/security.html) |
 | Apache        | Maven | All Versions |  | Not vuln |  | |  |[source](https://blogs.apache.org/security/entry/cve-2021-44228) |
 | Apache        | NiFi | All Versions| Not vuln | Fix |  | | Fixed in 1.15.1, 1.16.0 | [source](https://issues.apache.org/jira/browse/NIFI-9474) |
 | Apache        | OFBiz | < 18.12.03 | Not vuln | Fix |  | | Fixed in 18.12.03 | [source](https://blogs.apache.org/security/entry/cve-2021-44228) |
