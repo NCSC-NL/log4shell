@@ -2939,6 +2939,10 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
+| Rapid7         | InsightOps DataHub | < 2.0.1 |  | Fix |  |  | Fixed in 2.0.1 | [source](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/), [Fix](https://docs.rapid7.com/insightops/setting-up-datahub/) |
+| Rapid7         | InsightOps r77insight_java Logging Libary | < 3.0.9 |  | Fix |  |  | Fixed in 3.0.9 | [source](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/) |
+| Rapid7         | Logentries DataHub | < 1.21.0.822 |  | Fix |  |  | Fixed in 1.2.0.822 | [source](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/), [Windows Fix](https://docs.logentries.com/docs/datahub-windows), [Linux Fix](https://docs.logentries.com/docs/datahub-linux) |
+| Rapid7         | Logentries le_java Logging Libary | All |  | Vulnerable |  |  | Migrate to v3.0.9 of r7insight_java | [source](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/) |
 | Red Hat         | A-MQ Clients 2 |  |  | Not vuln |  | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat build of Quarkus |  |  | Not vuln |  | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat CodeReady Studio 12 |  |  | Vulnerable |  | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
