@@ -23,5 +23,5 @@ jobs:
         if: env.GIT_DIFF
       - name: Check table
         # Check only added lines
-        run: python3 ./github/check_valid.py diff.log
+        run: python3 .github/check_valid.py diff.log
         if: env.GIT_DIFF
