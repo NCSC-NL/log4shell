@@ -24,6 +24,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Northwave Security | Northwave Log4j CVE-2021-44228 checker Powershell version | https://github.com/crypt0jan/log4j-powershell-checker |
 | OlafHaalstra | Scans a list of URLs with `GET` or `POST` request with user defined parameters (python) | https://github.com/OlafHaalstra/log4jcheck |
 | ProferoSec | Scans network or IP address for Log4j vulnerability by making callback to scanning host | https://github.com/proferosec/log4jScanner |
+| Qualys | Local scanner to check for CVE-2021-4104, CVE-2021-44228, CVE-2021-45046 and CVE-2021-45105 | https://github.com/Qualys/log4jscanwin
 | righel |  Nmap NSE script to inject jndi payloads with customizable templates into HTTP targets | https://github.com/righel/log4shell_nse |
 | silentsignal | Log4Shell scanner for Burp Suite | https://github.com/silentsignal/burp-log4shell |
 | Trendmicro | Online Log4j tester Trendmicro | https://log4j-tester.trendmicro.com/ |
