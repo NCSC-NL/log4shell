@@ -14,7 +14,8 @@ jobs:
         with:
           FILES: software/README.md
       - name: Download current version
-        run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md        
+        run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md 
+        if: env.GIT_DIFF
       - name: Create diff log
         run: git diff software/README.md README_main.md > diff.log
         if: env.GIT_DIFF
