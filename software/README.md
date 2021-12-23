@@ -68,11 +68,11 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Acronis       | Backup | 11.7 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Cyber Backup | 12.5 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Cyber Files | 8.6.2 onwards | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
-| Acronis       | Cyber Infrastructure | 3.5 and 4.x | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
-| Acronis       | Cyber Protect  | 15 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
-| Acronis       | Cyber Protection Home Office | 2017 onwards | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
-| Acronis       | DeviceLock DLP | 9.0 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
-| Acronis       | Files Connect | 10.7 onwards | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
+| Acronis       | Cyber Infrastructure | 3.5 and 4.x | Not vuln | X | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
+| Acronis       | Cyber Protect  | 15 | Not vuln | Not vuln | Investigate | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
+| Acronis       | Cyber Protection Home Office | 2017 onwards | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) 
+| Acronis       | DeviceLock DLP | 9.0 | Not Vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
+| Acronis       | Files Connect | 10.7 onwards | ANY | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) ||
 | Acronis       | MassTransit | 8.1 and 8.2 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Snap Deploy | 5 and 6 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acunetix | 360 | All |  | Not vuln |  | | | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
