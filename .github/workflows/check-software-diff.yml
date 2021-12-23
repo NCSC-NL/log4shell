@@ -15,6 +15,8 @@ jobs:
       - name: Create diff log
         run: git diff ${FROM}${DOT}${TO} > diff.log
         if: env.GIT_DIFF
+      - name: Get pwd and list files
+        run: pwd && ls -la
       - name: Print diff
         # Print diff
         run: cat diff.log
