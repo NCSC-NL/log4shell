@@ -1276,7 +1276,42 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | estos            | All products | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.estos.de/de/sicherheitshinweise/estos-von-kritischer-schwachstelle-in-log4j-cve-2021-44228-nicht-betroffen) |
 | EVL Labs | JGAAP | <8.0.2 | Not vuln | Fix |  | | | [source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2) |
 | Exivity | Exivity On-Premise | All version |  | Not vuln |  | | | [source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228) |
-| Exact | All Products | | Not vuln | Not vuln | Not vuln | Not vuln | | [source NL](https://www.exact.com/nl/nieuws/algemeen-statement-apache-lek), [source EN](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | AEC | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Audition | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | BoekhoudGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Bouw7 | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Business Suite | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | CommunicatieGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Consolidation powered by LucaNet |  | Not vuln | Workaround | Workaround | Workaround |  | [source](https://customer.lucanet.com/en/lp/log4j) |
+| Exact | Digipoort | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | DigitaleFactuur | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Dimoni | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | EDI Gateway | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Financials | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | FDS | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | FiscaalGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Globe Core product | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Globe E-report/Crystal Reports | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Go2UBL | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Gripp | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | HR & SalarisGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | insights (Qlik) | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Officient | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Online All core products | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Online Elastic Search | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Online Samenwerken (OSW) | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Payroll Plus (Loket) | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | ProAcc | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | ProQuro | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | RapportageGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Reeleezee | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | ScanSys | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | SRXP | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Synergy Core product | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Synergy Elastic Search | 6.6.2 | Not vuln | Workaround | Workaround | Workaround |  | [source](https://www.exactsoftware.com/docs/DocView.aspx?DocumentID={dd0c8eb3-88b3-473e-822c-54dc54a81aff}) |
+| Exact | WerkprogrammaGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Winbooks | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | WMS | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
 | Evolveum | midPoint || Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/) |
 | Extensis | Universal Type Server | =>7.0.6 | Not vuln | Fix |  | | |[source](https://help.extensis.com/hc/en-us/articles/4412767414299-Universal-Type-Server-7-and-Log4j-vulnerabilities)  |
 | eXtreme Hosting | All products | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://extremehosting.nl/log4shell-log4j/) |
