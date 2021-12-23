@@ -3267,7 +3267,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Ruckus          | SmartZone 300 (SZ-300) | 5.1 to 6.0 |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 | Ruckus          | Unleashed |  |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 | Ruckus          | Virtual SmartZone (vSZ) | 5.1 to 6.0 |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
-| RuneCast        | RuneCast Analyzer | 6.0.4 | Not vuln | Fix | Fix | Fix |  | [source](https://www.runecast.com/release-notes) |
+| RuneCast | RuneCast Analyzer | 6.0.4 | Not vuln | Fix | Fix | Fix | | [source](https://www.runecast.com/blog/runecast-6-0-1-0-covers-apache-log4j-java-vulnerability) |
 
 ### S
 
