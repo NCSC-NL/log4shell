@@ -1,0 +1,25 @@
+name: Check software list changes
+
+on: pull_request
+
+
+jobs:
+  eslint:
+    name: ESLint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: technote-space/get-diff-action@v5
+        with:
+          FILES: software/README.md
+      - name: Create diff log
+        run: git diff ${FROM}${DOT}${TO} '--diff-filter=${DIFF_FILTER}' > diff.log
+        if: env.GIT_DIFF
+      - name: Print diff
+        # Print diff
+        run: cat diff.log
+        if: env.GIT_DIFF
+      - name: Check table
+        # Check only added lines
+        run: python3 ./github/check_valid.py diff.log
+        if: env.GIT_DIFF
