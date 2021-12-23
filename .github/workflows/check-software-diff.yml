@@ -18,9 +18,15 @@ jobs:
       - name: Download current version
         run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md 
       - name: Get pwd and list files
-        run: pwd && ls -la
+        run: | 
+          pwd && ls -la
+          cat README_main.md
+          ls -la software
+          cat software/README.md
+          which diff
+          which git diff
       - name: Create diff log
-        run: diff README_main.md software/README.md > diff.log
+        run: diff README_main.md software/README.md
       - name: List files
         run: ls -la
       - name: Print diff
