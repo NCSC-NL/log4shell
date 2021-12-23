@@ -2404,7 +2404,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Johnson Controls | C•CURE Web | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | C•CURE‐9000 | 2.90.x, 2.80.x, 2.70.x and 2.60.x | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | DataSource | All | Not vuln | Not vuln | Not vuln | Not vuln | Cloud product | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
-|  Johnson Controls  | DLS | All |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | DLS | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | exacqVision Client  | All versions | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | exacqVision Server  | All versions | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | exacqVision WebService  | All versions | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
@@ -2413,7 +2413,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 |  Johnson Controls  | Illustra Insight | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | iSTAR  | All versions | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 |  Johnson Controls  | Kantech Entrapass | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
-| Johnson Controls | Metasys Products and Tools | All |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
+| Johnson Controls | Metasys Products and Tools | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | OpenBlue Active Responder | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | OpenBlue Bridge | All | Not vuln | Fix | | |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
 | Johnson Controls | OpenBlue Chiller Utility Plant Optimizer | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories) |
