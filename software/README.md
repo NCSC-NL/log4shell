@@ -276,6 +276,28 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | BCT            | IDT | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
 | BCT            | iGEN | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
 | BCT            | LIBER | 1.125.3 | Not vuln | Fix | Fix | Not vuln | Details are shared on BCT portal. | [source](https://support.bctsoftware.com/hc/nl/articles/4413416591761) |
+| Beckman Coulter       | Blood Bank  | PK7300, PK7400 |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Chemistry Systems | AU Models (DxC700AU, AU480, AU640, AU680, AU 2700, AU5400, AU5800, AU5800) |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Chemistry Systems | Unicel DxC 600, Unicel DxC 800 |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Hematology  | Ac•T Family, Ac•T 5diff |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Hematology  | DxH 500/520/560, 600, 800, 900, 690T, SMS, SMS II|  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Hematology  | HmX, HmX AL |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Hematology  | LH 500, LH750, LH780, LH785, LH Slidemaker, LH Slidestraine |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Immunoassay Systems | Access 2, Unicel DxI 600, Unicel DxI 800 |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Information Systems  | DxONE Insights |  | Fix | Fix |  | The Log4j patch has been applied. | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Information Systems  | DxONE Inventory Manager |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Information Systems  | DxONE Workflow Manager |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Information Systems  | PROService, RAP Box |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Information Systems  | REMISOL ADVANCE |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Lab Automation  | AutoMate 1200, 1250, 2500, 2550 |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Lab Automation  | DxA 5000, DxA 5000 Fit |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Lab Automation  | Ipaw, ISB (Intelligent Sample Banking), Sorting Drive |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Lab Automation  | Power Express, Power Processor, Power Link |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Microbiology  | LabPro Workstation and Database Computers |  | Workaround | Workaround |  | See source for instructions | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Microbiology  | MicroScan autoSCAN-4, HighFlexX Software, WalkAway 40 SI, ,WalkAway 96 SI, WalkAway 40 plus, WalkAway 96 plus, DxM WalkAway 1040 , DxM WalkAway 1096, DxM Autoplak |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Nephelometry  | IMMAGE 800 |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Urinalysis  | DxU (DxUm, DxUc, DxU Workcell) |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
+| Beckman Coulter       | Urinalysis  | iRICELL, iQ Workcell, iChemVELOCITY, iQ200 |  | Not Vuln | Not Vuln |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
 | Belden | all Hirschmann networking devices and software tools | |  | Not vuln |  |  | Hirschmann is a brand of Belden | [source](https://hirschmann-support.belden.com/file.php/18672XKMWSCRYGG186719202C5BA4/Hirschmann_Statement_Log4j_Vulnerability_Dec2021.pdf) |
 | Bender GmbH und Co. KG | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.bender.de/en/cert) |
 | B. Braun       | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b-braun-statement-on-Apache_Log4j.html) |
@@ -404,8 +426,6 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | BD | Site~Rite Prevue® PICC Ultrasound Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 | BD | Site~Rite Prevue® Plus Ultrasound Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 | BD | Specimen Collection Verification| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-![image](https://user-images.githubusercontent.com/96186424/147099817-d24b696b-aa5c-490a-b275-e22305c07706.png)
-
 | BeyondTrust    | Privilege Management Cloud | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
 | BeyondTrust    | Privilege Management Reporting | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
@@ -1392,7 +1412,42 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | estos            | All products | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.estos.de/de/sicherheitshinweise/estos-von-kritischer-schwachstelle-in-log4j-cve-2021-44228-nicht-betroffen) |
 | EVL Labs | JGAAP | <8.0.2 | Not vuln | Fix |  | | | [source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2) |
 | Exivity | Exivity On-Premise | All version |  | Not vuln |  | | | [source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228) |
-| Exact | All Products | | Not vuln | Not vuln | Not vuln | Not vuln | | [source NL](https://www.exact.com/nl/nieuws/algemeen-statement-apache-lek), [source EN](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | AEC | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Audition | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | BoekhoudGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Bouw7 | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Business Suite | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | CommunicatieGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Consolidation powered by LucaNet |  | Not vuln | Workaround | Workaround | Workaround |  | [source](https://customer.lucanet.com/en/lp/log4j) |
+| Exact | Digipoort | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | DigitaleFactuur | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Dimoni | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | EDI Gateway | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Financials | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | FDS | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | FiscaalGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Globe Core product | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Globe E-report/Crystal Reports | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Go2UBL | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Gripp | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | HR & SalarisGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | insights (Qlik) | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Officient | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Online All core products | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Online Elastic Search | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Online Samenwerken (OSW) | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Payroll Plus (Loket) | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | ProAcc | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | ProQuro | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | RapportageGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Reeleezee | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | ScanSys | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | SRXP | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Synergy Core product | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Synergy Elastic Search | 6.6.2 | Not vuln | Workaround | Workaround | Workaround |  | [source](https://www.exactsoftware.com/docs/DocView.aspx?DocumentID={dd0c8eb3-88b3-473e-822c-54dc54a81aff}) |
+| Exact | WerkprogrammaGemak | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | Winbooks | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
+| Exact | WMS | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.exact.com/news/general-statement-apache-leak) |
 | Evolveum | midPoint || Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/) |
 | Extensis | Universal Type Server | =>7.0.6 | Not vuln | Fix |  | | |[source](https://help.extensis.com/hc/en-us/articles/4412767414299-Universal-Type-Server-7-and-Log4j-vulnerabilities)  |
 | eXtreme Hosting | All products | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://extremehosting.nl/log4shell-log4j/) |
@@ -2797,6 +2852,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Okta       | Radius Server Agent                                | 2.17.0                           | Not vuln | Fix |  | |                                                    | [source/fix](https://trust.okta.com/security-advisories/okta-radius-server-agent-cve-2021-44228)                |
 | Okta       | Verify                                             | Unknown                          |  | Not vuln |  | |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
 | Okta       | Workflow                                           | Unknown                          |  | Not vuln |  | |                                                    | [source](https://sec.okta.com/articles/2021/12/log4shell)                                                                                                         |
+| Olympus       | Medical Products         | All |  | Not Vuln |  |  |  | [source](https://www.olympus-europa.com/medical/en/Contact-and-Support/Product-Security.html) |
 | OneSpan    | Authentication Appliance                          | Unknown |  | Vulnerable |  | | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
 | OneSpan    | Authentication Server                              | Unknown |  | Vulnerable |  | | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
 | OneSpan    | Digipass Gateway                                   | Unknown |  | Vulnerable |  | | Fix availability will be announced soon | [source](https://www.onespan.com/remote-code-execution-vulnerability-in-log4j2-cve-2018-11776) |
