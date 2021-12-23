@@ -45,8 +45,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | ABB | Alarminsight Cloud | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&LanguageCode=en&DocumentPartId=&Action=Launch) |
 | ABB | B&R Products | | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.br-automation.com/downloads_br_productcatalogue/assets/1639507581859-en-original-1.0.pdf) |
 | Abbott | All | |  | Investigation |  | | | [source](https://www.abbott.com/policies/cybersecurity/apache-Log4j.html) |
-| Accellence Technologies | vimacc | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.accellence.de/en/articles/cve-2021-44228-62) |
 | Accellence Technologies | EB&#220;S | All | Not vuln | Workaround |  | | EB&#220;S itself is not vulnerable to CVE-2021-44228. Although it includes several 3rd-partie software setups, which may be affected (see source for more info). | [source](https://www.accellence.de/en/articles/cve-2021-44228-62) |
+| Accellence Technologies | vimacc | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.accellence.de/en/articles/cve-2021-44228-62) |
 | Accruent       | Accruent Single Sign On (SSO, Central Auth) | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Analytics | | Not vuln | Fix |  | | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
 | Accruent       | Asset Enterprise | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.accruent.com/resources/articles/incident-apache-log4j2) |
@@ -67,8 +67,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Acronis       | All |  |  | Investigation |  | | See further information below| [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Backup | 11.7 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Cyber Backup | 12.5 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
-| Acronis       | Cyber Infrastructure | 3.5 and 4.x | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Cyber Files | 8.6.2 onwards | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
+| Acronis       | Cyber Infrastructure | 3.5 and 4.x | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Cyber Protect  | 15 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Cyber Protection Home Office | 2017 onwards | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | DeviceLock DLP | 9.0 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
@@ -76,23 +76,23 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Acronis       | MassTransit | 8.1 and 8.2 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acronis       | Snap Deploy | 5 and 6 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://security-advisory.acronis.com/advisories/SEC-3859) |
 | Acunetix | 360 | All |  | Not vuln |  | | | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Acunetix | Application | All |  | Not vuln |  | |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
 | Acunetix | Agents | All |  | Not vuln |  | |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Acunetix | IAST: NodeJS | All |  | Not vuln |  | |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | Application | All |  | Not vuln |  | |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
 | Acunetix | IAST: ASP. NET | All |  | Not vuln |  | |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
-| Acunetix | IAST: PHP | All |  | Not vuln |  | |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
 | Acunetix | IAST: Java | All | Not vuln | Workaround |  | | AcuSensor IAST module needs attention | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: NodeJS | All |  | Not vuln |  | |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
+| Acunetix | IAST: PHP | All |  | Not vuln |  | |   | [source](https://www.acunetix.com/blog/web-security-zone/critical-alert-log4shell-cve-2021-44228-in-log4j-possibly-the-biggest-impact-vulnerability-ever/)  |
 | Adobe         | Acrobat Reader | |  | Not vuln |  | | | [source](https://community.adobe.com/t5/acrobat-discussions/acrobat-affected-by-apache-log4j-vulnerability-cve-2021-44228/td-p/12590329?profile.language=fr) |
 | Adobe         | All | |  | Investigation |  | | | [source](https://helpx.adobe.com/security/products/log4j-2-advisory.html) |
 | Adobe         | Automated Forms Conversion Service | |  | Vulnerable |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | ColdFusion | All | Not vuln | Fix |  | | [Patched on Dec 17th](https://helpx.adobe.com/coldfusion/kb/log4j-vulnerability-coldfusion.html) | [source](https://helpx.adobe.com/coldfusion/kb/log4j-vulnerability-coldfusion.html) |
+| Adobe         | Experience Manager 6.3 Forms on JEE | all versions from 6.3 GA to 6.3.3 | Not vuln | Workaround |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager 6.4 Forms Designer | |  | Vulnerable |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.4 Forms on JEE | all versions from 6.4 GA to 6.4.8 | Not vuln | Workaround |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager 6.5 Forms Designer | | Not vuln | Fix |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
+| Adobe         | Experience Manager 6.5 Forms on JEE | all versions from 6.5 GA to 6.5.11 | Not vuln | Workaround |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager Forms on OSGi | all versions | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | Adobe         | Experience Manager Forms Workbench | all versions | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
-| Adobe         | Experience Manager 6.3 Forms on JEE | all versions from 6.3 GA to 6.3.3 | Not vuln | Workaround |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
-| Adobe         | Experience Manager 6.4 Forms on JEE | all versions from 6.4 GA to 6.4.8 | Not vuln | Workaround |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
-| Adobe         | Experience Manager 6.5 Forms on JEE | all versions from 6.5 GA to 6.5.11 | Not vuln | Workaround |  | | | [source](https://helpx.adobe.com/experience-manager/kb/aem-forms-vulnerability-cve-2021-44228.html) |
 | ADP           | All | |  | Investigation |  | | Patching were needed, no signs of intrusion | [source](https://www.adp.com/about-adp/data-security/alerts/adp-vulnerability-statement-apache-log4j-vulnerability-cve-2021-44228-update.aspx) |
 | AFAS | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://help.afas.nl/vraagantwoord/NL/SE/120439.htm) |
 | Ahsay | AhsayPRD | version 2.0 | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j) |
@@ -100,12 +100,12 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Ahsay | Other products | version 8.5.4.86 (and above) | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://wiki.ahsay.com/doku.php?id=public:announcement:cve-2021-44228_log4j) |
 | Aiden | all | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.meetaiden.com/knowledge-base/is-aiden-vulnerable-to-cve-2021-44228-log4j-log4shell/) |
 | AIL           | AIL | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://twitter.com/ail_project/status/1470373644279119875) |
-| Alexion Software | Alexion CRM | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://alexion.nl/blog/alexion-crm-niet-vatbaar-voor-log4shell) |
 | Akamai        | Enterprise Application Access (EAA) connector |  | Not vuln | Not vuln | Not vuln | Not vuln |  | Source: Akamai support |
+| Akamai        | Siem Integration Connector | <1.7.4 | Not vuln | Fix | Fix | Fix | Akamai SIEM Integration Connector is vulnerable to CVE-2021-44228, CVE-2021-45046 and CVE-2021-45105.| [source](https://developer.akamai.com/tools/integrations/siem/siem-cef-connector#release-notes)
 | Akamai        | Siem Splunk Connector | =>1.4.10 | Not vuln | Not vuln | Not vuln | Not vuln | v1.4.11 is the new recommendation for mitigation of log4j vulnerabilities. | [source](https://splunkbase.splunk.com/app/4310/) |
 | Akamai        | Siem Splunk Connector | <1.4.10 | Not vuln | Workaround |  | | Akamai SIEM Integration Connector for Splunk is not vulnerable to CVE-2021-44228. Although it includes the vulnerable Log4J component, it is not used by the connector. | [source](https://splunkbase.splunk.com/app/4310/)
-| Akamai        | Siem Integration Connector | <1.7.4 | Not vuln | Fix | Fix | Fix | Akamai SIEM Integration Connector is vulnerable to CVE-2021-44228, CVE-2021-45046 and CVE-2021-45105.| [source](https://developer.akamai.com/tools/integrations/siem/siem-cef-connector#release-notes)
 | Alertus        | Console              | 5.15.0| Not vuln | Fix |  | | | [source](https://help.alertus.com/s/article/Security-Advisory-Log4Shell-Vulnerability?language=en_US) |
+| Alexion Software | Alexion CRM | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://alexion.nl/blog/alexion-crm-niet-vatbaar-voor-log4shell) |
 | Alphatron        | AMiSconnect | |  | Not vuln |  | | | [source](https://www.alphatronmedical.com/home.html) |
 | Alphatron        | Custo diagnostics  | 5.4 to 5.6 |  | Vulnerable |  | | Potentially vulnerable through the HL7 and DICOM communication interfaces | [source](https://www.alphatronmedical.com/home.html) |
 | Alphatron        | JiveX | |  | Not vuln |  | | | [source](https://www.alphatronmedical.com/home.html) |
@@ -116,8 +116,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Amazon        | Athena | | Not vuln | Fix |  | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS AppFlow | | Not vuln | Fix |  | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS AppSync | | Not vuln | Fix |  | | Updated to mitigate the issues identified in CVE-2021-44228 and CVE-2021-45046 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
-| Amazon        | AWS AWS Certificate Manager Private CA | | Not vuln | Fix |  | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS AWS Certificate Manager | | Not vuln | Fix |  | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | AWS AWS Certificate Manager Private CA | | Not vuln | Fix |  | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS AWS Service Catalog | | Not vuln | Fix |  | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS CloudHSM | 3.4.1 | Not vuln | Fix |  | | CloudHSM JCE SDK 3.4.1 or higher is not vulnerable |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | AWS CodeBuild | | Not vuln | Fix |  | | Updated to mitigate the issues identified in CVE-2021-44228 and CVE-2021-45046 |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
@@ -150,8 +150,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Amazon        | ECR Public | | Not vuln | Fix |  | | Amazon-owned images published under a Verified Account on Amazon ECR Public are not affected by the Log4j issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | ECS | | Not vuln | Not vuln | Not vuln | Not vuln | As an Amazon Linux package, opt-in hot-patch to mitigate the Log4j issue in JVM layer is available |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [hotpatch](https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/) |
 | Amazon        | EKS | | Not vuln | Not vuln | Not vuln | Not vuln | As a DaemonSet, opt-in hot-patch to mitigate the Log4j issue in JVM layer is available |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/), [hotpatch](https://aws.amazon.com/blogs/opensource/hotpatch-for-apache-log4j/) |
-| Amazon        | Elastic Load Balancing || Not vuln | Fix |  | | Services have been updated. All Elastic Load Balancers, as well as Classic, Application, Network and Gateway, are not affected by this Log4j issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | ElastiCache || Not vuln | Fix |  | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
+| Amazon        | Elastic Load Balancing || Not vuln | Fix |  | | Services have been updated. All Elastic Load Balancers, as well as Classic, Application, Network and Gateway, are not affected by this Log4j issue |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | EMR | | Not vuln | Fix |  | | Many customers are estimated to be vulnerable. Vulnerable only if affected EMR releases are used and untrusted sources are configured to be processed |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | EventBridge | | Not vuln | Fix |  | ||[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
 | Amazon        | Fraud Detector | | Not vuln | Fix |  | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/) |
@@ -202,8 +202,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Apache        | Dubbo | All versions | Not vuln | Fix |  | | |[source](https://github.com/apache/dubbo/issues/9380) |
 | Apache        | Flink | 1.15.0, 1.14.2, 1.13.5, 1.12.7, 1.11.6 | Not vuln | Fix |  | | |[source](https://flink.apache.org/news/2021/12/16/log4j-patch-releases.html) |
 | Apache        | Fortress | < 2.0.7 | Not vuln | Fix |  | | Fixed in 2.0.7 | [source](https://blogs.apache.org/security/entry/cve-2021-44228)|
-| Apache        | Guacamole | All versions | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://guacamole.apache.org/security/) |
 | Apache        | Geode | 1.14.0 | Not vuln | Fix |  | | Fixed in 1.12.6, 1.13.5, 1.14.1 |[source](https://cwiki.apache.org/confluence/plugins/servlet/mobile?contentId=66849544#ReleaseNotes-1.14.1) |
+| Apache        | Guacamole | All versions | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://guacamole.apache.org/security/) |
 | Apache        | Hadoop | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | Uses log4j 1.x. Are [plans to migrate to log4j2](https://issues.apache.org/jira/plugins/servlet/mobile#issue/HADOOP-12956) but never performed | [source](https://blogs.apache.org/security/entry/cve-2021-44228) |
 | Apache        | HBase | Unknown |  | Vulnerable |  | | Fix is committed, but not yet released |[source](https://github.com/apache/hbase/pull/3933) |
 | Apache        | Hive | 4.x | Not vuln | Fix |  | | Fix in 4.x | [source](https://issues.apache.org/jira/browse/HIVE-25795) |
@@ -234,24 +234,24 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Appian        | Appian | | Not vuln | Fix |  | | | [source](https://community.appian.com/support/w/kb/2511/kb-2204-information-about-the-log4j2-security-vulnerability-cve-2021-44228) |
 | Aptible       | Aptible | Search 5.x | Not vuln | Fix |  | | | [source](https://status.aptible.com/incidents/gk1rh440h36s?u=zfbcrbt2lkv4) |
 | Arduino        | Arduino IDE | 1.8.17 | Not vuln | Fix |  | | | [source](https://support.arduino.cc/hc/en-us/articles/4412377144338-Arduino-s-response-to-Log4j2-vulnerability-CVE-2021-44228) |
-| Arista Networks | CloudVision Portal | >2019.1.0 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | CloudVision Wi-Fi, virtual appliance or physical appliance | >8.8 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | Analytics Node for DANZ Monitoring Fabric (formerly Big Monitoring Fabric) | >7.0.0 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
 | Arista Networks | Analytics Node for Converged Cloud Fabric (formerly Big Cloud Fabric) | >7.0.0 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
-| Arista Networks | Embedded Analytics for Converged Cloud Fabric (formerly Big Cloud Fabric) | >5.3.0 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
+| Arista Networks | Analytics Node for DANZ Monitoring Fabric (formerly Big Monitoring Fabric) | >7.0.0 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
+| Arista Networks | CloudVision Portal | >2019.1.0 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
 | Arista Networks | CloudVision Portal | >2019.1.0 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
 | Arista Networks | CloudVision Wi-Fi, virtual appliance or physical appliance | >8.8 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
+| Arista Networks | CloudVision Wi-Fi, virtual appliance or physical appliance | >8.8 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
+| Arista Networks | Embedded Analytics for Converged Cloud Fabric (formerly Big Cloud Fabric) | >5.3.0 |  | Vulnerable |  | | | [source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070) |
 | Atlassian     | Bamboo Server & Data Center | On prem |  | Vulnerable |  | | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Atlassian     | BitBucket Server | On prem | Not vuln | Workaround |  | | | [source](https://community.atlassian.com/t5/Bamboo-questions/Re-log4j-zero-day/qaq-p/1886739/comment-id/30819#M30819) |
-| Atlassian     | Confluence Server & Data Center| On prem |  | Vulnerable |  | | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
-| Atlassian     | Confluence-CIS CSAT Pro | v1.7.1 |  | Vulnerable |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
-| Atlassian     | Confluence-CIS WorkBench | |  | Not vuln |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Atlassian     | Confluence-CIS-CAT Lite | v4.13.0 |  | Vulnerable |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Atlassian     | Confluence-CIS-CAT Pro Assessor v3 Full and Dissolvable | v3.0.77 |  | Vulnerable |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
-| Atlassian     | Confluence-CIS-CAT Pro Assessor v4 | v4.13.0 |  | Vulnerable |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Atlassian     | Confluence-CIS-CAT Pro Assessor v4 Service | v1.13.0 |  | Vulnerable |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
+| Atlassian     | Confluence-CIS-CAT Pro Assessor v4 | v4.13.0 |  | Vulnerable |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Atlassian     | Confluence-CIS-CAT Pro Dashboard | |  | Not vuln |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
+| Atlassian     | Confluence-CIS CSAT Pro | v1.7.1 |  | Vulnerable |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
 | Atlassian     | Confluence-CIS-Hosted CSAT | |  | Not vuln |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
+| Atlassian     | Confluence-CIS WorkBench | |  | Not vuln |  | | | [source](https://cisecurity.atlassian.net/wiki/spaces/SCFKB/pages/2434301961/CIS+Products+and+Log4j+Vulnerability) |
+| Atlassian     | Confluence Server & Data Center| On prem |  | Vulnerable |  | | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Atlassian     | Crowd Server & Data Center | On prem |  | Vulnerable |  | | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Atlassian     | Crucible | On prem |  | Vulnerable |  | | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
 | Atlassian     | Fisheye | On prem |  | Vulnerable |  | | Only vulnerable when using non-default config, cloud version fixed |[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) |
