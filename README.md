@@ -8,6 +8,8 @@ Especially CVE-2021-44228 / CVE-2021-45046 and also covers CVE-2021-4104 / CVE-2
 * [CSIRT network members advisories](https://github.com/enisaeu/CNW/tree/main/log4shell)
 * [Log4shell vulnerability overview](https://github.com/NCSC-NL/log4shell/blob/main/log4shell_en.png)
 
+For affected organisations and CISOs searching for concise mitigation guidance, the [Log4Shell for OES - Full presentation slides for CISOs and techies](https://github.com/NCSC-NL/log4shell/blob/main/detection_mitigation/Log4Shell%20for%20OES.pdf) describes the vulnerability and explains **all steps** necessary to successfully mitigate the vulnerability (**patching is not enough**).
+
 ## Repository contents
 
 | Directory                          | Purpose |

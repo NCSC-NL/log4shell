@@ -1,10 +1,12 @@
-# Log4j Detection & Mitigation
+# Log4Shell Detection & Mitigation
+
 This page contains an overview of any detection and mitigation software regarding the Log4j vulnerability. On this page NCSC-NL will maintain a list of all known rules to detect Log4j presence or (suspected) exploitation. Furthermore, any references will contain specific information regarding detection and mitigation.
 
 **NCSC-NL has not verified the rules and software listed below and therefore cannot guarantee the validity of said rules.
 However, NCSC-NL strives to provide rules and detection and mitigation software from reliable sources.**
 
 Table of Contents:
+1. [Overall mitigation process](#overview)
 1. [Detection Guidance](#detection-guidance)
     - [Phase 1: Identify who is scanning the environment for vulnerable machines.](#phase-1-identify-who-is-scanning-the-environment-for-vulnerable-machines)
     - [Phase 2: Identify if a vulnerable application has attempted to retrieve the malicious code for potential execution.](#phase-2-identify-if-a-vulnerable-application-has-attempted-to-retrieve-the-malicious-code-for-potential-execution)
@@ -22,7 +24,24 @@ Table of Contents:
     - [Generic detection guidance](#generic-detection-guidance)
 5. [Closed source intelligence](#closed-source-intelligence)
 
+## Overall mitigation process
+
+Complete guide to the Log4Shell vulnerability from the point of view of [Operators of essential services](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.194.01.0001.01.ENG&toc=OJ:L:2016:194:TOC) is available in the [Log4Shell for OES - presentation slides](Log4Shell%20for%20OES.pdf). The presentation includes:
+
+- description of the vulnerability
+- mitigation methodology and templates for CISO or other security managers
+- detailed steps for mitigation on technical level (patching is *not* enough)
+  - identify all vulnerable software and hardware
+  - prioritise and plan
+  - mitigate: patching and other mitigation methods, and which to chose
+  - assume compromise / check for signs of compromise (and follow-up process)
+  - build visibility
+  - build resiliency
+
+The rest of this page provides a different take on some selected technical parts of the process and does not cover all topics and themes presented in the above slide deck.
+
 ## Detection Guidance
+
 ![](Detection_Guidance.png)
 ** Credits to Deloitte and GovCERT.ch for the [image and the report](Log4j%20Attack%20Detection%20Guidance%20-%20Release.pdf) on which this section is based.
 
