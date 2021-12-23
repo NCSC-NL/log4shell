@@ -1,9 +1,12 @@
-# Log4j Vulnerability (CVE-2021-44228)
+# Log4shell vulnerabilities (CVE-2021-44228, CVE-2021-45046, CVE-2021-4104, CVE-2021-45105)
 
-This repo contains operational information regarding the vulnerability in the Log4j logging library (CVE-2021-44228). For additional information see:
+This repo contains operational information regarding the Log4shell vulnerability in the Log4j logging library. 
+Especially CVE-2021-44228 / CVE-2021-45046 and also covers CVE-2021-4104 / CVE-2021-45105. For additional information see:
 
 * [NCSC-NL advisory](https://www.ncsc.nl/actueel/advisory?id=NCSC-2021-1052)
 * [MITRE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
+* [CSIRT network members advisories](https://github.com/enisaeu/CNW/tree/main/log4shell)
+* [Log4shell vulnerability overview](https://github.com/NCSC-NL/log4shell/blob/main/log4shell_en.png)
 
 ## Repository contents
 
@@ -11,9 +14,10 @@ This repo contains operational information regarding the vulnerability in the Lo
 |:-----------------------------------|:--------|
 | [hunting](hunting/README.md)       | Contains info regarding hunting for exploitation |
 | [iocs](iocs/README.md)             | Contains any Indicators of Compromise, such as scanning IPs, etc |
-| [mitigation](mitigation/README.md) | Contains info regarding mitigation, such as regexes for detecting scanning activity and more |
+| [detection & mitigation](detection_mitigation/README.md)   | Contains info regarding detection and mitigation, such as regexes for detecting scanning activity and more |
 | [scanning](scanning/README.md)     | Contains references to methods and tooling used for scanning for the Log4j vulnerability |
 | [software](software/README.md)     | Contains a list of known vulnerable and not vulnerable software |
+| [tools](tools/README.md)           | Contains a list of tools for automatically parsing info on this repo |
 
 **Please note that these directories are not complete, and are currently being expanded.**
 
