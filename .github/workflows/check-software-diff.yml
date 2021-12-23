@@ -4,8 +4,8 @@ on: pull_request
 
 
 jobs:
-  eslint:
-    name: ESLint
+  checker:
+    name: Table checker
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -13,7 +13,7 @@ jobs:
         with:
           FILES: software/README.md
       - name: Create diff log
-        run: git diff ${FROM}${DOT}${TO} '--diff-filter=${DIFF_FILTER}' > diff.log
+        run: git diff ${FROM}${DOT}${TO} > diff.log
         if: env.GIT_DIFF
       - name: Print diff
         # Print diff
