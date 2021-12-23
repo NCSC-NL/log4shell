@@ -797,30 +797,29 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Cendio | ThinLinc | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://community.thinlinc.com/t/log4shell-vulnerability/286) |
 | Cepheid | C360 | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.cepheid.com/en_US/legal/product-security-updates) |
 | Cepheid | GeneXpert | |  | Investigation |  | | | [source](https://www.cepheid.com/en_US/legal/product-security-updates) |
-| Cerebro | Cerebro Elasticsearch Web Admin | All | Not vuln | Not vuln | Not vuln | Not vuln | Uses logback for logging |[source](https://github.com/lmenezes/cerebro/blob/main/conf/logback.xml#L5) |
 | Cerberus | FTP | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.cerberusftp.com/hc/en-us/articles/4412448183571-Cerberus-is-not-affected-by-CVE-2021-44228-log4j-0-day-vulnerability) |
 | Cerebrate | Cerebrate | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://twitter.com/cerebrateproje1/status/1470347775141421058) |
+| Cerebro | Cerebro Elasticsearch Web Admin | All | Not vuln | Not vuln | Not vuln | Not vuln | Uses logback for logging |[source](https://github.com/lmenezes/cerebro/blob/main/conf/logback.xml#L5) |
 | Chaser Systems | discrimiNAT Firewall | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://chasersystems.com/discrimiNAT/blog/log4shell-and-its-traces-in-a-network-egress-filter/#are-chasers-products-affected) |
 | Chatsworth Products | eConnect PDU |  Not vuln | Not vuln | Not vuln | Not vuln |  |[source](https://user-images.githubusercontent.com/89155495/146845501-b2186f1b-ccce-4f3d-a2c3-373db2eed9f0.png) |
+| Check Point| CloudGuard | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
+| Check Point | Harmony Endpoint & Harmony Mobile | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
+| Check Point | Infinity Portal | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
 | Check Point | Quantum Security Gateway | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
 | Check Point | Quantum Security Management | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
-| Check Point| CloudGuard | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
-| Check Point | Infinity Portal | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
-| Check Point | Harmony Endpoint & Harmony Mobile | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
 | Check Point | SMB | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
 | Check Point | ThreatCloud | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://supportcontent.checkpoint.com/solutions?id=sk176865) |
-| Chef | Infra Server | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
 | Chef | Automate | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
 | Chef | Backend | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
+| Chef | Infra Server | All | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
 | CIS | CIS-CAT Lite | < 4.13.0 |  | Vulnerable |  | | Upgrade to v1.7.1. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0 | [source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
-| CIS | CIS CSAT Pro | < 1.7.1 |  | Vulnerable |  | | Upgrade to v1.7.1. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0 | [source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | CIS | CIS-CAT Pro Assessor v3 Full and Dissolvable | < 3.0.77 |  | Vulnerable |  | | Upgrade to v3.0.77. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0 | [source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | CIS | CIS-CAT Pro Assessor v4 | < 4.13.0 |  | Vulnerable |  | | Upgrade to v4.13.0. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0 |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | CIS | CIS-CAT Pro Assessor v4 Service | < 1.13.0 |  | Vulnerable |  | | Upgrade to v1.13.0. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0 | [source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | CIS | CIS-CAT Pro Dashboard | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
+| CIS | CIS CSAT Pro | < 1.7.1 |  | Vulnerable |  | | Upgrade to v1.7.1. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0 | [source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | CIS | CIS-Hosted CSAT | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
 | CIS | CIS WorkBench | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961) |
-| Cisco | General Cisco Disclaimer | Cisco is updating their advisory three times a day, please keep their website in your watchlist. We will try to update accordingly |  |  |  | |||
 | Cisco |ACI Multi-Site Orchestrator|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |ACI Virtual Edge|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Adaptive Security Appliance (ASA) Software|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -843,6 +842,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Cisco |BroadWorks|Unknown|  | Vulnerable |  | ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Business Process Automation|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |Catalyst 9800 Series Wireless Controllers|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
+| Cisco |Cisco Wireless LAN Controller|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |CloudCenter Action Orchestrator|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |CloudCenter Suite Admin|Unknown|  | Vulnerable |  | ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |CloudCenter Workload Manager|Unknown|  | Vulnerable |  | |Fixes expecteded 23-Dec-2021|[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -882,6 +882,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Cisco |Firepower 9300 Security Appliances|Unknown|  | Investigation |  | ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Firepower Management Center|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Firepower Threat Defense (FTD)|Unknown|  | Vulnerable |  | ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | General Cisco Disclaimer | Cisco is updating their advisory three times a day, please keep their website in your watchlist. We will try to update accordingly |  |  |  | |||
 | Cisco |GGSN Gateway GPRS Support Node|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Hosted Collaboration Mediation Fulfillment|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |HyperFlex System|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -946,8 +947,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Cisco |Prime Infrastructure|Unknown|  | Investigation |  | ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Prime IP Express|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |Prime License Manager|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco |Prime Network|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |Prime Network Registrar|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco |Prime Network|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |Prime Optical for Service Providers|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Prime Performance Manager|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |Prime Provisioning|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -1003,7 +1004,6 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Cisco |Webex Room Phone| Unknown | Not vuln | Not vuln | Not vuln | Not vuln || [source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco |Web Security Appliance (WSA)|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco |Wide Area Application Services (WAAS)|All versions| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco |Cisco Wireless LAN Controller|Unknown| Not vuln | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Citrix | Analytics | Unknown |  | Investigation |  | |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Application Delivery Management (NetScaler MAS)  | All versions | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
 | Citrix | Cloud Connector |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.citrix.com/article/CTX335705) |
@@ -1031,17 +1031,17 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Cockroach Labs | CockroachDB | - | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.cockroachlabs.com/docs/advisories/acve-2021-44228#statement) |
 | CODESYS | all | all | Not vuln | Not vuln | Not vuln | Not vuln || [source](https://www.codesys.com/news-events/news/article/log4j-not-used-in-codesys.html) |
 | Commvault | Cloud Apps & Oracle & MS-SQL | All supported versions | Not vuln | Fix |  | || [source](https://documentation.commvault.com/11.24/essential/146231_security_vulnerability_and_reporting.html) |
-| Compumatica | CryptoGuard | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
 | Compumatica | CompuMail Gateway | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
 | Compumatica | Compuwall | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
+| Compumatica | CryptoGuard | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
 | Compumatica | MagiCtwin | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
 | Compumatica | MASC | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.compumatica.com/nieuws-bericht/important-information-log4j-vulnerability-compumatica-secure-networks/) |
+| Confluent | Community/Standalone Package of ksqlDB |  | Not vuln | Not vuln | Not vuln | Not vuln | No exploitable conditions found, working on package without log4j2 | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
 | Confluent | Confluent Cloud | | Not vuln | Fix |  | | server-side fix | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
 | Confluent | Confluent Community Platform | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
-| Confluent | Confluent Platform | 7.0.1 | Not vuln | Fix |  | | | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
-| Confluent | Confluent for Kubernetes | 2.1.0-1 and 2.2.0-1 | Not vuln | Fix |  | | Only applicable to confluent-init-container | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
 | Confluent | Confluent Connectors | see link | Not vuln | Fix |  | | List of vulnerable connectors available at Confluent | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
-| Confluent | Community/Standalone Package of ksqlDB |  | Not vuln | Not vuln | Not vuln | Not vuln | No exploitable conditions found, working on package without log4j2 | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
+| Confluent | Confluent for Kubernetes | 2.1.0-1 and 2.2.0-1 | Not vuln | Fix |  | | Only applicable to confluent-init-container | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
+| Confluent | Confluent Platform | 7.0.1 | Not vuln | Fix |  | | | [source](https://support.confluent.io/hc/en-us/articles/4412615410580-CVE-2021-44228-log4j2-vulnerability) |
 | Connect2id | Connect2id server | < 12.5.1 | Not vuln | Fix |  | || [source](https://connect2id.com/blog/connect2id-server-12-5-1) |
 | Connectwise | Global search capability of Manage Cloud | Unknown |  | Workaround |  | || [source](https://www.connectwise.com/company/trust/advisories) |
 | Connectwise | Manage on-premise's Global Search  | Unknown |  | Workaround |  | || [source](https://www.connectwise.com/company/trust/advisories) |
@@ -1056,8 +1056,8 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Copadata | Zenon product family | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://www.copadata.com/en/support-services/knowledge-base-faq/pare-products-in-the-zenon-product-family-affect-4921/) |
 | Coralogix | Coralogix | Unknown | Not vuln | Fix |  | | |[source](https://status.coralogix.com/incidents/zzfn8t0fzdy2?u=1q9952ycm1gr) |
 | Couchbase | Couchbase ElasticSearch connector| < 4.3.3 & < 4.2.13 | Not vuln | Fix |  | | |[source](https://forums.couchbase.com/t/ann-elasticsearch-connector-4-3-3-4-2-13-fixes-log4j-vulnerability/32402) |
-| Coveo | Platform (hosted services) | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://docs.coveo.com/en/1756/news/coveo-platform-new-features#coveo-is-not-vulnerable-to-the-apache-log4j-rce) |
 | Coveo | On-Premises Crawling Module | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://docs.coveo.com/en/1756/news/coveo-platform-new-features#coveo-is-not-vulnerable-to-the-apache-log4j-rce) |
+| Coveo | Platform (hosted services) | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://docs.coveo.com/en/1756/news/coveo-platform-new-features#coveo-is-not-vulnerable-to-the-apache-log4j-rce) |
 | cPanel | cPanel | Unknown |  | Workaround |  | | | [source](https://forums.cpanel.net/threads/log4j-cve-2021-44228-does-it-affect-cpanel.696249/) |
 | Cryptshare | Cryptshare for Notes | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
 | Cryptshare | Cryptshare for NTA 7516 | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://www.cryptshare.com/nl/support/cryptshare-support/) |
