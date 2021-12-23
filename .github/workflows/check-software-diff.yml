@@ -16,11 +16,13 @@ jobs:
       - name: Download current version
         run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md 
         if: env.GIT_DIFF
-      - name: Create diff log
-        run: git diff --no-index README_main.md software/README.md > diff.log
-        if: env.GIT_DIFF
       - name: Get pwd and list files
         run: pwd && ls -la
+      - name: Create diff log
+        run: diff README_main.md software/README.md > diff.log
+        if: env.GIT_DIFF
+      - name: List files
+        run: ls -la
       - name: Print diff
         # Print diff
         run: cat diff.log

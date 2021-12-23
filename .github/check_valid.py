@@ -29,7 +29,7 @@ def parseDiff(difffile):
 	errors=[]
 	with(open(difffile, "r")) as f:
 		for line in f: 
-			if line.startswith("+") and not line.startswith("+++"):
+			if (line.startswith("+") and not line.startswith("+++")) or line.startswith(">"):
 				valid, msg = checkLine(line)
 				if (not valid):
 					errors.append((line, msg))
