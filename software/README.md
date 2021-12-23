@@ -426,8 +426,6 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | BD | Site~Rite Prevue® PICC Ultrasound Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 | BD | Site~Rite Prevue® Plus Ultrasound Systems| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 | BD | Specimen Collection Verification| All| | Not vuln| Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-![image](https://user-images.githubusercontent.com/96186424/147099817-d24b696b-aa5c-490a-b275-e22305c07706.png)
-
 | BeyondTrust    | Privilege Management Cloud | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
 | BeyondTrust    | Privilege Management Reporting | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542) |
 | BigBlueButton   | BigBlueButton | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897) |
