@@ -2503,7 +2503,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Kaseya | Vorex | Unknown |  | Not vuln |  | | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | Kaseya | products not listed above | Unknown |  | Investigation |  | | | [source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment) |
 | KeePass | KeePass | All versions | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://sourceforge.net/p/keepass/discussion/329220/thread/4643c5ec4f/?limit=250) |
-| Keeper | SSO Connect On-Prem | 16.0.2 | Not vuln | Fix |  | | | [source](vendor-statements/Keeper.png), [source](https://docs.keeper.io/release-notes/on-prem-components/sso-connect/sso-connect-version-16.0.2)|
+| Keeper | All products |  |  | Fix | Fix | | | [source](https://www.keepersecurity.com/blog/2021/12/15/public-notice-regarding-the-apache-foundation-log4j-vulnerability/)|
 | Keycloak | Keycloak | all version |  | Not vuln |  | | | [source](https://github.com/keycloak/keycloak/discussions/9078) |
 | Kofax | Capture | All |  | Not vuln |  | | | [source](https://knowledge.kofax.com/Capture/Kofax_Capture/Reference/Log4J_Vulnerability_CVE-2021-44228_Does_Not_Affect_Kofax_Capture) |
 | Kofax | Communication Manager (KCM) |5.3-5.5 | Not vuln | Fix |  | | | [source](https://knowledge.kofax.com/Communications_Manager/Troubleshooting/log4j_vulnerability_in_Kofax_Communications_Manager) |
@@ -2515,7 +2515,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
-| Lancom Systems | All products  | All versions |  | Not vuln |  | | | [source](https://www.lancom-systems.com/service-support/instant-help/general-security-information) |
+| Lancom Systems | All products  | All versions | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.lancom-systems.com/service-support/instant-help/general-security-information) |
 | Lansweeper | All products | All versions |  | Not vuln |  | | | [source](https://www.lansweeper.com/vulnerability/critical-log4j-vulnerability-affects-millions-of-applications/) |
 | LastPass | Other products | |  | Not vuln |  | | | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
 | LastPass | LastPass MFA |  | Not vuln | Fix |  | | Universal Proxy on Windows with Debug logging enabled are highly recommended to update to the newest version of the Universal Proxy 3.0.2 or 4.1.2 | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
@@ -2623,7 +2623,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Lightbend | Akka Serverless | Unknown |  | Not vuln |  | | | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Lightbend | Lagom Framework | Unknown |  | Not vuln |  | | Users that switched from logback to log4j (non-default) are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
 | Lightbend | Play Framework| Unknown |  | Not vuln |  | | Users that switched from logback to log4j (non-default) are affected | [source](https://discuss.lightbend.com/t/regarding-the-log4j2-vulnerability-cve-2021-44228/9275) |
-| Liongard | All products  | Unknown |  | Investigation |  | | | [source](https://insights.liongard.com/faq-apache-log4j-vulnerability) |
+| Liongard | All products  | Unknown |  | Not vuln | Not vuln | Investigation | | [source](https://insights.liongard.com/faq-apache-log4j-vulnerability) |
 | LiquidFiles | LiquidFiles | All versions | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://mailchi.mp/liquidfiles/liquidfiles-log4j) |
 | LiveAction | LiveNX | <21.5.1 | Not vuln | Fix |  | | | [source](https://documentation.liveaction.com/LiveNX/LiveNX%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNX%2021.5.1.1.3) |
 | LiveAction | LiveNA | <21.5.1 | Not vuln | Fix |  | | | [source](https://documentation.liveaction.com/LiveNA/LiveNA%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNA%2021.5.1.1.2) |
@@ -2640,7 +2640,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
 | Macrium Software | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.macrium.com/log4j-vulnerabilities-update) |
-| MailStore | MailStore | all |  | Not vuln |  | | | [source](https://www.mailstore.com/en/blog/mailstore-affected-by-log4shell/) |
+| MailStore | MailStore | all | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.mailstore.com/en/blog/mailstore-affected-by-log4shell/) |
 | Mailcow | Mailcow Solr Docker| < 1.8 | Not vuln | Fix |  | | | [source](https://community.mailcow.email/d/1229-cve-2021-44228-vulnerability-solr) |
 | ManageEngine | ADAudit Plus | Unknown |  | Investigation |  | | Workaround | [source](https://pitstop.manageengine.com/portal/en/community/topic/apache-log4j-vulnerability-cve-2021-44228-1) |
 | ManageEngine | ADManager Plus | Unknown |  | Investigation |  | | Mitigation: set `-Dlog4j2.formatMsgNoLookups=true` in `jvm.options`. | [source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-ad-manager-plus) |
@@ -2696,7 +2696,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Mirantis      | Lens                       |  All | Not vuln | Not vuln | Not vuln | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | Mirantis      | K0s                        |  All | Not vuln | Not vuln | Not vuln | Not vuln |  |[source](https://github.com/Mirantis/security/blob/main/news/cve-2021-44288.md) |
 | MISP | MISP | All | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://twitter.com/MISPProject/status/1470051242038673412) |
-| Mitel      | MiCollab |  >=7.1 to <=9.4 | Not vuln | Fix |  | | Below v7.0 not vuln |[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) |
+| Mitel | MiCollab | >=7.1 to <=9.4 | Not vuln | Workaround | Workaround | | Below v7.0 not vuln, [Fix](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf) | [source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_21-0010-002-v4.pdf) |
 | Mitel      | MiContact Center  Enterprise |  All | Not vuln | Not vuln | Not vuln | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | MiContact Center Business |  All | Not vuln | Not vuln | Not vuln | Not vuln |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
 | Mitel      | Mitel CMG Suite |  All |  | Investigation |  | |  |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010) |
