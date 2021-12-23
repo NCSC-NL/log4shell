@@ -1481,7 +1481,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Extreme Networks | VOSS || Not vuln | Not vuln | Not vuln | Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
 | Extreme Networks | WiNG || Not vuln | Not vuln | Not vuln | Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
 | Extreme Networks | XIQ-SE || Not vuln | Not vuln | Not vuln | Not vuln |  |  [source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga) |
-| Ewon | eCatcher | 6.7.7 | Not vuln | Fix |  | |  |  [source](https://hmsnetworks.blob.core.windows.net/www/docs/librariesprovider10/downloads-monitored/manuals/release-notes/ecatcher_releasenotes.txt?sfvrsn=4f054ad7_42) |
+| Ewon (HMS-Networks) | eCatcher | 6.7.8 | Not vuln | Fix | Fix | Fix |  |  [source](https://hmsnetworks.blob.core.windows.net/www/docs/librariesprovider10/downloads-monitored/manuals/release-notes/ecatcher_releasenotes.txt?sfvrsn=4f054ad7_42) [bulletin](https://www.hms-networks.com/cybersecurity) |
 
 ### F
 
@@ -1648,6 +1648,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Hitachi Energy | UNEM | < R11BSP1 |  | Vulnerable |  | | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000089&LanguageCode=en&DocumentPartId=&Action=Launch) |
 | Hitachi Energy | UNEM | R15A, R14B, R14A, R11BSP1 | Not vuln | Workaround |  | | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000089&LanguageCode=en&DocumentPartId=&Action=Launch) |
 | Hitachi Vantara | Pentaho | v8.3.x, v9.2.x | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
+| HMS-Networks |  |  |  |  |  |  |  |  [source](https://www.hms-networks.com/cybersecurity) |
 | HostiFi | Unifi hosting | Unknown | Not vuln | Fix |  | | Hosted Unifi solution | [source](https://twitter.com/hostifi_net/status/1440311322592231436) |
 | HPE |3PAR Service Processor | 5.x | Not vuln | Fix |  | | Fixed in version 5.0.9.2 | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us), [release notes](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=a00002915en_us) |
 | HPE |3PAR StoreServ Arrays| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=a00120086en_us) |
