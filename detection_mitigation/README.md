@@ -143,7 +143,7 @@ Example:
 ```
 ${${::-j}nd${upper:ı}:rm${upper:ı}://127.0.0.1:1389} ->> ${jndı:rmı://127.0.0.1:1389}
 ```
-Thanks and credits to Aholzol (https://github.com/aholzel).
+Thanks and credits to Aholzel (https://github.com/aholzel).
 
 #### Caveats
 - Please note that due to nested resolution of `${...}` and multiple available obfuscation methods, this regular expression may not detect all forms of exploitation. It is impossible to write exhaustive regular expression.
@@ -268,6 +268,7 @@ ModSecurity OWASP CoreRuleSet :
 | Fortinet      | FortiEDR | https://community.fortinet.com/t5/FortiEDR/Technical-Tip-How-FortiEDR-protects-against-the-exploitation-of/ta-p/201027 |
 | Google       | Cloud | https://cloud.google.com/blog/products/identity-security/cloud-armor-waf-rule-to-help-address-apache-log4j-vulnerability |
 | Gravwell     | Gravwell | https://www.gravwell.io/blog/cve-2021-44228-log4j-does-not-impact-gravwell-products |
+| McAfee    | ePO (ExtraDAT) | https://kc.mcafee.com/corporate/index?page=content&id=KB95091 |
 | Microsoft    | Defender | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 | Microsoft    | Sentinel| https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 | Palo Alto Networks   | Prisma Cloud | https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/ |
