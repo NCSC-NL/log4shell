@@ -20,13 +20,13 @@ jobs:
       - name: Get pwd and list files
         run: | 
           pwd && ls -la
-          cat README_main.md
+          ls README_main.md
           ls -la software
-          cat software/README.md
+          ls software/README.md
           which diff
-          which git diff
+          which git
       - name: Create diff log
-        run: diff README_main.md software/README.md
+        run: git diff --no-index README_main.md software/README.md
       - name: List files
         run: ls -la
       - name: Print diff
