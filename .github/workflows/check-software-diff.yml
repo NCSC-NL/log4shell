@@ -17,7 +17,7 @@ jobs:
         run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md 
         if: env.GIT_DIFF
       - name: Create diff log
-        run: git diff software/README.md README_main.md > diff.log
+        run: git diff --no-index README_main.md software/README.md > diff.log
         if: env.GIT_DIFF
       - name: Get pwd and list files
         run: pwd && ls -la
