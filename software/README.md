@@ -1544,8 +1544,49 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 |Fortinet| FortiVoice| |  | Not vuln |  | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiWeb Cloud| |  | Not vuln |  | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| ShieldX| |  | Vulnerable |  | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fujitsu| ServerView Suite | Unknown |  | Vulnerable |  | | Log4j v2.12 present in ServerView Operations Manager |[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
-|Fujitsu| SecDocs | Unknown |  | Vulnerable |  | ||[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
+| Fujitsu | AIS Connect | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | BeanConnect | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | BS2000 Hardware | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | BS2000 Software | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | BX400 | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | BX900 MMB | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | eLux RP on FUTRO | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS AB/HB | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS CS800 | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS CS8000 | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS DX/AF | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS JX | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS LT140/260 | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS LT20/40/60 | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS SF | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ETERNUS SF MA | Unkown | Investigation | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | FlexFrame | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | INTELLIEGDLE A/G | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | iRMC on PRIMERGY: | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ISM for PRIMERGY, PQ | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | NECoP | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | openFT | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | openSEAS | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | openUTM | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | openUTM (WebAdm.) | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | PRIMEFLEX for MS S2D | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | PTC Axeda (AIS Con.) | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SBAX2 | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SBAX3 | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SecDocs | Unkown | Not vuln | Workaround | Workaround | Workaround |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ServerView IM | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ServerView OM | Unkown | Not vuln | Workaround | Workaround | Workaround |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ServerView OM/UM | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ServerView RAID | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ServerView Rem. Con. | Unkown | Investigation | Investigation | Investigation | Investigation |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | ServerView VIOM | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SOA Pro. Mgmt. Service | Unkown | Investigation | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SOA SysRollout Service | Unkown | Investigation | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SVS Servicesfor ISM | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SVS UME +LinuxLife | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SVS VMware Op.Mgr | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | SVS VMware vCenter | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
+| Fujitsu | WebTransactions | Unkown | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf) |
 |F-Secure| Endpoint Proxy | 13-15| Not vuln | Fix |  | | |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
 |F-Secure| Policy Manager | 13-15| Not vuln | Fix |  | | |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
 |F-Secure| Policy Manager Proxy| 13-15| Not vuln | Fix |  | | |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
