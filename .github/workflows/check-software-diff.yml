@@ -1,6 +1,7 @@
 name: Check software list changes
 
-on: pull_request
+# Triggers the workflow on push or pull request events
+on: [push, pull_request]
 
 
 jobs:
@@ -12,8 +13,11 @@ jobs:
       - uses: technote-space/get-diff-action@v5
         with:
           FILES: software/README.md
+      - name: Download current version
+        run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md 
+        if: env.GIT_DIFF
       - name: Create diff log
-        run: git diff ${FROM}${DOT}${TO} > diff.log
+        run: git diff software/README.md README_main.md > diff.log
         if: env.GIT_DIFF
       - name: Get pwd and list files
         run: pwd && ls -la
