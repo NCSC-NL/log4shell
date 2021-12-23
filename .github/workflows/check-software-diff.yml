@@ -1,7 +1,11 @@
 name: Check software list changes
 
 # Triggers the workflow on push or pull request events
-on: [push, pull_request]
+on:
+  push:
+    paths: software/README.md
+  pull_request:
+    paths: software/README.md
 
 
 jobs:
@@ -9,25 +13,19 @@ jobs:
     name: Table checker
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: technote-space/get-diff-action@v5
-        with:
-          FILES: software/README.md
+      - name: Checkout repo
+        uses: actions/checkout@v2
       - name: Download current version
         run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md 
-        if: env.GIT_DIFF
       - name: Get pwd and list files
         run: pwd && ls -la
       - name: Create diff log
         run: diff README_main.md software/README.md > diff.log
-        if: env.GIT_DIFF
       - name: List files
         run: ls -la
       - name: Print diff
         # Print diff
         run: cat diff.log
-        if: env.GIT_DIFF
       - name: Check table
         # Check only added lines
         run: python3 .github/check_valid.py diff.log
-        if: env.GIT_DIFF
