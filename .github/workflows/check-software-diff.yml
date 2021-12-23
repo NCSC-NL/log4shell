@@ -20,7 +20,8 @@ jobs:
       - name: Get pwd and list files
         run: pwd && ls -la
       - name: Create diff log
-        run: diff README_main.md software/README.md > diff.log
+        # Circumvent early exit as there are changes
+        run: (git diff --no-index README_main.md software/README.md || true ) > diff.log
       - name: List files
         run: ls -la
       - name: Print diff
