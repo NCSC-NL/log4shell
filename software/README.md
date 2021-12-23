@@ -1494,25 +1494,25 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 |FileCap| FileCap Server | 5.1.1 | Not vuln | Fix |  | | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 |FileCap| FileCap Plugins || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 | FileZilla | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://forum.filezilla-project.org/viewtopic.php?f=6&t=54338)|
-|Forcepoint |Advanced Malware Detection                                                           || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Behavioral Analytics                                                                 ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Bitglass SSE                                                                         || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |CASB                                                                                 ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Content Gateway                                                                      || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |DDP/DUP/DPS                                                                          ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Directory Synchronization Client                                                     || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |DLP Manager                                                                          || Not vuln | Workaround |  | | |[source](https://support.forcepoint.com)|
-|Forcepoint |Email Security                                                                       || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Forcepoint Cloud Security Gateway (CSG)                                              || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com)|
-|Forcepoint |Insider Threat                                                                    || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Next Generation Firewall (NGFW)                                                      || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com)|
+|Forcepoint |Advanced Malware Detection || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |Behavioral Analytics ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |Bitglass SSE || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |CASB ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |Content Gateway || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |DDP/DUP/DPS ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |Directory Synchronization Client || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |DLP Manager || Not vuln | Workaround |  | | |[source](https://support.forcepoint.com)|
+|Forcepoint |Email Security || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |Forcepoint Cloud Security Gateway (CSG) || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com)|
+|Forcepoint |Insider Threat || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |Next Generation Firewall (NGFW) || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com)|
 |Forcepoint |Next Generation Firewall, NGFW VPN Client, Forcepoint User ID service and Sidewinder || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com)|
 |Forcepoint |Next Generation Firewall Security Management Center, and virtual SMC appliances (NGFW)|| Not vuln | Workaround |  | | |[source](https://support.forcepoint.com/s/article/CVE-2021-44228-Java-log4j-vulnerability-mitigation-with-NGFW-Security-Management-Center)|
-|Forcepoint |One Endpoint                                                                         || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com)|
-|Forcepoint |Private Access                                                                       || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Remote Browser Isolation                                                             || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
-|Forcepoint |Security Manager (Web, Email and DLP)                                                || Not vuln | Workaround |  | | |[source](https://support.forcepoint.com)|
-|Forcepoint |Web Security                                                                         ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |One Endpoint || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com)|
+|Forcepoint |Private Access || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |Remote Browser Isolation || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
+|Forcepoint |Security Manager (Web, Email and DLP) || Not vuln | Workaround |  | | |[source](https://support.forcepoint.com)|
+|Forcepoint |Web Security ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forescout | | |  | Investigation |  | | | [source](https://www.forescout.com/blog/forescout%e2%80%99s-response-to-cve-2021-44228-apache-log4j-2/) |
 |ForgeRock        | Autonomous Identity |  | Not vuln | Workaround |  | | all other ForgeRock products not vuln | [source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa)  |
 |Fortinet| FortiAIOps| version < 1.0.1 |  | Vulnerable |  | | Fixed in version 1.0.2 |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -3148,7 +3148,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Pure Storage | FlashBlade | All versions |  | Vulnerable |  | | See Link for planned Fixes | [source](https://support.purestorage.com/Field_Bulletins/Interim_Security_Advisory_Regarding_CVE-2021-44228_log4j) |
 | Pure Storage | VM Analytics OVA Collector | <v3.1.4 | Not vuln | Fix |  | | | [source](https://support.purestorage.com/Pure1/Pure1_Manage/005_Pure1_Manage_-_Fleet/06_Pure1_Manage_-_Virtual_Machines_(VM_Analytics)#The_OVA_Collector) |
 | PuTTY | PuTTY | |  | Not vuln |  | | | [source](https://www.chiark.greenend.org.uk/~sgtatham/putty/) |
-| Pyramid Analytics                               | Pyramid Analytics                               | All     | Not vuln | Not vuln | Not vuln | Not vuln |       | [source](https://community.pyramidanalytics.com/t/83hjjt4/log4j-security-vulnerability-pyramid) |
+| Pyramid Analytics | Pyramid Analytics | All | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://community.pyramidanalytics.com/t/83hjjt4/log4j-security-vulnerability-pyramid) |
 
 ### Q
 
@@ -3322,6 +3322,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Ruckus          | SmartZone 300 (SZ-300) | 5.1 to 6.0 |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 | Ruckus          | Unleashed |  |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
 | Ruckus          | Virtual SmartZone (vSZ) | 5.1 to 6.0 |  | Vulnerable |  | | Additional details in [PDF](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf)/[Text](https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt) (Sign-in Required) | [source](https://support.ruckuswireless.com/security_bulletins/313) |
+| RuneCast | RuneCast Analyzer | 6.0.4 | Not vuln | Fix | Fix | Fix | | [source](https://www.runecast.com/blog/runecast-6-0-1-0-covers-apache-log4j-java-vulnerability) |
 
 ### S
 
