@@ -214,7 +214,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Apache        | Kafka | All versions | Workaround | Not vuln | Not vuln | Not vuln | Uses Log4j 1.2.17 | [source](https://kafka.apache.org/cve-list) |
 | Apache        | Karaf | Unknown |  | Vulnerable |  | | Depends on [PAX logging](https://github.com/ops4j/org.ops4j.pax.logging/issues/414) which is affected |[source](https://mail-archives.apache.org/mod_mbox/karaf-dev/202112.mbox/browser) |
 | Apache        | Log4j 1.x | All versions | Workaround | Not vuln | Not vuln | Not vuln | |[source](https://access.redhat.com/security/cve/CVE-2021-4104) |
-| Apache        | Log4j 2 | 2.3.1,<br>2.12.3,<br>2.17.0 | Not vuln | Fix | Fix | Fix | |[source](https://logging.apache.org/log4j/2.x/security.html) |
+| Apache        | Log4j 2 | 2.3.1, 2.12.3, 2.17.0 | Not vuln | Fix | Fix | Fix | |[source](https://logging.apache.org/log4j/2.x/security.html) |
 | Apache        | Maven | All Versions |  | Not vuln |  | |  |[source](https://blogs.apache.org/security/entry/cve-2021-44228) |
 | Apache        | NiFi | All Versions| Not vuln | Fix |  | | Fixed in 1.15.1, 1.16.0 | [source](https://issues.apache.org/jira/browse/NIFI-9474) |
 | Apache        | OFBiz | < 18.12.03 | Not vuln | Fix |  | | Fixed in 18.12.03 | [source](https://blogs.apache.org/security/entry/cve-2021-44228) |
@@ -3164,10 +3164,10 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Red Hat         | Red Hat OpenShift Container Platform 4.6 openshift4/ose-metering-presto | 4.6.52 | Not vuln | Fix |  | | [RHSA-2021:5141](https://access.redhat.com/errata/RHSA-2021:5141) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenShift Container Platform 4.7 openshift4/ose-metering-presto | 4.7.40 | Not vuln | Fix |  | | [RHSA-2021:5107](https://access.redhat.com/errata/RHSA-2021:5107) | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenShift Container Platform 4.8 openshift4/ose-metering-presto | 4.8.24 | Not vuln | Fix |  | | [RHSA-2021:5148](https://access.redhat.com/errata/RHSA-2021:5148)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8	 | 5.0.10 | Not vuln | Fix |  | | [RHSA-2021:5137](https://access.redhat.com/errata/RHSA-2021:5137)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging 5.1 openshift-logging/elasticsearch6-rhel8	 | 5.1.5 | Not vuln | Fix |  | | [RHSA-2021:5128](https://access.redhat.com/errata/RHSA-2021:5128)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging 5.2 openshift-logging/elasticsearch6-rhel8	 | 5.2.4 | Not vuln | Fix |  | | [RHSA-2021:5127](https://access.redhat.com/errata/RHSA-2021:5127)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
-| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8	 | 5.3.1 | Not vuln | Fix |  | | [RHSA-2021:5129](https://access.redhat.com/errata/RHSA-2021:5129)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8 | 5.0.10 | Not vuln | Fix |  | | [RHSA-2021:5137](https://access.redhat.com/errata/RHSA-2021:5137)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.1 openshift-logging/elasticsearch6-rhel8 | 5.1.5 | Not vuln | Fix |  | | [RHSA-2021:5128](https://access.redhat.com/errata/RHSA-2021:5128)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.2 openshift-logging/elasticsearch6-rhel8 | 5.2.4 | Not vuln | Fix |  | | [RHSA-2021:5127](https://access.redhat.com/errata/RHSA-2021:5127)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
+| Red Hat         | Red Hat OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8 | 5.3.1 | Not vuln | Fix |  | | [RHSA-2021:5129](https://access.redhat.com/errata/RHSA-2021:5129)| [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat OpenStack Platform 13 (Queens) opendaylight |  |  | Vulnerable |  | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Process Automation 7 |  |  | Vulnerable |  | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
 | Red Hat         | Red Hat Single Sign-On 7 |  |  | Not vuln |  | | | [source](https://access.redhat.com/security/cve/cve-2021-44228) |
