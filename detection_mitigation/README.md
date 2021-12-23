@@ -72,7 +72,7 @@ Detection can be split up to three phases:
 7. IP addresses of attackers which are known to actively exploit the vulnerability (enrichment)
    - See [../iocs/README.md]
 
-**Conclusion:**
+**Possible conclusion:**
 1. Somebody has scanned your asset to identify if it is vulnerable.
 
 ### Phase 2: Identify if a vulnerable application has attempted to retrieve the malicious code for potential execution.
@@ -83,19 +83,15 @@ Detection can be split up to three phases:
 
 **Logs:**
 1. Web proxy (outbound) 
-   - See the [JNDI regex guide](#overall-jndi-detection-regex).
 2. Firewall (outbound)
-   - See the [JNDI regex guide](#overall-jndi-detection-regex).
 3. Load balancer (outbound)
-   - See the [JNDI regex guide](#overall-jndi-detection-regex).
 4. IDS/IPS (across the network)
-   - See the [JNDI regex guide](#overall-jndi-detection-regex).
 5. Machine logs (Sysmon/security logs)
    - See [here](#behavior-of-injected-jndi-strings-in-vulnerable-log4j-instances) for more information about the log-writing behavior of vulnerable Log4J instances.
 6. IP addresses of attackers which are known to actively exploit the vulnerability (enrichment)
    - See [../iocs/README.md]
 
-**Conclusion:**
+**Possible conclusion:**
 1. The targeted application is vulnerable and has contacted the remote server to download a payload. You still need to verify whether this was a scan from a benign actor or an actual attack, by verifying whether a malicious payload was retrieved to the application’s host.
 
 ### Phase 3: Download of the malicious code and execution of the malicious code on the vulnerable machine
@@ -107,19 +103,15 @@ Detection can be split up to three phases:
 
 **Logs:**
 1. Web proxy (inbound)
-   - See the [JNDI regex guide](#overall-jndi-detection-regex).
 2. Firewall (inbound)
-   - See the [JNDI regex guide](#overall-jndi-detection-regex).
 3. Load balancer (inbound)
-   - See the [JNDI regex guide](#overall-jndi-detection-regex).
 4. IDS/IPS (across the network)
-   - See the [JNDI regex guide](#overall-jndi-detection-regex).
 5. Application logs (Log4J) (inbound)    - See [here](#behavior-of-injected-jndi-strings-in-vulnerable-log4j-instances) for more information about the log-writing behavior of vulnerable Log4J instances.
 6. Machine logs (Sysmon/security logs)
    - Some exploitation attempts have been observed where Log4J crashes while attempting to execute a malicious LDAP payload. Machine/System logs might provide stack traces of these failures.
 7. Process monitoring
 
-**Conclusion:**
+**Possible conclusion:**
 1. The targeted application has downloaded the
    malicious payload. Execution of the payload can be
    identified through host-based process monitoring and
@@ -176,7 +168,7 @@ Injected JNDI strings are displayed differently in log files written to by a vul
 
 - In case no successful (e.g. a DNS NXDOMAIN response or no response at all) response is received, the injected JNDI string will be displayed.
 - In case a response is received the corresponding classname will be logged such as `com.sun.jndi.dns.DnsContext@<hashcode>` for DNS. In case of RMI the loaded local class will be displayed, for example `javax.el.ELProcessor@<hashcode>`, but this might be any class on the vulnerable host loaded by an attacker.
-- Some cases have been observed where LDAP requests are being sent and a malicious class being loaded/executed, but no logging was written by Log4J, probably due to Log4J crashing while executing/evaluation the provided class. 
+- Some cases have been observed where LDAP requests are being sent and a malicious class being loaded/executed, but no logging was written by Log4J, probably due to Log4J crashing while executing/evaluating the provided class. 
 
 > **Java Hashcodes**:
 When an object is printed it is followed by a `@<hashcode>`. For example: `com.sun.jndi.dns.DnsContext@28a418fc`. Java uses the hash of an object to perform actions such as sorting a collection of object. For more information see [Object::hashCode](https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#hashCode()).
