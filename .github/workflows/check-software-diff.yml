@@ -1,0 +1,32 @@
+name: Check software list changes
+
+# Triggers the workflow on push or pull request events
+on:
+  push:
+    paths: software/README.md
+  pull_request:
+    paths: software/README.md
+
+
+jobs:
+  checker:
+    name: Table checker
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Download current version
+        run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md 
+      - name: Get pwd and list files
+        run: pwd && ls -la
+      - name: Create diff log
+        # Circumvent early exit as there are changes
+        run: (git diff --no-index README_main.md software/README.md || true ) > diff.log
+      - name: List files
+        run: ls -la
+      - name: Print diff
+        # Print diff
+        run: cat diff.log
+      - name: Check table
+        # Check only added lines
+        run: python3 .github/check_valid.py diff.log
