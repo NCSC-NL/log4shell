@@ -1090,6 +1090,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Cyberark  | Secrets Manager Conjur Enterprise || Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cyberark  | Secrets Manager Credential Providers || Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://cyberark-customers.force.com/s/article/Critical-Vulnerability-CVE-2021-44228) |
 | Cybereason | All Cybereason products | Unknown | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://www.cybereason.com/blog/cybereason-solutions-are-not-impacted-by-apache-log4j-vulnerability-cve-2021-44228) |
+| Cydar Medical   | EV system |  |  | Not Vuln |  |  | | [source](https://www.cydarmedical.com/news/cydar-response-to-apache-log4j-vulnerability) |
 
 ### D
 
@@ -1380,6 +1381,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | EAL | ATS Classic | All Versions |  | Not vuln |  | | | See vendor-statements |
 | Eaton | Power Protector | 1.68 |  | Fix |  |  |  | [source](https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/Eaton-Security-Bulletin%20log4j_CVE_2021_44228_v1.0_Legal-Approved.pdf) |
 | EclecticIQ | TIP | < 2.11 |  | Vulnerable |  | | The Threat Intel Platform includes Neo4j 3.5.12 (not vulnerable) and Elasticsearch and Logstash OSS 7.9.1 (vulnerable) see Elasticsearch below for mitigation. see link in their own fix for Logstash (Support account needed, ongoing investigation) | [source/fix](https://docs.eclecticiq.com/security-advisories/security-issues-and-mitigation-actions/eiq-2021-0016-2) |
+| Edwards   | All |  |  | Not Vuln |  |  | | [source](https://www.edwards.com/devices/support/product-security) |
 | eG Innovations         | eG Enterprise | 7.1.8-7.1.9 |  | Not vuln |  | |  Patch to Remove old log4j | [source](https://www.eginnovations.com/brochures/eGEnterprise-and-Log4jShell-Vulnerability.pdf) |
 | Elastic         | APM Java Agent | 1.17.0-1.28.0 | Not vuln | Workaround |  | |  Only vulnerable with specific configuration | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
 | Elastic         | APM Server | |  | Not vuln |  | |   | [source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476) |
@@ -1649,6 +1651,23 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Hitachi Energy | UNEM | R15A, R14B, R14A, R11BSP1 | Not vuln | Workaround |  | | | [source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000089&LanguageCode=en&DocumentPartId=&Action=Launch) |
 | Hitachi Vantara | Pentaho | v8.3.x, v9.2.x | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 | HMS-Networks |  |  |  |  |  |  |  |  [source](https://www.hms-networks.com/cybersecurity) |
+| Hologic | Advanced Workflow Manager (AWM) |  |  | Underinvestigation |  |  | While the Hologic software itself does not utilize Java/Log4J, the installed APC PowerChute UPS with Business Edition v9.5 software installed may. APC is still assessing its PowerChute software to determine if it is vulnerable.  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Affirm Prone Biopsy System |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Brevera Breast Biopsy System |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Cenova Image Analytics Server (CAD) |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Dimensions / 3Dimensions Mammography System |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Discovery Bone Densitometer |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Faxitron CT Specimen Radiography System |  |  | Underinvestigation |  |  | While the Hologic software itself does not utilize Java/Log4J, there is a utility program installed that may utilize Java and Log4J. This utility program does not run on startup and is not required for system operation.  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Faxitron Specimen Radiography Systems  |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Fluoroscan Insight Mini C-Arm |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Horizon DXA Bone Densitometer |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Rosetta DC Tomosynthesis Data Converter |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | SecurView DX/RT Workstation and Manager |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | SecurXChange Router   |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | SuperSonic Imagine Ultrasound Products (Aixplorer & Aixplorer Mach) |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Trident HD Specimen Radiography System |  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Unifi Workspace |  |  | Underinvestigation |  |  | While the Hologic software itself does not utilize Java/Log4J, the installed APC PowerChute UPS with Business Edition v9.5 software installed may. APC is still assessing its PowerChute software to determine if it is vulnerable.  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
+| Hologic | Windows Selenia Mammography System|  |  | Not Vuln |  |  |  | [source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity) |
 | HostiFi | Unifi hosting | Unknown | Not vuln | Fix |  | | Hosted Unifi solution | [source](https://twitter.com/hostifi_net/status/1440311322592231436) |
 | HPE |3PAR Service Processor | 5.x | Not vuln | Fix |  | | Fixed in version 5.0.9.2 | [source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us), [release notes](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=a00002915en_us) |
 | HPE |3PAR StoreServ Arrays| | Not vuln | Not vuln | Not vuln | Not vuln | |  [source](https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=a00120086en_us) |
@@ -2520,6 +2539,41 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | LastPass | Other products | |  | Not vuln |  | | | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
 | LastPass | LastPass MFA |  | Not vuln | Fix |  | | Universal Proxy on Windows with Debug logging enabled are highly recommended to update to the newest version of the Universal Proxy 3.0.2 or 4.1.2 | [source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy) |
 | LeanIX | All products | All versions | Not vuln | Fix |  | | | [source](https://www.leanix.net/en/blog/log4j-vulnerability-log4shell) |
+| Lecia biosystem | Aperio AT2 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio AT2 DX |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio CS2 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio eSlide Manager |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio GT 450 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio GT 450 DX |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio ImageScope |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio ImageScope DX |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio LV1 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio SAM DX Server For GT 450 DX |  | Vulnerable | Not Vuln |  |  | Uses Mirth Connect - See supplier Vyaire Medical further in the list | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio Scanner Administration Manager (SAM) Server for GT 450 |  |  | Not Vuln |  |  | Uses Mirth Connect - See supplier Vyaire Medical further in the list | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio VERSA |  | Vulnerable | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Aperio WebViewer DX |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | BOND-ADVANCE |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | BOND Controller |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | BOND-III |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | BOND-MAX |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | BOND RX / RXm |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | CEREBRO |  | Vulnerable | Not Vuln |  |  | Uses Mirth Connect - See supplier Vyaire Medical further in the list | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | CytoVision |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | HistoCore PEARL |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | HistoCore PEGASUS |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | HistoCore SPECTRA CV |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | HistoCore SPECTRA ST |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | HistoCore SPIRIT ST |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | HistoCore SPRING ST |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Leica ASP300S |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Leica CV5030 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Leica ST4020 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Leica ST5010 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Leica ST5020 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | Leica TP1020 |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | LIS Connect |  | Vulnerable | Not Vuln |  |  | Uses Mirth Connect - See supplier Vyaire Medical further in the list | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | PathDX |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
+| Lecia biosystem | ThermoBrite Elite |  |  | Not Vuln |  |  |  | [source](https://www.leicabiosystems.com/about/product-security/) |
 | Lenovo | Any 5594 UPS unit |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
 | Lenovo | Any 5595 UPS unit |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://support.lenovo.com/us/en/product_security/LEN-76573) |
 | Lenovo | B300 FC SAN Switch | 2.0.0, 2.1.0, 2.1.1 | Not vuln | Workaround |  | |  | [source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651) |
