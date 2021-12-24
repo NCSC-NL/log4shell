@@ -55,6 +55,7 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | CronUp  | 13-12-2021 | Kinsing, Mirai, Muhstik | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets |
 | CronUp (2) | 19-12-2021 | Kinsing, Mirai | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-19_MiraiLog4ShellWorm |
 | yt0ng | 15-12-2021 | Muhstik, Monero Miner | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
+| Maik Morgenstern | 16-12-2021| Kinsing | https://twitter.com/TriggerMeHappy/status/1471488408916615169 |
 | eromang | 21-12-2021 | Backdoor.Ganiw.A, Mirai, Monero Miner | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
 | NOC.org | Dynamicly updated | Various | https://reputation.noc.org/jndi-attack-logs/ |
 
