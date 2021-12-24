@@ -1599,7 +1599,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Genesys | All products ||  | Investigation |  | ||[source](https://www.genesys.com/blog/post/genesys-update-on-the-apache-log4j-vulnerability)|
 | GeoSolutions | GeoServer |All versions | Not vuln | Not vuln | Not vuln | Not vuln ||[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
 | GeoSolutions | Geonetwork | All versions | Not vuln | Workaround |  | ||[source](https://my.geocat.net/knowledgebase/125/Log4j-RCE-CVE-2021-44228-vulnerability-patch.html)|
-| GFI Software | Kerio Connect | |  | Vulnerable |  | | | [source](https://forums.gfi.com/index.php?t=msg&th=39096&start=0&)|
+| GFI Software | Kerio Connect | 9.3.1p2 | Not vuln | Workaround | Vulnerable | Vulnerable | | [source](https://forums.gfi.com/index.php?t=msg&th=39096&start=0&)|
 | Ghisler | Total Commander | All |  | Not vuln |  | | Third Party plugins might contain log4j | [source](https://www.ghisler.com/whatsnew.htm) |
 | GitHub | Github Enterprise Server | 3.3.1, 3.2.6, 3.1.14, 3.0.22 | Not vuln | Fix |  | | | [source](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/) |
 | GitLab | DAST analyzer | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/) |
