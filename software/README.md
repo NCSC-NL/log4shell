@@ -3710,7 +3710,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Trend Micro | Cloud One - Workload Secuity  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Cloud Sandbox  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Deep Discovery Analyzer  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| Trend Micro | Deep Discovery Director  |  | Not vuln | Workaround |  | | Patch expected 12/24 |[source](https://success.trendmicro.com/solution/000289940) |
+| Trend Micro | Deep Discovery Director | 5.3 CP B1225 | Not vuln | Fix | Fix | Fix |  |[source](https://success.trendmicro.com/solution/000290055) |
 | Trend Micro | Deep Discovery Email Inspector  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Deep Discovery Inspector  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Deep Discovery Web Inspector  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
