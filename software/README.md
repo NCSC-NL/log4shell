@@ -3452,7 +3452,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Wind River | Wind River Linux | > 8 | Not vuln | Not vuln | Not vuln | Not vuln | no support for log4j | [source](https://support2.windriver.com/index.php?page=security-notices&on=view&id=7191)|
 | Wireshark | Wireshark | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://www.wireshark.org/news/20211215.html)|
 | WitFoo | WitFoo Precinct | 6.x | Not vuln | Fix |  | | WitFoo Streamer & Apache Kafka Docker containers are/were vulnerable | [source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
-| WolfPack Softwae | Docvue Client Agent and Server Agent | 11.1.6.10447 | Fix | Unknown | Unknown | Unknown | New client package can be retrieved from support. | [source] https://user-images.githubusercontent.com/89155495/146959966-a3d39148-0b76-44a4-8418-5e91fa40ca2a.png  |
+| WolfPack Softwae | Docvue Client Agent and Server Agent | 11.1.6.10447 | Fix | Unknown | Unknown | Unknown | New client package can be retrieved from support. | [source] https://user-images.githubusercontent.com/89155495/147365863-af6f478f-cf14-41b3-a07c-791e8f198bd1.png  |
 | WordPress | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://wordpress.org/support/topic/is-the-log4j-vulnerability-an-issue/)|
 | Wowza | Wowza Streaming Engine | 4.7.8, 4.8.x | Not vuln | Workaround |  | | |[source](https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve) |
 | WSO2 | WSO2 API Manager | >= 3.0.0 | Not vuln | Workaround |  | | | [source](https://docs.wso2.com/pages/viewpage.action?pageId=180948677) |
