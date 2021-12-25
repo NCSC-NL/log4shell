@@ -3538,6 +3538,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Sophos          | Sophos ZTNA |  |  | Not vuln |  | | | [source](https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce) |
 | SOS (Berlin)    | Jobscheduler | 1.12.15, 1.13.10, 2.2.0, 2.1.3 | Not vuln | Fix |  | | | [source](https://www.sos-berlin.com/en/news-maintenance-releases-and-patches-mitigation-log4j-vulnerabilities) |
 | Specops Software | All |  |  | Not vuln |  | | | [source](https://specopssoft.com/blog/apache-log4j-vulnerability/) |
+| Spectralink      | All | | | Not vuln | Not vuln | Not vuln | using version 1.2.17 | [source](https://support.spectralink.com/system/tdf/resource_files/CS-21-04%20Security%20Vulnerability%20Log4j2.pdf?file=1&type=node&id=3242867) |
 | Splunk          | Add-On: Java Management Extensions | 5.2.1 | Not vuln | Fix |  | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Add-On: JBoss | 3.0.1 | Not vuln | Fix |  | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
 | Splunk          | Add-On: Tomcat | 3.0.1 | Not vuln | Fix |  | | | [source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html) |
