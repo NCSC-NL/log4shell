@@ -49,8 +49,8 @@
 |Forcepoint|Web Security| | |Investigation| | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forescout|All| | |Investigation| | | |[source](https://www.forescout.com/blog/forescout%e2%80%99s-response-to-cve-2021-44228-apache-log4j-2/)|
 |ForgeRock|Autonomous Identity| |Not vuln|Workaround| | |all other ForgeRock products not vuln|[source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa)|
-|Fortinet|FortiADC| | |Not Vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiAI| | |Not Vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiADC| | |Not vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiAI| | |Not vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAIOps|1.0.2| |Fix| | |Fixed in version 1.0.2|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAnalyzer| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAnalyzer Big Data| 6.4.7 and 7.0.2 | | Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
