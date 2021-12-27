@@ -25,15 +25,6 @@ HEADERS = [
     'Links'
 ]
 
-def download_softwarelist() -> str:
-    """ Download softwarelist to parse
-
-    :return: Markdown content of software list
-    """
-    url = "https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/software_list.md"
-    response = requests.get(url)
-    return response.content
-
 def parse_links(links: List[Tag] = None) -> dict:
     """ Get all links info from Links column
 
@@ -95,8 +86,8 @@ def main(ctx, path):
     software_lists = sorted(f for f in path.iterdir() if 'software_list_' in f.name)
 
     for software_file in software_lists:
-        for record in parse_software_file(software_file):
-            records.append(record)
+        file_records = [r for r in parse_software_file(software_file)]
+        records += file_records
 
     ctx.obj['records'] = records
 
