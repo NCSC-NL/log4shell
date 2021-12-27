@@ -23,4 +23,5 @@ The following status labels are in use:
 
 The `Version` relates to the `Status` column. If `Status` field is set to 'Vulnerable', the `Version` field indicates vulnerable version(s) if these version numbers are known to us. If `Status` is set to 'Fix', the `Version` field indicates the version(s) in which the fix was introduced. Some products do not have clear version numbers, in which case the `Version` field is empty. We advise readers to follow the provided source links for more detailed information.
 
-[Open Software list](software_list.md)
+[0-9](software_list_0-9.md) [A](software_list_a.md) [B](software_list_b.md) [C](software_list_c.md) [D](software_list_d.md) [E](software_list_e.md) [F](software_list_f.md) [G](software_list_g.md) [H](software_list_h.md) [I](software_list_i.md) [J](software_list_j.md) [K](software_list_k.md) [L](software_list_l.md) [M](software_list_m.md) [N](software_list_n.md) [O](software_list_o.md) [P](software_list_p.md) [Q](software_list_q.md) [R](software_list_r.md) [S](software_list_s.md) [T](software_list_t.md) [U](software_list_u.md) [V](software_list_v.md) [W](software_list_w.md) [X](software_list_x.md) [Y](software_list_y.md) [Z](software_list_z.md)
+
