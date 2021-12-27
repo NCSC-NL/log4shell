@@ -39,8 +39,4 @@ jobs:
         run: cat diff_*.log
       - name: Check table
         # Check only added lines
-        run: | 
-          for i in ${{ env.list }};
-          do
-            python3 .github/check_valid.py diff_${i}.log
-          done
+        run: python3 .github/check_valid.py `ls diff_*.log`

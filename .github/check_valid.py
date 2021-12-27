@@ -36,11 +36,15 @@ def parseDiff(difffile):
 	return errors
 
 def main():
-	difffile=sys.argv[1]
-	errors=parseDiff(difffile)
-	if (len(errors) != 0):
-		for (line, error) in errors:
-			print(line, "\t\t", error)
+	valid=True
+	for difffile in sys.argv[1:]:
+		errors=parseDiff(difffile)
+		if (len(errors) != 0):
+			valid=False
+			print("Error in", difffile)
+			for (line, error) in errors:
+				print("\t", line, "\t\t", error)
+	if not valid:
 		exit(1)
 
 
