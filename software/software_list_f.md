@@ -51,9 +51,9 @@
 |ForgeRock|Autonomous Identity| |Not vuln|Workaround| | |all other ForgeRock products not vuln|[source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa)|
 |Fortinet|FortiADC| | |Not Vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAI| | |Not Vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiAIOps|version <= 1.0.1| |Vulnerable| | |Fixed in version 1.0.2|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiAIOps|1.0.2| |Fix| | |Fixed in version 1.0.2|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAnalyzer| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiAnalyzer Big Data| <6.4.7 and <7.0.2 | | Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiAnalyzer Big Data| 6.4.7 and 7.0.2 | | Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAnalyzer Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAP| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAuthenticator| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
