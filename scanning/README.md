@@ -10,6 +10,7 @@ Checks if the application is vulnerable to CVE-2021-44228.
 | Source      | Notes        | Links |
 |:----------------|:----------------|:---------------:|
 | Canary Tokens |  Log4Shell Vulnerability Tester | https://canarytokens.org/generate |
+| CrowdStrike  | Free Targeted Log4j Search Tool | https://www.crowdstrike.com/blog/free-targeted-log4j-search-tool/ |
 | crypt0jan     | Perform a scan of a single host (using Powershell) to see if it's vulnerable | https://github.com/crypt0jan/log4j-powershell-checker |
 | Diverto | Nmap NSE scripts to check against log4shell | https://github.com/Diverto/nse-log4shell |
 | Dtact | DIVD-2021-00038 log4j scanner Scan paths including archives for vulnerable log4 | https://github.com/dtact/divd-2021-00038--log4j-scanner |
@@ -49,6 +50,7 @@ Checks if the application or system is using Log4j2.
 |:----------------|:----------------|:---------------:|
 | 1lann  | Scans a file or folder recursively for jar files that may be vulnerable | https://github.com/1lann/log4shelldetect |
 | Aholzel | Splunk query's to detect the used Log4j version and detect abuse | https://github.com/aholzel/log4j_splunk_querys |
+| Crowdstrike CAST | Quick scanner to walk filesystems looking for vulnerable versions of log4j (powershell) | https://github.com/CrowdStrike/CAST |
 | Devotech[^1] | Powershell: Queries domain servers and scans for log4j-core files. (slow) | https://github.com/devotech/check-log4j |
 | DIVD | This scanner will recursively scan paths including archives for vulnerable log4j versions and JndiLookup.class files. |https://github.com/dtact/divd-2021-00038--log4j-scanner |
 | Forescout | Samples of exploit attempts; The evolving Log4Shell story: analysis of ongoing and future exploits | https://github.com/Forescout/log4j_response |
