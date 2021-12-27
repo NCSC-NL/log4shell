@@ -28,5 +28,5 @@ python softwarelist_parser.py csv output.csv
 python softwarelist_parser.py json output.json
 
 # When using from different directory, point to software list readme via --path
-python softwarelist_parser.py --path /home/xx/download/software/README.md csv output.csv
+python softwarelist_parser.py --path /home/xx/download/software/ csv output.csv
 ```
