@@ -50,6 +50,7 @@ Checks if the application or system is using Log4j2.
 |:----------------|:----------------|:---------------:|
 | 1lann  | Scans a file or folder recursively for jar files that may be vulnerable | https://github.com/1lann/log4shelldetect |
 | Aholzel | Splunk query's to detect the used Log4j version and detect abuse | https://github.com/aholzel/log4j_splunk_querys |
+| Crowdstrike CAST | Quick scanner to walk filesystems looking for vulnerable versions of log4j (powershell) | https://github.com/CrowdStrike/CAST |
 | Devotech[^1] | Powershell: Queries domain servers and scans for log4j-core files. (slow) | https://github.com/devotech/check-log4j |
 | DIVD | This scanner will recursively scan paths including archives for vulnerable log4j versions and JndiLookup.class files. |https://github.com/dtact/divd-2021-00038--log4j-scanner |
 | Forescout | Samples of exploit attempts; The evolving Log4Shell story: analysis of ongoing and future exploits | https://github.com/Forescout/log4j_response |
