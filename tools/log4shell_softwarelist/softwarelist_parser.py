@@ -1,10 +1,10 @@
 import csv as py_csv
 import sys
 import json as py_json
-import pathlib
 import tempfile
 
-from typing import List
+from pathlib import Path
+from typing import List, Iterator
 
 import click
 import mistune
@@ -64,26 +64,39 @@ def parse_record(record: List[Tag] = None) -> dict:
 
     return result
 
-@click.group()
-@click.option('--path', default='../../software/README.md', help='Path to software list README.md', type=click.File())
-@click.pass_context
-def main(ctx, path):
+def parse_software_file(path: Path) -> Iterator[dict]:
+    """ Parse a single software list file
+
+    :param path: path of file to parse
+    :yield: a single parse record from file
+    """
 
     # Parse Markdown to HTML and get soup
-    content = path.read()
+    with path.open('r') as f:
+        content = f.read()
+
     html = mistune.html(content)
     soup = BeautifulSoup(html, 'html.parser')
 
     # Look for all tr columns with td fields, after first h3 header
+    for row in soup.find_all('tr'):
+        tds = row.find_all('td')
+
+        if tds:  # ensure empty tr are ignored
+            yield parse_record(tds)
+
+@click.group()
+@click.option('--path', default='../../software/', help='Path to software list', type=click.Path(exists=True, path_type=Path))
+@click.pass_context
+def main(ctx, path):
     records = list()
-    first_h3 = soup.find('h3')
 
-    for x in first_h3.next_elements:
-        if isinstance(x, Tag) and x.name == 'tr':
-            tds = x.find_all('td')
+    # Get list of software list files
+    software_lists = sorted(f for f in path.iterdir() if 'software_list_' in f.name)
 
-            if tds:  # ensure empty tr are ignored
-                records.append(parse_record(tds))
+    for software_file in software_lists:
+        for record in parse_software_file(software_file):
+            records.append(record)
 
     ctx.obj['records'] = records
 
