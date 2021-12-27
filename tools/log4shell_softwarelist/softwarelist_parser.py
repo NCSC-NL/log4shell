@@ -1,7 +1,6 @@
-import csv as py_csv
 import sys
+import csv as py_csv
 import json as py_json
-import tempfile
 
 from pathlib import Path
 from typing import List, Iterator
