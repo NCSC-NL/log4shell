@@ -779,13 +779,16 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 
 | Supplier        | Product         | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes           | Links |
 |:----------------|:----------------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:----------------|-----------:|
-| Canon | Alphenix (Angio Workstation) |  |  | Investigation |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | Canon DR Products (CXDI_NE) | Omnera, Flexpro, Soltus and more |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 | Canon | CT Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
-| Canon | Infinix-i (Angio Workstation) |  |  | Investigation |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | Eye-Care Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 | Canon | MR Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 | Canon | NM Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 | Canon | UL Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
-| Canon | Vitrea Advanced | 7.x |  | Investigation |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | Vitrea Advanced | 7.x |  | Workaround |  | | See source for mitigations provided by Canon | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | VL Alphenix Angio Workstation (AWS) |  |  | Vulnerable |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | VL Infinix-i and Alphenix DFP |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | VL Infinix-i Angio Workstation (AWS) |  |  | Workaround |  | | See source for mitigations provided by Canon | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 | Canon | XR Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 | Carbon Black | Cloud Workload Appliance | Unknown |  | Workaround |  | | More information on pages linked bottom of blogpost (behind login)| [source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134) |
 | Carbon Black | EDR Servers| Unknown |  | Workaround |  | | More information on pages linked bottom of blogpost (behind login)| [source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134) |
@@ -1494,6 +1497,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 |FileCap| FileCap Server | 5.1.3 | Not vuln | Fix | Fix | Fix | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 |FileCap| FileCap Plugins || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 | FileZilla | All | | Not vuln | Not vuln | Not vuln | Not vuln | | [source](https://forum.filezilla-project.org/viewtopic.php?f=6&t=54338)|
+| Fisher & Paykel Healthcare | All |  | Not vuln | Not vuln | Not vuln | Not vuln |  | [source](https://www.fphcare.com/us/our-company/contact-us/product-security/) |
 |Forcepoint |Advanced Malware Detection || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Behavioral Analytics ||  | Investigation |  | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forcepoint |Bitglass SSE || Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
@@ -2956,7 +2960,13 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | NVIDIA | CUDA Toolkit Nsight Eclipse Edition | 11.0 | Not vuln | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | CUDA Toolkit Visual Profiler | 11.5 and Prior |  | Vulnerable | Vulnerable | | Updated CUDA Toolkit version available mid-January 2022 | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix | Fix | Fix | Updates can be installed through the package manager | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | GeForce Experience client software |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | GeForceNOW client software |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | GPU Display Drivers for Windows and Linux |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | L4T Jetson Products |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | NetQ | 4.1.0 | | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | Networking products | All (except for NetQ) | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | SHIELD TV |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | | Workaround | Workaround | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NXLog | NXLog Manager |  5.x |  | Not vuln |  | | |                                                                                                                                                                                                                     [source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228) |
 
