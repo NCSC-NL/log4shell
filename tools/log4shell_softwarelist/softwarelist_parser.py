@@ -31,7 +31,7 @@ def download_softwarelist() -> str:
 
     :return: Markdown content of software list
     """
-    url = "https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md"
+    url = "https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/software_list.md"
     response = requests.get(url)
     return response.content
 

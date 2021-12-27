@@ -3,9 +3,9 @@ name: Check software list changes
 # Triggers the workflow on push or pull request events
 on:
   push:
-    paths: software/README.md
+    paths: software/software_list.md
   pull_request:
-    paths: software/README.md
+    paths: software/software_list.md
 
 
 jobs:
@@ -16,12 +16,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
       - name: Download current version
-        run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md -o README_main.md 
+        run: curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/software_list.md -o software_list_main.md
       - name: Get pwd and list files
         run: pwd && ls -la
       - name: Create diff log
         # Circumvent early exit as there are changes
-        run: (git diff --no-index README_main.md software/README.md || true ) > diff.log
+        run: (git diff --no-index software_list_main.md software/software_list.md || true ) > diff.log
       - name: List files
         run: ls -la
       - name: Print diff

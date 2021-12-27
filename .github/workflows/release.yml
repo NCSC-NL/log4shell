@@ -22,9 +22,9 @@ jobs:
 
     - run: pip install -r ${{ github.workspace }}/tools/log4shell_softwarelist/requirements.txt
 
-    - run: python ${{ github.workspace }}/tools/log4shell_softwarelist/softwarelist_parser.py --path ${{ github.workspace }}/software/README.md csv software_list.csv
+    - run: python ${{ github.workspace }}/tools/log4shell_softwarelist/softwarelist_parser.py --path ${{ github.workspace }}/software/software_list.md csv software_list.csv
 
-    - run: python ${{ github.workspace }}/tools/log4shell_softwarelist/softwarelist_parser.py --path ${{ github.workspace }}/software/README.md json software_list.json
+    - run: python ${{ github.workspace }}/tools/log4shell_softwarelist/softwarelist_parser.py --path ${{ github.workspace }}/software/software_list.md json software_list.json
 
     - uses: softprops/action-gh-release@v1
       with:
