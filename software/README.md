@@ -2769,7 +2769,7 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Mailcow | Mailcow Solr Docker| < 1.8 | Not vuln | Fix |  | | | [source](https://community.mailcow.email/d/1229-cve-2021-44228-vulnerability-solr) |
 | ManageEngine | ADAudit Plus | Unknown | Not vuln | Workaround | Workaround | Workaround | | [source](https://pitstop.manageengine.com/portal/en/community/topic/apache-log4j-vulnerability-cve-2021-44228-1) |
 | ManageEngine | ADManager Plus | Unknown | Not vuln | Workaround | Workaround | Workaround | | [source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-ad-manager-plus) |
-| ManageEngine | Desktop Central | Unknown | Not vuln | Workaround | Workaround | Workaround | | [source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-security-issue) |
+| ManageEngine | Desktop Central | 10.1.2127.20 | Fix | Not vuln | Not vuln | Not vuln |  | [source](https://pitstop.manageengine.com/portal/en/community/topic/log4j-security-issue) |
 | ManageEngine | EventLog Analyzer | Unknown | Not vuln | Workaround | Workaround | Workaround | | [source](https://pitstop.manageengine.com/portal/en/community/topic/fixing-log4j-cve-2021-44228-vulnerability-in-log360) |
 | Mathworks | MATLAB | All |  | Not vuln |  | | |[source](https://www.mathworks.com/content/dam/mathworks/policies/mathworks-response-to-cve-2021-44228-log4j-vulnerability.pdf) |
 | Mattermost   | Mattermost | |  | Not vuln |  | | | [source](https://forum.mattermost.org/t/security-update-log4j-security-vulnerability/12695) |
