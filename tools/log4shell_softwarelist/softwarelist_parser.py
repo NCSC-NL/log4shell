@@ -49,11 +49,12 @@ def parse_record(record: List[Tag] = None) -> dict:
     """
 
     result = dict()
+    link_index = len(HEADERS) - 1
 
     for index, header in enumerate(HEADERS):
         # Parse links differently
-        if index == 8:
-            if len(record) == 8:
+        if index == link_index:
+            if len(record) == link_index:
                 result[header] = {}
             else:
                 result[header] = parse_links(record[index].find_all('a'))
