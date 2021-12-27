@@ -8,7 +8,6 @@ from typing import List, Iterator
 
 import click
 import mistune
-import requests
 import unicodedata
 
 from bs4 import BeautifulSoup
