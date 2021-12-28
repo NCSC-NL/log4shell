@@ -49,34 +49,60 @@
 |Forcepoint|Web Security| | |Investigation| | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forescout|All| | |Investigation| | | |[source](https://www.forescout.com/blog/forescout%e2%80%99s-response-to-cve-2021-44228-apache-log4j-2/)|
 |ForgeRock|Autonomous Identity| |Not vuln|Workaround| | |all other ForgeRock products not vuln|[source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa)|
-|Fortinet|FortiAIOps|version < 1.0.1| |Vulnerable| | |Fixed in version 1.0.2|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiAnalyzer Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiADC| | |Not vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiAI| | |Not vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiAIOps|1.0.2| |Fix| | |Fixed in version 1.0.2|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAnalyzer| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiAnalyzer Big Data| 6.4.7 and 7.0.2 | | Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiAnalyzer Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAP| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAuthenticator| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiCASB| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiConvertor| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiCache| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiCarrier| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiCASB| ? | |Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiClient| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiClientEMS| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiClient Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiConnect| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiConverter Portal| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiCWP| ? | |Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiDDoS| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiDDoS-F | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiDeceptor| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiEDR Agent| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiEDR Cloud| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiEDR Cloud|Fix| |Vulnerable| | |Declared not exploitable but mitigations added on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiExtender| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiExtender Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiGate Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiGSLB Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiInsight| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiIsolator|2.3.4 | |Fix| | |Fix scheduled|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiLAN Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiMail| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiManager Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiManager| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiMonitor|Workaround | |Vulnerable| | |Mitigations for NCM & Elastiflow available|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiNAC| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiOS (includes FortiGate & FortiWiFi)| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiPenTest| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiPhish Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiPolicy| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiPortal|Fix| |Vulnerable| | |Fixed in version 6.0.8 and 5.3.8|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiPresence| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiProxy| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiRecorder| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiSandbox| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiSASE| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSIEM|Workaround| |Vulnerable| | |<a href="https://community.fortinet.com/t5/FortiSIEM/Techincal-Tip-FortiSIEM-Log4j-Mitigating-CVE-2021-44228/ta-p/201008" rel="nofollow">Mitigation steps</a>|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSOAR| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSwitch Cloud in FortiLANCloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSwitch & FortiSwitchManager| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiTester| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiToken Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiVoice| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiWeb Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiWLC| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiWLM| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|ShieldX| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fujitsu|AIS Connect|Unkown|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
 |Fujitsu|BeanConnect|Unkown|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
