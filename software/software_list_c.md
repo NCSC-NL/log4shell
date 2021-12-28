@@ -11,7 +11,17 @@
 |CAS genesisWorld|All| | | | | | |[CAS genesisWorld Link](https://helpdesk.cas.de/CASHelpdesk/FAQDetails.aspx?gguid=0x79F9E881EE3C46C1A71BE9EB3E480446)|
 |Camunda|All| | | | | | |[Camunda Forum Link](https://forum.camunda.org/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228/31910)|
 |Canary Labs|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[Canary Labs Advisory Link](https://helpleft.canarylabs.com/t/83hjjk0/log4j-vulnerability)|
-|Canon|Vitrea Advanced 7.x| | |Investigation| | | |[Canon Advisory Link](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
+| Canon | Canon DR Products (CXDI_NE) | Omnera, Flexpro, Soltus and more |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | CT Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | Eye-Care Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | MR Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | NM Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | UL Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | Vitrea Advanced | 7.x |  | Workaround |  | | See source for mitigations provided by Canon | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | VL Alphenix Angio Workstation (AWS) |  |  | Vulnerable |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | VL Infinix-i and Alphenix DFP |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | VL Infinix-i Angio Workstation (AWS) |  |  | Workaround |  | | See source for mitigations provided by Canon | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+| Canon | XR Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 |CapStorm|Copystorm| | |Investigation| | | ||
 |CarbonBlack|All| | | | | | |[CarbonBlack Advisory](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |Cato Networks|All| | | | | | |[Cato Networks Blog Post](https://www.catonetworks.com/blog/cato-networks-rapid-response-to-the-apache-log4j-remote-code-execution-vulnerability/)|
