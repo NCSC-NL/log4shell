@@ -76,7 +76,7 @@
 |Fortinet|FortiGate Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiGSLB Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiInsight| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiIsolator|< 2.3.4 | |Vuln| | |Fix scheduled|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiIsolator|2.3.4 | |Fix| | |Fix scheduled|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiLAN Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiMail| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiManager Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
