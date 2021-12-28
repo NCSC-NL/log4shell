@@ -7,6 +7,7 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|Obix|All| |Not vuln|Not vuln|Not vuln|Not vuln|Advisory sent directly to customers||
 |Objectif Lune|All| | | | | | |[Objectif Lune Blog Post](https://learn.objectiflune.com/blog/security/statement-on-log4j-vulnerability-cve-2021-4428/)|
 |Octopus|All| | | | | | |[Octopus Advisory](https://advisories.octopus.com/adv/December.2306508680.html)|
 |Okta|RADIUS Server Agent|< 2.17.0| |Vulnerable| | | |[Okta RADIUS Server Agent CVE-2021-44228  Okta](https://trust.okta.com/security-advisories/okta-radius-server-agent-cve-2021-44228)|
