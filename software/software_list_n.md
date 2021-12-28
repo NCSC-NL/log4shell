@@ -114,12 +114,12 @@
 | NVIDIA | CUDA Toolkit Nsight Eclipse Edition | 11.0 | Not vuln | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | CUDA Toolkit Visual Profiler | 11.5 and Prior |  | Vulnerable | Vulnerable | | Updated CUDA Toolkit version available mid-January 2022 | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix | Fix | Fix | Updates can be installed through the package manager | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | GeForce Experience client software |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | GeForceNOW client software |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | GPU Display Drivers for Windows and Linux |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | L4T Jetson Products |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | GeForce Experience client software |  | | Not vuln | Not vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | GeForceNOW client software |  | | Not Vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | GPU Display Drivers for Windows and Linux |  | | Not vuln | Not vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | L4T Jetson Products |  | | Not Vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | NetQ | 4.1.0 | | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | Networking products | All (except for NetQ) | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | SHIELD TV |  | | Not Vuln | Not Vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | Networking products | All (except for NetQ) | | Not vuln | Not vuln | Not Vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+| NVIDIA | SHIELD TV |  | | Not Vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 | NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | | Workaround | Workaround | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
 |NXLog|Manager|5.x| |Not vuln| | | |[source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228)|
