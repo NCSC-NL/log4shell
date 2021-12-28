@@ -277,7 +277,7 @@
 |SonarSource|SonarCloud| |Not vuln|Fix| | | |[source](https://community.sonarsource.com/t/sonarqube-sonarcloud-and-the-log4j-vulnerability/54721)|
 |SonarSource|SonarQube| |Not vuln|Workaround| | | |[source](https://community.sonarsource.com/t/sonarqube-sonarcloud-and-the-log4j-vulnerability/54721)|
 |SonicWall|Access Points| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
-|SonicWall|Analytics| |Not vuln|Not vuln|Not vuln|Not vuln|update based on v2.3 of advisory |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|Analytics| | |Not vuln|Not vuln|Not vuln|update based on v2.3 of advisory |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Analyzer| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Capture Client & Capture Client Portal| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Capture Security Appliance| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
