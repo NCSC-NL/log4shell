@@ -160,7 +160,7 @@
 |Sterling Order IBM|All| | | | | | |[IBM Statement](https://www.ibm.com/support/pages/node/6525544)|
 |Storagement|All| | | | | | |[Storagement](https://www.storagement.de/index.php?action=topicofthemonth&amp;site=log4j)|
 |StormShield|Visibility Center| v1.6.1 | Not vuln | Fix | Fix | Not vuln | |[source](https://advisories.stormshield.eu/2021-073/)|
-|StormShield|Other products| | ? | Not Vuln | ? | ? | ? | Advisory only mentions CVE-2021-44228 |[StormShield Security Alert](https://www.stormshield.com/news/log4shell-security-alert-stormshield-product-response/)|
+|StormShield|All other products| |  |  | Not vuln | Not vuln | | Advisory only mentions CVE-2021-44228, CVE-2021-45046 |[StormShield Security Alert](https://www.stormshield.com/news/log4shell-security-alert-stormshield-product-response/)|
 |StrangeBee TheHive & Cortex|All| | | | | | |[StrangeBee Statement](https://blog.strangebee.com/apache-log4j-cve-2021-44228/)|
 |Strimzi|All| | | | | | |[Strimzi Statement](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/)|
 |Stripe|All| | | | | | |[Stripe Support](https://support.stripe.com/questions/update-for-apache-log4j-vulnerability-(cve-2021-44228))|
