@@ -220,6 +220,5 @@
 |LiveAction|LiveNA|<21.5.1|Not vuln|Fix| | | |[source](https://documentation.liveaction.com/LiveNA/LiveNA%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNA%2021.5.1.1.2)|
 |LogRhythm|SIEM|7.4-7.8|Not vuln|Workaround| | |Link is behind a login|[source](https://community.logrhythm.com/t5/Product-Security/Log4J-Remediation-Update-CloudAI-and-NetMon-Complete-LogRhythm/td-p/494350)|
 |LogZilla|NEO|All|Not vuln|Not vuln|Not vuln|Not vuln|LogZilla's engine is C++||
-|LogicMonitor|SaaS Platform| |Not vuln|Fix| | |Automatic update before 13th December|[source](https://communities.logicmonitor.com/topic/7472-logicmonitor-collectors-running-vulnerable-version-of-log4j-are-affected-by-log4shell-cve-2021-44228-vulnerability/)|
 |Lyrasis|DSpace|7.1.1|Not vuln|Fix| | | |[source](https://groups.google.com/g/dspace-community/c/Fa4VdjiiNyE)|
 |LucaNet|All|12 LTS - 1911.0.192+3, 13 LTS - 2011.0.112+7, 22 LTS - 2111.0.11+9|Not vuln|Fix| | | |[source](https://www.lucanet.com/en/blog/update-vulnerability-log4j)|
