@@ -2,9 +2,6 @@ import click
 import sys
 from typing import List
 
-VALID_STATUS = ['']
-
-
 @click.command()
 @click.argument('input', default='software/README.md', type=click.File())
 @click.pass_context
@@ -15,15 +12,6 @@ def mutate(ctx, input):
                 # not a table, just copy
                 if line[0] != '|':
                     output.write(line)
-                    continue
-                # initial status table, just copy
-                if line.count('|') == 3:
-                    output.write(line)
-
-                    # read status table to fill list of valid status codes
-                    _, status, *_ = line.split('|')
-                    VALID_STATUS.append(status.strip())
-
                     continue
                 # table header, add header fields
                 if '| Supplier' in line:
@@ -64,24 +52,13 @@ def mutate_record(line) -> str:
 
     # Log4j 1.x is not impacted by CVE-2021-XXXXX
     if ('Fix' in cve4104 or 'Vulnerable' in cve4104) and 'Not vuln' in cve44228:
-        cveXXXXX = ' Not vuln '
+        cveXXXXX = 'Not vuln'
 
     # Software not using Log4j is not impacted by CVE-2021-XXXXX
     if 'Not vuln' in cve4104 and 'Not vuln' in cve44228 and 'Not vuln' in cve45046 and 'Not vuln' in cve45105:
-        cveXXXXX = ' Not vuln '
+        cveXXXXX = 'Not vuln'
 
-    s = sanitize_status_field
-
-    return(table_line([vendor, product, version, s(cve4104), s(cve44228), s(cve45046), s(cve45105), cveXXXXX, comment, link]))
-
-
-def sanitize_status_field(status):
-    sanitized = status.strip().lower().capitalize()
-
-    if sanitized in VALID_STATUS:
-        return ' '+sanitized+' '
-    else:
-        raise ValueError(f"Invalid status: {status}")
+    return(table_line([vendor, product, version, cve4104, cve44228, cve45046, cve45105, cveXXXXX, comment, link]))
 
 
 def table_line(fields: List[str]) -> str:
