@@ -10,6 +10,7 @@
 |I-Net software|All| | | | | | |[I-Net Software Statement](https://faq.inetsoftware.de/t/statement-about-cve-2021-44228-log4j-vulnerability-concerning-i-net-software-products/269/3)|
 |I2P|All| | | | | | |[I2P Statement](https://geti2p.net/en/blog/post/2021/12/11/i2p-unaffected-cve-2021-44228)|
 |IBA-AG|All| | | | | | |[IBA-AG Statement](https://www.iba-ag.com/en/security)|
+| IBM | IBM Cognos Analytics | 11.2.x, 11.1.x, 11.0.6 to 11.0.13 | | Fix | Fix | | Versions 11.0.5 and earlier are not vulnerable | [source](https://www.ibm.com/blogs/psirt/security-bulletin-ibm-cognos-analytics-apache-log4j-vulnerability-cve-2021-44228-4/) |
 |ICONICS|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[ICONICS Advisory Link](https://iconics.com/News/Press-Releases/2021/ICONICS-Not-Subject-to-Apache-Log4j-Vulnerability)|
 |IFS|All| | | | | | |[IFS Bulletin](https://community.ifs.com/announcements-278/urgent-bulletin-ifs-advisory-ifs-products-services-and-log4j-cve-2021-44228-16436)|
 |IPRO|Netgovern| | | | | | ||
