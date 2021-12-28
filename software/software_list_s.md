@@ -291,7 +291,7 @@
 |SonicWall|Gen7 Firewalls| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|GMS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|MSW| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
-|SonicWall|NSM On-Premise|2.3.2-R12-H2|Not vuln|Fix|Fix|Fix|based on version 2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|NSM On-Premise|2.3.2-R12-H2| |Fix|Fix|Fix|based on version 2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|SMA 1000| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|SMA 100| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|SonicCore| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
