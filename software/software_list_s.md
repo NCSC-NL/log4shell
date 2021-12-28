@@ -240,7 +240,7 @@
 |Schneider Electric|SWBEngine|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|Wiser by SE platform| |Not vuln|Fix|Fix| |cloud-based offer; no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |SecurityHive|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.securityhive.nl/security-info/securityhive-informs-log4j-vulnerable-customers-using-threat-intelligence/)|
-|SecurityRoots|Dradis Professional|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/screenshotemail)|
+|SecurityRoots|Dradis Professional|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/screenshotemail)|
 |Seafile|Server| |Not vuln|Fix| | | |[source](https://forum.seafile.com/t/security-advisory-seafile-servers-vulnerability-to-log4shell-log4j-vulnerability-cve-2021-44228/15590)|
 |Seagull Scientific|BarTender|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.seagullscientific.com/hc/en-us/articles/4415794235543-Apache-Log4Shell-Vulnerability)|
 |Security Onion Solutions|Security Onion|2.3.90 20211210|Not vuln|Fix| | | |[source](https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html)|

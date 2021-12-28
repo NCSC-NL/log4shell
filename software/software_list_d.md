@@ -103,7 +103,7 @@
 |Datev|DATEV Wages and Salaries compact| |Not vuln|Fix| | |German source|[source](https://apps.datev.de/help-left/documents/1022948)|
 |Datev|Jasper Reports| |Not vuln|Fix| | |German source|[source](https://apps.datev.de/help-left/documents/1022948)|
 |Datev|Lawyer's mailbox| |Not vuln|Fix| | |German source|[source](https://apps.datev.de/help-left/documents/1022948)|
-|Dataverse|The Dataverse Project| | |Vulnerable| | | |[source](/NCSC-NL/log4shell/blob/main/software/dataverse.org)|
+|Dataverse|The Dataverse Project| | |Vulnerable| | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/dataverse.org)|
 |Datto|All Datto products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.datto.com/blog/dattos-response-to-log4shell)|
 |Datto|All Datto products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.datto.com/blog/dattos-response-to-log4shell)|
 |DBeaver|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://dbeaver.io/2021/12/15/log4shell-vulnerability-is-not-dangerous-for-dbeaver-users/)|
