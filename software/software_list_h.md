@@ -308,4 +308,4 @@
 |HPE|User Data Repository (UDR)|1.2106.0, 1.2110.0 and 1.2112.0| |Vulnerable| | | |[source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us)|
 |HPE|Virtual Headend Manager (vHM)|All| |Vulnerable| | | |[source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us)|
 |HPE|XP Performance Advisor Software|7.5 through 8.4| |Vulnerable| | | |[source](https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04215en_us)|
-|Huawei|All| | |Investigation| | | |[source](https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en)|
+|Huawei|All| | |Investigation| | | Customers have to contact the Huawei TAC|[source](https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en)|
