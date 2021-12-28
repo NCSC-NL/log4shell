@@ -285,7 +285,7 @@
 |SonicWall|CSCMA| | |Not vuln|Not vuln|Not vuln|based on v2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Cloud Edge| | |Not vuln|Not vuln|Not vuln|based on v2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Email Security|10.0.13| |Fix|Fix|Fix|based on version 2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
-|SonicWall|EPRS| |Not vuln|Not vuln|Not vuln|Not vuln|based on version 2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|EPRS| | |Not vuln|Not vuln|Not vuln|based on version 2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Gen5 Firewalls (EOS)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Gen6 Firewalls| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Gen7 Firewalls| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
