@@ -104,6 +104,15 @@
 |Fortinet|FortiWLC| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiWLM| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|ShieldX| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fujifilm|Synapse 3D|ALL|Not Vuln|Not Vuln|Not Vuln|Not Vuln||Advisory sent directly to customers.|
+|Fujifilm|Synapse CV|ALL|Not Vuln|Not Vuln|Not Vuln|Not Vuln||Advisory sent directly to customers.|
+|Fujifilm|Synapse EIS|ALL|Not Vuln|Not Vuln|Not Vuln|Not Vuln||Advisory sent directly to customers.|
+|Fujifilm|Synapse Mobility|ALL|Not Vuln|Not Vuln|Not Vuln|Not Vuln||Advisory sent directly to customers.|
+|Fujifilm|Synapse PACS|ALL|Not Vuln|Not Vuln|Not Vuln|Not Vuln|If the Oracle utility, SQL Developer, has been installed on a Synapse server, it will result in a positive finding. This utility is not required by the Synapse line of products and should be uninstalled out of an abundance of caution.|Advisory sent directly to customers.|
+|Fujifilm|Synapse VNA|<6.3|Not Vuln|Not Vuln|Not Vuln|Not Vuln||Advisory sent directly to customers.|
+|Fujifilm|Synapse VNA|6.3-6.4|Fix|Fix|Fix|Fix|Upgrade Available|Advisory sent directly to customers.|
+|Fujifilm|Synapse VNA|≥6.5|Fix|Fix|Fix|Fix|Patch Available|Advisory sent directly to customers.|
+|Fujifilm|Vidistar|ALL|Not Vuln|Not Vuln|Not Vuln|Not Vuln||Advisory sent directly to customers.|
 |Fujitsu|AIS Connect|Unkown|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
 |Fujitsu|BeanConnect|Unkown|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
 |Fujitsu|BS2000 Hardware|Unkown|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf)|
