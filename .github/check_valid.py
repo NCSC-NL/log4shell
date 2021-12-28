@@ -1,7 +1,7 @@
 import sys
 
 def checkPipes(line):
-	return (line.count("|") == 10)
+	return (line.count("|") == 11)
 	
 def checkStatus(cveFields):
 	validValues= ['', 'Vulnerable', 'Fix', 'Workaround', 'Not vuln', 'Investigation', 'x']
@@ -20,7 +20,7 @@ def checkLine(line):
 	if not checkPipes(line):
 		msg.append("Entry has not correct number of pipes. This will likely destroy the table.")
 		valid=False
-	if not checkStatus(table[4:8]):
+	if not checkStatus(table[4:9]):
 		msg.append("Entry contains incorrect status value. Please check again.")
 		valid=False
 	return valid, msg
