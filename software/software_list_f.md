@@ -67,7 +67,7 @@
 |Fortinet|FortiConverter Portal| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiCWP| ? | |Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiDDoS| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiDDoS-F | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiDDoS-F | |Not vuln| | | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiDeceptor| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiEDR Agent| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiEDR Cloud|Fix| |Vulnerable| | |Declared not exploitable but mitigations added on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
