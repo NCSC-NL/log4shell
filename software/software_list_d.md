@@ -12,7 +12,9 @@
 |DarkTrace|All| | | | | | |[DarkTrace Customer Portal](https://customerportal.darktrace.com/inside-the-soc/get-article/201)|
 |Dassault Systèmes|All| | | | | | |[Dassault Systemes Link](https://kb.dsxclient.3ds.com/mashup-ui/page/resultqa?id=QA00000102301e)|
 |Databricks|All| | | | | | |[Databricks Google Doc](https://docs.google.com/document/d/e/2PACX-1vREjwZk17BAHGwj5Phizi4DPFS9EIUbAMX-CswlgbFwqwKXNKZC8MrT-L6wUgfIChsSHtvd_QD3-659/pub)|
-|Datadog|Agent|>=6.17.0, <=6.32.2, >=7.17.0, <=7.32.2|Not vuln|Fix| | | |[Datadog Log4j Vulnerability Update](https://www.datadoghq.com/log4j-vulnerability/)|
+|Datadog|Agent|>=6.17.0, <=6.32.4, >=7.17.0, <=7.32.4|Not vuln|Fix|Fix|Not Vuln|Recommended to upgrade to 6.32.4 or 7.32.4|[Datadog Log4j Vulnerability Update](https://www.datadoghq.com/log4j-vulnerability/)|
+|Datadog|datadog-lambda-java|<=0.3.5, <=1.4.2|Not Vuln|Not Vuln|Not Vuln|Not Vuln|Upgrade to 1.4.2 and 0.3.5 to meet the recommended solution proposed by AWS lambda|[Datadog Log4j Vulnerability Update](https://www.datadoghq.com/log4j-vulnerability/)|
+|Datadog|datadog-kafka-connect-logs|<=1.0.3|Not Vuln|Not Vuln|Not Vuln|Fix|Removed dependency on Log4j in 1.0.3|[Datadog Log4j Vulnerability Update](https://www.datadoghq.com/log4j-vulnerability/)|
 |Dataminer|All| | | | | | |[Dataminer Community Link](https://community.dataminer.services/responding-to-log4shell-vulnerability/)|
 |Deepinstinct|All| | | | | | |[Deepinstinct Link](https://www.deepinstinct.com/blog/log4shell-cve-2021-44228-what-you-need-to-know)|
 |Dell|"Dell EMC PowerMax VMAX VMAX3 and VMAX AFA"| |Not vuln|Not vuln|Not vuln|Not vuln| |[Dell Response to Apache Log4j Remote Code Execution Vulnerability (CVE-2021-44228)](https://www.dell.com/support/kbdoc/en-us/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability)|
