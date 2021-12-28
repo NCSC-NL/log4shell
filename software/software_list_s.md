@@ -159,7 +159,8 @@
 |Spring Boot|All| | | | | | |[Spring Boot Vulnerability Statement](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot)|
 |Sterling Order IBM|All| | | | | | |[IBM Statement](https://www.ibm.com/support/pages/node/6525544)|
 |Storagement|All| | | | | | |[Storagement](https://www.storagement.de/index.php?action=topicofthemonth&amp;site=log4j)|
-|StormShield|All| | | | | | |[StormShield Security Alert](https://www.stormshield.com/news/log4shell-security-alert-stormshield-product-response/)|
+|StormShield|Visibility Center| v1.6.1 | Not vuln | Fix | Fix | Not vuln | |[source](https://advisories.stormshield.eu/2021-073/)|
+|StormShield|All other products| |  |  | Not vuln | Not vuln | | Advisory only mentions CVE-2021-44228, CVE-2021-45046 |[StormShield Security Alert](https://www.stormshield.com/news/log4shell-security-alert-stormshield-product-response/)|
 |StrangeBee TheHive & Cortex|All| | | | | | |[StrangeBee Statement](https://blog.strangebee.com/apache-log4j-cve-2021-44228/)|
 |Strimzi|All| | | | | | |[Strimzi Statement](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/)|
 |Stripe|All| | | | | | |[Stripe Support](https://support.stripe.com/questions/update-for-apache-log4j-vulnerability-(cve-2021-44228))|
@@ -276,18 +277,21 @@
 |SonarSource|SonarCloud| |Not vuln|Fix| | | |[source](https://community.sonarsource.com/t/sonarqube-sonarcloud-and-the-log4j-vulnerability/54721)|
 |SonarSource|SonarQube| |Not vuln|Workaround| | | |[source](https://community.sonarsource.com/t/sonarqube-sonarcloud-and-the-log4j-vulnerability/54721)|
 |SonicWall|Access Points| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
-|SonicWall|Analytics| | |Investigation| | | |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|Analytics| | |Not vuln|Not vuln|Not vuln|update based on v2.3 of advisory |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Analyzer| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Capture Client & Capture Client Portal| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Capture Security Appliance| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|CAS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
-|SonicWall|Email Security|10.0.12|Not vuln|Fix| | | |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|CSCMA| | |Not vuln|Not vuln|Not vuln|based on v2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|Cloud Edge| | |Not vuln|Not vuln|Not vuln|based on v2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|Email Security|10.0.13| |Fix|Fix|Fix|based on version 2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|EPRS| | |Not vuln|Not vuln|Not vuln|based on version 2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Gen5 Firewalls (EOS)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Gen6 Firewalls| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Gen7 Firewalls| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|GMS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|MSW| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
-|SonicWall|NSM| |Not vuln|Fix| | |SonicWall automatically pushed a new NSM firmware|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032#:~:text=NSM%202.x%20(OnPrem%2C%20SaaS))|
+|SonicWall|NSM On-Premise|2.3.2-R12-H2| |Fix|Fix|Fix|based on version 2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|SMA 1000| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|SMA 100| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|SonicCore| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
