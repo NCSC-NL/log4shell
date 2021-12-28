@@ -9,6 +9,7 @@
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
 |WAGO|Smart Script|4.2.x < 4.8.1.3|Not vuln|Fix| | | |[WAGO Website](https://www.wago.com/de/automatisierungstechnik/psirt#log4j)|
 |Wallarm|All| | | | | | |[Lab Mitigation Update](https://lab.wallarm.com/cve-2021-44228-mitigation-update/)|
+|Wallix|Access Manager|All| | |Vulnerable| | | Patch planned by end of december 2021 |[source](https://www.wallix.com/fr/support/alerts/)|
 |Wasp Barcode technologies|All| | | | | | |[Waspbarcode Assetcloud Inventorycloud](https://support.waspbarcode.com/kb/articles/assetcloud-inventorycloud-are-they-affected-by-the-java-exploit-log4j-no)|
 |WatchGuard|Secplicity| | | | | | |[Secplicity Critical RCE](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/)|
 |Western Digital|All| | | | | | |[Westerndigital Product Security](https://www.westerndigital.com/support/product-security/wdc-21016-apache-log4j-2-remote-code-execution-vulnerability-analysis)|
