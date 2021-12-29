@@ -185,7 +185,7 @@
 | Cisco | Business Dashboard | All versions | | Not vuln | Not vuln | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco | Business Process Automation | 3.0.000.115, 3.1.000.044, 3.2.000.009 | | Fix | Fix | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 | Cisco | Business Wireless  | All versions | | Not vuln | Not vuln | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
-| Cisco | Call Studio | 11.6(2), 12.0(1), 12.5(1), 12.6(1) | | Fix | Fix | Not vuln | Fix should be available from 23 Dec 2021 |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
+| Cisco | Call Studio | 11.6(2), 12.0(1), 12.5(1), 12.6(1) | | Fix | Fix | Not vuln |  |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |Cisco|Catalyst 9800 Series Wireless Controllers| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Wireless LAN Controller| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco | CloudCenter | 4.10.0.16 | | Fix | Fix | Not vuln | Fixes should be available from 23 Dec 2021 |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
@@ -218,10 +218,10 @@
 | Cisco | CX Cloud | All versions | | Fix | Fix | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco | CX Cloud Agent Software| 1.12.2 | | Fix | Fix | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco | Cyber Vision Sensor Management Extension | 4.0.3 |  | Fix | Fix | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco | Data Center Network Manager (DCNM) | 12.0(2d), 11.5(3), 11.5(2), 11.5(1), 11.4(1), 11.3(1) |  | Vulnerable | Vulnerable | Not vuln | Fix should be available from 23 Dec 2021 |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Data Center Network Manager (DCNM) | 12.0(2d), 11.5(3), 11.5(2), 11.5(1), 11.4(1), 11.3(1) |  | Vulnerable | Vulnerable | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Defense Orchestrator| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|DNA Assurance| | |Investigation| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco | DNA Center | 2.2.2.8, 2.1.2.8, 2.2.3.4 | | Fix | Fix | Not vuln | Fix should be available from 23 Dec 2021 for 2.2.2.8, 25 Jan 2022 for 2.1.2.8, 29 Dec 2021 for 2.2.3.4 |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | DNA Center | 2.2.2.8, 2.1.2.8, 2.2.3.4 | | Fix | Fix | Not vuln |  |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|DNA Spaces|2.5, 2.8.2, 2.11.0, 2.13.3|Not vuln|Fix| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco | DNA Spaces Connector | v2.0.588, v2.2.12 |  | Fix | Fix | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Duo| |Not vuln|Fix| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -322,9 +322,9 @@
 |Cisco|TelePresence Management Suite| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|TelePresence Video Communication Server (VCS)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Tetration Analytics|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-|Cisco|UCS Central Software|2.3.2.1 | | Fix | | | Fix should be available 2021-12-22|[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|UCS Central Software|2.3.2.1 | | Fix | | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|UCS C-Series Rack Servers - Integrated Management Controller| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-|Cisco|UCS Director|6.8.2.0 | |Fix| | | Fix should be available 2021-12-23 |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|UCS Director|6.8.2.0 | |Fix| | |  |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|UCS Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|UCS Performance Manager| | |Investigation| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Ultra Packet Core| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
