@@ -198,7 +198,8 @@
 |Cisco|Cloud Services Platform 2100|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Cloud Services Platform 5000 Series|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Cognitive Intelligence| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco | Common Services Platform Collector (CSPC) | 2.10.0, 2.9.1.3 |  | Fix | Fix | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)||Cisco|Computer Telephony Integration Object Server (CTIOS)| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Common Services Platform Collector (CSPC) | 2.10.0, 2.9.1.3 |  | Fix | Fix | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|Computer Telephony Integration Object Server (CTIOS)| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|ConfD| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Connected Grid Device Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco | Connected Mobile Experiences (CMX) | 10.6.3-70, 10.6.3-105, 10.6.2-89, 10.4.1 | | Fix | Fix | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
