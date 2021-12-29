@@ -568,7 +568,7 @@
 | Broadcom      | Layer7 API Gateway | 9.4, 10.0, 10.1 | Not vuln | Workaround | Workaround | | |[source](https://knowledge.broadcom.com/external/article?articleId=230205) |
 |Broadcom|Layer7 Live API Creator|5.4, 5.1-5.3 (EOS)|Not vuln|Workaround| | | |[source](https://knowledge.broadcom.com/external/article?articleId=230205)|
 |Broadcom|Layer7 Mobile API Gateway| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-|Broadcom|LiveUpdate Administrator (LUA)|2.3.10| |Fix|Fix| | |[source](hthttps://support.broadcom.com/security-advisory/content/0/0/SYMSA19793)|
+|Broadcom|LiveUpdate Administrator (LUA)|2.3.10| |Fix|Fix| | |[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793)|
 |Broadcom|Management Center (MC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Mirror Gateway| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|PacketShaper (PS) S-Series| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|

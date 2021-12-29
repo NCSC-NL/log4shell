@@ -38,7 +38,7 @@
 |Agilysys|All| | | | | | |[Agilysys Link](https://info.agilysys.com/webmail/76642/2001127877/c3fda575e2313fac1f6a203dc6fc1db2439c3db0da22bde1b6c1b6747d7f0e2f)|
 |Alcatel|All| | | | | | |[Alcatel Link](https://dokuwiki.alu4u.com/doku.php?id=log4j)|
 |Alexion|All| | | | | | |[Alexion Blog Post](https://alexion.nl/blog/alexion-crm-niet-vatbaar-voor-log4shell)|
-|Alfresco|All| | | | | | |[Alfresco Blog Post](https://hub.alfresco.com/t5/alfresco-content-services-blog/cve-2021-44228-related-to-apache-log4j-security-advisory/ba-p/310717)|
+|Alfresco (Hyland)|Alfresco|All| |Not vuln| | | |[Alfresco Blog Post](https://hub.alfresco.com/t5/alfresco-content-services-blog/cve-2021-44228-related-to-apache-log4j-security-advisory/ba-p/310717)|
 |AlienVault|All| | | | | | |[AlienVault Article Link](https://success.alienvault.com/s/article/are-USM-Anywhere-or-USM-Central-vulnerable-to-CVE-2021-44228)|
 |Alphatron Medical|All| | | | | | |[Alphatron Medical Website](https://www.alphatronmedical.com/home.html)|
 |Amazon|AWS|Linux 1,2|Not vuln|Not vuln|Not vuln|Not vuln|Notes: Amazon Linux 1 had aws apitools which were Java based but these were deprecated in 2015 <a href="https://forums.aws.amazon.com/thread.jspa?threadID=323611" rel="nofollow">AWS Forum</a>. AMIs used to inspect and verify (base spin ups) - amzn-ami-hvm-2018.03.0.20200318.1-x86_64-gp2 and amzn2-ami-kernel-5.10-hvm-2.0.20211201.0-x86_64-gp2||

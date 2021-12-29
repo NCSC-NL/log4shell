@@ -151,7 +151,7 @@
 |Hitachi Energy|UNEM|R15A, R14B, R14A, R11BSP1|Not vuln|Workaround|Workaround|Workaround|patch at customer portal avilable|[source](https://search.abb.com/library/Download.aspx?DocumentID=8DBD000089&amp;LanguageCode=en&amp;DocumentPartId=&amp;Action=Launch)|
 |Hitachi Vantara|Pentaho|v8.3.x, v9.2.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 |HMS-Networks|All| | | | | | |[source](https://www.hms-networks.com/cybersecurity)|
-|Hologic|Advanced Workflow Manager (AWM)| | |Underinvestigation| | |While the Hologic software itself does not utilize Java/Log4J, the installed APC PowerChute UPS with Business Edition v9.5 software installed may. APC is still assessing its PowerChute software to determine if it is vulnerable.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Advanced Workflow Manager (AWM)| | |Investigation| | |While the Hologic software itself does not utilize Java/Log4J, the installed APC PowerChute UPS with Business Edition v9.5 software installed may. APC is still assessing its PowerChute software to determine if it is vulnerable.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Affirm Prone Biopsy System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Brevera Breast Biopsy System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Cenova Image Analytics Server (CAD)| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|

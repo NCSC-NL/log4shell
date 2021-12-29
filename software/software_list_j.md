@@ -30,7 +30,7 @@
 |Jamf Nation|Jamf Protect| | |Not vuln| | | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 |Jamf Nation|Jamf School| | |Not vuln| | | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 |Jamf Nation|Jamf Threat Defense| | |Not vuln| | | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
-|Java Melody|All|1.90.0|Unkown|Fix|Fix| | |[source](https://github.com/javamelody/javamelody/wiki/ReleaseNotes)|
+|Java Melody|All|1.90.0| |Fix|Fix| | |[source](https://github.com/javamelody/javamelody/wiki/ReleaseNotes)|
 |Jazz/IBM|JazzSM DASH| | |Workaround| | |DASH on WebSphere Application Server requires mitigations|[source](https://www.ibm.com/support/pages/node/6525552)|
 |Jenkins|CI| | |Not vuln| | |Invidivual plugins not developed as part of Jenkins core <em>may</em> be vulnerable.|[source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/)|
 |JetBrains|IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
