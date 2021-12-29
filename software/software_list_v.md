@@ -8,68 +8,6 @@
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
 |VArmour|All| | | | | | |[VArmour Statement](https://support.varmour.com/hc/en-us/articles/4416396248717-Log4j2-Emergency-Configuration-Change-for-Critical-Auth-Free-Code-Execution-in-Logging-Utility)|
-|VMware|AppDefense Appliance|2.x| |Workaround|Workaround| |Advisory requires a login|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
-|VMware|API Portal for VMware Tanzu|1.0.8| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|App Metrics|2.1.2| | Fix | Fix | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Carbon Black Cloud Workload Appliance|1.1.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Carbon Black EDR server|7.6.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Carbon Black EDR server|7.5.x, 7.4.x, 7.3.x| | Vulnerable | Vulnerable | | Upgrade to 7.6.1 is required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Cloud Director Object Storage Extension|2.1.0.1, 2.0.0.3| | Fix | Fix | |  |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Cloud Provider Lifecycle Manager|1.2.0.1| | Fix | Fix | |  |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Cloud Foundation|4.x, 3.x| | Vulnerable | Vulnerable | |  |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Harbor Container Registry for TKGI|2.4.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|HCX|4.3| | Not vuln | Not vuln | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|HCX|4.2.4, 4.1.0.3| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|HCX|4.0.1, 4.0.2| | Vulnerable | Vulnerable | |Upgrade to 4.2.4 is required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Horizon|2111, 7.13.1, 7.10.3| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Horizon Agents Installer|patch for 20.3.0, 20.3.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Horizon DaaS|9.1.x,9.0.x| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Horizon Cloud Connector|2.1.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Horizon Cloud Connector|1.x| | Vulnerable | Vulnerable | | Upgrade to 2.1.2 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Identity Manager|patches for 3.3.5, 3.3.4, 3.3.3| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB] (https://kb.vmware.com/s/article/87185)|
-|VMware|Integrated OpenStack|7.x| |Vulnerable|Vulnerable| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|NSX-T Data Center|3.1.3.5, 3.0.3.1, 2.5.3.4| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|NSX-T Intelligence Appliance|1.2.x, 1.1.x| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|NSX Data Center for vSphere|6.4.12| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|SD-WAN VCO|4.x| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Single Sign-On for VMware Tanzu Application Service|1.14.6| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Site Recovery Manager, vSphere Replication|8.5.0.2, 8.4.0.4, 8.3.1.5| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Smart Assurance M&R|6.8u5, 7.0u8, 7.2.0.1| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Smart Assurance NCM|10.1.6| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Smart Assurance SAM [Service Assurance Manager]|10.1.0.x, 10.1.2, 10.1.5| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Spring Cloud Gateway for VMware Tanzu|1.1.4, 1.0.19| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Spring Cloud Gateway for Kubernetes|1.0.7| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Spring Cloud Services for VMware Tanzu|3.1.27,2.1.10| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu GemFire|9.10.13, 9.9.7| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu GemFire for VMs|1.14.2, 1.13.5, 1.12.4, 1.10.9| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu Greenplum Platform Extension Framework|6.2.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Greenplum Text|3.8.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu Operations Manager|2.8.18, 2.9.25, 2.10.24| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu Observability Proxy|10.12| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu Application Services for VMs|2.6.23, 2.7.44, 2.8.30, 2.9.30, 2.10.24, 2.11.12 and 2.12.5| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu Kubernetes Grid Integrated Edition |1.13.1, 1.10.8| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu Observability by Wavefront Nozzle |3.0.4| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu Scheduler|1.6.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Telco Cloud Operations|1.4.0.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Healthwatch for Tanzu Application Service|2.1.8, 1.8.7| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Unified Access Gateway (UAG)|2111.1| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Unified Access Gateway (UAG)|20.x| |Workaround|Workaround| |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Unified Access Gateway (UAG)|3.x| |Workaround|Workaround| |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vCenter Cloud Gateway|1.x| | Vulnerable|Vulnerable| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vCenter Server - OVA|7.x, 6.7.x, 6.5.x| |Vulnerable| | |<a href="https://kb.vmware.com/s/article/87081" rel="nofollow">Workaround @ KB87081 (vmware.com)</a>|[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vCenter Server - Windows|6.7.x, 6.5.x| |Vulnerable| | |<a href="https://kb.vmware.com/s/article/87096" rel="nofollow">Workaround @ KB87096 (vmware.com)</a>|[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Business for Cloud|7.x| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Log Insight|8.6.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Log Insight|8.2, 8.3, 8.4| | Vulnerable | Vulnerable | | Upgrade to 8.6.2 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Network Insight|5.3, 6.x| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Orchestrator|8.x, 7.6| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Operations|8.6.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Operations Tenant App for VMware Cloud Director|2.5| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Operations Cloud Proxy|All| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Automation|8.x, 7.6| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Lifecycle Manager|8.x| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|VMware Workspace ONE Access |patches for 21.08.0.1, 21.08.0.0, 20.10.0.1, 20.10.0.0| |Fix|Fix| ||[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://kb.vmware.com/s/article/87183)|
-|VMware|Workspace ONE Access Connector (  Identity Manager Connector)|patches for 21.08.0.1, 21.08.0.0, 20.10.0.0, 19.03.0.1| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://kb.vmware.com/s/article/87184)|
 |Varian|ARIA Connect (Cloverleaf)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[Varian Advisory Link](https://www.varian.com/resources-support/services/cybersecurity-varian/java-log4j-vulnerabilities)|
 |Varian|ARIA Radiation Therapy Management System (RTM)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[Varian Advisory Link](https://www.varian.com/resources-support/services/cybersecurity-varian/java-log4j-vulnerabilities)|
 |Varian|ARIA eDOC|All|Not vuln|Not vuln|Not vuln|Not vuln| |[Varian Advisory Link](https://www.varian.com/resources-support/services/cybersecurity-varian/java-log4j-vulnerabilities)|
@@ -135,51 +73,74 @@
 |Veritas|NetBackup Primary Server container on Flex Appliance|8.1.2 through 9.1.0.1|Not vuln|Workaround| | | |[source](https://www.veritas.com/content/support/en_US/article.100052084)|
 |Veritas|NetBackup Resiliency Platform|3.4 through 4.0|Not vuln|Workaround| | | |[source](https://www.veritas.com/content/support/en_US/article.100052109)|
 |Veritas|Media Server Deduplication Pool (MSDP) (on NB Appliance)|3.1.2 and 3.2|Not vuln|Workaround| | | |[source](https://www.veritas.com/content/support/en_US/article.100052062)|
-|VMware|API Portal for VMware Tanzu|1.x|Not vuln|Fix| | |Fixed in 1.0.7|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/api-portal#/releases/1012478)|
-|VMware|AppDefense Appliance|2.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
-|VMware|App Metrics|2.1.1|Not vuln|Fix| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/apm)|
-|VMware|Carbon Black Cloud Workload Appliance|1.x|Not vuln|Fix| | |Fixed in 1.1.1|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-VMware-Carbon-Black-Cloud/ta-p/109167)|
-|VMware|Carbon Black EDR Server|7.x, 6.x|Not vuln|Fix| | |Fixed in 7.6.0|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-VMware-Carbon-Black-EDR/ta-p/109168) [fix](https://community.carbonblack.com/t5/Endpoint-Detection-and-Response/VMware-Carbon-Black-EDR-Announcing-General-Availability-of-EDR/td-p/109189)|
-|VMware|Cloud Director Object Storage Extension|2.1.x, 2.0.x|Not vuln|Fix| | |Fixed in 2.1.0.1, 2.0.0.3|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://docs.vmware.com/en/VMware-Cloud-Director-Object-Storage-Extension/2.0.0.3/rn/vmware-cloud-director-object-storage-extension-2003-release-notes/index.html)|
-|VMware|Cloud Foundation|4.x, 3.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87095)|
-|VMware|HCX|4.2.3, 4.1.0.2|Not vuln|Fix| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Healthwatch for Tanzu Application Service|2.1.7, 1.8.6|Not vuln|Fix| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/p-healthwatch)|
-|VMware|Horizon|8.x, 7.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87073)|
-|VMware|Horizon Cloud Connector|1.x, 2.x|Not vuln|Fix| | |Fixed in 2.1.1|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://customerconnect.vmware.com/downloads/details?downloadGroup=HCS-CC-210&amp;productId=716&amp;rPId=79131#product_downloads)|
-|VMware|Horizon DaaS|9.1.x, 9.0.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87101)|
-|VMware|Identity Manager|3.3.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87093)|
-|VMware|NSX Data Center for vSphere|6.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87099)|
-|VMware|NSX-T Data Center|3.x, 2.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87086)|
-|VMware|Single Sign-On for VMware Tanzu Application Service|1.x|Not vuln|Fix| | |Fixed in 1.14.5|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.tanzu.vmware.com/products/pivotal_single_sign-on_service#/releases/1012467)|
-|VMware|Site Recovery Manager|8.x| |Vulnerable| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87098)|
+|VMware|AppDefense Appliance|2.x| |Workaround|Workaround| |Advisory requires a login|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
+|VMware|API Portal for VMware Tanzu|1.0.8| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|App Metrics|2.1.2| | Fix | Fix | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/apm)|
+|VMware|Carbon Black Cloud Workload Appliance|1.1.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Carbon Black EDR server|7.6.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Carbon Black EDR server|7.5.x, 7.4.x, 7.3.x| | Vulnerable | Vulnerable | | Upgrade to 7.6.1 is required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Cloud Director Object Storage Extension|2.1.0.1, 2.0.0.3| | Fix | Fix | |  |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://docs.vmware.com/en/VMware-Cloud-Director-Object-Storage-Extension/2.0.0.3/rn/vmware-cloud-director-object-storage-extension-2003-release-notes/index.html)|
+|VMware|Cloud Provider Lifecycle Manager|1.2.0.1| | Fix | Fix | |  |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Cloud Foundation|4.x, 3.x| | Workaround | Workaround | |  |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87095)|
+|VMware|Harbor Container Registry for TKGI|2.4.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|HCX|4.3| | Not vuln | Not vuln | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|HCX|4.2.4, 4.1.0.3| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|HCX|4.0.1, 4.0.2| | Vulnerable | Vulnerable | |Upgrade to 4.2.4 is required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Horizon|2111, 7.13.1, 7.10.3| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Horizon Agents Installer|patch for 20.3.0, 20.3.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Horizon DaaS|9.1.x,9.0.x| | Workaround | Workaround | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87101)|
+|VMware|Horizon Cloud Connector|2.1.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://customerconnect.vmware.com/downloads/details?downloadGroup=HCS-CC-210&amp;productId=716&amp;rPId=79131#product_downloads)|
+|VMware|Horizon Cloud Connector|1.x| | Vulnerable | Vulnerable | | Upgrade to 2.1.2 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Identity Manager|patches for 3.3.5, 3.3.4, 3.3.3| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB] (https://kb.vmware.com/s/article/87185)|
+|VMware|Integrated OpenStack|7.x| |Vulnerable|Vulnerable| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|NSX-T Data Center|3.1.3.5, 3.0.3.1, 2.5.3.4| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|NSX-T Intelligence Appliance|1.2.x, 1.1.x| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|NSX Data Center for vSphere|6.4.12| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|SD-WAN VCO|4.x| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Single Sign-On for VMware Tanzu Application Service|1.14.6| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.tanzu.vmware.com/products/pivotal_single_sign-on_service#/releases/1012467)|
+|VMware|Site Recovery Manager, vSphere Replication|8.5.0.2, 8.4.0.4, 8.3.1.5| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Skyline Collector virtual appliance| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://kb.vmware.com/s/article/87068)|
-|VMware|Spring Boot|< 2.5.8, < 2.6.2|Not vuln|Workaround| | | |[source](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot)|
-|VMware|Spring Cloud Gateway for Kubernetes|1.x| |Vulnerable| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Spring Cloud Gateway for VMware Tanzu|1.x|Not vuln|Fix| | |Fixed in 1.1.3|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/spring-cloud-gateway#/releases/1014134)|
-|VMware|Spring Cloud Services for VMware Tanzu|3.x|Not vuln|Fix| | |Fixed in 3.1.26|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.tanzu.vmware.com/products/p-spring-cloud-services#/releases/1014061)|
-|VMware|Tanzu Application Service for VMs|2.x|Not vuln|Fix| | |Fixed in 2.7.42, 2.10.22, 2.11.10, 2.12.3|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.pivotal.io/s/article/Workaround-instructions-to-address-CVE-2021-44228-in-Tanzu-Application-Service-2-7-through-2-12?language=en_US) [fix](https://network.pivotal.io/products/elastic-runtime)|
-|VMware|Tanzu GemFire|1.14.x, 1.13.x, 1.10.x|Not vuln|Fix| | |Fixed in 1.14.1, 1.13.4|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/tanzu-gemfire-for-vms#/releases/)|
-|VMware|Tanzu Greenplum|6.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.pivotal.io/s/article/Workaround-to-address-CVE-2021-44228-Apache-Log4j-Remote-Code-Execution-for-All-Greenplum-Versions?language=en_US)|
-|VMware|Tanzu Kubernetes Grid Integrated Edition|2.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.pivotal.io/s/article/Workaround-instructions-to-address-CVE-2021-44228-in-Tanzu-Application-Service-2-7-through-2-12?language=en_US)|
-|VMware|Tanzu Observability by Wavefront Nozzle|3.x, 2.x|Not vuln|Fix| | |Fixed in 3.0.3|[source](https://kb.vmware.com/s/article/87068) [fix](https://network.pivotal.io/products/wavefront-nozzle)|
-|VMware|Tanzu Operations Manager|2.x|Not vuln|Fix| | |Fixed in 2.10.23|[source](https://kb.vmware.com/s/article/87068) [workaround](https://community.pivotal.io/s/article/5004y00001mPn2N1639255611105?language=en_US) [fix](https://network.pivotal.io/products/ops-manager/)|
-|VMware|Tanzu SQL with MySQL for VMs|2.x, 1.x| |Vulnerable| | | |[source](https://kb.vmware.com/s/article/87068)|
-|VMware|Telco Cloud Automation|2.x, 1.x| |Vulnerable| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Unified Access Gateway|21.x, 20.x, 3.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87092)|
-|VMware|vCenter Cloud Gateway|1.x|Not vuln|Workaround| | | |[source](https://kb.vmware.com/s/article/87068) [workaround](https://kb.vmware.com/s/article/87081)|
-|VMware|vCenter Server|6.x|Not vuln|Workaround| | |Running on: Windows|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87096?lang=en_US)|
-|VMware|vCenter Server|7.x, 6.x|Not vuln|Workaround| | |Running on: Virtual Appliance|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87081?lang=en_US)|
+|VMware|Smart Assurance M&R|6.8u5, 7.0u8, 7.2.0.1| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Smart Assurance NCM|10.1.6| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Smart Assurance SAM [Service Assurance Manager]|10.1.0.x, 10.1.2, 10.1.5| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Spring Cloud Gateway for VMware Tanzu|1.1.4, 1.0.19| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Spring Cloud Gateway for Kubernetes|1.0.7| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Spring Cloud Services for VMware Tanzu|3.1.27,2.1.10| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.tanzu.vmware.com/products/p-spring-cloud-services#/releases/1014061)|
+|VMware|Tanzu Application Services for VMs|2.6.23, 2.7.44, 2.8.30, 2.9.30, 2.10.24, 2.11.12 and 2.12.5| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.pivotal.io/s/article/Workaround-instructions-to-address-CVE-2021-44228-in-Tanzu-Application-Service-2-7-through-2-12?language=en_US) [fix](https://network.pivotal.io/products/elastic-runtime)|
+|VMware|Tanzu GemFire|9.10.13, 9.9.7| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/tanzu-gemfire-for-vms#/releases/)|
+|VMware|Tanzu GemFire for VMs|1.14.2, 1.13.5, 1.12.4, 1.10.9| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Tanzu Greenplum Platform Extension Framework|6.2.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.pivotal.io/s/article/Workaround-to-address-CVE-2021-44228-Apache-Log4j-Remote-Code-Execution-for-All-Greenplum-Versions?language=en_US)|
+|VMware|Greenplum Text|3.8.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Tanzu Observability Proxy|10.12| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Tanzu Operations Manager|2.8.18, 2.9.25, 2.10.24| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)  [workaround](https://community.pivotal.io/s/article/5004y00001mPn2N1639255611105?language=en_US) [fix](https://network.pivotal.io/products/ops-manager/)|
+|VMware|Tanzu Kubernetes Grid Integrated Edition |1.13.1, 1.10.8| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Tanzu Observability by Wavefront Nozzle |3.0.4| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/wavefront-nozzle)|
+|VMware|Tanzu Scheduler|1.6.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Tanzu SQL with MySQL for VMs|2.x, 1.x| |Not vuln|Not vuln | | |[source](https://kb.vmware.com/s/article/87068)|
+|VMware|Telco Cloud Operations|1.4.0.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Telco Cloud Automation|2.x, 1.x| |Not vuln| | | |[source](https://kb.vmware.com/s/article/87068)|
+|VMware|Healthwatch for Tanzu Application Service|2.1.8, 1.8.7| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/p-healthwatch)|
+|VMware|Unified Access Gateway (UAG)|2111.1| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Unified Access Gateway (UAG)|20.x| |Workaround|Workaround| |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Unified Access Gateway (UAG)|3.x| |Workaround|Workaround| |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vCenter Cloud Gateway|1.x|Not vuln|Workaround| | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87081)|
+|VMware|vCenter Server - OVA|7.x, 6.7.x, 6.5.x| |Vulnerable| | |<a href="https://kb.vmware.com/s/article/87081" rel="nofollow">Workaround @ KB87081 (vmware.com)</a>|[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vCenter Server - Windows|6.7.x, 6.5.x| |Vulnerable| | |<a href="https://kb.vmware.com/s/article/87096" rel="nofollow">Workaround @ KB87096 (vmware.com)</a>|[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|vCloud Director|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://kb.vmware.com/s/article/87068?lang=en_US)|
 |VMware|vCloud Workstation|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://kb.vmware.com/s/article/87068?lang=en_US)|
-|VMware|vRealize Automation|8.x, 7.x| |Vulnerable| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|vRealize Lifecycle Manager|8.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87097)|
-|VMware|vRealize Log Insight|8.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87089)|
-|VMware|vRealize Operations|8.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87076)|
-|VMware|vRealize Operations Cloud Proxy|Any|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87080)|
-|VMware|vRealize Orchestrator|8.x, 7.x| |Vulnerable| | | |[source](https://kb.vmware.com/s/article/87068)|
+|VMware|vRealize Business for Cloud|7.x| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vRealize Log Insight|8.6.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vRealize Log Insight|8.2, 8.3, 8.4| | Vulnerable | Vulnerable | | Upgrade to 8.6.2 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vRealize Network Insight|5.3, 6.x| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vRealize Orchestrator|8.x, 7.6| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vRealize Operations|8.6.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vRealize Operations Tenant App for VMware Cloud Director|2.5| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vRealize Operations Cloud Proxy|All| | Workaround | Workaround | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87080|
+|VMware|vRealize Automation|8.x, 7.6| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|vRealize Lifecycle Manager|8.x| | Workaround | Workaround | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87097)|
 |VMware|vSphere ESXi| | |Not vuln| | | |[source](https://kb.vmware.com/s/article/87068)|
-|VMware|Workspace ONE Access|21.x, 20.x|Not vuln|Workaround| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87090)|
-|VMware|Workspace ONE Access Connector (VMware Identity Manager Connector)|19.03.0.1, 20.x, 21.x|Not vuln|Workaround| | | |[source](https://kb.vmware.com/s/article/87068) [workaround](https://kb.vmware.com/s/article/87091)|
+|VMware|VMware Workspace ONE Access |patches for 21.08.0.1, 21.08.0.0, 20.10.0.1, 20.10.0.0| |Fix|Fix| ||[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://kb.vmware.com/s/article/87183)|
+|VMware|Workspace ONE Access Connector (  Identity Manager Connector)|patches for 21.08.0.1, 21.08.0.0, 20.10.0.0, 19.03.0.1| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://kb.vmware.com/s/article/87184)|
 |Vuze|Torrent (desktop/server/mobile)|Revision 44261| |Investigation| | |Also know as Azureus|[source](http://svn.vuze.com/public/client/trunk/uis/lib/) [vendor](https://www.vuze.com/)|
 |Vyaire medical|All| | |Not vuln| | | |[source](https://www.vyaire.com/product-security)|
 |Vyaire medical|Mirth Connect| |Vulnerable|Not vuln|Not vuln|Not vuln|Mirth Connect does not make use of the vulnerable JMSAppender in its Log4j configuration by default.|[source](https://www.vyaire.com/product-security)|
