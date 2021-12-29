@@ -2,6 +2,8 @@
 
 This directory contains [an overview of software (un)affected by the Log4shell vulnerabilities](software_list.md). NCSC-NL and partners are attempting to maintain a list of all known vulnerable and not vulnerable software. Listed software is paired with specific information regarding which version contains the security fixes and which software still requires fixes. Please note that this vulnerability may also occur in custom software developed within your organisation. These occurrences are not registered in this overview.
 
+NCSC-NL has concluded that the new vulnerability (CVE-2021-44832) has a low chance of being exploited and will therefore exclude this vulnerability from this GitHub.
+
 #### NCSC Advisories
 NCSC-NL has published a HIGH/HIGH advisory for the Log4j vulnerability. Normally we would update the HIGH/HIGH advisory for vulnerable software packages, however due to the extensive amounts of expected updates we have created a list of known vulnerable software in the software directory.
 
