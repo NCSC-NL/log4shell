@@ -23,7 +23,8 @@
 |Flexagon|All| | | | | | |[Flexagon Statement](https://flexagon.com/what-is-the-impact-of-log4j-vulnerability-cve-2021-44228-on-flexdeploy/)|
 |Flexera|All| | | | | | |[Flexera Statement](https://community.flexera.com/t5/Community-Notices/Flexera-s-response-to-Apache-Log4j-2-remote-code-execution/ba-p/216934)|
 |Fortinet|FortiSwicth Cloud in FortiLANCloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[PSIRT Advisories FortiGuard](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|F5|All| | |Not vuln| | |F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
+|F5| Traffic SDC | 5.2.0 CF1, 5.1.0 CF-30, 5.1.0 CF-33 | | | | | F5 say that the product is vulnerable but doesn't specify to which CVE |[source](https://support.f5.com/csp/article/K19026212)|
+|F5|Other products| | |Not vuln| | |F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect|[source](https://support.f5.com/csp/article/K19026212)|
 |Fiix|CMMS core|V5|Not vuln|Fix| | | |[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |FileCap|Server|5.1.3|Not vuln|Fix|Fix|Fix| |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
 |FileCap|Plugins| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen)|
