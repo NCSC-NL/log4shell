@@ -8,7 +8,7 @@
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
 |VArmour|All| | | | | | |[VArmour Statement](https://support.varmour.com/hc/en-us/articles/4416396248717-Log4j2-Emergency-Configuration-Change-for-Critical-Auth-Free-Code-Execution-in-Logging-Utility)|
-|VMware|AppDefense Appliance|2.x| |Mitigation|Mitigation| |Advisory requires a login|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
+|VMware|AppDefense Appliance|2.x| |Workaround|Workaround| |Advisory requires a login|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
 |VMware|API Portal for VMware Tanzu|1.0.8| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|App Metrics|2.1.2| | Fix | Fix | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Carbon Black Cloud Workload Appliance|1.1.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
@@ -53,8 +53,8 @@
 |VMware|Telco Cloud Operations|1.4.0.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Healthwatch for Tanzu Application Service|2.1.8, 1.8.7| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Unified Access Gateway (UAG)|2111.1| |Fix|Fix| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Unified Access Gateway (UAG)|20.x| |Mitigation|Mitigation| |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Unified Access Gateway (UAG)|3.x| |Mitigation|Mitigation| |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Unified Access Gateway (UAG)|20.x| |Workaround|Workaround| |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Unified Access Gateway (UAG)|3.x| |Workaround|Workaround| |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|vCenter Cloud Gateway|1.x| | Vulnerable|Vulnerable| | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|vCenter Server - OVA|7.x, 6.7.x, 6.5.x| |Vulnerable| | |<a href="https://kb.vmware.com/s/article/87081" rel="nofollow">Workaround @ KB87081 (vmware.com)</a>|[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|vCenter Server - Windows|6.7.x, 6.5.x| |Vulnerable| | |<a href="https://kb.vmware.com/s/article/87096" rel="nofollow">Workaround @ KB87096 (vmware.com)</a>|[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
