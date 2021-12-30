@@ -7,6 +7,10 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|Adeptia|Connect|3.3| |Workaround|Workaround|Workaround|Advisory mentioned only log4j2 and not the CVE|[source](https://enable-u.us10.list-manage.com/track/click?u=7199eb80b888255247a943e6a&id=c514b59a73&e=7171615024)|
+|Adeptia|Connect|3.4, 3.5| |Workaround|Workaround|Workaround|Advisory mentioned only log4j2 and not the CVE|[source](https://enable-u.us10.list-manage.com/track/click?u=7199eb80b888255247a943e6a&id=370ed2213c&e=7171615024)|
+|Adeptia|Suite|6.9.9| |Workaround|Workaround|Workaround|Advisory mentioned only log4j2 and not the CVE|[source](https://enable-u.us10.list-manage.com/track/click?u=7199eb80b888255247a943e6a&id=3b70f3f0d2&e=7171615024)|
+|Adeptia|Suite|6.9.10, 6.9.11| |Workaround|Workaround|Workaround|Advisory mentioned only log4j2 and not the CVE|[source](https://enable-u.us10.list-manage.com/track/click?u=7199eb80b888255247a943e6a&id=6b4f074159&e=7171615024)|
 |AFAS Software|All| | | | | | |[AFAS Software Link](https://help.afas.nl/vraagantwoord/NL/SE/120439.htm)|
 |AFHCAN Global LLC|AFHCANServer|8.0.7 - 8.4.3|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://afhcan.org/support.aspx)|
 |AFHCAN Global LLC|AFHCANcart|8.0.7 - 8.4.3|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://afhcan.org/support.aspx)|
