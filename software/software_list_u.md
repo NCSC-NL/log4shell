@@ -8,13 +8,12 @@
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
 |USSIGNAL MSP|All| | | | | | |[USSIGNAL MSP Statement](https://ussignal.com/blog/apache-log4j-vulnerability)|
-|Ubiquiti|UniFi Network Controller|6.5.54 & lower versions|Not vuln|Fix| | | |[UniFi Network Application 6.5.55  Ubiquiti Community](https://community.ui.com/releases/UniFi-Network-Application-6-5-55/48c64137-4a4a-41f7-b7e4-3bee505ae16e)|
+|Ubiquiti|UniFi Network Application|6.5.x|Not vuln|Fix|Not vuln|Not vuln|Fixed in 6.5.55 - also not vuln to CVE-2021-44832|[Unifi Security Advisory Bulletin](https://community.ui.com/releases/Security-Advisory-Bulletin-023-023/808a1db0-5f8e-4b91-9097-9822f3f90207#comment/f689e3fb-6ad8-46b0-8054-2ea3656a8778)|
 |Ubuntu|All| | | | | | |[Ubuntu Security Advisory](https://ubuntu.com/security/CVE-2021-44228)|
 |Umbraco|All| | | | | | |[Umbraco Security Advisory](https://umbraco.com/blog/security-advisory-december-15-2021-umbraco-cms-and-cloud-not-affected-by-cve-2021-44228-log4j-rce-0-day-mitigation/)|
 |UniFlow|All| | | | | | |[UniFlow Security Advisory](https://www.uniflow.global/en/security/security-and-maintenance/)|
 |Unify ATOS|All| | | | | | |[Unify ATOS Advisory](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf)|
 |Unimus|All| | | | | | |[Unimus Statement](https://forum.unimus.net/viewtopic.php?f=7&amp;t=1390#top)|
-|Ubiquiti|UniFi Network Application|6.5.55|Not vuln|Fix|Not vuln| |Update log4j version to 2.16.0 (CVE-2021-45046)|[source1](https://community.ui.com/releases/UniFi-Network-Application-6-5-55/48c64137-4a4a-41f7-b7e4-3bee505ae16e) [source2](https://community.ui.com/releases/Security-Advisory-Bulletin-023-023/808a1db0-5f8e-4b91-9097-9822f3f90207#comment/f689e3fb-6ad8-46b0-8054-2ea3656a8778)|
 |Unify|AC-Win SL|V3|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf)|
 |Unify|Atos Unify First Response Emergency Services Applicaction| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf)|
 |Unify|Atos Unify First Response Gemma|V2 & V3|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf)|
