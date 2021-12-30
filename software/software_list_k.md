@@ -9,6 +9,8 @@
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
 |K15t|All| | | | | | |[K15t Statement](https://help.k15t.com/k15t-apps-and-log4shell-193401141.html)|
 |K6|All| | | | | | |[K6 Statement](https://k6.io/blog/k6-products-not-impacted-by-cve-2021-44228/)|
+|Kaltura|Blackboard Learn Self- and Managed-Hosting|v3900.26.x|Fix|Fix|Fix|Fix| |[source](https://knowledge.kaltura.com/help/blackboard-learn-release-notes#blackboard-learn-december-2021-release-notes-v5412)|
+|Kaltura|Blackboard Learn SaaS in the classic Learn experience|v3900.28.x|Fix|Fix|Fix|Fix| |[source](https://knowledge.kaltura.com/help/blackboard-learn-release-notes#blackboard-learn-december-2021-release-notes-v5412)|
 |KEMP|All| | | | | | |[KEMP Support](https://support.kemptechnologies.com/hc/en-us/articles/4416430695437-CVE-2021-44228-Log4j2-Exploit)|
 |KEMP 2|All| | | | | | |[KEMP 2 Support](https://support.kemptechnologies.com/hc/en-us/articles/4416473820045-Progress-Kemp-LoadMaster-protects-from-security-vulnerability-Apache-Log4j-2-CVE-2021-44228-)|
 |Karakun|All| | | | | | |[Karakun Statement](https://board.karakun.com/viewtopic.php?f=21&amp;t=8351)|
