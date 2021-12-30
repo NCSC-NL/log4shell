@@ -39,7 +39,9 @@ However NCSC-NL strives to provide IoCs from reliable sources.**
 | Microsoft(Contains scan IP's) | Almost Daily | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv |
 | RedDrip7 | 15-12-2021 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
 | CrowdSec (Scan IP validation)| Dynamically updated | https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
+| CrowdStrike | 29-12-2021 | https://www.crowdstrike.com/blog/overwatch-exposes-aquatic-panda-in-possession-of-log-4-shell-exploit-tools/ |
 | Cyble | 13-12-2021 | https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/ |
+| CyStack | 28-12-2021 | https://cystack.net/research/the-attack-on-onus-a-real-life-case-of-the-log4shell-vulnerability |
 | Fortinet | 21-12-2021 | https://www.fortinet.com/blog/threat-research/critical-apache-log4j-log4shell-vulnerability-what-you-need-to-know |
 | NCC Group (Contains scan IP's) | 12-12-2021 | https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/ |
 | Lacework | 12-12-2021 | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
