@@ -62,6 +62,7 @@ Checks if the application or system is using Log4j2.
 | Neo23x0[^4]   | Florian Roth Log4j2 detection script | https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b |
 | sp4ir[^5]     | Powershell script to detect Log4Shell| https://github.com/sp4ir/incidentresponse/blob/35a2faae8512884bcd753f0de3fa1adc6ec326ed/Get-Log4shellVuln.ps1 |
 | Syft | Open source SBOM scanner, can detect all dependencies including log4j | https://github.com/anchore/syft/ |
+| yannart | Open sourced(MIT license) scanner to analyze recursively for jar and other Java archives that may be vulnerable (written in Rust) | https://github.com/yannart/log4shell-scanner-rs |
 
 [^1]: Only scans filenames, does not search for vulnerable JndiLookup.class, does not scan nested Java archives, does not scan .war and .ear files.
 [^2]: Only scans filenames, does not scan nested Java archives, does not scan .war and .ear files.
