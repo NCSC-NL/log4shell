@@ -306,6 +306,10 @@
 |Atlassian|Jira Server & Data Center|On prem| |Vulnerable| | |Only vulnerable when using non-default config, cloud version fixed|[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html)|
 |Attivo networks|All| | | | | | |[Attivo Networks Advisory](https://www.attivonetworks.com/wp-content/uploads/2021/12/Log4j_Vulnerability-Advisory-211213-4.pdf)|
 |AudioCodes|All| | | | | | |[AudioCodes Link](https://services.audiocodes.com/app/answers/kbdetail/a_id/2225)|
+|Automation Anywhere|Automation 360 Cloud| |Not vuln|Fix| | | |[source](https://apeople.automationanywhere.com/s/article/A360-Cloud-Zero-day-in-the-Log4j-Java-library)|
+|Automation Anywhere|Automation 360 On Premise| |Not vuln|Workaround| | | |[source](https://apeople.automationanywhere.com/s/article/A360-On-Premise-Update-regarding-CVE-2021-44228-related-to-0-day-in-the-Apache-Log4j2-Java-library)|
+|Automation Anywhere|Automation Anywhere|11.3.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://apeople.automationanywhere.com/s/article/AA-11-x-Update-regarding-CVE-2021-44228-related-to-0-day-in-the-Apache-Log4j2-Java-library)|
+|Automation Anywhere|Automation Anywhere|11.x, <11.3.x|Not vuln|Workaround|Workaround|Workaround| |[source](https://apeople.automationanywhere.com/s/article/AA-11-x-Update-regarding-CVE-2021-44228-related-to-0-day-in-the-Apache-Log4j2-Java-library)|
 |Autodesk|All| | |Investigation| | | |[source](https://www.autodesk.com/trust/overview)|
 |Automox|All| | | | | | |[Automox Blog Post](https://blog.automox.com/log4j-critical-vulnerability-scores-a-10)|
 |Autopsy|All| | | | | | |[Autopsy Link](https://www.autopsy.com/autopsy-and-log4j-vulnerability/)|
