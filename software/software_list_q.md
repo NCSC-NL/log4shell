@@ -7,17 +7,9 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
-|QF-Test|All| | | | | | |[QF-Test Blog Post](https://www.qfs.de/en/blog/article/no-log4j-vulnerability-in-qf-test.html)|
-|QMATIC|Appointment Booking|2.4+|Not vuln|Fix| | |Update to v. 2.8.2 which contains log4j 2.16|[QMATIC Link](https://www.qmatic.com/meet-qmatic/news/qmatic-statement-on-log4j-vulnerability)|
-|QMATIC|Appointment Booking|Cloud/Managed Service|Not vuln|Fix| | |log4j 2.16 applied 2021-12-15|[QMATIC Link](https://www.qmatic.com/meet-qmatic/news/qmatic-statement-on-log4j-vulnerability)|
-|QMATIC|Insights|Cloud|Not vuln|Fix| | |log4j 2.16 applied 2021-12-16|[QMATIC Link](https://www.qmatic.com/meet-qmatic/news/qmatic-statement-on-log4j-vulnerability)|
-|QMATIC|Orchestra Central|6.0+|Not vuln|Not vuln|Not vuln|Not vuln| |[QMATIC Link](https://www.qmatic.com/meet-qmatic/news/qmatic-statement-on-log4j-vulnerability)|
-|QOPPA|All| | | | | | |[QOPPA Link](https://kbdeveloper.qoppa.com/cve-2021-44228-apache-log4j-vulnerability/)|
-|QSC Q-SYS|All| | | | | | |[QSC Q-SYS Article](https://qscprod.force.com/selfhelpportal/s/article/Are-Q-SYS-products-affected-by-the-Log4j-vulnerability-CVE-2021-44228)|
-|QT|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[QT](https://www.qt.io/blog/the-qt-company-products-not-affected-by-cve-2021-44228-log4j-vulnerability)|
-|Qlik|All| | | | | | |[Qlik Community Link](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
-|Quest Global|All| | | | | | |[Quest Global](https://support.quest.com/fr-fr/search#q=CVE-2021-44228&amp;t=Global)|
 |Qconferencing|FaceTalk| |Not vuln|Fix| | | |[source](https://qconferencing.com/status-vulnerability-log4j-en-qconferencing/)|
+|QF-Test|All| | | | | | |[QF-Test Blog Post](https://www.qfs.de/en/blog/article/no-log4j-vulnerability-in-qf-test.html)|
+|Qlik|All| | | | | | |[Qlik Community Link](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
 |QlikTech International|AIS, including ARC,|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
 |QlikTech International|Attunity Visibility| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
 |QlikTech International|AutoML| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
@@ -39,18 +31,26 @@
 |QlikTech International|Qlik Sense Business| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
 |QlikTech International|Qlik Sense Enterprise|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
 |QlikTech International|Qlik Sense Enterprise SaaS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
-|QlikTech International|Qlik Web Connectors|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
 |QlikTech International|QlikView|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
+|QlikTech International|Qlik Web Connectors|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
 |QlikTech International|Replicate|6.6, 7.0, 2021.5, 2021.11|Not vuln|Workaround|Workaround|Vulnerable| |[source](https://community.qlik.com/t5/Knowledge/CVE-2021-44228-Handling-the-log4j-lookups-critical-vulnerability/ta-p/1869996)|
 |QlikTech International|REST Connectors| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
 |QlikTech International|Salesforce and SAP| |Not vuln|Not vuln|Not vuln|Not vuln|Connectors are not affected|[source](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
+|QMATIC|Appointment Booking|2.4+|Not vuln|Fix| | |Update to v. 2.8.2 which contains log4j 2.16|[QMATIC Link](https://www.qmatic.com/meet-qmatic/news/qmatic-statement-on-log4j-vulnerability)|
+|QMATIC|Appointment Booking|Cloud/Managed Service|Not vuln|Fix| | |log4j 2.16 applied 2021-12-15|[QMATIC Link](https://www.qmatic.com/meet-qmatic/news/qmatic-statement-on-log4j-vulnerability)|
+|QMATIC|Insights|Cloud|Not vuln|Fix| | |log4j 2.16 applied 2021-12-16|[QMATIC Link](https://www.qmatic.com/meet-qmatic/news/qmatic-statement-on-log4j-vulnerability)|
+|QMATIC|Orchestra Central|6.0+|Not vuln|Not vuln|Not vuln|Not vuln| |[QMATIC Link](https://www.qmatic.com/meet-qmatic/news/qmatic-statement-on-log4j-vulnerability)|
 |QNAP|General information QNAP| | |Investigation| | |Applications maintained by a third-party are under investigation.|[source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58)|
-|QNAP|Qsirch| | |Not vuln| | | |[source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58)|
 |QNAP|QES Operating System| | |Not vuln| | | |[source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58)|
+|QNAP|Qsirch| | |Not vuln| | | |[source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58)|
 |QNAP|QTS operating system| | |Not vuln| | | |[source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58)|
 |QNAP|QuTS hero operating system| | |Not vuln| | | |[source](https://www.qnap.com/en-uk/security-advisory/qsa-21-58)|
+|QOPPA|All| | | | | | |[QOPPA Link](https://kbdeveloper.qoppa.com/cve-2021-44228-apache-log4j-vulnerability/)|
 |QOS.ch|SLF4J Simple Logging Facade for Java| | | | | |SLF4J API doesn't protect against the vulnerability when using a vulnerable version of log4j|[source](http://slf4j.org/log4shell.html)|
+|QSC Q-SYS|All| | | | | | |[QSC Q-SYS Article](https://qscprod.force.com/selfhelpportal/s/article/Are-Q-SYS-products-affected-by-the-Log4j-vulnerability-CVE-2021-44228)|
+|QT|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[QT](https://www.qt.io/blog/the-qt-company-products-not-affected-by-cve-2021-44228-log4j-vulnerability)|
 |Quadira|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Quadira.png)|
-|QUEST|Quest KACE SMA| | |Not vuln| | | |[source](https://support.quest.com/kace-systems-management-appliance/kb/335869/are-the-kace-sma-and-kace-sda-appliances-affected-by-cve-2021-44228)|
 |QUEST|Foglight|5.9| |Not vuln| | | |[source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US)|
 |QUEST|Foglight|6.0|Not vuln|Workaround| | | |[source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US)|
+|Quest Global|All| | | | | | |[Quest Global](https://support.quest.com/fr-fr/search#q=CVE-2021-44228&amp;t=Global)|
+|QUEST|Quest KACE SMA| | |Not vuln| | | |[source](https://support.quest.com/kace-systems-management-appliance/kb/335869/are-the-kace-sma-and-kace-sda-appliances-affected-by-cve-2021-44228)|

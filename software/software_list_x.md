@@ -8,26 +8,7 @@
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
 |XCP-ng|All| | | | | | |[XCP lOG4j Vulnerability](https://xcp-ng.org/forum/topic/5315/log4j-vulnerability-impact)|
-|XPLG|All| | | | | | |[XPLG Secure Log4j](https://www.xplg.com/log4j-vulnerability-exploit-log4shell-xplg-secure/)|
-|XPertDoc|All| | | | | | |[Xpertdoc](https://kb.xpertdoc.com/pages/viewpage.action?pageId=87622727)|
-|XWIKI|All| | | | | | |[Xwiki CVE-2021-44228](https://forum.xwiki.org/t/log4j-cve-2021-44228-log4shell-zero-day-vulnerability/9557)|
 |XenForo|All| | | | | | |[Xenforo PSA Elasticsearch](https://xenforo.com/community/threads/psa-potential-security-vulnerability-in-elasticsearch-5-via-apache-log4j-log4shell.201145/)|
-|Xylem|Aquatalk| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Avensor| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Cloud| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Configuration change complete| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Edge Gateway (xGW)| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus Analytics| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus Automation Control Configuration change complete| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus Cathodic Protection Mitigation in process Mitigation in process| | |Vulnerable| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus FieldLogic LogServer| | |Vulnerable| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus Lighting Control| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus NetMetrics Configuration change complete| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus RNI On Prem|4.7 through 4.10, 4.4 through 4.6, 4.2| |Vulnerable| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus RNI Saas|4.7 through 4.10, 4.4 through 4.6, 4.2|Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Sensus SCS| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Smart Irrigation| | |Vulnerable| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
-|Xylem|Water Loss Management (Visenti)| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
 |Xerox|Account Payable Services| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|AltaLink Products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|App Gallery| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
@@ -47,9 +28,9 @@
 |Xerox|D95A/D110/D125| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|Digital Mailroom Services| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|DocuCentre SC2020| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
-|Xerox|DocuShare| |Not vuln|Not vuln|Not vuln|Not vuln|DocuShare using Solr search is vulnerable, see below.|[source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896)|
 |Xerox|DocuShare Flex| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896)|
 |Xerox|DocuShare Go| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896)|
+|Xerox|DocuShare| |Not vuln|Not vuln|Not vuln|Not vuln|DocuShare using Solr search is vulnerable, see below.|[source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896)|
 |Xerox|DocuShare using Solr search|7.5 hotfix 11|Not vuln|Fix| | | |[source](https://securitydocs.business.xerox.com/wp-content/uploads/2021/12/DocuShare-Security-Bulletin-XRX21-022-for-CVE-2021-44228-and-CVE-2021-45046-v1.1.pdf?_ga=2.259355715.815728437.1639915896-1216287067.1639915896)|
 |Xerox|ECxx and WorkCentre Ecxx| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|ED95A/ED125| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
@@ -72,8 +53,6 @@
 |Xerox|Phaser 6020| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|Phaser 6510| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|PrimeLink Products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
-|Xerox|PrimeLink Products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
-|Xerox|PrimeLink Products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|Print and Scan Experience| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|Team Availability Application| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|VersaLink Products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
@@ -92,3 +71,22 @@
 |Xerox|XMPie Data-Driven Print and VDP| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|XMPie Omnichannel Communications| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
 |Xerox|XMPie Web to Print| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf)|
+|XPertDoc|All| | | | | | |[Xpertdoc](https://kb.xpertdoc.com/pages/viewpage.action?pageId=87622727)|
+|XPLG|All| | | | | | |[XPLG Secure Log4j](https://www.xplg.com/log4j-vulnerability-exploit-log4shell-xplg-secure/)|
+|XWIKI|All| | | | | | |[Xwiki CVE-2021-44228](https://forum.xwiki.org/t/log4j-cve-2021-44228-log4shell-zero-day-vulnerability/9557)|
+|Xylem|Aquatalk| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Avensor| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Cloud| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Configuration change complete| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Edge Gateway (xGW)| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus Analytics| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus Automation Control Configuration change complete| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus Cathodic Protection Mitigation in process Mitigation in process| | |Vulnerable| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus FieldLogic LogServer| | |Vulnerable| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus Lighting Control| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus NetMetrics Configuration change complete| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus RNI On Prem|4.7 through 4.10, 4.4 through 4.6, 4.2| |Vulnerable| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus RNI Saas|4.7 through 4.10, 4.4 through 4.6, 4.2|Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Sensus SCS| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Smart Irrigation| | |Vulnerable| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|
+|Xylem|Water Loss Management (Visenti)| |Not vuln|Fix| | | |[Xylem Advisory Link](https://www.xylem.com/siteassets/about-xylem/cybersecurity/advisories/xylem-apache-log4j-xpsa-2021-005.pdf)|

@@ -7,21 +7,21 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
-|YSoft SAFEQ|All| | | | | | |[Ysoft Safeq](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf)|
-|Yellowbrick|All| | | | | | |[YellowBrick Security Advisory Yellowbrick](https://support.yellowbrick.com/hc/en-us/articles/4412586575379-Security-Advisory-Yellowbrick-is-NOT-Affected-by-the-Log4Shell-Vulnerability)|
-|Y Soft|SAFEQ 6|<= 6.0.63|Not vuln|Workaround| | | |[source](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf)|
 |Yahoo|Vespa| |Not vuln|Not vuln|Not vuln|Not vuln|Your Vespa application may still be affected if log4j is included in your application package|[source](https://blog.vespa.ai/log4j-vulnerability/)|
+|Yellowbrick|All| | | | | | |[YellowBrick Security Advisory Yellowbrick](https://support.yellowbrick.com/hc/en-us/articles/4412586575379-Security-Advisory-Yellowbrick-is-NOT-Affected-by-the-Log4Shell-Vulnerability)|
 |Yellowfin|All|8.0.10.3, 9.7.0.2|Not vuln|Fix| | |v7 and v6 releases are not affected unless you have manually upgraded to Log4j2|[source](https://community.yellowfinbi.com/announcement/notice-critical-vulnerability-in-log4j2)|
 |Yenlo|Connext|2.x|Not vuln|Not vuln|Not vuln|Not vuln|Connext Platform (Managed WSO2 Cloud) and all underlying middleware components are not vulnerable|[source](https://www.yenlo.com/news/vulnerability-code-log4shell-log4j2)|
-|Yokogawa|CENTUM VP|Unified Gateway Station (UGS2) Standard Function R6.06.00 or earlier|Investigation|Investigation|Investigation|Investigation| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|CENTUM VP (other components)| |Not vuln|Not vuln|Not vuln|Not vuln|Unified Gateway Station (UGS2) Standard Function R6.06.00 or earlier is still under investigation|[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
+|Yokogawa|CENTUM VP|Unified Gateway Station (UGS2) Standard Function R6.06.00 or earlier|Investigation|Investigation|Investigation|Investigation| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|CI Server| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|Exaopc| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|Exaplog| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|Exaquantum| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|FAST/TOOLS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|PRM| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
-|Yokogawa|ProSafe-RS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|ProSafe-RS Lite| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
+|Yokogawa|ProSafe-RS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|STARDOM| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
 |Yokogawa|VTSPortal| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/)|
+|Y Soft|SAFEQ 6|<= 6.0.63|Not vuln|Workaround| | | |[source](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf)|
+|YSoft SAFEQ|All| | | | | | |[Ysoft Safeq](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf)|
