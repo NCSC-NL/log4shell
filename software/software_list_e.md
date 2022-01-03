@@ -21,8 +21,8 @@
 |Elastic|APM Java Agent|1.17.0-1.28.0|Not vuln|Workaround| | |Only vulnerable with specific configuration|[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
 |Elastic|APM Server| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
 |Elastic|Beats| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
-|Elastic|Cloud Enterprise| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
 |Elastic|Cloud| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
+|Elastic|Cloud Enterprise| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
 |Elastic|Cloud on Kubernetes| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
 |Elastic|Cmd| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
 |Elastic|Endgame| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
@@ -34,8 +34,8 @@
 |Elastic|Machine Learning| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
 |Elastic|Maps Service| | |Not vuln| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
 |Elastic|search|7.16.2|Not vuln|Fix|Fix|Fix| |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
-|ElasticSearch|All| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |Elastic|Swiftype| | |Investigation| | | |[source](https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476)|
+|ElasticSearch|All| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |Ellucian|Admin| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
 |Ellucian|Advance Web Connector| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
 |Ellucian|Banner Analytics| | |Vulnerable| | | |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
@@ -45,8 +45,8 @@
 |Ellucian|Banner Integration for eProcurement| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
 |Ellucian|Banner Self Service| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
 |Ellucian|Banner Workflow| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
-|Ellucian|Colleague Analytics| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
 |Ellucian|Colleague| | |Vulnerable| | |On-prem and cloud deployements expect fixed 12/18/2021|[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
+|Ellucian|Colleague Analytics| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
 |Ellucian|CRM Advance| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
 |Ellucian|CRM Advise| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
 |Ellucian|CRM Recruit| |Not vuln|Not vuln|Not vuln|Not vuln| |[Ellucian Response on Apache Log4j Issue](https://www.ellucian.com/news/ellucian-response-apache-log4j-issue)|
@@ -146,8 +146,8 @@
 |Emerson|Rosemount Radar Configuration Tool| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification EMR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
 |Emerson|Rosemount Radar Level Gauges (Pro 39xx 59xx)| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification EMR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
 |Emerson|Rosemount RadarMaster and RadarMaster Plus| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification EMR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
-|Emerson|Rosemount TankMaster and TankMaster Mobile| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification EMR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
 |Emerson|Rosemount Tank Radar Gauges (TGUxx)| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification EMR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
+|Emerson|Rosemount TankMaster and TankMaster Mobile| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification EMR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
 |Emerson|Spectrex family Flame Detectors and Rosemount 975 flame detector| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification EMR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
 |Emerson|USM 3410 and 3810 Series Ultrasonic Transmitters| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification EMR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
 |Emerson|USM 3410 and 3810 Series Ultrasonic Transmitters| |Not vuln|Not vuln|Not vuln|Not vuln| |[Emerson Security Notification   MR.RMT21003-2](https://www.emerson.com/documents/automation/emerson-cyber-security-notification-en-7881618.pdf)|
@@ -173,8 +173,8 @@
 |Esri|Portal for ArcGIS|All|Not vuln|Fix| | |Requires script remediation.  ESRI has created scripts to remove the JndiLookup class, but has not issued patches to upgrade the Log4j versions|[source](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-software-and-cve-2021-44228-aka-log4shell-aka-logjam/)|
 |estos|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.estos.de/de/sicherheitshinweise/estos-von-kritischer-schwachstelle-in-log4j-cve-2021-44228-nicht-betroffen)|
 |EVL Labs|JGAAP|<8.0.2|Not vuln|Fix| | | |[source](https://github.com/evllabs/JGAAP/releases/tag/v8.0.2)|
-|Evolveum Midpoint|All| | | | | | |[Evolveum Midpoint Statement](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/)|
 |Evolveum|midPoint| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/)|
+|Evolveum Midpoint|All| | | | | | |[Evolveum Midpoint Statement](https://evolveum.com/midpoint-not-vulnerable-to-log4shell/)|
 |Ewon|All| | | | | | |[Ewon Statement](https://hmsnetworks.blob.core.windows.net/www/docs/librariesprovider10/downloads-monitored/manuals/release-notes/ecatcher_releasenotes.txt?sfvrsn=4f054ad7_42)|
 |Ewon (HMS-Networks)|eCatcher|6.7.8|Not vuln|Fix|Fix|Fix| |[source](https://hmsnetworks.blob.core.windows.net/www/docs/librariesprovider10/downloads-monitored/manuals/release-notes/ecatcher_releasenotes.txt?sfvrsn=4f054ad7_42) [bulletin](https://www.hms-networks.com/cybersecurity)|
 |Exabeam|All| | | | | |This advisory is available to customers only and has not been reviewed by CISA|[Exabeam Statement](https://community.exabeam.com/s/discussions?t=1639379479381)|
@@ -216,27 +216,27 @@
 |Exact|WMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.exact.com/news/general-statement-apache-leak)|
 |Exivity|On-Premise|All version| |Not vuln| | | |[source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228)|
 |Extensis|Universal Type Server|=>7.0.6|Not vuln|Fix| | | |[source](https://help.extensis.com/hc/en-us/articles/4412767414299-Universal-Type-Server-7-and-Log4j-vulnerabilities)|
-|ExtraHop|Reveal(x)|<=8.4.6, <=8.5.3, <=8.6.4|Not vuln|Fix| | |Versions &gt;8.4.7, &gt;8.5.4, &gt;8.6.5 and &gt;=8.7 are fixed.|[ExtraHop Statement](https://forums.extrahop.com/t/extrahop-update-on-log4shell/8148)|
+|ExtraHop|Reveal(x)|<=8.4.6, <=8.5.3, <=8.6.4|Not vuln|Fix| | |"Versions &gt;8.4.7, &gt;8.5.4, &gt;8.6.5 and &gt;=8.7 are fixed."|[ExtraHop Statement](https://forums.extrahop.com/t/extrahop-update-on-log4shell/8148)|
 |eXtreme Hosting|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremehosting.nl/log4shell-log4j/)|
 |Extreme Networks|200-series| | |Investigation| | | |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|BOSS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|EXOS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|Extreme AirDefense| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
-|Extreme Networks|ExtremeAnalytics| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|Extreme Campus Controller (ExtremeCloud Appliance)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
+|Extreme Networks|Extreme Fabric Automation (EFA)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
+|Extreme Networks|Extreme Management Center (XMC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
+|Extreme Networks|Extreme Visibility Manager (XVM)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
+|Extreme Networks|ExtremeAnalytics| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|ExtremeCloud A3| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|ExtremeCloud IQ| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|ExtremeConnect| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|ExtremeControl| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
-|Extreme Networks|Extreme Fabric Automation (EFA)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|ExtremeGuest| | |Investigation| | | |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|ExtremeLocation| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
-|Extreme Networks|Extreme Management Center (XMC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
-|Extreme Networks|Extreme Visibility Manager (XVM)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|ExtremeWireless (Identifi)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|Fabric Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
-|Extreme Networks|HiveManager Classic Online| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|HiveManager Classic On-Premises| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
+|Extreme Networks|HiveManager Classic Online| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|IQEngine (HiveOS)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|IQVA| | |Vulnerable| | | |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|ISW| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
