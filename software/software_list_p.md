@@ -18,33 +18,33 @@
 |Palo Alto|CloudGenix| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|Cortex XDR Agent| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|Cortex XSOAR| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo Alto|Exact Data Matching CLI|< 1.2| |Vulnerable| | |&gt;= 1.2 Not vuln|[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo Alto|Exact Data Matching CLI|< 1.2| |Vulnerable| | |"&gt;= 1.2 Not vuln"|[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|GlobalProtect App| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo Alto|PAN-OS for Firewall and Wildfire| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo Alto|PAN-OS for Panorama|< 9.0.15, < 10.0.8-h8, < 9.1.12-h3| |Fix|Fix|Fix|"8.1.<em>, 10.1.</em>, &gt;= 9.0.15, &gt;= 10.0.8-h8, &gt;= 9.1.12-h3 Not vuln"|[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo Alto|Prisma Cloud| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo Alto|Prisma Cloud Compute| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo Alto|WildFire Appliance| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Bridgecrew| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|CloudGenix| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Cortex Data Lake| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Cortex XDR Agent| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Cortex Xpanse| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Cortex XSOAR| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo-Alto Networks|Exact Data Matching CLI | 1.2 | Not vuln | Fix | Fix | Investigation | |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo-Alto Networks|Exact Data Matching CLI|1.2|Not vuln|Fix|Fix|Investigation| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Expedition| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|GlobalProtect App| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|IoT Security| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Okyo Grade| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo-Alto Networks|-OS for Firewall and Wildfire| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo-Alto Networks|-OS for Panorama|9.0.15, 9.1.12-h3, 10.0.8-h8|Not vuln|Fix| | | |[CVE-2021-44228:Impact of Log4J Vulnerability](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Prisma Access| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo-Alto Networks|Prisma Cloud Compute| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|Prisma Cloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo-Alto Networks|Prisma Cloud Compute| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|SaaS Security| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|User-ID Agent| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|WildFire Appliance| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo-Alto Networks|WildFire Cloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo Alto|PAN-OS for Firewall and Wildfire| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo Alto|PAN-OS for Panorama|< 9.0.15, < 10.0.8-h8, < 9.1.12-h3| |Fix|Fix|Fix|8.1.<em>, 10.1.</em>, &gt;= 9.0.15, &gt;= 10.0.8-h8, &gt;= 9.1.12-h3 Not vuln|[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo Alto|Prisma Cloud Compute| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo Alto|Prisma Cloud| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo Alto|WildFire Appliance| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo-Alto Networks|#NAME?| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228 Informational: Impact of Log4j Vulnerability CVE-2021-44228 (paloaltonetworks.com)](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo-Alto Networks|#NAME?|9.0.15, 9.1.12-h3, 10.0.8-h8|Not vuln|Fix| | | |[CVE-2021-44228:Impact of Log4J Vulnerability](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Panopto|All| | | | | | |[Panopto Support Link](https://support.panopto.com/s/article/Panopto-Statement-on-the-Log4j2-Zero-Day-Vulnerability)|
 |PaperCut|Hive| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228)|
 |PaperCut|MF|>= 21.0|Not vuln|Workaround| | | |[source](https://www.papercut.com/kb/Main/Log4Shell-CVE-2021-44228)|
@@ -58,8 +58,8 @@
 |Parallels|Remote Application Server|All| |Not vuln| | | |[source](https://kb.parallels.com/en/128696)|
 |Parse.ly|All| | | | | | |[Parse.ly Blog Post](https://blog.parse.ly/parse-ly-log4shell/)|
 |PBXMonitor|RMM for 3CX PBX| |Not vuln|Not vuln|Not vuln|Not vuln|Mirror Servers were also checked to ensure Log4J was not installed or being used by any of our systems.|[PBXMonitor Changelog](https://www.pbxmonitor.net/changelog.php)|
-|PDQ|Deploy|All| |Investigation| | | |[source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-90432152)|
-|PDQ|Inventory|All| |Investigation| | | |[source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-90432152)|
+|PDQ|Deploy|All| |Investigation| | | |"[source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-90432152)"|
+|PDQ|Inventory|All| |Investigation| | | |"[source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-90432152)"|
 |Pega|Platform|7.3.x - 8.6.x|Not vuln|Fix| | |Hotfixes made available for registered customers by Pega. When using Stream nodes, the embedded Kafka instances require a separate hotfix to be installed.|[source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability)|
 |Pentaho|All| | | | | | |[Pentaho Support Link](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 |Pepperl+Fuchs|All| | |Investigation| | | |[Pepperl+Fuchs Advisory Link](https://www.pepperl-fuchs.com/global/en/29079.htm)|
@@ -132,8 +132,8 @@
 |Pretix|All| | | | | | |[Pretix Blog Post](https://pretix.eu/about/de/blog/20211213-log4j/)|
 |PrimeKey|All| | | | | | |[PrimeKey Support Link](https://support.primekey.com/news/posts/information-about-primekey-products-and-log4j-vulnerability-cve-2021-44228)|
 |Progress|DataDirect Hybrid Data Pipeline| |Not vuln|Workaround| | | |[source](https://www.progress.com/security) [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-Hybrid-Data-Pipeline-vulnerable-CVE-2021-44228-Log4j)|
-|Progress / IpSwitch|All| | | | | | |[Progress / IpSwitch Link](https://www.progress.com/security)|
 |Progress|OpenEdge| |Not vuln|Workaround| | | |[source](https://www.progress.com/security) [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-OpenEdge-vulnerable-to-CVE-2021-44228-Log4j)|
+|Progress / IpSwitch|All| | | | | | |[Progress / IpSwitch Link](https://www.progress.com/security)|
 |Proofpoint|Archiving Appliance| | |Vulnerable| | | |[source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability)|
 |Proofpoint|Archiving Backend| |Not vuln|Fix| | | |[source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability)|
 |Proofpoint|Cloud App Security Broker| | |Fix| | | |[source](https://www.proofpoint.com/us/blog/corporate-news/proofpoints-response-log4j-vulnerability)|
@@ -219,12 +219,12 @@
 |PTV Group|PTV Balance and PTV Epics| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Content Update Service|2 (on prem)|Not vuln|Fix|Fix|Vulnerable| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Developer| |Not vuln|Fix|Fix|Vulnerable| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
-|PTV Group|PTV Drive&Arrive App| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Drive&Arrive| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
+|PTV Group|PTV Drive&Arrive App| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Hyperpath| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV MaaS Modeller| |Not vuln|Vulnerable|Vulnerable|Vulnerable| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Map&Guide internet| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
-|PTV Group|PTV Map&Guide intranet| |Not vuln|Not vuln|Not vuln|Not vuln|<a href="https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information" rel="nofollow">source</a>||
+|PTV Group|PTV Map&Guide intranet| |Not vuln|Not vuln|Not vuln|Not vuln|"<a href=""https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information"" rel=""nofollow"">source</a>"||
 |PTV Group|PTV Navigator App| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Navigator Licence Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Optima| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
