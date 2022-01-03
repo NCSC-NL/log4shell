@@ -16,41 +16,41 @@
 |LastPass|Other products| | |Not vuln| | | |[source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy)|
 |LaunchDarkly|All| | | | | | |[LaunchDarkly Statement](https://launchdarkly.com/blog/audit-shows-systems-unaffected-by-log4j/)|
 |LeanIX|All|All|Not vuln|Fix| | | |[source](https://www.leanix.net/en/blog/log4j-vulnerability-log4shell)|
-|Lecia biosystem|Aperio AT2| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio AT2 DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio CS2| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio eSlide Manager| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio GT 450| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio GT 450 DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio ImageScope| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio ImageScope DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio LV1| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio SAM DX Server For GT 450 DX| |Vulnerable|Not Vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio Scanner Administration Manager (SAM) Server for GT 450| | |Not Vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio VERSA| |Vulnerable|Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio WebViewer DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|BOND Controller| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|BOND RX / RXm| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|BOND-ADVANCE| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|BOND-III| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|BOND-MAX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|CEREBRO| |Vulnerable|Not Vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|CytoVision| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|HistoCore PEARL| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|HistoCore PEGASUS| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|HistoCore SPECTRA CV| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|HistoCore SPECTRA ST| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|HistoCore SPIRIT ST| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|HistoCore SPRING ST| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Leica ASP300S| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Leica CV5030| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Leica ST4020| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Leica ST5010| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Leica ST5020| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Leica TP1020| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|LIS Connect| |Vulnerable|Not Vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|PathDX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|ThermoBrite Elite| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio AT2| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio AT2 DX| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio CS2| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio eSlide Manager| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio GT 450| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio GT 450 DX| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio ImageScope| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio ImageScope DX| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio LV1| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio SAM DX Server For GT 450 DX| |Vulnerable|Not vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio Scanner Administration Manager (SAM) Server for GT 450| | |Not vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio VERSA| |Vulnerable|Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio WebViewer DX| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|BOND Controller| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|BOND RX / RXm| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|BOND-ADVANCE| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|BOND-III| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|BOND-MAX| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|CEREBRO| |Vulnerable|Not vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|CytoVision| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|HistoCore PEARL| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|HistoCore PEGASUS| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|HistoCore SPECTRA CV| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|HistoCore SPECTRA ST| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|HistoCore SPIRIT ST| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|HistoCore SPRING ST| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Leica ASP300S| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Leica CV5030| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Leica ST4020| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Leica ST5010| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Leica ST5020| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Leica TP1020| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|LIS Connect| |Vulnerable|Not vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|PathDX| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|ThermoBrite Elite| | |Not vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio AT2| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio AT2 DX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio CS2| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
