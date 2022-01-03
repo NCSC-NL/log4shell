@@ -7,6 +7,8 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|B. Braun|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b-braun-statement-on-Apache_Log4j.html)|
+|B&R Industrial Automation|APROL| |Not vuln|Not vuln|Not vuln|Not vuln| |"[B&amp;R Statement](https://www.br-automation.com/downloads_br_productcatalogue/assets/1639507581859-en-original-1.0.pdf)"|
 |Backblaze|Cloud|N/A (SaaS)|Not vuln|Fix| | |Cloud service patched|[source](https://help.backblaze.com/hc/en-us/articles/4412580603419)|
 |BackBox|All| | | | | | |[BackBox Update](https://updates.backbox.com/V6.5/Docs/CVE-2021-44228.pdf)|
 |Balbix|All| | | | | | |[Balbix Blog Post](https://www.balbix.com/blog/broad-exposure-to-log4shell-cve-2021-44228-highlights-how-the-attack-surface-has-exploded/)|
@@ -17,7 +19,6 @@
 |Barracuda|All| | | | | | |[Barracuda Link](https://www.barracuda.com/company/legal/trust-left)|
 |Basis Technology|Autopsy|4.18.0 onwards|Not vuln|Workaround| | |version 4.18.0 onwards use Apache Solr 8|[source](https://www.autopsy.com/autopsy-and-log4j-vulnerability)|
 |Baxter|All| | | | | | |[Baxter Advisory Link](https://www.baxter.com/sites/g/files/ebysai746/files/2021-12/Apache_Log4j_Vulnerability.pdf)|
-|B. Braun|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b-braun-statement-on-Apache_Log4j.html)|
 |BBraun|APEX® Compounder| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
 |BBraun|DoseTrac® Server, DoseLink™ Server, and Space® Online Suite Server software| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
 |BBraun|Outlook® Safety Infusion System Pump family| |Not vuln|Not vuln|Not vuln|Not vuln| |[BBraun Advisory Link](https://www.bbraunusa.com/content/dam/b-braun/us/website/customer_communications/21-0894C_Statement_Cybersecurity_Apache_Log4J_Sheet_FINAL_121621.pdf)|
@@ -30,9 +31,10 @@
 |BCT|IDT| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.bctsoftware.com/hc/nl/articles/4413416591761)|
 |BCT|iGEN| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.bctsoftware.com/hc/nl/articles/4413416591761)|
 |BCT|LIBER|1.125.3|Not vuln|Fix|Fix|Not vuln|Details are shared on BCT portal.|[source](https://support.bctsoftware.com/hc/nl/articles/4413416591761)|
+|BD|® LSR II|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|® Research Cloud|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Accuri™ C6 Plus|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Alaris™ Auto-ID Module Model|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|Alaris™CCPlusGuardrails™SyringePump|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Alaris™ CC Plus Syringe Pump|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Alaris™ Communications Engine|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Alaris™ CQI Event Reporter|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
@@ -57,38 +59,39 @@
 |BD|Alaris™ Technical Utility (ATU)|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Alaris™ TiVA Syringe Pump|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Alaris™ VP Plus Guardrails™ Volumetric Pump|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|Alaris™CCPlusGuardrails™SyringePump|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Arctic Sun™ 5000 Temperature Management System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Arctic Sun™ 6000 Stat Temperature Management System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Arctic Sun™ Analytics| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Assurity Linc™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|BACTEC™ 9050/9120/9240|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|BACTEC™ FX40|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|BACTEC™ FX|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|BACTEC™ FX40|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|BACTEC™ MGIT™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Care Coordination Engine (CCE)|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Cato™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|CoreLite|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|COR™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|CoreLite|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Diabetes Care App Cloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|EnCor Enspire® Breast Biopsy System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|EnCor Ultra® Breast Biopsy System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|EpiCenter™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|FACS™ Lyse Wash Assistant|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|FACS™ Sample Prep Assistant (SPA) III|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|FACS™ Workflow Manager|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSAria™ Fusion|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSAria™ II|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSAria™ III|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSCanto™ 10-color|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSCanto™ 10-color clinical|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|FACSCanto™ II clinical|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSCanto™ II (w Diva 9.0)|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|FACSCanto™ II clinical|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSCelesta™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSDuet™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSLink™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSLyric™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSMelody™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSPresto™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|FACS™ Lyse Wash Assistant|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|FACS™ Sample Prep Assistant (SPA) III|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|FACS™ Workflow Manager|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSVia™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSymphony™ A1|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|FACSymphony™ A3 / A5|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
@@ -108,14 +111,13 @@
 |BD|Influx™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Intelliport™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Intelliport™ Medication Management System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|Kiestra™ InoqulA+|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Kiestra™ InoqulA|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|Kiestra™ InoqulA+|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|Knowledge Portal for   Pyxis™ Supply| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Knowledge Portal for Infusion Technologies| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Knowledge Portal for Medication Technologies| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|Knowledge Portal for   Pyxis™ Supply| |Not vuln|Not vuln|Not vuln|Not vuln| |[BD Advisory Link](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|LSRFortessa™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|LSRFortessa™ X-20|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|® LSR II|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|MAX™|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Phoenix™ 100|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Phoenix™ AP|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
@@ -130,8 +132,8 @@
 |BD|Pyxis™ ES System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Pyxis™ IV Prep|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Pyxis™ Logistics (Pyxis™ Pharmogistics™)|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|Pyxis™ MedBank|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Pyxis™ Med Link Queue & Waste|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|Pyxis™ MedBank|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Pyxis™ MedStation™ 4000 System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Pyxis™ MedStation™ ES|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Pyxis™ Order Viewer|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
@@ -144,15 +146,14 @@
 |BD|Pyxis™ Track and Deliver|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|QUANTAFLO™ Peripheral Arterial Disease Test|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Remote Support Services (RSS)|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|® Research Cloud|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Restock Order|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Rhapsody™ Single-Cell Analysis System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Rowa™ - Dose (Windows 10 platform)|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Rowa™ - Dose (Windows 7 Workstations only)|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
-|BD|Rowa™ Pouch Packaging Systems|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Rowa™ - ProLog|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Rowa™ - Smart|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Rowa™ - Vmax|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
+|BD|Rowa™ Pouch Packaging Systems|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Sensica™ Urine Output System|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|SeqGeq™ Software|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
 |BD|Sherlock 3CG™ Standalone Tip Confirmation Systems|All| |Not vuln|Not vuln| | |[source](https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-apache-log4j)|
@@ -203,11 +204,11 @@
 |Bender|All| | | | | | |[Bender Link](https://www.bender.de/en/cert)|
 |Bender GmbH und Co. KG|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.bender.de/en/cert)|
 |Best Practical Request Tracker (RT) and Request Tracker for Incident Response (RTIR)|All| | | | | | |[Vendor Link](https://bestpractical.com/blog/2021/12/request-tracker-rt-and-request-tracker-for-incident-response-rtir-do-not-use-log4j)|
-|BeyondTrust Bomgar|All| | | | | | |[BeyondTrust Bomgar Link](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542)|
 |BeyondTrust|Privilege Management Cloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542)|
-|BeyondTrust|Privilege Management Reporting in BeyondInsight|21.2|Not vuln|Fix| | | |[Security Advisory – Apache Log4j2 CVE 2021-44228 (Log4Shell)](https://www.beyondtrust.com/blog/entry/security-advisory-apache-log4j2-cve-2021-44228-log4shell)|
 |BeyondTrust|Privilege Management Reporting| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542)|
+|BeyondTrust|Privilege Management Reporting in BeyondInsight|21.2|Not vuln|Fix| | | |[Security Advisory – Apache Log4j2 CVE 2021-44228 (Log4Shell)](https://www.beyondtrust.com/blog/entry/security-advisory-apache-log4j2-cve-2021-44228-log4shell)|
 |BeyondTrust|Secure Remote Access appliances| |Not vuln|Not vuln|Not vuln|Not vuln| |[Security Advisory – Apache Log4j2 CVE 2021-44228 (Log4Shell)](https://www.beyondtrust.com/blog/entry/security-advisory-apache-log4j2-cve-2021-44228-log4shell)|
+|BeyondTrust Bomgar|All| | | | | | |[BeyondTrust Bomgar Link](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542)|
 |BigBlueButton|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897)|
 |BioJava|Java library for processing biological data|6.0.3|Not vuln|Fix|Fix|Vulnerable| |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.3)|
 |BioMerieux|All| | |Investigation| | | |[BioMerieux Advisory Link](https://www.biomerieux.com/en/cybersecurity-data-privacy)|
@@ -218,10 +219,10 @@
 |BitRise|All| | | | | | |[BitRise Post](https://blog.bitrise.io/post/bitrises-response-to-log4j-vulnerability-cve-2021-44228)|
 |Bitwarden|All|All| |Not vuln| | | |[source](https://community.bitwarden.com/t/log4j-log4shell-cve-is-bitwarden-affected-due-to-docker-image/36177)|
 |Biztory|Fivetran| |Not vuln|Not vuln|Not vuln|Not vuln| |[Apache Log4j2 Vulnerability - Updates For Biztory Clients](https://www.biztory.com/blog/apache-log4j2-vulnerability)|
+|Black Kite|All| | | | | | |[Black Kite Link](https://blackkite.com/log4j-rce-vulnerability-log4shell-puts-millions-at-risk/)|
 |BlackBerry| 2FA|All|Not vuln|Workaround| | | |[source](https://support.blackberry.com/community/s/article/90708)|
 |BlackBerry|Enterprise Mobility Server|2.12 and above|Not vuln|Workaround| | | |[source](https://support.blackberry.com/community/s/article/90708)|
 |BlackBerry|Workspaces On-prem Server|All|Not vuln|Workaround| | | |[source](https://support.blackberry.com/community/s/article/90708)|
-|Black Kite|All| | | | | | |[Black Kite Link](https://blackkite.com/log4j-rce-vulnerability-log4shell-puts-millions-at-risk/)|
 |Blancco|All| | | | | | |[Blancco Support Link](https://support.blancco.com/display/NEWS/2021/12/12/CVE-2021-44228+-+Critical+vulnerability+in+Apache+Log4j+library)|
 |BleftSign|All| | | | | | |[BleftSign Link](https://bleftsign.atlassian.net/wiki/spaces/DOC/pages/370679198/Security+Statement+Log4J+Meltdown+and+Spectre+Vulnerabilities#SecurityStatement%3ALog4J%2CMeltdownandSpectreVulnerabilities-JavaApacheLog4j)|
 |Bluemind| All|3.5.x and 4.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://twitter.com/bluemind/status/1470379923034578946?s=20)|
@@ -245,11 +246,11 @@
 |BMC|AMI Console management|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Copy for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Cost Management|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|AMI Data Packer for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Database Administration for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Database Advisor for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Database Integrity for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Database Performance for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|AMI Data Packer for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Datastream for Ops|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Defender for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Defender for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -278,6 +279,7 @@
 |BMC|AMI Log Master for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Message Advisor for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Online Reorg for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|AMI Ops| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|AMI Ops Automation|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Ops Automation for Capping|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Ops Common Rest API (CRA)|2.0|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -285,7 +287,6 @@
 |BMC|AMI Ops Infrastructure (MVI) - CRA|7.0|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Ops Insight|1.0|Not vuln|Vulnerable|Vulnerable|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Ops Insight|1.2|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|AMI Ops| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
 |BMC|AMI Ops Monitor for CICS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Ops Monitor for CMF|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Ops Monitor for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -302,7 +303,7 @@
 |BMC|AMI Partitioned Database Facility for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Pointer Checker for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Pool Advisor for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|AMI Products| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|AMI Products| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|AMI Recover for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Recovery for VSAM|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|AMI Recovery Manager for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -332,8 +333,9 @@
 |BMC|Check Plus for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Client Gateway (Kaazing)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Client Management|21.02.00, 21.02.01, 21.02.02|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Cloud Lifecycle Management| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|Cloud Lifecycle Management| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|CMDB|All|Investigation|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|Compuware| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|Compuware Abend-Aid|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Compuware Application Audit|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Compuware DevEnterprise|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -347,7 +349,6 @@
 |BMC|Compuware File-AID/MVS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Compuware File-AID/RDX|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Compuware Hiperstation ALL Product Offerings|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Compuware| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
 |BMC|Compuware ISPW|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Compuware iStrobe|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Compuware Program Analyzer|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -391,60 +392,60 @@
 |BMC|Discovery for z/OS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|ExceptionReporter|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Extended Buffer Manager|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|FASTCPK|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Fast Path Analyzer/EP|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Fast Path Reorg/EP|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Fast Reorg Facility|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Fast Reorg Facility/EP|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|FASTCPK|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|FATSCOPY|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|FDRABR|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|FDR|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|FDR/UPSTREAM|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|FDRABR|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|FDRERASE|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|FDRMOVE|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|FDRPAS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|FDRPASVM|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|FDRREORG|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|FDR/UPSTREAM|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Footprints|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Helix Automation Console| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|Helix Automation Console| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|Helix Business Workflows|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Helix Client Management| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
-|BMC|Helix Cloud Cost| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
-|BMC|Helix Cloud Security| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
-|BMC|Helix CMDB| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|Helix Client Management| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|Helix Cloud Cost| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|Helix Cloud Security| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|Helix CMDB| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|Helix Continuous Optimization| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|Helix Continuous Optimization – Agents|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Helix Continuous Optimization| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
 |BMC|Helix Continuous Optimization (REE)|21.3.x|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Helix Control-M| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|Helix Control-M| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|Helix Data Manager|2.7, 21.05, 21.3.x|Not vuln|Vulnerable|Vulnerable|Investigation|ETA Dec 21, 2021|[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Helix Digital Workplace| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|Helix Digital Workplace| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|Helix Discovery|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Helix Discovery Outpost|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Helix ITSM|< 21.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Helix ITSM|21.x|Not vuln|Vulnerable|Vulnerable|Investigation|ETA Dec 23, 2021|[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Helix Knowledge Management|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Helix Operations Management with AIOps| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|Helix Operations Management with AIOps| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|Helix Platform|All|Not vuln|Vulnerable|Vulnerable|Vulnerable| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Helix platform| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
-|BMC|Helix Remediate| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
-|BMC|Helix Remedyforce| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
-|BMC|Helix Virtual Agent| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|Helix platform| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|Helix Remediate| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|Helix Remedyforce| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|Helix Virtual Agent| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|IAM|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Image Copy Plus|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|ITSM|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|License Usage Collection Utility|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|LOADPLUS/EP for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|LOADPLUS for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|LOADPLUS for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|LOADPLUS/EP for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Local Copy Plus|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|MainView Explorer|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|MainView Middleware Administrator|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|MainView Middleware Monitor|9.1|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|MainView Transaction Analyzer|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|MainView Vistapoint & Energizer|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|MAXM Reorg for IMS with Online/Defrag Feature|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|MAXM Reorg/EP for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|MAXM Reorg/EP for IMS with Online/Defrag Feature|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|MAXM Reorg for IMS with Online/Defrag Feature|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Mid-Tier|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Next Generation Logger (NGL)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Opertune for DB2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -464,7 +465,7 @@
 |BMC|Recovery Plus for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Release Package and Deployment|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Release Process Management|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|Remedy ITSM (IT Service Management)| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|Remedy ITSM (IT Service Management)| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|Remedy Smart Reporting|20.02.x, 20.08.x, 21.05.x, 21.3.x|Not vuln|Vulnerable|Vulnerable|Investigation|ETA Dec 21, 2021|[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Reorg Plus for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Resident Security Server|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -483,17 +484,17 @@
 |BMC|TrueSight Automation Console|19.1|Not vuln|Vulnerable|Vulnerable|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Automation Console|20.02, 20.02.01, 20.08.00, 20.08.01, 21.02.00, 21.02.01, 21.3|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Automation for Networks|20.02.00, 20.02.01, 20.02.02, 20.02.03, 21.08.00|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|TrueSight Automation for Servers| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
 |BMC|TrueSight Automation for Servers - Data Warehouse|20.02.01, 21.02, 21.3.00|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|TrueSight Automation for Servers| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
-|BMC|TrueSight Capacity Optimization - Agents|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Capacity Optimization|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|TrueSight Infrastructure Management| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
+|BMC|TrueSight Capacity Optimization - Agents|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|TrueSight Infrastructure Management| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|TrueSight Operations Management| | |Investigation| | | |"[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)"|
+|BMC|TrueSight Operations Management Reporting|11.3.02|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Operations Management: App Visibility Manager|11.3.03|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Operations Management: Infrastructure Management|11.3.05|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|TrueSight Operations Management| | |Investigation| | | |[BMC Security Advisory for CVE-2021-44228 Log4Shell Vulnerability - Blogs &amp; Documents - BMC Community](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-log4shell-vulnerability)|
 |BMC|TrueSight Operations Management: IT Data Analytics|11.3.02|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Operations Management: Presentation Server|11.3.02,11.3.03 , 11.3.04, 11.3.05|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|TrueSight Operations Management Reporting|11.3.02|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Orchestration|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Server Automation|20.02.01, 21.02, 21.02.01, 21.3.00|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|TrueSight Smart Reporting|11.3.02|Not vuln|Workaround|Workaround|Investigation| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -501,9 +502,9 @@
 |BMC|TSCO For Mainframes|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|ULTRAOPT/CICS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|ULTRAOPT/IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|BMC|UNLOAD PLUS/EP for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|Unload Plus for Db2|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|UNLOAD PLUS for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
+|BMC|UNLOAD PLUS/EP for IMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|User Interface Middleware (UIM)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|UXF for IMS (non product)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|VSAM Optimization|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
@@ -525,17 +526,16 @@
 |Box|All| | | | | | |[Box Blog Post](https://blog.box.com/boxs-statement-recent-log4j-vulnerability-cve-2021-44228)|
 |Brainworks|All| | | | | | |[Brainworks Link](https://www.brainworks.de/log4j-exploit-kerio-connect-workaround/)|
 |Brian Pangburn|SwingSet|< 4.0.6|Not vuln|Fix| | | |[source](https://github.com/bpangburn/swingset/releases/tag/swingset-4.0.6)|
-|B&R Industrial Automation|APROL| |Not vuln|Not vuln|Not vuln|Not vuln| |[B&amp;R Statement](https://www.br-automation.com/downloads_br_productcatalogue/assets/1639507581859-en-original-1.0.pdf)|
 |Broadcom|Advanced Secure Gateway (ASG)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Automic Automation| | | | | | |[Broadcome Automic Automation Link](https://knowledge.broadcom.com/external/article?articleId=230308)|
 |Broadcom|BCAAA| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|CA Advanced Authentication|9.1 & 9.1.01 & 9.1.02|Not vuln|Workaround| | | |[source](https://knowledge.broadcom.com/external/article?articleId=230301)|
 |Broadcom|CA Risk Authentication| | |Vulnerable| | | ||
 |Broadcom|CA Strong Authentication| | |Vulnerable| | | ||
-|Broadcom|CloudSOC Cloud Access Security Broker (CASB)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Cloud Workload Assurance (CWA)| | |Fix|Fix| |The complete remediation was deployed on Dec 23.|[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Cloud Workload Protection (CWP)| | |Fix|Fix| |The complete remediation was deployed on Dec 23.|[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793)|
 |Broadcom|Cloud Workload Protection for Storage (CWP:S)| | |Fix|Fix| |The complete remediation was deployed on Dec 23.|[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793)|
+|Broadcom|CloudSOC Cloud Access Security Broker (CASB)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Content Analysis (CA)| | |Investigation| | | |[Broadcom Support Portal](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Content Analysis (CA)(SEPM)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Critical System Protection (CSP)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
@@ -553,9 +553,9 @@
 |Broadcom|Intelligence Services / WebFilter / WebPulse| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|IT Analytics (ITA)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|IT Management Suite| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-| Broadcom      | Layer7 API Developer Portal | 4.4, 4.5, 5.0 & 5.0 CR1, 5.0.2 & 5.0.2.1 | Not vuln | Workaround | Workaround | | |[source](https://knowledge.broadcom.com/external/article?articleId=230205) |
-| Broadcom      | Layer7 API Developer Portal SaaS | 5.0.3 | Not vuln | Workaround | Workaround | | |[source](https://knowledge.broadcom.com/external/article?articleId=230205) |
-| Broadcom      | Layer7 API Gateway | 9.4, 10.0, 10.1 | Not vuln | Workaround | Workaround | | |[source](https://knowledge.broadcom.com/external/article?articleId=230205) |
+|Broadcom|Layer7 API Developer Portal|4.4, 4.5, 5.0 & 5.0 CR1, 5.0.2 & 5.0.2.1|Not vuln|Workaround|Workaround| | |[source](https://knowledge.broadcom.com/external/article?articleId=230205) |
+|Broadcom|Layer7 API Developer Portal SaaS|5.0.3|Not vuln|Workaround|Workaround| | |[source](https://knowledge.broadcom.com/external/article?articleId=230205) |
+|Broadcom|Layer7 API Gateway|9.4, 10.0, 10.1|Not vuln|Workaround|Workaround| | |[source](https://knowledge.broadcom.com/external/article?articleId=230205) |
 |Broadcom|Layer7 Live API Creator|5.4, 5.1-5.3 (EOS)|Not vuln|Workaround| | | |[source](https://knowledge.broadcom.com/external/article?articleId=230205)|
 |Broadcom|Layer7 Mobile API Gateway| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|LiveUpdate Administrator (LUA)|2.3.10| |Fix|Fix| | |[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793)|
@@ -568,38 +568,38 @@
 |Broadcom|Privileged Identity Manager| | |Investigation| | | |[Broadcom Support Portal](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|ProxySG| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Reporter| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-| Broadcom      | Secure Access Cloud (SAC) | | | Fix |  | | |[source](https://knowledge.broadcom.com/external/article/230359) |
+|Broadcom|Secure Access Cloud (SAC) | | |Fix|  | | |[source](https://knowledge.broadcom.com/external/article/230359) |
 |Broadcom|Security Analytics (SA)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|ServiceDesk| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-| Broadcom      | SiteMinder (CA Single Sign-On) | 12.8.x Policy Server, 12.8.04 or later Administrative UI, 12.8.x Access Gateway, 12.8.x SDK, 12.7 and 12.8 ASA Agents | Not vuln | Workaround | Not vuln | Not vuln | | [source](https://knowledge.broadcom.com/external/article?articleId=230270) |
+|Broadcom|SiteMinder (CA Single Sign-On) |12.8.x Policy Server, 12.8.04 or later Administrative UI, 12.8.x Access Gateway, 12.8.x SDK, 12.7 and 12.8 ASA Agents|Not vuln|Workaround|Not vuln|Not vuln| | [source](https://knowledge.broadcom.com/external/article?articleId=230270) |
 |Broadcom|SSL Visibility (SSLV)| | |Investigation| | | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-| Broadcom      | Symantec Advanced Authentication | 9.1, 9.1.01, 9.1.02 | Not vuln | Fix | Fix | Fix | |[source](https://knowledge.broadcom.com/external/article?articleId=230301) |
+|Broadcom|Symantec Advanced Authentication|9.1, 9.1.01, 9.1.02|Not vuln|Fix|Fix|Fix| |[source](https://knowledge.broadcom.com/external/article?articleId=230301) |
 |Broadcom|Symantec Control Compliance Suite (CCS)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Symantec Directory| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Symantec Endpoint Detection and Response (EDR)|4.6.8|Not vuln|Fix| | |Applying patch atp-patch-generic-4.6-1 to versions 4.6.0, 4.6.5, and 4.6.7|[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793#:~:text=A%20fix%20for-,Symantec%20Endpoint%20Detection%20and%20Response%20(EDR),-On%2Dpremise%20is)|
-| Broadcom      | Symantec Endpoint Detection and Response (EDR) On-premise | 4.6.8, 4.6.0, 4.65, 4.6.7 | | Fix | Fix | | |[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793) |
+|Broadcom|Symantec Endpoint Detection and Response (EDR) On-premise|4.6.8, 4.6.0, 4.65, 4.6.7| |Fix|Fix| | |[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793) |
 |Broadcom|Symantec Endpoint Encryption (SEE)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-| Broadcom      | Symantec Endpoint Protection Manager (SEPM) | 14.3 | | Fix | Fix | Not vuln | | [source](https://knowledge.broadcom.com/external/article/230359) |
+|Broadcom|Symantec Endpoint Protection (SEP)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793#:~:text=19%3A20%20ET%20%E2%80%93-,Symantec%20Endpoint%20Protection%20(SEP),-is%20not%20vulnerable)|
 |Broadcom|Symantec Endpoint Protection (SEP) Agent| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Symantec Endpoint Protection (SEP) for Mobile| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-|Broadcom|Symantec Endpoint Protection (SEP)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793#:~:text=19%3A20%20ET%20%E2%80%93-,Symantec%20Endpoint%20Protection%20(SEP),-is%20not%20vulnerable)|
+|Broadcom|Symantec Endpoint Protection Manager (SEPM) |14.3| |Fix|Fix|Not vuln| | [source](https://knowledge.broadcom.com/external/article/230359) |
 |Broadcom|Symantec Endpoint Security (SES)| |Investigation|Fix| | |The complete remediation was deployed on Dec 23 for CVE-2021-44228.|[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793)|
 |Broadcom|Symantec Identity Governance and Administration (IGA)|14.2, 14.3, 14.4|Not vuln|Workaround| | | |[source](https://knowledge.broadcom.com/external/article?articleId=230278)|
 |Broadcom|Symantec Mail Security for Microsoft Exchange (SMSMSE)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Symantec Messaging Gateway (SMG)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Symantec PGP Solutions| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-| Broadcom      | Symantec Privileged Access Manager (PAM)| 3.4.6, 4.0, 4.0.1 | Not vuln | Fix | Fix | Not vuln | | [source](https://knowledge.broadcom.com/external/article?articleId=230405) |
-| Broadcom      | Symantec Privileged Access Manager (PAM) Server Control | 14.1 | | Workaround |  | | | [source](https://knowledge.broadcom.com/external/article?articleId=230586) |
-| Broadcom      | Symantec Privileged Identity Manager (PIM) | 12.9.x, 14.0 | | Workaround | Workaround | | |[source](https://knowledge.broadcom.com/external/article?articleId=230668) [source](https://knowledge.broadcom.com/external/article?articleId=230670) |
+|Broadcom|Symantec Privileged Access Manager (PAM)|3.4.6, 4.0, 4.0.1|Not vuln|Fix|Fix|Not vuln| | [source](https://knowledge.broadcom.com/external/article?articleId=230405) |
+|Broadcom|Symantec Privileged Access Manager (PAM) Server Control|14.1| |Workaround|  | | | [source](https://knowledge.broadcom.com/external/article?articleId=230586) |
+|Broadcom|Symantec Privileged Identity Manager (PIM) |12.9.x, 14.0| |Workaround|Workaround| | |[source](https://knowledge.broadcom.com/external/article?articleId=230668) [source](https://knowledge.broadcom.com/external/article?articleId=230670) |
 |Broadcom|Symantec Protection Engine (SPE)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Symantec Protection for SharePoint Servers (SPSS)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Symantec VIP| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-| Broadcom      | Threat Defense for Active Directory (TDAD) | Unknown | Investigation | | | | |[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793) |
-| Broadcom      | VIP Authentication Hub | 1.0 2021.Nov.03 release | | Fix |  | Not vuln | | [source](https://knowledge.broadcom.com/external/article?articleId=230768) |
+|Broadcom|Threat Defense for Active Directory (TDAD) |Unknown|Investigation| | | | |[source](https://support.broadcom.com/security-advisory/content/0/0/SYMSA19793) |
 |Broadcom|VIP| |Not vuln|Not vuln|Not vuln|Not vuln| |[Broadcom Support Portal](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-|Broadcom|Web Isolation (WI) Cloud| |Not vuln|Fix| | | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
+|Broadcom|VIP Authentication Hub|1.0 2021.Nov.03 release| |Fix|  |Not vuln| | [source](https://knowledge.broadcom.com/external/article?articleId=230768) |
 |Broadcom|Web Isolation (WI)| | |Investigation| | | |[Broadcom Support Portal](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
+|Broadcom|Web Isolation (WI) Cloud| |Not vuln|Fix| | | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Web Isolation (WI) On-premises| | |Investigation| | | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
-|Broadcom|WebPulse| | |Investigation| | | |[Broadcom Support Portal](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Web Security Service (WSS)| | |Investigation| | | |[Broadcom Support Portal](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
 |Broadcom|Web Security Service (WSS) Reporting| |Not vuln|Fix| | | |[source](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793#:~:text=%C2%A0-,Web%20Security%20Service%20(WSS)%20Reporting,-CVE)|
+|Broadcom|WebPulse| | |Investigation| | | |[Broadcom Support Portal](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793)|
