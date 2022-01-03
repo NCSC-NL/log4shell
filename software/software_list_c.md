@@ -10,25 +10,27 @@
 |C4b XPHONE|All| | | | | | |[C4b XPHONE Link](https://www.c4b.com/de/news/log4j.php)|
 |Camunda|All| | | | | | |[Camunda Forum Link](https://forum.camunda.org/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228/31910)|
 |Canary Labs|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[Canary Labs Advisory Link](https://helpleft.canarylabs.com/t/83hjjk0/log4j-vulnerability)|
-|Canon|Alphenix (Angio Workstation)| | |Investigation| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
-| Canon | Canon DR Products (CXDI_NE) | Omnera, Flexpro, Soltus and more |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
-| Canon | CT Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+|Canon|Applications integrated with Vitrea (iCAD, Invia, Medis, Mevis, Mirada, Olea and Tomtec)| | |Not vuln| | | |[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|Canon DR Products (CXDI_NE)|Omnera, Flexpro, Soltus and more| |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
 |Canon|CT Medical Imaging Products| | |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
-| Canon | Eye-Care Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
-|Canon|Infinix-i (Angio Workstation)| | |Investigation| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
-| Canon | MR Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+|Canon|Easy Viz| | |Not vuln| | | |[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|Eye-Care Products| | |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
 |Canon|MR Medical Imaging Products| | |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
-| Canon | NM Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
 |Canon|NM Medical Imaging Products| | |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
-| Canon | UL Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+|Canon|Olea Sphere| | |Not vuln| | | |[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|Rialto|7.x| |Vulnerable| | |Contact customer support|[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|Rialto Connect and Vault| | |Not vuln| | | |[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|Solution Health (Cloud)| | |Not vuln| | | |[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|Solution Health (On-Prem)| | |Vulnerable| | |Contact customer support|[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
 |Canon|UL Medical Imaging Products| | |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
-|Canon|Vitrea Advanced|7.x| |Investigation| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
-| Canon | Vitrea Advanced | 7.x |  | Workaround |  | | See source for mitigations provided by Canon | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
-| Canon | VL Alphenix Angio Workstation (AWS) |  |  | Vulnerable |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
-| Canon | VL Infinix-i and Alphenix DFP |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
-| Canon | VL Infinix-i Angio Workstation (AWS) |  |  | Workaround |  | | See source for mitigations provided by Canon | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
-| Canon | XR Medical Imaging Products |  |  | Not vuln |  | |  | [source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability) |
+|Canon|Vitrea Advanced|7.x| |Vulnerable| | |See source for mitigations|[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|Vitrea Connection|8.x| |Vulnerable| | |Contact customer support|[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|Vitrea View| | |Not vuln| | | |[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
+|Canon|VL Alphenix Angio Workstation (AWS)| | |Vulnerable| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
+|Canon|VL Infinix-i and Alphenix DFP| | |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
+|Canon|VL Infinix-i Angio Workstation (AWS)| | |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
 |Canon|XR Medical Imaging Products| | |Not vuln| | | |[source](https://global.medical.canon/service-support/securityinformation/apache_log4j_vulnerability)|
+|Canon|Zillion| | |Not vuln| | | |[source](https://www.vitalimages.com/customer-success-support-program/vital-images-software-security-updates/)|
 |CapStorm|Copystorm| | |Investigation| | | ||
 |CarbonBlack|All| | | | | | |[CarbonBlack Advisory](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |Carbon Black|Cloud Workload Appliance| | |Workaround| | |More information on pages linked bottom of blogpost (behind login)|[source](https://community.carbonblack.com/t5/Documentation-Downloads/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134)|
