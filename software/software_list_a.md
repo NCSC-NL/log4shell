@@ -30,7 +30,7 @@
 |Accruent|SiteFM3| |Not vuln|Fix| | | |[source](https://www.accruent.com/resources/articles/incident-apache-log4j2)|
 |Accruent|SiteFM4| |Not vuln|Fix| | | |[source](https://www.accruent.com/resources/articles/incident-apache-log4j2)|
 |Accruent|Siterra| |Not vuln|Fix| | | |[source](https://www.accruent.com/resources/articles/incident-apache-log4j2)|
-|Accruent|TMS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.accruent.com/resources/articles/incident-apache-log4j2)||
+|Accruent|TMS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.accruent.com/resources/articles/incident-apache-log4j2)|
 |Accruent|VxField| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.accruent.com/resources/articles/incident-apache-log4j2)|
 |Accruent|VxMaintain/VxObserve/VxSustain| |Not vuln|Fix| | | |[source](https://www.accruent.com/resources/articles/incident-apache-log4j2)|
 |Acquia|All| | | | | | |[Acquia Article](https://support.acquia.com/hc/en-us/articles/4415823329047-Apache-log4j-CVE-2021-44228)|
