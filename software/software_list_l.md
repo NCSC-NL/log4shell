@@ -7,6 +7,7 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|L-Soft|All| | | | | | |[L-Soft Info](http://www.lsoft.com/news/log4jinfo.asp)|
 |L3Harris Geospatial|All| | | | | | |[L3Harris Geospatial](https://www.l3harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/24141/Impact-of-Log4j-Java-Security-Vulnerability-CVE-2021-44228-on-L3Harris-Geospatial-software)|
 |Lancom Systems|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.lancom-systems.com/service-support/instant-help/general-security-information)|
 |Lansweeper|All|All| |Not vuln| | | |[source](https://www.lansweeper.com/vulnerability/critical-log4j-vulnerability-affects-millions-of-applications/)|
@@ -15,24 +16,24 @@
 |LastPass|Other products| | |Not vuln| | | |[source](https://support.logmeininc.com/lastpass/help/log4j-vulnerability-faq-for-lastpass-universal-proxy)|
 |LaunchDarkly|All| | | | | | |[LaunchDarkly Statement](https://launchdarkly.com/blog/audit-shows-systems-unaffected-by-log4j/)|
 |LeanIX|All|All|Not vuln|Fix| | | |[source](https://www.leanix.net/en/blog/log4j-vulnerability-log4shell)|
-|Lecia biosystem|Aperio AT2 DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio AT2| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio AT2 DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio CS2| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio eSlide Manager| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio GT 450 DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio GT 450| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|Aperio ImageScope DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio GT 450 DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio ImageScope| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|Aperio ImageScope DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio LV1| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio SAM DX Server For GT 450 DX| |Vulnerable|Not Vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio Scanner Administration Manager (SAM) Server for GT 450| | |Not Vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio VERSA| |Vulnerable|Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|Aperio WebViewer DX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|BOND-ADVANCE| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|BOND Controller| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|BOND RX / RXm| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
+|Lecia biosystem|BOND-ADVANCE| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|BOND-III| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|BOND-MAX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Lecia biosystem|BOND RX / RXm| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|CEREBRO| |Vulnerable|Not Vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|CytoVision| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|HistoCore PEARL| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
@@ -50,25 +51,25 @@
 |Lecia biosystem|LIS Connect| |Vulnerable|Not Vuln| | |Uses Mirth Connect - See supplier Vyaire Medical further in the list|[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|PathDX| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
 |Lecia biosystem|ThermoBrite Elite| | |Not Vuln| | | |[source](https://www.leicabiosystems.com/about/product-security/)|
-|Leica BIOSYSTEMS|Aperio AT2 DX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio AT2| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
+|Leica BIOSYSTEMS|Aperio AT2 DX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio CS2| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio eSlide Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
-|Leica BIOSYSTEMS|Aperio GT 450 DX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio GT 450| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
-|Leica BIOSYSTEMS|Aperio ImageScope DX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
+|Leica BIOSYSTEMS|Aperio GT 450 DX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio ImageScope| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
+|Leica BIOSYSTEMS|Aperio ImageScope DX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio LV1| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio SAM DX Server For GT 450 DX| | |Investigation| | | |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio Scanner Administration Manager (SAM) Server for GT 450| | |Investigation| | | |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio VERSA| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|Aperio WebViewer DX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
-|Leica BIOSYSTEMS|BOND-ADVANCE| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|BOND Controller| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
+|Leica BIOSYSTEMS|BOND RX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
+|Leica BIOSYSTEMS|BOND RXm| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
+|Leica BIOSYSTEMS|BOND-ADVANCE| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|BOND-III| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|BOND-MAX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
-|Leica BIOSYSTEMS|BOND RXm| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
-|Leica BIOSYSTEMS|BOND RX| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|CEREBRO| | |Investigation| | | |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|CytoVision| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
 |Leica BIOSYSTEMS|HistoCore PEARL| |Not vuln|Not vuln|Not vuln|Not vuln| |[Leica BIOSYSTEMS Advisory Link](https://www.leicabiosystems.com/about/product-security/)|
@@ -96,15 +97,15 @@
 |Lenovo|Cloud Deploy| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Commercial Vantage| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Confluent| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|CP6000 (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|CP-CB-10E (Lenovo)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|CP-CB-10 (Lenovo)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|CP-CN-10E (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|CP-CB-10E (Lenovo)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|CP-CN-10 (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|CP-CN-10E (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|CP-I-10 (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|CP-SB-D20E (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|CP-SB-D20 (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|CP-SB-D20E (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|CP-SB-S10 (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|CP6000 (ThinkAgile)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Device Intelligence (LDI)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|DM120S (ThinkSystem)| |Not vuln|Workaround| | | |[source](https://dataleftsupport.lenovo.com/us/en/solutions/ht513178)|
 |Lenovo|DM240N (ThinkSystem)| |Not vuln|Workaround| | | |[source](https://dataleftsupport.lenovo.com/us/en/solutions/ht513178)|
@@ -122,8 +123,8 @@
 |Lenovo|Dynamic System Analysis (DSA)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Eaton UPS Network Management Card (NMC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Embedded System Management Java-based KVM clients| |Not vuln|Not vuln|Not vuln|Not vuln| |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
-|Lenovo|Fan Power Controller2 (FPC2)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Fan Power Controller (FPC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|Fan Power Controller2 (FPC2)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|GCM16 Global Console Managers| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|GCM32 Global Console Managers| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|IBM Advanced Management Module (AMM)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
@@ -134,7 +135,7 @@
 |Lenovo|Integrated Management Module II (IMM2)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|LCM16 Local Console Managers| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|LCM8 Local Console Managers| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|NetApp ONTAP Tools for VMware vSphere| | |Vulnerable| | |See <a href="https://security.netapp.com/advisory/ntap-20211210-0007/" rel="nofollow">NetApp</a> advisory.|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
+|Lenovo|NetApp ONTAP Tools for VMware vSphere| | |Vulnerable| | |"See <a href=""https://security.netapp.com/advisory/ntap-20211210-0007/"" rel=""nofollow"">NetApp</a> advisory."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|Network Switches| |Not vuln|Not vuln|Not vuln|Not vuln|Lenovo CNOS, Lenovo ENOS, IBM ENOS, Brocade FOS|[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Network Switches running: Lenovo CNOS, Lenovo ENOS, IBM ENOS, or Brocade FOS| |Not vuln|Not vuln|Not vuln|Not vuln| |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|P920 Rack Workstation| | |Vulnerable| | |Patch 2021-12-20|[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
@@ -154,14 +155,14 @@
 |Lenovo|ST550 (ThinkSystem)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|ST558 (ThinkSystem)| | |Vulnerable| | | |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Storage Management utilities| | |Investigation| | | |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
-|Lenovo|System Management Module 2 (SMM2)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|System Management Module (SMM)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|System Management Module 2 (SMM2)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|System Update| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Thin Installer| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|ThinkAgile HX| | |Vulnerable| | |"Nutanix and VMware components only; hardware not affected. See <a href=""https://download.nutanix.com/alerts/Security_Advisory_0023.pdf"" rel=""nofollow"">Nutanix</a> and <a href=""https://www.vmware.com/security/advisories/VMSA-2021-0028.html"" rel=""nofollow"">VMWare</a> advisories."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|ThinkAgile HX (VMware Components)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|ThinkAgile HX| | |Vulnerable| | |Nutanix and VMware components only; hardware not affected. See <a href="https://download.nutanix.com/alerts/Security_Advisory_0023.pdf" rel="nofollow">Nutanix</a> and <a href="https://www.vmware.com/security/advisories/VMSA-2021-0028.html" rel="nofollow">VMWare</a> advisories.|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
+|Lenovo|ThinkAgile VX| | |Vulnerable| | |"VMware components only; hardware not affected. See <a href=""https://www.vmware.com/security/advisories/VMSA-2021-0028.html"" rel=""nofollow"">VMWare</a> advisory."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|ThinkAgile VX (VMware Components)| |Not vuln|Fix| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|Lenovo|ThinkAgile VX| | |Vulnerable| | |VMware components only; hardware not affected. See <a href="https://www.vmware.com/security/advisories/VMSA-2021-0028.html" rel="nofollow">VMWare</a> advisory.|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|ThinkSystem 2x1x16 Digital KVM Switch - Type 1754D1T| |Not vuln|Fix| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |Lenovo|ThinkSystem DB400D FC Switch| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|ThinkSystem DB610S FC Switch|2.0.0, 2.1.0, 2.1.1|Not vuln|Workaround| | | |[source](https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2021-1651)|
@@ -178,12 +179,13 @@
 |Lenovo|UPS Network Management Card, p/n 46M4110| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Vantage| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Vertiv rPDUs for Lenovo| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|XClarity Administrator (LXCA)| | |Vulnerable| | | |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|XClarity Administrator| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|XClarity Administrator (LXCA)| | |Vulnerable| | | |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|XClarity Controller (XCC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|XClarity Energy Manager (LXEM)| | |Vulnerable| | | |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|XClarity Energy Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|XClarity Energy Manager (LXEM)| | |Vulnerable| | | |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|XClarity Essentials (LXCE)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
+|Lenovo|xClarity Integrator| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|XClarity Integrator (LXCI) for Microsoft Azure Analytics| |Not vuln|Fix| | | |[source](https://dataleftsupport.lenovo.com/us/en/products/solutions-and-software/software/lenovo-xclarity/lxca/downloads/ds554079-lenovo-xclarity-administrator-ga-fix-345-for-anyos)|
 |Lenovo|XClarity Integrator (LXCI) for Microsoft Azure Log Analytics| | |Investigation| | | |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|XClarity Integrator (LXCI) for Microsoft System Center| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
@@ -191,7 +193,6 @@
 |Lenovo|XClarity Integrator (LXCI) for ServiceNow| | |Vulnerable| | |Patch 2021-12-20|[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|XClarity Integrator (LXCI) for VMware vCenter| | |Vulnerable| | | |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|XClarity Integrator (LXCI) for Windows Admin Center| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|xClarity Integrator| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|XClarity Mobile (LXCM)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|XClarity Orchestrator (LXCO)| | |Vulnerable| | |Patch 2021-12-21|[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|XClarity Provisioning Manager (LXPM)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
@@ -217,7 +218,6 @@
 |LogRhythm|SIEM|7.4-7.8|Not vuln|Workaround| | |Link is behind a login|[source](https://community.logrhythm.com/t5/Product-Security/Log4J-Remediation-Update-CloudAI-and-NetMon-Complete-LogRhythm/td-p/494350)|
 |LogZilla|NEO|All|Not vuln|Not vuln|Not vuln|Not vuln|LogZilla's engine is C++||
 |Looker|All|21.0, 21.6, 21.12, 21.16, 21.18, 21.20|Not vuln|Fix| | | |[Looker Statement](https://docs.google.com/document/d/e/2PACX-1vQGN1AYNMHxsRQ9AZNu1bKyTGRUSK_9xkQBge-nu4p8PYvBKIYHhc3914KTfVtDFIXtDhc3k6SZnR2M/pub)|
-|L-Soft|All| | | | | | |[L-Soft Info](http://www.lsoft.com/news/log4jinfo.asp)|
 |LucaNet|All|12 LTS - 1911.0.192+3, 13 LTS - 2011.0.112+7, 22 LTS - 2111.0.11+9|Not vuln|Fix| | | |[source](https://www.lucanet.com/en/blog/update-vulnerability-log4j)|
 |Lucee|All| | | | | | |[Lucee Statement](https://dev.lucee.org/t/lucee-is-not-affected-by-the-log4j-jndi-exploit-cve-2021-44228/9331/4)|
 |Lyrasis|DSpace|7.1.1|Not vuln|Fix| | | |[source](https://groups.google.com/g/dspace-community/c/Fa4VdjiiNyE)|
