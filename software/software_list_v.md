@@ -56,7 +56,6 @@
 |Venafi|All| | | | | | |[Venafi Statement](https://support.venafi.com/hc/en-us/articles/4416213022733-Log4j-Zero-Day-Vulnerability-notice)|
 |Veritas|Aptare IT Analytics|10.5 and 10.6|Not vuln|Workaround| | |Version 10.4 and earlier are not affected.|[source](https://www.veritas.com/support/en_US/article.100052081)|
 |Veritas|Media Server Deduplication Pool (MSDP) (on NB Appliance)|3.1.2 and 3.2|Not vuln|Workaround| | | |[source](https://www.veritas.com/content/support/en_US/article.100052062)|
-|Veritas NetBackup|All| | | | | | |[Verita Statement](https://www.veritas.com/content/support/en_US/article.100052070)|
 |Veritas|NetBackup Appliance|3.1.2 through 4.1.0.1 MR1|Not vuln|Workaround| | | |[source](https://www.veritas.com/content/support/en_US/article.100052058)|
 |Veritas|NetBackup Client|7.7.3 through 9.1.0.1|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.veritas.com/content/support/en_US/article.100052058)|
 |Veritas|NetBackup CloudPoint|2.2.2, 8.3 through 9.1.0.1|Not vuln|Workaround| | | |[source](https://www.veritas.com/content/support/en_US/article.100052058)|
@@ -70,11 +69,12 @@
 |Veritas|NetBackup Primary Server BYO (also known as Master Server)|8.1 through 8.1.1|Not vuln|Workaround| | |Veritas strongly recommends customers upgrade to NetBackup 8.1.2 or the latest release in order to be able to perform the mitigation steps.|[source](https://www.veritas.com/content/support/en_US/article.100052058)|
 |Veritas|NetBackup Primary Server container on Flex Appliance|8.1.2 through 9.1.0.1|Not vuln|Workaround| | | |[source](https://www.veritas.com/content/support/en_US/article.100052084)|
 |Veritas|NetBackup Resiliency Platform|3.4 through 4.0|Not vuln|Workaround| | | |[source](https://www.veritas.com/content/support/en_US/article.100052109)|
+|Veritas NetBackup|All| | | | | | |[Verita Statement](https://www.veritas.com/content/support/en_US/article.100052070)|
 |Vertica|All| | | | | | |[Vertica Statement](https://forum.vertica.com/discussion/242512/vertica-security-bulletin-a-potential-vulnerability-has-been-identified-apache-log4j-library-used)|
 |Viso Trust|All| | | | | | |[Viso Trust Statement](https://blog.visotrust.com/viso-trust-statement-re-cve-2021-44228-log4j-a4b9b5767492)|
 |VMware|API Portal for VMware Tanzu|1.0.8| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|AppDefense Appliance|2.x| |Workaround|Workaround| |Advisory requires a login|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
 |VMware|App Metrics|2.1.2| | Fix | Fix | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/apm)|
+|VMware|AppDefense Appliance|2.x| |Workaround|Workaround| |Advisory requires a login|[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [KB](https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Mitigation-Steps-for-AppDefense/ta-p/109180)|
 |VMware|Carbon Black Cloud Workload Appliance|1.1.2| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Carbon Black EDR server|7.5.x, 7.4.x, 7.3.x| | Vulnerable | Vulnerable | | Upgrade to 7.6.1 is required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Carbon Black EDR server|7.6.1| | Fix | Fix | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
