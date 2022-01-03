@@ -24,12 +24,12 @@
 |Western Digital|All| | | | | | |[Westerndigital Product Security](https://www.westerndigital.com/support/product-security/wdc-21016-apache-log4j-2-remote-code-execution-vulnerability-analysis)|
 |Wibu Systems|CodeMeter Cloud Lite|> 2.2|Not vuln|Fix| | | |[source](https://cdn.wibu.com/fileadmin/wibu_downloads/security_advisories/Advisory_WIBU-211213-01.pdf)|
 |Wibu Systems|CodeMeter Keyring for TIA Portal|> 1.30|Not vuln|Fix| | |Only the Password Manager is affected|[source](https://cdn.wibu.com/fileadmin/wibu_downloads/security_advisories/Advisory_WIBU-211213-01.pdf)|
-|WildFly|All|>= 22; <= 26.0.0.Beta1|Not vuln|Not vuln|Not vuln|Not vuln|"ships log4j-api but not vulnerable code from log4j-core; version of log4j-api might seem to be vulnerable but is not"|[source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
-|WildFly|All|< 22|Not vuln|Not vuln|Not vuln|Not vuln|"No log4j artifact shipped"|[source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
-|WildFly|All|> 26.0.0.Final|Not vuln|Not vuln|Not vuln|Not vuln|"ships log4j-api where version matches patched version"|[source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
-|WindRiver|All| | | | | | |[Windriver Security Notice](https://support2.windriver.com/index.php?page=security-notices&amp;on=view&amp;id=7191)|
-|Wind River|Linux|<= 8|Not vuln|Not vuln|Not vuln|Not vuln|"contain package log4j, but their version is 1.2.x, too old to be affected"|[source](https://support2.windriver.com/index.php?page=security-notices&amp;on=view&amp;id=7191)|
+|WildFly|All|< 22|Not vuln|Not vuln|Not vuln|Not vuln|No log4j artifact shipped|[source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
+|WildFly|All|> 26.0.0.Final|Not vuln|Not vuln|Not vuln|Not vuln|ships log4j-api where version matches patched version|[source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
+|WildFly|All|>= 22; <= 26.0.0.Beta1|Not vuln|Not vuln|Not vuln|Not vuln|ships log4j-api but not vulnerable code from log4j-core; version of log4j-api might seem to be vulnerable but is not|[source](https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/)|
+|Wind River|Linux|<= 8|Not vuln|Not vuln|Not vuln|Not vuln|contain package log4j, but their version is 1.2.x, too old to be affected|[source](https://support2.windriver.com/index.php?page=security-notices&amp;on=view&amp;id=7191)|
 |Wind River|Linux|> 8|Not vuln|Not vuln|Not vuln|Not vuln|no support for log4j|[source](https://support2.windriver.com/index.php?page=security-notices&amp;on=view&amp;id=7191)|
+|WindRiver|All| | | | | | |[Windriver Security Notice](https://support2.windriver.com/index.php?page=security-notices&amp;on=view&amp;id=7191)|
 |Wireshark|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.wireshark.org/news/20211215.html)|
 |Wistia|All| | | | | | |[Wistia Incidents](https://status.wistia.com/incidents/jtg0dfl5l224)|
 |WitFoo|Precinct|6.x|Not vuln|Fix| | |WitFoo Streamer &amp; Apache Kafka Docker containers are/were vulnerable|[source](https://www.witfoo.com/blog/emergency-update-for-cve-2021-44228-log4j/)|
