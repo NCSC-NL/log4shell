@@ -515,13 +515,13 @@
 |Boston Scientific|LATITUDE Consult™|6297| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Boston Scientific|LATITUDE Link™|6215|Not vuln|Workaround| | |Customer action needed to secure customer system.|[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Boston Scientific|LATITUDE™ Classic|6488| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE™ Communicators|6299, 6476, 6496, 6468, 6420, 6498, 6443| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+|Boston Scientific|LATITUDE™ Communicators|6280, 6288, 6290, 6299, 6420, 6443, 6468, 6476, 6496, 6498| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Boston Scientific|LATITUDE™ EMR Secure Courier Client|6455, 6624| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Boston Scientific|LATITUDE™ NXT|6446, 6447, 6448, 6449, 6460| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Boston Scientific|LATITUDE™ Programmer & Apps|3300| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LUX-Dx™ Clinic Assistant App|2935| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+|Boston Scientific|LUX-Dx™ Clinic Assistant App|2935, 6256| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Boston Scientific|MyLATITUDE™ Patient App| | |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|myLUX™ Patient App|2925| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+|Boston Scientific|myLUX™ Patient App|2925, 6259| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Boston Scientific|ZOOM™ Programmer & Apps|3120| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Box|All| | | | | | |[Box Blog Post](https://blog.box.com/boxs-statement-recent-log4j-vulnerability-cve-2021-44228)|
 |Brainworks|All| | | | | | |[Brainworks Link](https://www.brainworks.de/log4j-exploit-kerio-connect-workaround/)|
