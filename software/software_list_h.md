@@ -11,13 +11,13 @@
 |HAProxy|All| | | | | | |[HAProxy Statement](https://www.haproxy.com/blog/december-2021-log4shell-mitigation/)|
 |HarmanPro AMX|All| | | | | | |[HarmanPro AMX Statement](https://help.harmanpro.com/apache-log4j-vulnerability)|
 |Hashicorp|All| | |Not vuln| | | |[source](https://support.hashicorp.com/hc/en-us/articles/4412469195795-CVE-2021-44228-Log4J-has-no-impact-on-HashiCorp-Products)|
-|HCL Software|BigFix Compliance|"> 2.0.1 ; < 2.0.4"|Not vuln|Workaround| | |not vuln for CVE-2021-45046|[source](https://forum.bigfix.com/t/bigfix-compliance-has-a-remediation-for-log4j-vulnerability-cve-2021-44228/40197)|
-|HCL Software|BigFix Insights| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)"|
-|HCL Software|BigFix Insights for Vulnerability Remediation| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)"|
-|HCL Software|BigFix Inventory|< 10.0.7|Not vuln|Workaround| | |not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)"|
-|HCL Software|BigFix Lifecycle| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)"|
-|HCL Software|BigFix Mobile| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)"|
-|HCL Software|BigFix Patch| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)"|
+|HCL Software|BigFix Compliance| |Not vuln|Workaround| | |not vuln for CVE-2021-45046|[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)|
+|HCL Software|BigFix Insights| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)|
+|HCL Software|BigFix Insights for Vulnerability Remediation| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)|
+|HCL Software|BigFix Inventory|< 10.0.7|Not vuln|Workaround| | |not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)|
+|HCL Software|BigFix Lifecycle| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)|
+|HCL Software|BigFix Mobile| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)|
+|HCL Software|BigFix Patch| |Not vuln|Not vuln|Not vuln|Not vuln|not vuln for CVE-2021-45046|"[source](https://support.hcltechsw.com/csm?id=kb_article&amp;sysparm_article=KB0095486)|
 |Heimdal Security|web-based services|Cloud|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://heimdalsecurity.com/blog/log4j-vulnerability/)|
 |Helpsystems|Clearswift Secure Email Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|"[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)"|
 |Helpsystems|Clearswift Secure Exchange Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|"[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)"|
