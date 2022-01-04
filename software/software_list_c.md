@@ -106,6 +106,7 @@
 |Cisco|Business Process Automation|3.0.000.115, 3.1.000.044, 3.2.000.009| |Fix|Fix|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |Cisco|Business Wireless|All versions| |Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |Cisco|Call Studio|11.6(2), 12.0(1), 12.5(1), 12.6(1) | |Fix|Fix|Not vuln|  |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
+|Cisco|Catalyst 9100 Series Access Points|All versions| |Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |Cisco|Catalyst 9800 Series Wireless Controllers| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Cisco 220 Series Smart Plus Switches|All versions| |Not vuln|Not vuln|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Cisco 250 Series Smart Switches|All versions| |Not vuln|Not vuln|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
