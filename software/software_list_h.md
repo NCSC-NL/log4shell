@@ -14,15 +14,15 @@
 |HCL Software|BigFix Compliance| |Not vuln|Workaround|Not vuln| ||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 |HCL Software|BigFix Insights| |Not vuln|Not vuln|Not vuln|Not vuln||"[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 |HCL Software|BigFix Insights for Vulnerability Remediation| |Not vuln|Not vuln|Not vuln|Not vuln||"[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-|HCL Software|BigFix Inventory|< 10.0.7|Not vuln|Workaround|Not vuln| ||"[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-|HCL Software|BigFix Lifecycle| |Not vuln|Not vuln|Not vuln|Not vuln||"[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-|HCL Software|BigFix Mobile| |Not vuln|Not vuln|Not vuln|Not vuln||"[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-|HCL Software|BigFix Patch| |Not vuln|Not vuln|Not vuln|Not vuln||"[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+|HCL Software|BigFix Inventory|< 10.0.7|Not vuln|Not vuln|Not vuln| ||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+|HCL Software|BigFix Lifecycle| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+|HCL Software|BigFix Mobile| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+|HCL Software|BigFix Patch| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 |Heimdal Security|web-based services|Cloud|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://heimdalsecurity.com/blog/log4j-vulnerability/)|
-|Helpsystems|Clearswift Secure Email Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|"[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)"|
-|Helpsystems|Clearswift Secure Exchange Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|"[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)"|
-|Helpsystems|Clearswift Secure ICAP Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|"[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)"|
-|Helpsystems|Clearswift Secure Web Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|"[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)"|
+|Helpsystems|Clearswift Secure Email Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)|
+|Helpsystems|Clearswift Secure Exchange Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)|
+|Helpsystems|Clearswift Secure ICAP Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)|
+|Helpsystems|Clearswift Secure Web Gateway|5.4.0 ,5.3.0| |Vulnerable| | |Investigation|[source](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687&amp;redirect=false)|
 |HelpSystems Clearswift|All| | | | | | |[HelpSystems Clearswift](https://community.helpsystems.com/kb-nav/kb-article/?id=37becc1c-255c-ec11-8f8f-6045bd006687)|
 |HENIX|Squash TM|1.21.7 - 1.22.9, 2.0.3 - 2.1.5,  2.2.0 - 3.0.2|Not vuln|Fix| | | |[Vendor Link](https://tm-en.doc.squashtest.com/v3/downloads.html#download-previous-versions)|
 |Hexagon|ERDAS APOLLO - Catalog Explorer| |Not vuln|Fix| | | |[source](https://supportsi.hexagon.com/help/s/article/Security-Vulnerability-CVE-2021-44228-log4j-2?language=en_US#:~:text=For%20the%20following%20products%20fixes%20are%20available)|
