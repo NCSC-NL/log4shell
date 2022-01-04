@@ -11,10 +11,10 @@
 |HAProxy|All| | | | | | |[HAProxy Statement](https://www.haproxy.com/blog/december-2021-log4shell-mitigation/)|
 |HarmanPro AMX|All| | | | | | |[HarmanPro AMX Statement](https://help.harmanpro.com/apache-log4j-vulnerability)|
 |Hashicorp|All| | |Not vuln| | | |[source](https://support.hashicorp.com/hc/en-us/articles/4412469195795-CVE-2021-44228-Log4J-has-no-impact-on-HashiCorp-Products)|
-|HCL Software|BigFix Compliance| |Not vuln|Workaround|Not vuln| ||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+|HCL Software|BigFix Compliance| |Not vuln|Not vuln|Not vuln| ||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 |HCL Software|BigFix Insights| |Not vuln|Not vuln|Not vuln|Not vuln||"[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 |HCL Software|BigFix Insights for Vulnerability Remediation| |Not vuln|Not vuln|Not vuln|Not vuln||"[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
-|HCL Software|BigFix Inventory|< 10.0.7|Not vuln|Not vuln|Not vuln| ||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
+|HCL Software|BigFix Inventory|< 10.0.7|Not vuln|Workaround|Not vuln| ||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 |HCL Software|BigFix Lifecycle| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 |HCL Software|BigFix Mobile| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
 |HCL Software|BigFix Patch| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://support.hcltechsw.com/csm?id=kb_article&sysparm_article=KB0095486)|
