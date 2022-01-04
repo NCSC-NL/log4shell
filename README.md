@@ -36,13 +36,13 @@ NCSC-NL believes the GitHub page is a succes and you made that possible.
 Below we present a very incomplete list of contributants we consider the repository's hall of fame:
 
 * [ANSSI](https://www.ssi.gouv.fr/en/)
-* BSI/CERT-Bund [https://www.bsi.bund.de/EN/Topics/IT-Crisis-Management/CERT-Bund/cert-bund_node.html]
-* CERT-EU [https://cert.europa.eu/cert/plainedition/en/cert_about.html]
-* Cybersecurity & Infrastructure Security Agency (CISA) [https://www.cisa.gov/about-cisa]
-* DCSC [https://www.defensie.nl/onderwerpen/cyber-security/dcsc]
-* SURFcert [https://wiki.surfnet.nl/pages/viewpage.action?pageId=11063492]
-* SK-CERT [https://www.sk-cert.sk/en/about-us/index.html]
-* Z-CERT [https://www.z-cert.nl/]
+* [BSI/CERT-Bund](https://www.bsi.bund.de/EN/Topics/IT-Crisis-Management/CERT-Bund/cert-bund_node.html)
+* [CERT-EU](https://cert.europa.eu/cert/plainedition/en/cert_about.html)
+* [Cybersecurity & Infrastructure Security Agency CISA](https://www.cisa.gov/about-cisa)
+* [DCSC](https://www.defensie.nl/onderwerpen/cyber-security/dcsc)
+* [SURFcert](https://wiki.surfnet.nl/pages/viewpage.action?pageId=11063492)
+* [SK-CERT](https://www.sk-cert.sk/en/about-us/index.html)
+* [Z-CERT](https://www.z-cert.nl/)
 
 * @DFFSpace
 * @tintinhamans
