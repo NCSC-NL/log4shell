@@ -126,7 +126,7 @@
 | Cisco | Cloudlock for Government | All versions |  | Fix | Fix | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Cognitive Intelligence| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco | Collaboration Experience Service (CES) | All versions |  | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-| Cisco | Collaboration Experience Service Management (CESM) | All versions |  | Fix | Investigation | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Collaboration Experience Service Management (CESM) | All versions |  | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Common Services Platform Collector (CSPC) |2.10.0, 2.9.1.3|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Computer Telephony Integration Object Server (CTIOS)| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|ConfD| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
