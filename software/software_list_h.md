@@ -113,7 +113,7 @@
 |Hologic|Cenova Image Analytics Server (CAD)| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Dimensions / 3Dimensions Mammography System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Discovery Bone Densitometer| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Faxitron CT Specimen Radiography System| | |Underinvestigation| | |While the Hologic software itself does not utilize Java/Log4J, there is a utility program installed that may utilize Java and Log4J. This utility program does not run on startup and is not required for system operation.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Faxitron CT Specimen Radiography System| | |Investigation| | |While the Hologic software itself does not utilize Java/Log4J, there is a utility program installed that may utilize Java and Log4J. This utility program does not run on startup and is not required for system operation.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Faxitron Specimen Radiography Systems| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Fluoroscan Insight Mini C-Arm| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Horizon DXA Bone Densitometer| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
@@ -123,7 +123,7 @@
 |Hologic|SecurXChange Router| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|SuperSonic Imagine Ultrasound Products (Aixplorer & Aixplorer Mach)| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Trident HD Specimen Radiography System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Unifi Workspace| | |Underinvestigation| | |While the Hologic software itself does not utilize Java/Log4J, the installed APC PowerChute UPS with Business Edition v9.5 software installed may. APC is still assessing its PowerChute software to determine if it is vulnerable.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Unifi Workspace| | |Investigation| | |While the Hologic software itself does not utilize Java/Log4J, the installed APC PowerChute UPS with Business Edition v9.5 software installed may. APC is still assessing its PowerChute software to determine if it is vulnerable.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Windows Selenia Mammography System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Honeywell|All| | | | | | |[Honeywell Statement](https://www.honeywell.com/us/en/press/2021/12/honeywells-statement-on-java-apache-log4j-logging-framework-vulnerability)|
 |HostiFi|Unifi hosting| |Not vuln|Fix| | |Hosted Unifi solution|[source](https://twitter.com/hostifi_net/status/1440311322592231436)|
