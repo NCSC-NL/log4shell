@@ -122,7 +122,11 @@
 |Cisco|CloudCenter Cost Optimizer|5.5.2|  |Fix|Fix| | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|CloudCenter Suite Admin|5.3.1|  |Fix|Fix| |  |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|CloudCenter Workload Manager|5.5.2| |Fix| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Cloudlock | All versions |  | Fix | Fix | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Cloudlock for Government | All versions |  | Fix | Fix | Not vuln | |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Cognitive Intelligence| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Collaboration Experience Service (CES) | All versions |  | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Collaboration Experience Service Management (CESM) | All versions |  | Fix | Investigation | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Common Services Platform Collector (CSPC) |2.10.0, 2.9.1.3|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Computer Telephony Integration Object Server (CTIOS)| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|ConfD| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -134,7 +138,9 @@
 |Cisco|Container Platform| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Content Security Management Appliance (SMA)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Change Automation| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Crosswork Cloud | All versions | | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Data Gateway|2.0.2, 3.0.1|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+| Cisco | Crosswork Health Insights | All versions | | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Network Controller|2.0.1, 3.0.1|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Optimization Engine|2.0.1, 3.0.1|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Platform Infrastructure|4.0.1, 4.1.1|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
