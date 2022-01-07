@@ -63,14 +63,14 @@
 |Chef|Backend|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
 |Chef|Infra Server|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j))|
 |Ciphermail|All| | | | | | |[Ciphermail Blog Post](https://www.ciphermail.com/blog/ciphermail-gateway-and-webmail-messenger-are-not-vulnerable-to-cve-2021-44228.html)|
-|CIS|CSAT Pro|< 1.7.1| |Vulnerable| | |Upgrade to v1.7.1. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0|[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
+|CIS|CAT Lite|4.13.1| |Fix|Fix|Fix| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
+|CIS|CAT Pro Assessor v3 Full and Dissolvable|3.0.78| |Fix|Fix|Fix| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
+|CIS|CAT Pro Assessor v4|4.13.1| |Fix|Fix|Fix| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
+|CIS|CAT Pro Assessor v4 Service|1.13.1| |Fix|Fix|Fix| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
+|CIS|CAT Pro Dashboard| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
+|CIS|CSAT Pro|1.7.2| |Fix|Fix|Fix| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
+|CIS|Hosted CSAT| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
 |CIS|WorkBench| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
-|CIS|#NAME?|< 4.13.0| |Vulnerable| | |Upgrade to v1.7.1. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0|[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
-|CIS|#NAME?|< 3.0.77| |Vulnerable| | |Upgrade to v3.0.77. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0|[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
-|CIS|#NAME?|< 4.13.0| |Vulnerable| | |Upgrade to v4.13.0. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0|[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
-|CIS|#NAME?|< 1.13.0| |Vulnerable| | |Upgrade to v1.13.0. The next release for CIS products listed in the table below is currently targeted for January 25, 2022. That release will include an update from Log4j 2.15.0 to Log4j 2.16.0|[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
-|CIS|#NAME?| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
-|CIS|#NAME?| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2434301961)|
 |Cisco|ACI Multi-Site Orchestrator| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|ACI Virtual Edge| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Adaptive Security Appliance (ASA) Software| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
