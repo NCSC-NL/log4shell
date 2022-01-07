@@ -94,6 +94,7 @@
 |The Linux Foundation|StackStorm (ST2)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://github.com/StackStorm/st2/discussions/5503)|
 |The Linux Foundation|XCP-ng|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://xcp-ng.org/forum/topic/5315/log4j-vulnerability-impact)|
 |TheHive|All|All|Not vuln|Not vuln|Not vuln|Not vuln|Safety release done removing log4j, despite not being vulnerable|[source](https://twitter.com/StrangeBee/status/1472854290943381504)|
+|TheGreenBow|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.thegreenbow.com/en/societe/actualites/log4shell-security-notice-thegreenbow-vpns-not-affected/)|
 |TheHive|Cortex|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/)|
 |Thermo Fisher Scientific|All| | | | | | |[Thermo Fisher Scientific Advisory Link](https://corporate.thermofisher.com/us/en/index/about/information-security/Protecting-Our-Products.html)|
 |Thermo-Calc|All|2018a and earlier|Not vuln|Not vuln|Not vuln|Not vuln|Use the program as normal|[Thermo-Calc Advisory Link](https://thermocalc.com/blog/thermo-calc-response-to-apache-log4j-2-vulnerability/)|
