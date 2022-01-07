@@ -67,6 +67,50 @@
 |Orgavision|All| | | | | | |[Orgavision Link](https://www.orgavision.com/neuigkeiten/sicherheitsluecke-java-library-log4j)|
 |Osirium|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.osirium.com/blog/apache-log4j-vulnerability)|
 |OTRS|All| | |Not vuln| | | |[source](https://portal.otrs.com/external)|
+| Ovarro | AlarmVision | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Atrium | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | BurstDetect | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | CA Tools | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | ControlPoint | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | DSG | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | EDGE Connect | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | EDGE Connect+ | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Enigma | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Enigma3m/Phocus3m/Enigma4G/IOT | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | EnigmaWeb | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Eureka3 | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Eureka5 | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Flowsure | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | IOT-Connector | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Kingfisher CP12 | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Kingfisher CP30 | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Kingfisher CP35/MC35 | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | LeakVision/LeakInsight | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | LoggerVision | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Mikron3 | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Mikron5 | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Miser | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | MS-CPU42 | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Other software packages (Adroit/DX-Server) | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Phocus3 (IR & Radio) | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Pioneer | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | PrimeWeb | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | S2000 | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | S2000 Micro | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | S2000 Micro Mk2 | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | S2000 Mk2 | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | S2000 Nano | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | SCOPE | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | Stream | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | TBox LT2/TG2 | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | TBox MS-CPU32 | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | TBox MS-CPU32-S2 | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | TConnect | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | ToolBox | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | ToolBoxPlus | | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | TWinSoft | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | XiLog+ | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
+| Ovarro | XiLog4G/IOT | |Not vuln|Not vuln |Not vuln ||[source](https://www.ovarro.com/en/europe/news/log4j-overview-related-software/)|
 |OVHCloud|Hosted Private Cloud powered by VMware| | |Vulnerable| | |Deploying the workarounds provided by VMWare|[source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)|
 |OVHCloud|Logs Data Platform| |Not vuln|Fix| | | |[source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)|
 |OVHCloud|ML serving| |Not vuln|Fix| | | |[source](https://blog.ovhcloud.com/log4shell-how-to-protect-my-cloud-workloads/)|
