@@ -16,7 +16,6 @@
 |DatadogHQ|datadog-lambda-java|< 0.3.3 or < 1.4.0|Not vuln|Fix| | |following AWS’s recommendation, library updated using the latest version of amazon-lambda-java-log4j2 (1.4.0).|[source](https://www.datadoghq.com/log4j-vulnerability/)|
 |Dataminer|All| | | | | | |[Dataminer Community Link](https://community.dataminer.services/responding-to-log4shell-vulnerability/)|
 |DataNet Quality Systems|WinSPC| |Not vuln|Not vuln|Not vuln|Not vuln|Note: this is not <strong>WinSCP</strong>. This is a Statistical Process Control software.||
-|Dataverse|The Dataverse Project| | |Vulnerable| | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/dataverse.org)|
 |Datev|DATEV Mittelstand Faktura and DATEV Mittelstand Faktura mit Rechnungswesen compact| |Not vuln|Fix| | |German source|[source](https://apps.datev.de/help-left/documents/1022948)|
 |Datev|DATEV Wages and Salaries compact| |Not vuln|Fix| | |German source|[source](https://apps.datev.de/help-left/documents/1022948)|
 |Datev|DATEV-SmartIT| |Not vuln|Fix| | |German source|[source](https://apps.datev.de/help-left/documents/1022948)|
