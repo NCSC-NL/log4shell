@@ -137,7 +137,7 @@
 |Cisco|Contact Center Management Portal (CCMP) |12.5(1) ES6, 12.6(1) ES3| |Fix|Fix|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Container Platform| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Content Security Management Appliance (SMA)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-|Cisco|Crosswork Change Automation| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|Crosswork Change Automation|All versions| |Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco | Crosswork Cloud | All versions | | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Data Gateway|2.0.2, 3.0.1|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 | Cisco | Crosswork Health Insights | All versions | | Not vuln | Not vuln | Not vuln ||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -145,6 +145,7 @@
 |Cisco|Crosswork Optimization Engine|2.0.1, 3.0.1|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Platform Infrastructure|4.0.1, 4.1.1|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Situation Manager|8.0.0.8|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|Crosswork Service Health| All versions|  |Not vuln|Not vuln|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Crosswork Zero Touch Provisioning (ZTP) |2.0.1, 3.0.1|  |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|CX Cloud|All versions| |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|CX Cloud Agent Software|1.12.2| |Fix|Fix|Not vuln||[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
@@ -158,16 +159,19 @@
 |Cisco|Duo| |Not vuln|Fix| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|duo network gateway (on-prem/self-hosted)| | |Investigation| | | ||
 |Cisco|DUO network gateway (on-prem/self-hosted)| | |Investigation| | | ||
+|Cisco|Duo Security for Government|All versions| |Fix|Fix|Not vuln| | [source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd) |
 |Cisco|Elastic Services Controller (ESC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Email Security Appliance (ESA)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Emergency Responder|11.5(4)SU9, 11.5(4)SU10|  |Fix|Fix|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Enterprise Chat and Email|12.0(1), 12.5(1), 12.6(1) | |Fix|Fix|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Enterprise NFV Infrastructure Software (NFVIS)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-|Cisco|Evolved Programmable Network Manager| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|eSIM Flex|All versions| |Fix|Fix|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|Evolved Programmable Network Manager| 5.1.3.1| |Fix|Fix|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|Evolved Programmable Network Manager| < 5.0.2.1, < 4.1.1.1|  |Vulnerable|Vulnerable|Not vuln|Fix should be available from 22 Jan 2022|[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Exony Virtualized Interaction Manager (VIM)| | |Investigation| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Expressway Series| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Extensible Network Controller (XNC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-|Cisco|Finesse| | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|Finesse| < 12.6(1)ES03 | |Vulnerable| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Firepower 4100 Series| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Firepower 9300 Security Appliances| | |Investigation| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Firepower Management Center| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
