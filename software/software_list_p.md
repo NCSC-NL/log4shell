@@ -98,9 +98,9 @@
 |Philips|Tasy EMR| | |Vulnerable| | |Software only products with customer owned Operating Systems. For products solutions where the server was provided it is customer responsibility to validate and deploy patches.|[source](https://www.philips.com/a-w/security/security-advisories.html)|
 |Philips|Universal Data Manager (UDM)| | |Vulnerable| | |Philips hosting environment is evaluating the VMware provided workaround and in the process of deploying for managed service customers.|[source](https://www.philips.com/a-w/security/security-advisories.html)|
 |Philips|VuePACS|12.2.8| |Vulnerable| | | |[source](https://www.philips.com/a-w/security/security-advisories.html)|
-|Phoenix Contact|Cloud Services| | |Vulnerable| | |Remediations are being implemented|[source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability_Statement_Log4J_20211215.pdf)|
-|Phoenix Contact|Physical products containing firmware| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability_Statement_Log4J_20211215.pdf)|
-|Phoenix Contact|Software products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability_Statement_Log4J_20211215.pdf)|
+|Phoenix Contact|Cloud Services| | |Fix|Fix|Fix|Cloud Services were either not vulnerable or are completely fixed. No exploits observed.|[source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability.pdf)|
+|Phoenix Contact|Physical products containing firmware| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability.pdf)|
+|Phoenix Contact|Software products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://dam-mdc.phoenixcontact.com/asset/156443151564/1a0f6db6bbc86540bfe4f05fd65877f4/Vulnerability.pdf)|
 |Ping Identity|PingAccess|4.0 <= version <= 6.3.2|Not vuln|Fix| | | |[Log4j2 vulnerability CVE-2021-44228](https://support.pingidentity.com/s/article/Log4j2-vulnerability-CVE-CVE-2021-44228)|
 |Ping Identity|PingCentral| |Not vuln|Fix| | | |[Log4j2 vulnerability CVE-2021-44228](https://support.pingidentity.com/s/article/Log4j2-vulnerability-CVE-CVE-2021-44228)|
 |Ping Identity|PingFederate|8.0 <= version <= 10.3.4|Not vuln|Fix| | | |[Log4j2 vulnerability CVE-2021-44228](https://support.pingidentity.com/s/article/Log4j2-vulnerability-CVE-CVE-2021-44228)|
