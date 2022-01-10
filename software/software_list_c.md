@@ -167,7 +167,7 @@
 |Cisco|Enterprise NFV Infrastructure Software (NFVIS)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|eSIM Flex|All versions| |Fix|Fix|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Evolved Programmable Network Manager| 5.1.3.1| |Fix|Fix|Not vuln| |[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
-|Cisco|Evolved Programmable Network Manager| < 5.0.2.1, < 4.1.1.1|  |Vulnerable|Vulnerable|Not vuln|Fix should be available from 22 Jan 2022|[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
+|Cisco|Evolved Programmable Network Manager| < 5.0.2.1, < 4.1.1.1|  |Vulnerable|Vulnerable|Not vuln|Fix should be available from 13 Jan 2022|[source](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Exony Virtualized Interaction Manager (VIM)| | |Investigation| | | |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Expressway Series| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
 |Cisco|Extensible Network Controller (XNC)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tools.cisco.com/security/left/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd)|
