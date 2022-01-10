@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+click==8.0.3
+mistune==2.0.0
+soupsieve==2.3.1

@@ -1,0 +1,33 @@
+name: Release CSV/JSON files
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  release:
+    name: CSV/JSON releases
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Check-out repository
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+
+    - run: pip install -r ${{ github.workspace }}/tools/log4shell_softwarelist/requirements.txt
+
+    - run: python ${{ github.workspace }}/tools/log4shell_softwarelist/softwarelist_parser.py --path ${{ github.workspace }}/software/ csv software_list.csv
+
+    - run: python ${{ github.workspace }}/tools/log4shell_softwarelist/softwarelist_parser.py --path ${{ github.workspace }}/software/ json software_list.json
+
+    - uses: softprops/action-gh-release@v1
+      with:
+          files: |
+              software_list.csv
+              software_list.json
