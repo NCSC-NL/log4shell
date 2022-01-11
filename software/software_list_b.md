@@ -210,7 +210,7 @@
 |BeyondTrust|Secure Remote Access appliances| |Not vuln|Not vuln|Not vuln|Not vuln| |[Security Advisory – Apache Log4j2 CVE 2021-44228 (Log4Shell)](https://www.beyondtrust.com/blog/entry/security-advisory-apache-log4j2-cve-2021-44228-log4shell)|
 |BeyondTrust Bomgar|All| | | | | | |[BeyondTrust Bomgar Link](https://beyondtrustcorp.service-now.com/kb_view.do?sysparm_article=KB0016542)|
 |BigBlueButton|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://github.com/bigbluebutton/bigbluebutton/issues/13897)|
-|BioJava|Java library for processing biological data|6.0.3|Not vuln|Fix|Fix|Vulnerable| |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.3)|
+|BioJava|Java library for processing biological data|6.0.3|Not vuln|Fix|Fix|Fix| |[source](https://github.com/biojava/biojava/releases/tag/biojava-6.0.4)|
 |BioMerieux|All| | |Investigation| | | |[BioMerieux Advisory Link](https://www.biomerieux.com/en/cybersecurity-data-privacy)|
 |BisectHosting|All| | | | | | |[BisectHosting Link](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/205/Java-Log4j-Vulnerability.html)|
 |Bitdefender|GravityZone On-Premises| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://businessinsights.bitdefender.com/security-advisory-bitdefender-response-to-critical-0-day-apache-log4j2-vulnerability)|
