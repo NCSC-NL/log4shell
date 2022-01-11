@@ -93,6 +93,7 @@
 |Thales|Vormetric Tokenization Server (VTS)| |Not vuln|Not vuln|Not vuln|Not vuln| |"[Thales Support](https://supportportal.thalesgroup.com/csm?id=kb_article_view&amp;sys_kb_id=12acaed3dbd841105d310573f3961953&amp;sysparm_article=KB0025297)"|
 |The Linux Foundation|StackStorm (ST2)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://github.com/StackStorm/st2/discussions/5503)|
 |The Linux Foundation|XCP-ng|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://xcp-ng.org/forum/topic/5315/log4j-vulnerability-impact)|
+|TheGreenBow|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.thegreenbow.com/en/societe/actualites/log4shell-security-notice-thegreenbow-vpns-not-affected/)|
 |TheHive|All|All|Not vuln|Not vuln|Not vuln|Not vuln|Safety release done removing log4j, despite not being vulnerable|[source](https://twitter.com/StrangeBee/status/1472854290943381504)|
 |TheHive|Cortex|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.strangebee.com/apache-log4j-cve-2021-44228/)|
 |Thermo Fisher Scientific|All| | | | | | |[Thermo Fisher Scientific Advisory Link](https://corporate.thermofisher.com/us/en/index/about/information-security/Protecting-Our-Products.html)|
