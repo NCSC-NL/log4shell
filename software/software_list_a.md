@@ -285,7 +285,7 @@
 |Arista Networks|CloudVision Portal|>2019.1.0| |Vulnerable| | | |[source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070)|
 |Arista Networks|CloudVision Wi-Fi, virtual appliance or physical appliance|>8.8| |Vulnerable| | | |[source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070)|
 |Arista Networks|Embedded Analytics for Converged Cloud Fabric (formerly Big Cloud Fabric)|>5.3.0| |Vulnerable| | | |[source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070)|
-|Aruba Networks|All| | | | | | |"[Aruba Networks Notification](https://asp.arubanetworks.com/notifications/Tm90aWZpY2F0aW9uOjEwMTQ0;notificationCategory=Security)"|
+|Aruba Networks|All| |Not vuln| | | | |"[Aruba Networks Notification](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)"|
 |Ataccama|All| | | | | | |[Ataccama Link](https://www.ataccama.com/files/log4j2-vulnerability-cve-2021-44228-fix.pdf)|
 |Atera|All| | | | | | |[Atera Link](https://www.reddit.com/r/atera/comments/rh7xb1/apache_log4j_2_security_advisory_update/)|
 |Atlassian|Bamboo Server & Data Center|On prem| |Vulnerable| | |Only vulnerable when using non-default config, cloud version fixed|[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html)|
