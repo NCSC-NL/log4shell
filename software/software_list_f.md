@@ -96,7 +96,7 @@
 |Fortinet|FortiRecorder| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSandbox| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSASE| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiSIEM|Workaround| |Vulnerable| | |"<a href=""https://community.fortinet.com/t5/FortiSIEM/Techincal-Tip-FortiSIEM-Log4j-Mitigating-CVE-2021-44228/ta-p/201008"" rel=""nofollow"">Mitigation steps</a>"|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiSIEM|Workaround| |Vulnerable| | |[Migration steps](https://community.fortinet.com/t5/FortiSIEM/Techincal-Tip-FortiSIEM-Log4j-Mitigating-CVE-2021-44228/ta-p/201008)|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSOAR| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSwicth Cloud in FortiLANCloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[PSIRT Advisories FortiGuard](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSwitch & FortiSwitchManager| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
