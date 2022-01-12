@@ -47,59 +47,70 @@
 |JGraph|DrawIO|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://github.com/jgraph/drawio/issues/2490)|
 |Jitsi|jitsi-videobridge|v2.1-595-g3637fda42|Not vuln|Fix| | | |[source](https://github.com/jitsi/security-advisories/blob/4e1ab58585a8a0593efccce77d5d0e22c5338605/advisories/JSA-2021-0004.md)|
 |Jitterbit|All| | | | | | |[Jitterbit Statement](https://success.jitterbit.com/display/DOC/Mitigating+the+Apache+Log4j2+JNDI+Vulnerability)|
-|Johnson Controls|Athena|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|BCPro|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|C•CURE Client|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|C•CURE Server|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|C•CURE Web|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|C•CURE‐9000|2.90.x, 2.80.x, 2.70.x and 2.60.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|CEM AC2000|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|CEM Hardware Products|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|CK721‐A (P2000)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|CloudVue Gateway|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|CloudVue Web|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Connect24|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Connected Equipment Gateway (CEG)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|DataSource|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|DLS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Entrapass|All|Not vuln|Not vuln|Not vuln|Not vuln| |[Johnson Controls Advisory Link](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|exacqVision Client|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|exacqVision Server|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|exacqVision WebService|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Facility Explorer|14.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Illustra Cameras|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Illustra Insight|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|iSTAR|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Kantech Entrapass|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Metasys Products and Tools|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Active Responder|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Bridge|All|Not vuln|Fix| | | |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Chiller Utility Plant Optimizer|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Cloud|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Connected Chiller|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Enterprise Manager|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Location Manager|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Risk Insight|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Twin|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|OpenBlue Workplace|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|P2000|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|PowerSeries NEO|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|PowerSeries Pro|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Qolsys IQ Panels|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|RFID Overhead360° Backend|All|Not vuln|Fix| | |Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|S321‐IP (P2000)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Shoppertrak Analytics (STaN) ‐ Traffic|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Shoppertrak Market Intelligence|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Shoppertrak Perimeter Apps|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Shoppertrak Shopper Journey|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Shoppertrak Video Analytics|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Sur‐Gard Receivers|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|TrueVue Cloud|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Tyco AI|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|victor|5.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|victor/ C•CURE‐9000 Unified|3.81.x / victor 5.4.1 / C•CURE‐9000 2.80 and 3.91.x / victor 5.6.1 / C•CURE‐9000 2.90|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|VideoEdge|5.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
-|Johnson Controls|Xaap|All|Not vuln|Not vuln|Not vuln|Not vuln|Cloud product|[source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)|
+| Johnson Controls| Athena| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| BCPro| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| BIRS| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| C•CURE Client| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| C•CURE Server| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| C•CURE Web| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| C•CURE‐9000| 2.90.x, 2.80.x, 2.70.x and 2.60.x| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| CEM AC2000| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| CEM Hardware Products| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| CK721‐A (P2000)| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| CloudVue Gateway| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| CloudVue Web| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Connect24| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Connected Equipment Gateway (CEG)| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| DataSource| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| DLS| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| EasyIO| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Entrapass| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| exacqVision Client| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| exacqVision Server| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| exacqVision WebService| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Facility Explorer| 14.x| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Illustra Cameras| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Illustra Insight| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Intellex DVMS| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| IQ Cloud| | | Fix|  |  |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| iSTAR| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Kantech Entrapass| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Metasys Products and Tools| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Active Responder| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Bridge| All| Not vuln| Fix|  |  |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Chiller Utility Plant Optimizer| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Cloud| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Connected Chiller| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Enterprise Manager| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Location Manager| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Risk Insight| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Twin| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| OpenBlue Workplace| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| P2000| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| PENN Connected Refrigeration Monitoring| | | Fix|  |  |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Performance Verification Tool| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| PowerSeries NEO| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| PowerSeries Pro| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Qolsys IQ Panels| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| RFID Overhead360° Backend| All| Not vuln| Fix|  |  | Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| S321‐IP (P2000)| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| SafeLINC Cloud Web and Mobile| | Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| SafeLINC Gateway| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Sensormatic SMaaS| | | Fix|  |  |  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Shoppertrak Analytics (STaN) ‐ Traffic| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Shoppertrak Market Intelligence| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Shoppertrak Perimeter Apps| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Shoppertrak Shopper Journey| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Shoppertrak Video Analytics| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Sur‐Gard Receivers| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| TrueVue Cloud| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Tyco AI| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Unified Operations Center (UOC)| | Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Verasys| All| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| victor| 5.x| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| victor/ C•CURE‐9000 Unified| 3.81.x / victor 5.4.1 / C•CURE‐9000 2.80 and 3.91.x / victor 5.6.1 / C•CURE‐9000 2.90| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| VideoEdge| 5.x| Not vuln| Not vuln| Not vuln| Not vuln|  | [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
+| Johnson Controls| Xaap| All| Not vuln| Not vuln| Not vuln| Not vuln| Cloud product| [source](https://www.johnsoncontrols.com/cyber-solutions/security-advisories)
 |Journyx|All| | | | | | |[Journeyx Statement](https://community.journyx.com/support/solutions/articles/9000209044-apache-log4j-2-vulnerability-cve-2021-44228-)|
 |jPOS|(ISO-8583) bridge| | |Not vuln| | | |[source](https://github.com/jpos/jPOS/commit/d615199a1bdd35c35d63c07c10fd0bdbbc96f625)|
 |Jump Desktop|All| | | | | | |[Jump Desktop Statement](https://support.jumpdesktop.com/hc/en-us/articles/4416720395021-Log4j-CVE-2021-44228-CVE-2021-45046-Statement)|
