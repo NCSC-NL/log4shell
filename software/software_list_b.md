@@ -510,19 +510,31 @@
 |BMC|VSAM Optimization|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|zDetect|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |Bosch|All| | |Vulnerable| | | |[Bosch Advisory Link](https://bosch-iot-suite.com/news/apache-log4j-rce-vulnerability/)|
-|Boston Scientific|Heart Connect Tablet|3933| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE Clarity™|7260| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE Consult™|6297| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE Link™|6215|Not vuln|Workaround| | |Customer action needed to secure customer system.|[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE™ Classic|6488| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE™ Communicators|6280, 6288, 6290, 6299, 6420, 6443, 6468, 6476, 6496, 6498| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE™ EMR Secure Courier Client|6455, 6624| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE™ NXT|6446, 6447, 6448, 6449, 6460| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LATITUDE™ Programmer & Apps|3300| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|LUX-Dx™ Clinic Assistant App|2935, 6256| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|MyLATITUDE™ Patient App| | |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|myLUX™ Patient App|2925, 6259| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
-|Boston Scientific|ZOOM™ Programmer & Apps|3120| |Not vuln| | | |[source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| DBS Clinician Programmer| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| DBS External Trial Stimulator| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| DBS Implantable Pulse Generator| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| DBS Remote Control| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| Heart Connect Tablet| 3933| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LATITUDE Clarity™| 7260| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LATITUDE Consult™| 6297| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LATITUDE Link™| 6215| Not vuln| Workaround| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LATITUDE™ Classic| 6488| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LATITUDE™ Communicators| 6280, 6288, 6290, 6299, 6420, 6443, 6468, 6476, 6496, 6498| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LATITUDE™ EMR Secure Courier Client| 6455, 6624| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LATITUDE™ NXT| 6446, 6447, 6448, 6449, 6460| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LATITUDE™ Programmer & Apps| 3300| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| LUX-Dx™ Clinic Assistant App| 2935, 6256| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| MyLATITUDE™ Patient App| | | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| myLUX™ Patient App| 2925, 6259| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| mySCS™| | | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| myVertiflex™| | | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| PainScale™| | | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| RF Ablation Generator| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| SCS Clinician Programmer| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| SCS External Trial Stimulator| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| SCS Implantable Pulse Generator| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| SCS Remote Control| All| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
+| Boston Scientific| ZOOM™ Programmer & Apps| 3120| | Not vuln| | | | [source](https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html)|
 |Box|All| | | | | | |[Box Blog Post](https://blog.box.com/boxs-statement-recent-log4j-vulnerability-cve-2021-44228)|
 |Brainworks|All| | | | | | |[Brainworks Link](https://www.brainworks.de/log4j-exploit-kerio-connect-workaround/)|
 |Brian Pangburn|SwingSet|< 4.0.6|Not vuln|Fix| | | |[source](https://github.com/bpangburn/swingset/releases/tag/swingset-4.0.6)|
