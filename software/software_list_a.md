@@ -10,7 +10,8 @@
 |ABB|Alarminsight Cloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&amp;LanguageCode=en&amp;DocumentPartId=&amp;Action=Launch)|
 |ABB|B&R Products| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.br-automation.com/downloads_br_productcatalogue/assets/1639507581859-en-original-1.0.pdf)|
 |ABB|Remote Service| |Not vuln|Fix| | |Details are shared with customers with an active RAP subscription|"[source](https://search.abb.com/library/Download.aspx?DocumentID=9ADB012621&amp;LanguageCode=en&amp;DocumentPartId=&amp;Action=Launch)"|
-|Abbott|All| | |Investigation| | | |[source](https://www.abbott.com/policies/cybersecurity/apache-Log4j.html)|
+|Abbott| All| | |Investigation| | | |[source](https://www.abbott.com/policies/cybersecurity/apache-Log4j.html)|
+|Abbott| GLP Track System | Track Sample Manager (TSM) and Track Workflow Manager (TWM) communication interfaces |  | Vulnerable | Vulnerable | Vulnerable | Abbott will provide a fix for this in a future update expected in January 2022. |[source](https://www.abbott.com/policies/cybersecurity/apache-Log4j.html)|
 |Abnormal Security|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[Abnormal Blog](https://abnormalsecurity.com/blog/attackers-use-email-log4j-vulnerability)|
 |Accellence|All| | | | | | |[Accellence Article](https://www.accellence.de/en/articles/national-vulnerability-database-62)|
 |Accellence Technologies|EBÜS|All|Not vuln|Workaround| | |EBÜS itself is not vulnerable to CVE-2021-44228. Although it includes several 3rd-partie software setups, which may be affected (see source for more info).|[source](https://www.accellence.de/en/articles/cve-2021-44228-62)|
