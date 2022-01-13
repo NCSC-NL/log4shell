@@ -168,6 +168,20 @@
 |Slurm|All|20.11.8|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://slurm.schedmd.com/documentation.html)|
 |Smartbear|SoapUI|<= 5.6.0| |Vulnerable| | | |[source](https://community.smartbear.com/t5/SoapUI-Open-Source-Questions/Log4j-CVE-2021-44228-Zero-Day-Vulnerability-SOAP-UI-V5-6-0-or/m-p/227418)|
 |SmileCDR|All| | | | | | |[SmileCDR Blog Post](https://www.smilecdr.com/our-blog/a-statement-on-log4shell-cve-2021-44228)|
+| Smiths Medical| CADD®-Solis Download Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| CADD-Solis Ambulatory Infusion Pump Model 2110| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| CADD-Solis Communication Module Model 2130| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| CADD-Solis Communication Module Model 2131| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| CADD-Solis Network Configuration Utility Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| Medfusion 3500 Pump Download Utility (DL3500)| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| Medfusion 3500 Syringe Infusion Pump| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| Medfusion 4000 Syringe Infusion Pump| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| Medfusion® 4000 Pump Download Utility (DL4000)| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| PharmGuard Administrator Medication Safety Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| PharmGuard Device Reports Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| PharmGuard Interoperability Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| PharmGuard Toolbox 2 Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+| Smiths Medical| PharmGuard® Server Infusion Management Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
 |Sn0m|All| | | | | | |[Sn0m Link](https://www.snom.com/en/press/log4j-poses-no-threat-snom-phones/)|
 |Snakemake|All|6.12.1|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://snakemake.readthedocs.io/en/stable/)|
 |Snow Software | Snow Commander | 8.10.3 | Not vuln | Fix | Fix | Fix | | [source](https://community.snowsoftware.com/s/article/LOG4J-Vulnerability) |
