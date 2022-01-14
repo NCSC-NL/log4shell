@@ -133,6 +133,7 @@
 |PowerDNS|Recursor| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.powerdns.com/2021/12/16/powerdns-and-log4j-log4shell/)|
 |Pretix|All| | | | | | |[Pretix Blog Post](https://pretix.eu/about/de/blog/20211213-log4j/)|
 |PrimeKey|All| | | | | | |[PrimeKey Support Link](https://support.primekey.com/news/posts/information-about-primekey-products-and-log4j-vulnerability-cve-2021-44228)|
+|Procentec (HMS Group|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[Procentec Product Notification](https://mailchi.mp/procentec.com/security_message)|
 |Progress|DataDirect Hybrid Data Pipeline| |Not vuln|Workaround| | | |[source](https://www.progress.com/security) [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-Hybrid-Data-Pipeline-vulnerable-CVE-2021-44228-Log4j)|
 |Progress|OpenEdge| |Not vuln|Workaround| | | |[source](https://www.progress.com/security) [mitigations](https://knowledgebase.progress.com/articles/Knowledge/Is-OpenEdge-vulnerable-to-CVE-2021-44228-Log4j)|
 |Progress / IpSwitch|All| | | | | | |[Progress / IpSwitch Link](https://www.progress.com/security)|
