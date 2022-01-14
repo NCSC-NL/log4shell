@@ -3111,7 +3111,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Trend Micro | Cloud One - Workload Secuity  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Cloud Sandbox  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Deep Discovery Analyzer  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
-| Trend Micro | Deep Discovery Director | 5.3 CP B1225 | Not vuln | Fix | Fix | Fix |  |[source](https://success.trendmicro.com/solution/000290055) |
+| Trend Micro | Deep Discovery Director | 5.3 CP B1228 or 5.2 CP B1400 | Not vuln | Fix | Fix | Fix |  |[source](https://success.trendmicro.com/solution/000290055) |
 | Trend Micro | Deep Discovery Email Inspector  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Deep Discovery Inspector  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
 | Trend Micro | Deep Discovery Web Inspector  |  | Not vuln | Not vuln | Not vuln | Not vuln | |[source](https://success.trendmicro.com/solution/000289940) |
