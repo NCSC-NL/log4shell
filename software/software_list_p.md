@@ -182,8 +182,10 @@
 |PTC|Arbortext Editor, Styler & Publishing Engine|>8.0.0.0|Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358998)|
 |PTC|Arena| | |Not vuln| | | |[source](https://www.ptc.com/en/documents/log4j)|
 |PTC|Axeda| |Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358990)|
-|PTC|Axeda Platform|6.9.2| |Vulnerable| | | |[PTC Axeda Platform Apache log4j vulnerability - Incident Response](https://www.ptc.com/en/support/article/CS358990)|
+|PTC|Axeda Platform|6.9.2| |Vulnerable| | | |[source](https://www.ptc.com/en/support/article/CS358990)|
 |PTC|Creo Elements/Direct Model Manager| |Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358965)|
+|PTC|Creo Parametric| |Not vuln| | | | |[source](vendor-statements/Creo%20Parametric.png)|
+|PTC|Creo View| | |Not vuln| | | |[source](vendor-statements/Creo%20View.png)|
 |PTC|Flexnet License Server| |Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358831)|
 |PTC|FlexPLM|<= 11.1 M020, 11.2.1, 12.0.0| |Not vuln| | | |[source](https://www.ptc.com/en/support/article/CS358789)|
 |PTC|FlexPLM|12.0.2.0 (CPS01 and CPS02)|Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358789)|
