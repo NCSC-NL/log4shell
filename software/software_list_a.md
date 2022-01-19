@@ -286,7 +286,26 @@
 |Arista Networks|CloudVision Portal|>2019.1.0| |Vulnerable| | | |[source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070)|
 |Arista Networks|CloudVision Wi-Fi, virtual appliance or physical appliance|>8.8| |Vulnerable| | | |[source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070)|
 |Arista Networks|Embedded Analytics for Converged Cloud Fabric (formerly Big Cloud Fabric)|>5.3.0| |Vulnerable| | | |[source](https://www.arista.com/en/support/advisories-notices/security-advisories/13425-security-advisory-0070)|
-|Aruba Networks|All| | | | | | |"[Aruba Networks Notification](https://asp.arubanetworks.com/notifications/Tm90aWZpY2F0aW9uOjEwMTQ0;notificationCategory=Security)"|
+|Aruba Networks|IntroSpect| versions 2.5.0.0 to 2.5.0.6| |Fix| | | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|AirWave Management Platform| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|Analytics and Location Engine| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|ArubaOS Wi-Fi Controllers and Gateways| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|ArubaOS SD-WAN Gateways| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|ArubasOS-CX Switches| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|ArubasOS-S Switches| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|Central / Central On-Premises| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|ClearPass Policy Manager| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|EdgeConnect| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|Fabric Composer (AFC) and Plexxi Composable Fabrice Manager (CFM)| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|HP ProCurve Switches| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|Instant / Instant Access Points| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|Instant On| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|Legacy GMS products|All|Fix |Fix |Fix | | |[advbisory](https://www.arubanetworks.com/website/techdocs/sdwan/docs/advisories/media/security_advisory_notice_apache_log4j2_cve_2021_44228.pdf)|
+|Aruba Networks|Legacy NX, VX, VRX| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|NetEdit| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|Silver Peak Orchestrator|All|Fix |Fix |Fix | | |[advbisory](https://www.arubanetworks.com/website/techdocs/sdwan/docs/advisories/media/security_advisory_notice_apache_log4j2_cve_2021_44228.pdf)|
+|Aruba Networks|User Experience Insight (UXI)| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
+|Aruba Networks|VIA Clients| |Not vuln |Not vuln|Not vuln |Not vuln | |[advbisory](https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-019.txt)|
 |Ataccama|All| | | | | | |[Ataccama Link](https://www.ataccama.com/files/log4j2-vulnerability-cve-2021-44228-fix.pdf)|
 |Atera|All| | | | | | |[Atera Link](https://www.reddit.com/r/atera/comments/rh7xb1/apache_log4j_2_security_advisory_update/)|
 |Atlassian|Bamboo Server & Data Center|On prem| |Vulnerable| | |Only vulnerable when using non-default config, cloud version fixed|[source](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html)|
