@@ -17,16 +17,14 @@ pip install -r requirements.txt
 From within this directory execute the following:
 
 ```bash
+cd software/
 # To mutate the software list
-python <scriptname>.py software/README.mdown > /tmp/README.mdown
+for file in `ls software_list_*.md`; do python <scriptname>.py $file > /tmp/$file; mv /tmp/$file $file; done
 
-# show differences
-diff -y -M200 software/README.mdown /tmp/README.mdown
+# review changes
+git diff
 
-# move in place
-mv /tmp/README.mdown software/README.mdown
-
-# commit change
-git add software/README.mdown
+# commit changes
+git add software_list_*.py
 git commit
 ```

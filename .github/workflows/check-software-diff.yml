@@ -1,0 +1,42 @@
+name: Check software list changes
+
+# Triggers the workflow on push or pull request events
+on:
+  push:
+    paths: software/software_list_*.md
+  pull_request:
+    paths: software/software_list_*.md
+
+env:
+  list: "0-9 a b c d e f g h i j k l m n o p q r s t u v w x y z"
+
+jobs:
+  checker:
+    name: Table checker
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Download current version
+        run: | 
+          for i in ${{ env.list }};
+          do
+            curl https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/software_list_${i}.md -o software_list_main_${i}.md
+          done
+      - name: Get pwd and list files
+        run: pwd && ls -la
+      - name: Create diff log
+        # Circumvent early exit as there are changes
+        run: | 
+          for i in ${{ env.list }};
+          do
+            (git diff --no-index software_list_main_${i}.md software/software_list_${i}.md || true ) > diff_${i}.log
+          done
+      - name: List files
+        run: ls -la
+      - name: Print diff
+        # Print diff
+        run: cat diff_*.log
+      - name: Check table
+        # Check only added lines
+        run: python3 .github/check_valid.py `ls diff_*.log`

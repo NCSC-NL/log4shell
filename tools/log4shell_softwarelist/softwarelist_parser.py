@@ -1,14 +1,12 @@
-import csv as py_csv
 import sys
+import csv as py_csv
 import json as py_json
-import pathlib
-import tempfile
 
-from typing import List
+from pathlib import Path
+from typing import List, Iterator
 
 import click
 import mistune
-import requests
 import unicodedata
 
 from bs4 import BeautifulSoup
@@ -26,15 +24,6 @@ HEADERS = [
     'Links'
 ]
 
-def download_softwarelist() -> str:
-    """ Download softwarelist to parse
-
-    :return: Markdown content of software list
-    """
-    url = "https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md"
-    response = requests.get(url)
-    return response.content
-
 def parse_links(links: List[Tag] = None) -> dict:
     """ Get all links info from Links column
 
@@ -49,11 +38,12 @@ def parse_record(record: List[Tag] = None) -> dict:
     """
 
     result = dict()
+    link_index = len(HEADERS) - 1
 
     for index, header in enumerate(HEADERS):
         # Parse links differently
-        if index == 5:
-            if len(record) == 5:
+        if index == link_index:
+            if len(record) == link_index:
                 result[header] = {}
             else:
                 result[header] = parse_links(record[index].find_all('a'))
@@ -64,26 +54,39 @@ def parse_record(record: List[Tag] = None) -> dict:
 
     return result
 
-@click.group()
-@click.option('--path', default='../../software/README.md', help='Path to software list README.md', type=click.File())
-@click.pass_context
-def main(ctx, path):
+def parse_software_file(path: Path) -> Iterator[dict]:
+    """ Parse a single software list file
+
+    :param path: path of file to parse
+    :yield: a single parse record from file
+    """
 
     # Parse Markdown to HTML and get soup
-    content = path.read()
+    with path.open('r') as f:
+        content = f.read()
+
     html = mistune.html(content)
     soup = BeautifulSoup(html, 'html.parser')
 
     # Look for all tr columns with td fields, after first h3 header
+    for row in soup.find_all('tr'):
+        tds = row.find_all('td')
+
+        if tds:  # ensure empty tr are ignored
+            yield parse_record(tds)
+
+@click.group()
+@click.option('--path', default='../../software/', help='Path to software list', type=click.Path(exists=True, path_type=Path))
+@click.pass_context
+def main(ctx, path):
     records = list()
-    first_h3 = soup.find('h3')
 
-    for x in first_h3.next_elements:
-        if isinstance(x, Tag) and x.name == 'tr':
-            tds = x.find_all('td')
+    # Get list of software list files
+    software_lists = sorted(f for f in path.iterdir() if 'software_list_' in f.name)
 
-            if tds:  # ensure empty tr are ignored
-                records.append(parse_record(tds))
+    for software_file in software_lists:
+        file_records = [r for r in parse_software_file(software_file)]
+        records += file_records
 
     ctx.obj['records'] = records
 
