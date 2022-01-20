@@ -143,7 +143,7 @@
 |Trend Micro|Cloud One - Workload Secuity| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://success.trendmicro.com/solution/000289940)|
 |Trend Micro|Cloud Sandbox| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://success.trendmicro.com/solution/000289940)|
 |Trend Micro|Deep Discovery Analyzer| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://success.trendmicro.com/solution/000289940)|
-|Trend Micro|Deep Discovery Director|5.3 CP B1225|Not vuln|Fix|Fix|Fix| |[source](https://success.trendmicro.com/solution/000290055)|
+|Trend Micro|Deep Discovery Director|5.3 CP B1228, 5.2 CP B1400|Not vuln|Fix|Fix|Fix|5.3 CP1228 replaces the previous B1225.  Customers may upgrade from any 5.3 build 1225 or below to the latest CP1228. Please note that all versions of Trend Micro Deep Discovery Director 5.1 SP1 and below have officially reached End-of-Life (EOL) and no patch will be made available. |[source](https://success.trendmicro.com/solution/000290055)|
 |Trend Micro|Deep Discovery Email Inspector| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://success.trendmicro.com/solution/000289940)|
 |Trend Micro|Deep Discovery Inspector| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://success.trendmicro.com/solution/000289940)|
 |Trend Micro|Deep Discovery Web Inspector| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://success.trendmicro.com/solution/000289940)|
