@@ -61,30 +61,33 @@
 |Schneider Electric|APC PowerChute Network Shutdown|4.2-4.4,4.4.1|Not vuln|Workaround|Workaround| | |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|EASYFIT|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|Ecoreal XL|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|EcoStruxure IT Expert| |Not vuln|Fix|Fix| |"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|EcoStruxure IT Gateway|1.13.1.5|Not vuln|Fix|Fix| | |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|EcoStruxure IT Expert| |Not vuln|Fix|Fix|Fix|"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|EcoStruxure IT Gateway|1.13.2.3|Not vuln|Fix|Fix|Fix| |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|Eurotherm Data Reviewer|V3.0.2 and prior|Not vuln|Workaround| | | |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|Facility Expert Small Business| |Not vuln|Fix|Vulnerable| |"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|MSE|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|NetBotz750/755|Software versions 5.0 through 5.3.0| |Vulnerable|Vulnerable| | |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|Facility Expert Small Business| |Not vuln|Fix|Fix|Fix|"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|Harmony Configurator| 34 |Not vuln|Fix|Fix|Fix||[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|MSE Cloud||Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|NetBotz750/755|5.3.1|Not vuln|Fix|Fix| | |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|NEW630|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK BOM|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SDK-Docgen|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SDK-Docgen (Cloud)||Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK-TNC|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SDK-UMS|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SDK-UMS (Cloud)||Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK3D-2DRenderer|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK3D-360Widget|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK3D2DRenderer|Current software and earlier| |Vulnerable| | | |[SE Cybersecurity Best Practices](https://www.se.com/us/en/download/document/7EN52-0390/)|
 |Schneider Electric|SDK3D360Widget|Current software and earlier| |Vulnerable| | | |[SE Cybersecurity Best Practices](https://www.se.com/us/en/download/document/7EN52-0390/)|
-|Schneider Electric|Select and Config DATA|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SNC-API|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SNC-CMM|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SNC-SEMTECH|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|Select and Config DATA (Cloud)||Not vuln |Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SNC-API (Cloud)||Not vuln |Fix|Fix|Fix |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SNC-CMM (Cloud)||Not vuln |Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SNC-SEMTECH (Cloud)||Not vuln |Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SNCSEMTECH|Current software and earlier| |Vulnerable| | | |[SE Cybersecurity Best Practices](https://www.se.com/us/en/download/document/7EN52-0390/)|
 |Schneider Electric|SPIMV3|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SWBEditor|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SWBEngine|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|Wiser by SE platform| |Not vuln|Fix|Fix| |"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|TwinBus IP (formerly Digides 2.0) (Cloud)||Not vuln |Fix|Fix|Fix |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|Wiser by SE platform (Cloud) | |Not vuln|Fix|Fix|Fix |"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric| Workplace Advisor|all |Not vuln|Vulnerable|Vulnerable|Vulnerable ||[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schweitzer Engineering Laboratories|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[SEL Advisory Link](https://selinc.com/support/security-notifications/)|
 |SCM Manager|All| | | | | | |[SCM Manager Link](https://scm-manager.org/blog/posts/2021-12-13-log4shell/)|
 |Scootersoftware|Beyond Compare|All| |Not vuln| | | |[source](https://www.scootersoftware.com/index.php)|
