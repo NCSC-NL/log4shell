@@ -96,7 +96,7 @@
 |VMware|NSX Data Center for vSphere|6.4.12| Not vuln |Fix|Fix| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|NSX-T Data Center|3.1.3.5, 3.0.3.1, 2.5.3.4| Not vuln |Fix|Fix| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|NSX Intelligence |1.2.1.1| Not vuln |Fix|Fix| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|SD-WAN VCO|4.x| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://kb.vmware.com/s/article/87158)|
+|VMware|SD-WAN VCO|Multiple Versions| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://kb.vmware.com/s/article/87158)|
 |VMware|Single Sign-On for VMware Tanzu Application Service|1.14.6| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.tanzu.vmware.com/products/pivotal_single_sign-on_service#/releases/1012467)|
 |VMware|Site Recovery Manager, vSphere Replication|8.5.0.2, 8.4.0.4, 8.3.1.5| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Skyline Collector virtual appliance| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://kb.vmware.com/s/article/87068)|
@@ -122,7 +122,7 @@
 |VMware|Unified Access Gateway (UAG)|2111.1| Not vuln |Fix|Fix| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Unified Access Gateway (UAG)|3.x| Not vuln |Workaround|Workaround| Not vuln |Upgrade to 2111.1 required |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|vCenter Cloud Gateway|1.x|Not vuln|Workaround|Workaround| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://kb.vmware.com/s/article/87081)|
-|VMware|vCenter Server - OVA|6.x| Not vuln | Workaround | Workaround | Not vuln |[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [Workaround](https://kb.vmware.com/s/article/87081)|
+|VMware|vCenter Server - OVA|6.x| Not vuln | Workaround | Workaround | Not vuln | |[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [Workaround](https://kb.vmware.com/s/article/87081)|
 |VMware|vCenter Server - OVA|7.0U3c| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [Workaround](https://kb.vmware.com/s/article/87081) [fix](https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3c-release-notes.html)|
 |VMware|vCenter Server - Windows|6.7.x, 6.5.x| Not vuln | Workaround | Workaround | Not vuln | |[VMSA-2021-0028.4 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [Workaround](https://kb.vmware.com/s/article/87096)|
 |VMware|vCloud Director|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://kb.vmware.com/s/article/87068?lang=en_US)|
