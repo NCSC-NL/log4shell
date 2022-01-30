@@ -101,7 +101,7 @@
 |VMware|Site Recovery Manager, vSphere Replication|8.5.0.2, 8.4.0.4, 8.3.1.5| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Skyline Collector virtual appliance| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://kb.vmware.com/s/article/87068)|
 |VMware|Smart Assurance M&R|6.8u5, 7.0u8, 7.2.0.1| Not vuln | Workaround | Workaround | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Smart Assurance NCM|10.1.6| | Vulnerable | Vulnerable | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|Smart Assurance NCM|10.1.6| Not vuln | Workaround | Workaround | | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Smart Assurance SAM [Service Assurance Manager]|10.1.0.x, 10.1.2, 10.1.5| Not vuln | Vulnerable | Vulnerable | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Spring Cloud Gateway for Kubernetes|1.0.7| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Spring Cloud Gateway for VMware Tanzu|1.1.4, 1.0.19| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
