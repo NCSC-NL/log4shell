@@ -113,7 +113,7 @@
 |VMware|Tanzu Kubernetes Grid Integrated Edition |1.13.1, 1.10.8| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Tanzu Observability by Wavefront Nozzle |3.0.4| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.pivotal.io/products/wavefront-nozzle)|
 |VMware|Tanzu Observability Proxy|10.12| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|Tanzu Operations Manager|2.8.18, 2.9.25, 2.10.24| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)  [workaround](https://community.pivotal.io/s/article/5004y00001mPn2N1639255611105?language=en_US) [fix](https://network.pivotal.io/products/ops-manager/)|
+|VMware|Tanzu Operations Manager|2.8.19, 2.9.26, 2.10.25| Not vuln | Fix | Fix | Fix | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [workaround](https://community.pivotal.io/s/article/5004y00001mPn2N1639255611105?language=en_US) [fix](https://network.pivotal.io/products/ops-manager/)|
 |VMware|Tanzu Scheduler|1.6.1| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|Tanzu SQL with MySQL for VMs|2.x, 1.x| Not vuln |Not vuln|Not vuln | Not vuln | |[source](https://kb.vmware.com/s/article/87068)|
 |VMware|Telco Cloud Automation|2.x, 1.x| Not vuln |Not vuln| Not vuln | Not vuln | |[source](https://kb.vmware.com/s/article/87068)|
