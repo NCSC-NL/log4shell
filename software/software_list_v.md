@@ -95,7 +95,7 @@
 |VMware|Integrated OpenStack|7.2| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [Fix](https://docs.vmware.com/en/VMware-Integrated-OpenStack/7.2/rn/VMware-Integrated-OpenStack-72-Release-Notes.html)|
 |VMware|NSX Data Center for vSphere|6.4.12| Not vuln |Fix|Fix| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|NSX-T Data Center|3.1.3.5, 3.0.3.1, 2.5.3.4| Not vuln |Fix|Fix| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
-|VMware|NSX-T Intelligence Appliance|1.2.x, 1.1.x| Not vuln |Fix|Fix| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
+|VMware|NSX Intelligence |1.2.1.1| Not vuln |Fix|Fix| Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |VMware|SD-WAN VCO|4.x| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://kb.vmware.com/s/article/87158)|
 |VMware|Single Sign-On for VMware Tanzu Application Service|1.14.6| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html) [fix](https://network.tanzu.vmware.com/products/pivotal_single_sign-on_service#/releases/1012467)|
 |VMware|Site Recovery Manager, vSphere Replication|8.5.0.2, 8.4.0.4, 8.3.1.5| Not vuln | Fix | Fix | Not vuln | |[VMSA-2021-0028.1 (vmware.com)](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
