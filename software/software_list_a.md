@@ -251,8 +251,6 @@
 |Apache|Tomcat| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://tomcat.apache.org/tomcat-9.0-doc/logging.html)|
 |Apache|TrafficControl| | |Vulnerable| | | |[source](https://blogs.apache.org/security/entry/cve-2021-44228)|
 |Apache|Zookeeper| |Not vuln|Not vuln|Not vuln|Not vuln|Zookeeper uses Log4j 1.2 version|[source](https://issues.apache.org/jira/browse/ZOOKEEPER-4423)|
-|APC by Schneider Electric|Powerchute Business Edition|v9.5, v10.0.1, v10.0.2, v10.0.3, v10.0.4|Not vuln|Fix| | |Mitigation instructions to remove the affected class.|[source](https://community.exchange.se.com/t5/APC-UPS-Data-Center-Backup/Log4-versions-used-in-Powerchute-vulnerable/m-p/379866/highlight/true#M47345)|
-|APC by Schneider Electric|Powerchute Network Shutdown|4.2, 4.3, 4.4, 4.4.1|Not vuln|Fix| | |Mitigation instructions to remove the affected class.|[source](https://community.exchange.se.com/t5/APC-UPS-Data-Center-Backup/Log4-versions-used-in-Powerchute-vulnerable/m-p/379866/highlight/true#M47345)|
 |Apereo|CAS|6.3.x & 6.4.x|Not vuln|Fix| | |Other versions still in active maintainance might need manual inspection|[source](https://apereo.github.io/2021/12/11/log4j-vuln/)|
 |Apereo|Opencast|< 9.10, < 10.6|Not vuln|Fix| | | |[source](https://github.com/opencast/opencast/security/advisories/GHSA-mf4f-j588-5xm8)|
 |Apigee|Edge and OPDK products|All version|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://status.apigee.com/incidents/3cgzb0q2r10p)|
