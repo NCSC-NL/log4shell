@@ -20,6 +20,7 @@
 |WatchGuard|System Manager, Dimension,   EPDR and Panda AD360|-|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.secplicity.org/2021/12/10/critical-rce-vulnerability-in-log4js/)|
 |WatchGuard|Threat Detection and Response|Cloud|Not vuln|Fix| | |See link|[source](https://techsearch.watchguard.com/KB?type=Security%20Issues&amp;SFDCID=kA16S000000SNnuSAG&amp;lang=en_US)|
 |WatchGuard|Wi-Fi Cloud|Cloud|Not vuln|Fix| | |See link|[source](https://techsearch.watchguard.com/KB?type=Security%20Issues&amp;SFDCID=kA16S000000SNnuSAG&amp;lang=en_US)|
+|Waters|All Products| | | | | |See link|[source](https://support.waters.com/KB_Inf/Other/WKB224967_Is_the_family_of_Waters_Informatics_solutions_impacted_by_the_Apache_log4j_vulnerability)|
 |Weblib|Ucopia| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Ucopia.png)|
 |Western Digital|All| | | | | | |[Westerndigital Product Security](https://www.westerndigital.com/support/product-security/wdc-21016-apache-log4j-2-remote-code-execution-vulnerability-analysis)|
 |Wibu Systems|CodeMeter Cloud Lite|> 2.2|Not vuln|Fix| | | |[source](https://cdn.wibu.com/fileadmin/wibu_downloads/security_advisories/Advisory_WIBU-211213-01.pdf)|
