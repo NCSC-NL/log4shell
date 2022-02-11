@@ -174,12 +174,18 @@
 |Riverbed|UCExpert| | |Vulnerable| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
 |Riverbed|WinSec Controller for SteelHead (WSC)| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
 |RocketChat|All|All| |Not vuln| | | |[source](https://rocket.chat/blog/log4j-software-vulnerability)|
-|Rockwell Automation|FactoryTalk Analytics DataFlowML|4.00.00| |Vulnerable| | |Patch under development|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|FactoryTalk Analytics DataView|3.03.00| |Vulnerable| | |Patch under development|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Data Scheduler||Not vuln|| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|FactoryTalk Analytics DataFlowML|4.00.01| |Fix| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|FactoryTalk Analytics DataView|3.03.01| |Fix| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|FactoryTalk Analytics Information Platform||Not vuln|| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|FactoryTalk Augmented Modeler||Not vuln|| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Fiix CMMS core V5||Not vuln|Fix|Fix|Fix|product has been updated; no user action required|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Firewall Managed Support - Cisco Firepower Thread Defense|6.2.3 – 7.1.0| |Workaround| | |Follow the mitigation instructions outlined by Cisco in CSCwa46963|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rockwell Automation|Industrial Data Center|Gen 1, Gen 2, Gen 3, Gen 3.5|Not vuln|Workaround| | |Follow the mitigation instructions outlined by VMware in VMSA-2021-0028|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rockwell Automation|MES EIG|3.03.00| |Vulnerable| | |Product discontinued. Customers should upgrade to EIG Hub if possible or work with their local representatives about alternative solutions.|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Plex Industrial IoT||Not vuln|Fix|Fix|Fix|product has been updated; no user action required|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rockwell Automation|VersaVirtual|Series A|Not vuln|Workaround| | |Follow the mitigation instructions outlined by VMware in VMSA-2021-0028|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|Warehouse Management|4.01.00, 4.02.00, 4.02.01, 4.02.02| |Vulnerable| | |Patch under development|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Warehouse Management|4.02.03|Not vuln|Fix| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rollbar|All| | | | | | |[Rollbar Blog Post](https://rollbar.com/blog/log4j-zero-day-2021-log4shell/)|
 |Rosette.com|All| | | | | | |[Rosette.com Support Link](https://support.rosette.com/hc/en-us/articles/4416216525965-Log4j-Vulnerability)|
 |RSA|NetWitness Orchestrator|>= 6.0|Not vuln|Workaround| | |Mitigation for the ThreatConnect Application server is available, no impact described|[source](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540)|

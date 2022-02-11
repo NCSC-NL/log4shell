@@ -1,0 +1,8 @@
+# Add label "software" for any PR that modifies software/README.md
+software:
+- software/README.md
+- software/software_list*.md
+
+# Add label "repo-tooling" to any changes within '.github' folder or any subfolders
+repo-tooling:
+- .github/**/*
