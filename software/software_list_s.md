@@ -32,13 +32,17 @@
 |SAP|BusinessObjects Explorer| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|BusinessObjects Financial Information Management| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|BusinessObjects Knowledge Accelerator| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
-|SAP|Customer Checkout PoS / manager|2.0 FP09, 2.0 FP10, 2.0 FP11 PL06 (or lower) and 2.0 FP12 PL04 (or lower)|Not vuln|Fix| | |SAP note 3130499|[source](https://launchpad.support.sap.com/#/notes/0003130499)|
+|SAP|Commerce|1905, 2005, 2105, 2011|Not vuln|Fix|Fix|Fix||[source](https://launchpad.support.sap.com/#/notes/3142773)|
+|SAP|Customer Checkout PoS / manager|2.0 FP09, 2.0 FP10, 2.0 FP11 PL06 (or lower) and 2.0 FP12 PL04 (or lower)|Not vuln|Fix|Fix| |SAP note 3130499|[source](https://launchpad.support.sap.com/#/notes/0003130499)|
+|SAP|Data Intelligence|3|Not vuln|Fix|Fix|Fix||[source](https://launchpad.support.sap.com/#/notes/3130920)|
+|SAP|Dynamic Authorization Management|9.1.0.0, 2021.3|Not vuln|Fix|Fix|||[source](https://launchpad.support.sap.com/#/notes/3132922)|
 |SAP|Hana Cockpit|<1.1.23|Not vuln|Fix|Fix|Fix| |[source](https://blogs.sap.com/2021/12/14/hana-xsa-log4j-cve-2021-44228/)|
 |SAP|HANA Database| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|HANA Smart Data Integration| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|HANA Spatial Service| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|HANA Streaming Analytics| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|Integrated Business Planning for Supply Chain – Customer systems| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
+|SAP|Internet of Things Edge Platform|4.0|Not vuln|Fix|Fix|Fix||[source](https://launchpad.support.sap.com/#/notes/3139893)|
 |SAP|NetWeaver Application Server for ABAP| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|S/4 HANA Cloud Customer systems| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|S/4 HANA Digital Payments Add-On| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
