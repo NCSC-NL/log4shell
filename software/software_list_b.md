@@ -509,7 +509,7 @@
 |BMC|UXF for IMS (non product)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|VSAM Optimization|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
 |BMC|zDetect|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.bmc.com/s/news/aA33n000000TSUdCAO/bmc-security-advisory-for-cve202144228-cve202145046-log4shell-vulnerability)|
-|Bosch|Bosch IoT suite| | |Mitigated| | | |[source](https://bosch-iot-suite.com/news/apache-log4j-rce-vulnerability/)|
+|Bosch|Bosch IoT suite| | |Not vuln| | | |[source](https://bosch-iot-suite.com/news/apache-log4j-rce-vulnerability/)|
 |Bosch Rexroth|Bosch IoT gateway|3.7.0|Fix|Fix|Fix|Fix| |[source](https://psirt.bosch.com/security-advisories/bosch-sa-572602.html)|
 |Bosch Security Systems|PRAESENSA PRA-APAS|1.0.32| |Fix| | | |[source](https://media.boschsecurity.com/fs/media/pb/security_advisories/BOSCH-SA-993110-BT.pdf)|
 |Bosch Security Systems|Other products| | |Not vuln| | | |[source](https://www.boschsecurity.com/xc/en/support/product-security/)|
