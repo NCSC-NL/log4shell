@@ -107,24 +107,24 @@
 |Hitachi Vantara|Pentaho|v8.3.x, v9.2.x|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 |HMS-Networks|All| | | | | | |[source](https://www.hms-networks.com/cybersecurity)|
 |Hologic|Advanced Workflow Manager (AWM)| | |Investigation| | |While the Hologic software itself does not utilize Java/Log4J, the installed APC PowerChute UPS with Business Edition v9.5 software installed may. APC is still assessing its PowerChute software to determine if it is vulnerable.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Affirm Prone Biopsy System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Brevera Breast Biopsy System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Affirm Prone Biopsy System| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Brevera Breast Biopsy System| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Cenova Image Analytics Server| |Not vuln|Not vuln|Not vuln|Not vuln| |[HOLOGIC Advisory Link](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Cenova Image Analytics Server (CAD)| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Dimensions / 3Dimensions Mammography System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Discovery Bone Densitometer| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Cenova Image Analytics Server (CAD)| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Dimensions / 3Dimensions Mammography System| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Discovery Bone Densitometer| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Faxitron CT Specimen Radiography System| | |Investigation| | |While the Hologic software itself does not utilize Java/Log4J, there is a utility program installed that may utilize Java and Log4J. This utility program does not run on startup and is not required for system operation.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Faxitron Specimen Radiography Systems| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Fluoroscan Insight Mini C-Arm| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Horizon DXA Bone Densitometer| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Rosetta DC Tomosynthesis Data Converter| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Faxitron Specimen Radiography Systems| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Fluoroscan Insight Mini C-Arm| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Horizon DXA Bone Densitometer| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Rosetta DC Tomosynthesis Data Converter| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|SecurView DX Workstation| |Not vuln|Not vuln|Not vuln|Not vuln| |[HOLOGIC Advisory Link](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|SecurView DX/RT Workstation and Manager| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|SecurXChange Router| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|SuperSonic Imagine Ultrasound Products (Aixplorer & Aixplorer Mach)| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Trident HD Specimen Radiography System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|SecurView DX/RT Workstation and Manager| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|SecurXChange Router| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|SuperSonic Imagine Ultrasound Products (Aixplorer & Aixplorer Mach)| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Trident HD Specimen Radiography System| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Hologic|Unifi Workspace| | |Investigation| | |While the Hologic software itself does not utilize Java/Log4J, the installed APC PowerChute UPS with Business Edition v9.5 software installed may. APC is still assessing its PowerChute software to determine if it is vulnerable.|[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
-|Hologic|Windows Selenia Mammography System| | |Not Vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
+|Hologic|Windows Selenia Mammography System| | |Not vuln| | | |[source](https://www.hologic.com/support/usa/breast-skeletal-products-cybersecurity)|
 |Honeywell|All| | | | | | |[Honeywell Statement](https://www.honeywell.com/us/en/press/2021/12/honeywells-statement-on-java-apache-log4j-logging-framework-vulnerability)|
 |HostiFi|Unifi hosting| |Not vuln|Fix| | |Hosted Unifi solution|[source](https://twitter.com/hostifi_net/status/1440311322592231436)|
 |HP|Teradici Cloud Access Controller|< v113|Not vuln|Fix| | | |[Apache Log4j update for Teradici PCoIP Connection Manager, Teradici Cloud Access Connector, Teradici PCoIP License Server, Teradici Management Console, and Teradici EMSDK](https://support.hp.com/us-en/document/ish_5268006-5268030-16)|
