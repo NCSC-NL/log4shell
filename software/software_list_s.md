@@ -7,23 +7,60 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|SISCO|All| | | | | | |[link](https://sisconet.com/sisco-news/log4j/)|
+|SMA Solar Technology AG|All| | | | | | |[link](https://files.sma.de/downloads/HK_Log4j-en-10.pdf?_ga=2.237963714.352491368.1640298543-2015796445.1640298540)|
+|Samsung Electronics America|Knox Admin Portal| | |Not vuln| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox Asset Intelligence| | |Not vuln| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox Configure| | |Not vuln| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox E-FOTA One| | |Not vuln| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox Guard| | |Not vuln| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox License Management| | |Not vuln| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox Manage| | |Fix| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox Managed Services Provider (MSP)| | |Not vuln| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox Mobile Enrollment| | |Not vuln| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Samsung Electronics America|Knox Reseller Portal| | |Fix| | | |[link](https://www.samsungknox.com/en/blog/an-update-on-the-impact-of-the-apache-log4j-cve-2021-44228-vulnerability-on-samsung-knox-cloud-services)|
+|Securonix|Extended Detection and Response (XDR)|All| |Vulnerable| | |Patching ongoing as of 12/10/2021|[link](https://www.securonix.com/wp-content/uploads/2021/12/CVE-2021-44228-Securonix-Cloud-Customer-Update.pdf)|
+|Securonix|Next Gen SIEM|All| |Vulnerable| | |Patching ongoing as of 12/10/2021|[link](https://www.securonix.com/wp-content/uploads/2021/12/CVE-2021-44228-Securonix-Cloud-Customer-Update.pdf)|
+|Securonix|SNYPR Application| | | | | | |[link](https://www.securonix.com/wp-content/uploads/2021/12/CVE-2021-44228-Securonix-OnPrem-Customer-Update.pdf)|
+|Securonix|Security Analytics and Operations Platform (SOAR)|All| |Vulnerable| | |Patching ongoing as of 12/10/2021|[link](https://www.securonix.com/wp-content/uploads/2021/12/CVE-2021-44228-Securonix-Cloud-Customer-Update.pdf)|
+|Securonix|User and Entity Behavior Analytics(UEBA)|All| |Vulnerable| | |Patching ongoing as of 12/10/2021|[link](https://www.securonix.com/wp-content/uploads/2021/12/CVE-2021-44228-Securonix-Cloud-Customer-Update.pdf)|
+|ServiceTitan|All| | |Fix| | | |[link](https://security.servicetitan.com/)|
+|Spacelabs Healthcare|ABP| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|CardioExpress| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|DM3 and DM4 Monitors| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|EVO| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Eclipse Pro| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Intesys Clinical Suite (ICS)| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Intesys Clinical Suite (ICS) Clinical Access Workstations| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Lifescreen Pro| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Pathfinder SL| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Qube| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Qube Mini| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|SafeNSound| | |Fix| | |Version &gt;4.3.1 - Not Affected|[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Sentinel| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Spacelabs Cloud| | | | | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Ultraview SL| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Xhibit Telemetry Receiver (XTR)| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Xhibit, XC4| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|XprezzNet| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
+|Spacelabs Healthcare|Xprezzon| | |Not vuln| | | |[link](https://www.spacelabshealthcare.com/products/security/security-advisories-and-archives/log4shell-vulnerability-assessment-and-potential-product-impact-statement/)|
 |SAE-IT|All| | | | | | |[SAE-IT News Link](https://www.sae-it.com/nc/de/news/sicherheitsmeldungen.html)|
-|SAE IT-systems|codeIT Runtime|All|Not vuln|Not vuln|Not vuln|Not vuln|labeled product, Manufacturer: CODESYS GmbH |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|codeIT Workbench|All|Not vuln|Not vuln|Not vuln|Not vuln| labeled product, Manufacturer: CODESYS GmbH|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|connectIT|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|net-line series5|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|setIT|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|SG-50 / Kombisafe|All| |Not vuln| | | labeled product, Manufacturer: NSE AG |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|Straton Runtime|All| |Not vuln| | |labeled product, Manufacturer STRATON AUTOMATION |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|Straton Workbench|All| |Not vuln| | | labeled product, Manufacturer STRATON AUTOMATION |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|System-4|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|T10/T7 Touch panel|All| |Not vuln| | | labeled product, Manufacturer Garz & Fricke GmbH |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|visIT Runtime|All|Not vuln|Not vuln|Not vuln|Not vuln| labeled product, Manufacturer Weidmüller GTI Software GmbH|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
-|SAE IT-systems|visIT Workbench|All|Not vuln|Not vuln|Not vuln|Not vuln| labeled product, Manufacturer Weidmüller GTI Software GmbH|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&tx_saenews_saenews%5Baction%5D=show&tx_saenews_saenews%5Bcontroller%5D=News&cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|codeIT Runtime|All|Not vuln|Not vuln|Not vuln|Not vuln|labeled product, Manufacturer: CODESYS GmbH|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|codeIT Workbench|All|Not vuln|Not vuln|Not vuln|Not vuln|labeled product, Manufacturer: CODESYS GmbH|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|connectIT|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|net-line series5|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|setIT|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|SG-50 / Kombisafe|All| |Not vuln| | |labeled product, Manufacturer: NSE AG|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|Straton Runtime|All| |Not vuln| | |labeled product, Manufacturer STRATON AUTOMATION|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|Straton Workbench|All| |Not vuln| | |labeled product, Manufacturer STRATON AUTOMATION|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|System-4|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|T10/T7 Touch panel|All| |Not vuln| | |labeled product, Manufacturer Garz &amp; Fricke GmbH|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|visIT Runtime|All|Not vuln|Not vuln|Not vuln|Not vuln|labeled product, Manufacturer Weidmüller GTI Software GmbH|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
+|SAE IT-systems|visIT Workbench|All|Not vuln|Not vuln|Not vuln|Not vuln|labeled product, Manufacturer Weidmüller GTI Software GmbH|[source](https://www.sae-it.com/nc/en/news/security-notifications.html?tx_saenews_saenews%5Bnews%5D=484&amp;tx_saenews_saenews%5Baction%5D=show&amp;tx_saenews_saenews%5Bcontroller%5D=News&amp;cHash=ad11bc1ce9c7212cc27d45211b855e97)|
 |Safe Software|FME Desktop|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.safe.com/s/article/Is-FME-Server-Affected-by-the-Security-Vulnerability-Reported-Against-log4j)|
 |Safe Software|FME Server| | |Investigation| | | |[source](https://community.safe.com/s/article/Is-FME-Server-Affected-by-the-Security-Vulnerability-Reported-Against-log4j)|
 |SAFE FME Server|All| | | | | | |[SAFE FME Server Community Link](https://community.safe.com/s/article/Is-FME-Server-Affected-by-the-Security-Vulnerability-Reported-Against-log4j)|
-|Sage|CRM|2020 R2, 2021 R1, and 2021 R2|Not vuln|Workaround| | |Sage has 3 patches in test|"[source](https://support.na.sage.com/selfservice/viewdocument.do?noCount=true&amp;externalId=113739&amp;sliceId=1&amp;noCount=true&amp;isLoadPublishedVer=&amp;docType=kc&amp;docTypeID=DT_Article&amp;stateId=24595&amp;cmd=displayKC&amp;dialogID=1363294&amp;ViewedDocsListHelper=com.kanisa.apps.common.BaseViewedDocsListHelperImpl&amp;openedFromSearchResults=true)"|
+|Sage|CRM|2020 R2, 2021 R1, and 2021 R2|Not vuln|Workaround| | |Sage has 3 patches in test|"<a href="https://support.na.sage.com/selfservice/viewdocument.do?noCount=true&amp;externalId=113739&amp;sliceId=1&amp;noCount=true&amp;isLoadPublishedVer=&amp;docType=kc&amp;docTypeID=DT_Article&amp;stateId=24595&amp;cmd=displayKC&amp;dialogID=1363294&amp;ViewedDocsListHelper=com.kanisa.apps.common.BaseViewedDocsListHelperImpl&amp;openedFromSearchResults=true" rel="nofollow">source</a>"|
 |SailPoint|IdentityIQ|8.0 or later|Not vuln|Workaround| | | |[source](https://community.sailpoint.com/t5/IdentityIQ-Blog/IdentityIQ-log4j-Remote-Code-Execution-Vulnerability/m-p/206681#M342)|
 |Salesforce|All| | |Investigation| | | |[source](https://status.salesforce.com/generalmessages/826)|
 |Sangoma|All| | | | | | |[Sangoma Community Link](https://help.sangoma.com/community/s/article/Log4Shell)|
@@ -32,17 +69,17 @@
 |SAP|BusinessObjects Explorer| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|BusinessObjects Financial Information Management| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|BusinessObjects Knowledge Accelerator| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
-|SAP|Commerce|1905, 2005, 2105, 2011|Not vuln|Fix|Fix|Fix||[source](https://launchpad.support.sap.com/#/notes/3142773)|
+|SAP|Commerce|1905, 2005, 2105, 2011|Not vuln|Fix|Fix|Fix| |[source](https://launchpad.support.sap.com/#/notes/3142773)|
 |SAP|Customer Checkout PoS / manager|2.0 FP09, 2.0 FP10, 2.0 FP11 PL06 (or lower) and 2.0 FP12 PL04 (or lower)|Not vuln|Fix|Fix| |SAP note 3130499|[source](https://launchpad.support.sap.com/#/notes/0003130499)|
-|SAP|Data Intelligence|3|Not vuln|Fix|Fix|Fix||[source](https://launchpad.support.sap.com/#/notes/3130920)|
-|SAP|Dynamic Authorization Management|9.1.0.0, 2021.3|Not vuln|Fix|Fix|||[source](https://launchpad.support.sap.com/#/notes/3132922)|
-|SAP|Hana Cockpit|<1.1.23|Not vuln|Fix|Fix|Fix| |[source](https://blogs.sap.com/2021/12/14/hana-xsa-log4j-cve-2021-44228/)|
+|SAP|Data Intelligence|3|Not vuln|Fix|Fix|Fix| |[source](https://launchpad.support.sap.com/#/notes/3130920)|
+|SAP|Dynamic Authorization Management|9.1.0.0, 2021.3|Not vuln|Fix|Fix| | |[source](https://launchpad.support.sap.com/#/notes/3132922)|
+|SAP|Hana Cockpit|&lt;1.1.23|Not vuln|Fix|Fix|Fix| |[source](https://blogs.sap.com/2021/12/14/hana-xsa-log4j-cve-2021-44228/)|
 |SAP|HANA Database| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|HANA Smart Data Integration| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|HANA Spatial Service| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|HANA Streaming Analytics| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|Integrated Business Planning for Supply Chain – Customer systems| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
-|SAP|Internet of Things Edge Platform|4.0|Not vuln|Fix|Fix|Fix||[source](https://launchpad.support.sap.com/#/notes/3139893)|
+|SAP|Internet of Things Edge Platform|4.0|Not vuln|Fix|Fix|Fix| |[source](https://launchpad.support.sap.com/#/notes/3139893)|
 |SAP|NetWeaver Application Server for ABAP| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|S/4 HANA Cloud Customer systems| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
 |SAP|S/4 HANA Digital Payments Add-On| | |Not vuln| | |(behind login)|[source](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/trust-left/sap-tc-01-5025.pdf)|
@@ -57,7 +94,7 @@
 |SAS Institute|SAS Profile| |Not vuln|Fix| | | |[source](https://support.sas.com/content/support/en/security-bulletins/remote-code-execution-vulnerability-cve-2021-44228.html)|
 |SASSAFRAS|All| | | | | | |[SASSAFRAS Link](https://www.sassafras.com/log4j-vulnerability-cve-2021-44228/)|
 |Savignano software solutions|All| | | | | | |[Savignano Link](https://savignano.atlassian.net/wiki/spaces/SNOTIFY/blog/2021/12/13/2839740417/No+Log4j+Vulnerability+in+S+Notify)|
-|SBT|All|<1.5.6|Not vuln|Fix| | | |[Release 1.5.7 · sbt/sbt(github.com)](https://github.com/sbt/sbt/releases/tag/v1.5.7)|
+|SBT|All|&lt;1.5.6|Not vuln|Fix| | | |[Release 1.5.7 · sbt/sbt(github.com)](https://github.com/sbt/sbt/releases/tag/v1.5.7)|
 |ScaleComputing|All| | | | | |This advisory is available to customers only and has not been reviewed by CISA|[ScaleComputing Community Link](https://community.scalecomputing.com/s/article/Apache-Log4j-Vulnerability)|
 |ScaleFusion MobileLock Pro|All| | | | | | |[ScaleFusion MobileLock Pro Help](https://help.mobilock.in/article/t9sx43yg44-scalefusion-security-advisory-for-apache-log-4-j-vulnerability-cve-2021-44228)|
 |Schneider Electric|All other products| | |Investigation|Investigation| | |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
@@ -69,29 +106,29 @@
 |Schneider Electric|EcoStruxure IT Gateway|1.13.2.3|Not vuln|Fix|Fix|Fix| |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|Eurotherm Data Reviewer|V3.0.2 and prior|Not vuln|Workaround| | | |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|Facility Expert Small Business| |Not vuln|Fix|Fix|Fix|"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|Harmony Configurator| 34 |Not vuln|Fix|Fix|Fix||[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|MSE Cloud||Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|Harmony Configurator|34|Not vuln|Fix|Fix|Fix| |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|MSE Cloud| |Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|NetBotz750/755|5.3.1|Not vuln|Fix|Fix| | |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|NEW630|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK BOM|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SDK-Docgen (Cloud)||Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SDK-Docgen (Cloud)| |Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK-TNC|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SDK-UMS (Cloud)||Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SDK-UMS (Cloud)| |Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK3D-2DRenderer|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK3D-360Widget|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SDK3D2DRenderer|Current software and earlier| |Vulnerable| | | |[SE Cybersecurity Best Practices](https://www.se.com/us/en/download/document/7EN52-0390/)|
 |Schneider Electric|SDK3D360Widget|Current software and earlier| |Vulnerable| | | |[SE Cybersecurity Best Practices](https://www.se.com/us/en/download/document/7EN52-0390/)|
-|Schneider Electric|Select and Config DATA (Cloud)||Not vuln |Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SNC-API (Cloud)||Not vuln |Fix|Fix|Fix |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SNC-CMM (Cloud)||Not vuln |Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|SNC-SEMTECH (Cloud)||Not vuln |Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|Select and Config DATA (Cloud)| |Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SNC-API (Cloud)| |Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SNC-CMM (Cloud)| |Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|SNC-SEMTECH (Cloud)| |Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SNCSEMTECH|Current software and earlier| |Vulnerable| | | |[SE Cybersecurity Best Practices](https://www.se.com/us/en/download/document/7EN52-0390/)|
 |Schneider Electric|SPIMV3|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SWBEditor|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schneider Electric|SWBEngine|Current software and earlier| |Vulnerable|Vulnerable| |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|TwinBus IP (formerly Digides 2.0) (Cloud)||Not vuln |Fix|Fix|Fix |no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric|Wiser by SE platform (Cloud) | |Not vuln|Fix|Fix|Fix |"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
-|Schneider Electric| Workplace Advisor|all |Not vuln|Vulnerable|Vulnerable|Vulnerable ||[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|TwinBus IP (formerly Digides 2.0) (Cloud)| |Not vuln|Fix|Fix|Fix|no customer action required|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|Wiser by SE platform (Cloud)| |Not vuln|Fix|Fix|Fix|"cloud-based offer; no customer action required"|[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
+|Schneider Electric|Workplace Advisor|All|Not vuln|Vulnerable|Vulnerable|Vulnerable| |[source](https://www.se.com/ww/en/download/document/SESB-2021-347-01/)|
 |Schweitzer Engineering Laboratories|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[SEL Advisory Link](https://selinc.com/support/security-notifications/)|
 |SCM Manager|All| | | | | | |[SCM Manager Link](https://scm-manager.org/blog/posts/2021-12-13-log4shell/)|
 |Scootersoftware|Beyond Compare|All| |Not vuln| | | |[source](https://www.scootersoftware.com/index.php)|
@@ -103,15 +140,15 @@
 |Security Onion|All| | | | | | |[Security Onion Blog Post](https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html)|
 |Security Onion Solutions|Security Onion|2.3.90 20211210|Not vuln|Fix| | | |[source](https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html)|
 |SecurityHive|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.securityhive.nl/security-info/securityhive-informs-log4j-vulnerable-customers-using-threat-intelligence/)|
-|SecurityRoots|Dradis Professional|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/screenshotemail)|
-|Seeburger|All| | | | | |This advisory is avaiable to customers only and has not been reviewed by CISA|"[Seeburger Service Desk Link](https://servicedesk.seeburger.de/portal/en-US/Knowledge/Article/?defId=101040&amp;id=25486312&amp;COMMAND=Open)"|
+|SecurityRoots|Dradis Professional|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/screenshotemail)|
+|Seeburger|All| | | | | |This advisory is avaiable to customers only and has not been reviewed by CISA|"<a href="https://servicedesk.seeburger.de/portal/en-US/Knowledge/Article/?defId=101040&amp;id=25486312&amp;COMMAND=Open" rel="nofollow">Seeburger Service Desk Link</a>"|
 |SentinelOne|All| | | | | | |[SentinelOne Blog Post](https://www.sentinelone.com/blog/cve-2021-44228-staying-secure-apache-log4j-vulnerability/)|
 |Sentry|All| | | | | | |[Sentry Blog Post](https://blog.sentry.io/2021/12/15/sentrys-response-to-log4j-vulnerability-cve-2021-44228)|
 |Sentry.io|Self Hosted and SaaS|All| |Not vuln| | |Not affected as it is written in Python and Rust. Makes use of unaffected versions of log4j 1.x in Kafka and Zookeeper subsystems|[source](https://blog.sentry.io/2021/12/15/sentrys-response-to-log4j-vulnerability-cve-2021-44228)|
-|SEP|All| | | | | | |"[SEP Support Link](https://support.sep.de/otrs/public.pl?Action=PublicFAQZoom;ItemID=132)"|
+|SEP|All| | | | | | |"<a href="https://support.sep.de/otrs/public.pl?Action=PublicFAQZoom;ItemID=132" rel="nofollow">SEP Support Link</a>"|
 |Server Eye|All| | | | | | |[Server Eye Blog Post](https://www.server-eye.de/blog/sicherheitsluecke-log4j-server-eye-systeme-sind-nicht-betroffen/)|
-|ServiceNow|All| | | | | | |"[ServiceNow Support Link](https://support.servicenow.com/kb?id=kb_article_view&amp;sysparm_article=KB1000959)"|
-|Shibboleth|All|Identity Provider>=3.0, All other software versions|Not vuln|Not vuln|Not vuln|Not vuln| |[Log4j CVE (non)-impact](https://shibboleth.net/pipermail/announce/2021-December/000253.html)|
+|ServiceNow|All| | | | | | |"<a href="https://support.servicenow.com/kb?id=kb_article_view&amp;sysparm_article=KB1000959" rel="nofollow">ServiceNow Support Link</a>"|
+|Shibboleth|All|Identity Provider&gt;=3.0, All other software versions|Not vuln|Not vuln|Not vuln|Not vuln| |[Log4j CVE (non)-impact](https://shibboleth.net/pipermail/announce/2021-December/000253.html)|
 |Shibboleth|IdP/SP| | |Not vuln| | | |[source](https://shibboleth.net/pipermail/announce/2021-December/000253.html)|
 |Shopify|All| | | | | | |[Shopify Community Link](https://community.shopify.com/c/technical-q-a/is-shopify-affected-by-the-log4j-vulnerability/td-p/1417625)|
 |Siebel|All| | | | | | |[Siebel Link](https://www.siebelhub.com/main/2021/12/log4j-vulnerability-cve-2021-44228-and-siebel-crm.html)|
@@ -156,49 +193,49 @@
 |Signald|All| | | | | | |[Signald Gitlab](https://gitlab.com/signald/signald/-/issues/259)|
 |Silver Peak|Orchestrator, Silver Peak GMS| | |Vulnerable| | |Customer managed Orchestrator and legacy GMS products are affected by this vulnerability. This includes on-premise and customer managed instances running in public cloud services such as AWS, Azure, Google, or Oracle Cloud. See Corrective Action Required for details about how to mitigate this exploit.|[Security Advisory Notice Apache](https://www.arubanetworks.com/website/techdocs/sdwan/docs/advisories/media/security_advisory_notice_apache_log4j2_cve_2021_44228.pdf)|
 |SingleWire|All| | | | | |This advisory is available to customers only and has not been reviewed by CISA|[SingleWire Support Link](https://support.singlewire.com/s/article/Apache-Log4j2-vulnerability-CVE-2021-44228)|
-|Sitecore|Boxever| | |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|CDP| | |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|Content Hub| | |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|Discover| | |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|Managed Cloud|customers who bring their own Solr|Not vuln|Workaround| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|Managed Cloud|customers who do not use Solr| |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|Managed Cloud|customers who host Solr using SearchStax| |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|Moosend| | |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|OrderCloud| | |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|Personalize| | |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|Send| | |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|XP|<= 9.1 (with SOLR as Content Search provider)| |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|XP|>= 9.2 (with SOLR as Content Search provider)|Not vuln|Workaround| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
-|Sitecore|XP|all (with Azure Search as Content Search provider)| |Not vuln| | | |"[source](https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391)"|
+|Sitecore|Boxever| | |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|CDP| | |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|Content Hub| | |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|Discover| | |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|Managed Cloud|customers who bring their own Solr|Not vuln|Workaround| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|Managed Cloud|customers who do not use Solr| |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|Managed Cloud|customers who host Solr using SearchStax| |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|Moosend| | |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|OrderCloud| | |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|Personalize| | |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|Send| | |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|XP|&lt;= 9.1 (with SOLR as Content Search provider)| |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|XP|&gt;= 9.2 (with SOLR as Content Search provider)|Not vuln|Workaround| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
+|Sitecore|XP|all (with Azure Search as Content Search provider)| |Not vuln| | | |"<a href="https://support.sitecore.com/kb?id=kb_article_view&amp;sysparm_article=KB1001391" rel="nofollow">source</a>"|
 |Skillable|All| | | | | | |[Skillable Link](https://skillable.com/log4shell/)|
 |SLF4J|All| | | | | | |[SLF4J Link](http://slf4j.org/log4shell.html)|
 |Slurm|All|20.11.8|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://slurm.schedmd.com/documentation.html)|
-|Smartbear|SoapUI|<= 5.6.0| |Vulnerable| | | |[source](https://community.smartbear.com/t5/SoapUI-Open-Source-Questions/Log4j-CVE-2021-44228-Zero-Day-Vulnerability-SOAP-UI-V5-6-0-or/m-p/227418)|
+|Smartbear|SoapUI|&lt;= 5.6.0| |Vulnerable| | | |[source](https://community.smartbear.com/t5/SoapUI-Open-Source-Questions/Log4j-CVE-2021-44228-Zero-Day-Vulnerability-SOAP-UI-V5-6-0-or/m-p/227418)|
 |SmileCDR|All| | | | | | |[SmileCDR Blog Post](https://www.smilecdr.com/our-blog/a-statement-on-log4shell-cve-2021-44228)|
-| Smiths Medical| CADD®-Solis Download Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| CADD-Solis Ambulatory Infusion Pump Model 2110| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| CADD-Solis Communication Module Model 2130| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| CADD-Solis Communication Module Model 2131| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| CADD-Solis Network Configuration Utility Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| Medfusion 3500 Pump Download Utility (DL3500)| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| Medfusion 3500 Syringe Infusion Pump| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| Medfusion 4000 Syringe Infusion Pump| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| Medfusion® 4000 Pump Download Utility (DL4000)| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| PharmGuard Administrator Medication Safety Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| PharmGuard Device Reports Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| PharmGuard Interoperability Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| PharmGuard Toolbox 2 Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
-| Smiths Medical| PharmGuard® Server Infusion Management Software| | Not vuln| Not vuln| Not vuln| Not vuln| | [source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|CADD®-Solis Download Software| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|CADD-Solis Ambulatory Infusion Pump Model 2110| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|CADD-Solis Communication Module Model 2130| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|CADD-Solis Communication Module Model 2131| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|CADD-Solis Network Configuration Utility Software| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|Medfusion 3500 Pump Download Utility (DL3500)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|Medfusion 3500 Syringe Infusion Pump| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|Medfusion 4000 Syringe Infusion Pump| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|Medfusion® 4000 Pump Download Utility (DL4000)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|PharmGuard Administrator Medication Safety Software| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|PharmGuard Device Reports Software| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|PharmGuard Interoperability Software| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|PharmGuard Toolbox 2 Software| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
+|Smiths Medical|PharmGuard® Server Infusion Management Software| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.smiths-medical.com/company-information/smiths-medical-cyber-security-updates)|
 |Sn0m|All| | | | | | |[Sn0m Link](https://www.snom.com/en/press/log4j-poses-no-threat-snom-phones/)|
 |Snakemake|All|6.12.1|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://snakemake.readthedocs.io/en/stable/)|
-|Snow Software | Snow Commander | 8.10.3 | Not vuln | Fix | Fix | Fix | | [source](https://community.snowsoftware.com/s/article/LOG4J-Vulnerability) |
-|Snow Software | VM Access Proxy | 3.7 | Not vuln | Fix | Fix | Fix |  | [source](https://community.snowsoftware.com/s/article/LOG4J-Vulnerability) |
+|Snow Software|Snow Commander|8.10.3|Not vuln|Fix|Fix|Fix| |[source](https://community.snowsoftware.com/s/article/LOG4J-Vulnerability)|
+|Snow Software|VM Access Proxy|3.7|Not vuln|Fix|Fix|Fix| |[source](https://community.snowsoftware.com/s/article/LOG4J-Vulnerability)|
 |Snowflake|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[Snowflake Community Link](https://community.snowflake.com/s/article/No-Snowflake-exposure-to-Apache-Log4j-vulnerability-CVE-2021-44228)|
 |Snyk|Cloud Platform| |Not vuln|Not vuln|Not vuln|Not vuln| |[Snyk Updates](https://updates.snyk.io/snyk%27s-cloud-platform-all-clear-from-log4j-exploits-216499)|
 |Software AG|All| | | | | | |[Software AG](https://tech.forums.softwareag.com/t/log4j-zero-day-vulnerability/253849)|
 |SolarWinds|Database Performance Analyzer (DPA)|2021.1.x, 2021.3.x, 2022.1.x| |Vulnerable| | |Workarounds available, hotfix under development|[Apache Log4j Critical Vulnerability (CVE-2021-44228)](https://www.solarwinds.com/trust-left/security-advisories/cve-2021-44228) [Database Performance Analyzer (DPA) and the Apache Log4j Vulnerability (CVE-2021-44228)](https://support.solarwinds.com/SuccessCenter/s/article/Database-Performance-Analyzer-DPA-and-the-Apache-Log4j-Vulnerability-CVE-2021-44228)|
 |SolarWinds|Orion Platform core| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.solarwinds.com/trust-left/security-advisories/cve-2021-44228)|
-|SolarWinds|Server & Application Monitor (SAM)|SAM 2020.2.6 and later| |Vulnerable| | |Workarounds available, hotfix under development|"[Apache Log4j Critical Vulnerability (CVE-2021-44228)](https://www.solarwinds.com/trust-left/security-advisories/cve-2021-44228) [Server &amp; Application Monitor (SAM) and the Apache Log4j Vulnerability (CVE-2021-44228)](https://support.solarwinds.com/SuccessCenter/s/article/Server-Application-Monitor-SAM-and-the-Apache-Log4j-Vulnerability-CVE-2021-44228?language=en_US)"|
+|SolarWinds|Server &amp; Application Monitor (SAM)|SAM 2020.2.6 and later| |Vulnerable| | |Workarounds available, hotfix under development|"<a href="https://www.solarwinds.com/trust-left/security-advisories/cve-2021-44228" rel="nofollow">Apache Log4j Critical Vulnerability (CVE-2021-44228)</a> <a href="https://support.solarwinds.com/SuccessCenter/s/article/Server-Application-Monitor-SAM-and-the-Apache-Log4j-Vulnerability-CVE-2021-44228?language=en_US" rel="nofollow">Server &amp; Application Monitor (SAM) and the Apache Log4j Vulnerability (CVE-2021-44228)</a>"|
 |Soliton Systems|MailZen Management - Cloud Service|All|Not vuln|Fix| | | |[source](https://status.solitonsystems.com/)|
 |Soliton Systems|MailZen Management Portal - On-Premise|2.36.2, 2.37.3, 2.38.2|Not vuln|Fix| | | |[source](https://blog.solitonsystems.com/news/update-on-log4j-vulnerability#:~:text=mailzen%20management%20portal%20%E2%80%93%20on-premise)|
 |Soliton Systems|MailZen Push Server|All|Not vuln|Fix| | | |[source](https://status.solitonsystems.com/)|
@@ -207,9 +244,9 @@
 |SonarSource|SonarQube| |Not vuln|Workaround| | | |[source](https://community.sonarsource.com/t/sonarqube-sonarcloud-and-the-log4j-vulnerability/54721)|
 |Sonatype|All| | | | | | |[Sonatype Vulnerability Statement](https://blog.sonatype.com/a-new-0-day-log4j-vulnerability-discovered-in-the-wild)|
 |SonicWall|Access Points| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
-|SonicWall|Analytics| | |Not vuln|Not vuln|Not vuln|update based on v2.3 of advisory |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|Analytics| | |Not vuln|Not vuln|Not vuln|update based on v2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Analyzer| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
-|SonicWall|Capture Client & Capture Client Portal| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
+|SonicWall|Capture Client &amp; Capture Client Portal| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Capture Security Appliance| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|CAS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
 |SonicWall|Cloud Edge| | |Not vuln|Not vuln|Not vuln|based on v2.3 of advisory|[source](https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032)|
@@ -246,7 +283,7 @@
 |SOS Berlin|All| | | | | | |[SOS Berlin Link](https://www.sos-berlin.com/en/news-mitigation-log4j-vulnerability)|
 |Spambrella|All| | | | | | |[Spambrella FAQ Link](https://www.spambrella.com/faq/status-of-spambrella-products-with-cve-2021-44228/)|
 |Specops Software|All| | |Not vuln| | | |[source](https://specopssoft.com/blog/apache-log4j-vulnerability/)|
-|Spectralink|All| | |Not vuln|Not vuln|Not vuln|using version 1.2.17|"[source](https://support.spectralink.com/system/tdf/resource_files/CS-21-04%20Security%20Vulnerability%20Log4j2.pdf?file=1&amp;type=node&amp;id=3242867)"|
+|Spectralink|All| | |Not vuln|Not vuln|Not vuln|using version 1.2.17|"<a href="https://support.spectralink.com/system/tdf/resource_files/CS-21-04%20Security%20Vulnerability%20Log4j2.pdf?file=1&amp;type=node&amp;id=3242867" rel="nofollow">source</a>"|
 |Spigot|All| | | | | | |[Spigot Security Release](https://www.spigotmc.org/threads/spigot-security-releases-%E2%80%94-1-8-8%E2%80%931-18.537204/)|
 |Splunk|Add-On for Java Management Extensions App ID 2647|5.2.0 and older| |Vulnerable| | | |[Splunk Security Advisory for Apache Log4j (CVE-2021-44228 and CVE-2021-45046)](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Add-On for JBoss App ID 2954|3.0.0 and older| |Vulnerable| | | |[Splunk Security Advisory for Apache Log4j (CVE-2021-44228 and CVE-2021-45046)](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
@@ -260,7 +297,7 @@
 |Splunk|Augmented Reality|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Behavior Analytics|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Cloud Data Manager (SCDM)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
-|Splunk|Connect for Kafka|<2.0.4|Not vuln|Fix| | | |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
+|Splunk|Connect for Kafka|&lt;2.0.4|Not vuln|Fix| | | |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Connect for Kubernetes|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Connect for SNMP|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Connect for Syslog|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
@@ -282,7 +319,7 @@
 |Splunk|IT Service Intelligence (ITSI) App ID 1841|4.11.0, 4.10.x (Cloud only), 4.9.x, 4.8.x (Cloud only), 4.7.x, 4.6.x, 4.5.x| |Vulnerable| | | |[Splunk Security Advisory for Apache Log4j (CVE-2021-44228 and CVE-2021-45046)](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|KV Service|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Log Observer|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
-|Splunk|Logging Library for Java|<1.11.1|Not vuln|Fix| | | |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
+|Splunk|Logging Library for Java|&lt;1.11.1|Not vuln|Fix| | | |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Mint|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|Mission Control|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
 |Splunk|MLTK|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.splunk.com/en_us/blog/bulletins/splunk-security-advisory-for-apache-log4j-cve-2021-44228.html)|
@@ -316,7 +353,7 @@
 |Spring Boot|All| | | | | | |[Spring Boot Vulnerability Statement](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot)|
 |Stackstate|Agent| |Not vuln|Workaround| | |StackState Agent distributed as an RPM, DEB or MSI package contains a vulnerable Log4j library.|[source](https://support.stackstate.com/hc/en-us/articles/4412242847506-Apache-Log4j2-Remote-Code-Execution-RCE-Vulnerability-CVE-2021-44228)|
 |Stackstate|All|4.3.x, 4.4.x, 4.5.x and SaaS|Not vuln|Workaround| | |StackState ships with a version of Elasticsearch that contains a vulnerable Log4j library.|[source](https://support.stackstate.com/hc/en-us/articles/4412242847506-Apache-Log4j2-Remote-Code-Execution-RCE-Vulnerability-CVE-2021-44228)|
-|Stardog|All|<7.8.1|Not vuln|Fix| | | |[source](https://community.stardog.com/t/stardog-7-8-1-available/3411)|
+|Stardog|All|&lt;7.8.1|Not vuln|Fix| | | |[source](https://community.stardog.com/t/stardog-7-8-1-available/3411)|
 |STERIS|Advantage| |Not vuln|Not vuln|Not vuln|Not vuln| |[STERIS Advisory Link](https://h-isac.org/wp-content/uploads/2021/12/Steris_Revised-Security-Advisory-For-Apaches-Log4j-12.16.21.pdf)|
 |STERIS|Advantage Plus| |Not vuln|Not vuln|Not vuln|Not vuln| |[STERIS Advisory Link](https://h-isac.org/wp-content/uploads/2021/12/Steris_Revised-Security-Advisory-For-Apaches-Log4j-12.16.21.pdf)|
 |STERIS|AMSCO 2000 SERIES WASHER DISINFECTORS| |Not vuln|Not vuln|Not vuln|Not vuln| |[STERIS Advisory Link](https://h-isac.org/wp-content/uploads/2021/12/Steris_Revised-Security-Advisory-For-Apaches-Log4j-12.16.21.pdf)|
@@ -370,10 +407,10 @@
 |STERIS|V-PRO S2 LOW TEMPERATURE STERILIZATION SYSTEM| |Not vuln|Not vuln|Not vuln|Not vuln| |[STERIS Advisory Link](https://h-isac.org/wp-content/uploads/2021/12/Steris_Revised-Security-Advisory-For-Apaches-Log4j-12.16.21.pdf)|
 |STERIS|VERIFY INCUBATOR FOR ASSERT SELF-CONTAINED BIOLOGICAL INDICATORS| |Not vuln|Not vuln|Not vuln|Not vuln| |[STERIS Advisory Link](https://h-isac.org/wp-content/uploads/2021/12/Steris_Revised-Security-Advisory-For-Apaches-Log4j-12.16.21.pdf)|
 |Sterling Order IBM|All| | | | | | |[IBM Statement](https://www.ibm.com/support/pages/node/6525544)|
-|Storagement|All| | | | | | |"[Storagement](https://www.storagement.de/index.php?action=topicofthemonth&amp;site=log4j)"|
-|StormShield|All other products| |  |  | Not vuln | Not vuln | Advisory only mentions CVE-2021-44228, CVE-2021-45046 |[StormShield Security Alert](https://www.stormshield.com/news/log4shell-security-alert-stormshield-product-response/)|
-|StormShield|Visibility Center| v1.6.1 | Not vuln | Fix | Fix | Not vuln | |[source](https://advisories.stormshield.eu/2021-073/)|
-|StrangeBee TheHive & Cortex|All| | | | | | |[StrangeBee Statement](https://blog.strangebee.com/apache-log4j-cve-2021-44228/)|
+|Storagement|All| | | | | | |"<a href="https://www.storagement.de/index.php?action=topicofthemonth&amp;site=log4j" rel="nofollow">Storagement</a>"|
+|StormShield|All other products| | | |Not vuln|Not vuln|Advisory only mentions CVE-2021-44228, CVE-2021-45046|[StormShield Security Alert](https://www.stormshield.com/news/log4shell-security-alert-stormshield-product-response/)|
+|StormShield|Visibility Center|v1.6.1|Not vuln|Fix|Fix|Not vuln| |[source](https://advisories.stormshield.eu/2021-073/)|
+|StrangeBee TheHive &amp; Cortex|All| | | | | | |[StrangeBee Statement](https://blog.strangebee.com/apache-log4j-cve-2021-44228/)|
 |Stratodesk|NoTouch|4.5.231|Not vuln|Fix| | | |[source](http://cdn.stratodesk.com/repository/notouch-left/10/4.5.231/0/ReleaseNotes-Stratodesk-NoTouch_Center-4.5.231.html)|
 |Strimzi|All| | | | | | |[Strimzi Statement](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/)|
 |Stripe|All| | | | | | |[Stripe Support](https://support.stripe.com/questions/update-for-apache-log4j-vulnerability-(cve-2021-44228))|
@@ -402,7 +439,7 @@
 |SUSE|Rancher|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.suse.com/c/suse-statement-on-log4j-log4shell-cve-2021-44228-vulnerability/)|
 |Sweepwidget|All| | | | | | |[Sweepwidget Statement](https://sweepwidget.com/view/23032-v9f40ns1/4zow83-23032)|
 |Swyx|All| | | | | | |[Swyx Advisory](https://service.swyx.net/hc/de/articles/4412323539474)|
-|Synacor|Zimbra|8.8.15 and 9.x|Not vuln|Not vuln|Not vuln|Not vuln|Zimbra stated (in their private support portal) they're not vulnerable. Currently supported Zimbra versions ship 1.2.6|"[source](https://forums.zimbra.org/viewtopic.php?f=15&amp;t=70240&amp;start=10#p303354)"|
+|Synacor|Zimbra|8.8.15 and 9.x|Not vuln|Not vuln|Not vuln|Not vuln|Zimbra stated (in their private support portal) they're not vulnerable. Currently supported Zimbra versions ship 1.2.6|"<a href="https://forums.zimbra.org/viewtopic.php?f=15&amp;t=70240&amp;start=10#p303354" rel="nofollow">source</a>"|
 |Synchro MSP|All| | | | | | |[Synchro MSP Advisory](https://community.syncromsp.com/t/log4j-rce-cve-2021-4428/1350)|
 |Syncplify|All| | | | | | |[Syncplify Advisory](https://blog.syncplify.com/no-we-are-not-affected-by-log4j-vulnerability/)|
 |SyncRO Soft SRL|Batch Document Converter|3.2.1|Not vuln|Fix|Fix|Vulnerable| |[CVE-2021-44228](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) [CVE-2021-45046](https://www.oxygenxml.com/security/advisory/CVE-2021-45046.html) [CVE-2021-450105](https://www.oxygenxml.com/security/advisory/CVE-2021-45105.html)|
@@ -449,9 +486,9 @@
 |SyncRO Soft SRL|XSD to JSON Schema Converter|24.0.1|Not vuln|Fix|Fix|Vulnerable| |[CVE-2021-44228](https://www.oxygenxml.com/security/advisory/CVE-2021-44228.html) [CVE-2021-45046](https://www.oxygenxml.com/security/advisory/CVE-2021-45046.html) [CVE-2021-450105](https://www.oxygenxml.com/security/advisory/CVE-2021-45105.html)|
 |Synology|DSM| |Not vuln|Not vuln|Not vuln|Not vuln|The base DSM is not affected. Software installed via the package manager may be vulnerable.|[source](https://www.synology.com/en-global/security/advisory/Synology_SA_21_30)|
 |Synopsys|All| | | | | | |[Synopsys Advisory](https://community.synopsys.com/s/article/SIG-Security-Advisory-for-Apache-Log4J2-CVE-2021-44228)|
-|syntevo|DeepGit|>= 4.0|Not vuln|Fix| | |3.0.x and older are vulnerable|[source](https://www.syntevo.com/blog/?p=5240)|
-|syntevo|SmartGit|>= 18.1|Not vuln|Fix| | |17.1.x and older are vulnerable|[source](https://www.syntevo.com/blog/?p=5240)|
-|syntevo|SmartSVN|>= 9.3|Not vuln|Fix| | |9.2.x and older are vulnerable|[source](https://www.syntevo.com/blog/?p=5240)|
-|syntevo|SmartSynchronize|>= 3.5|Not vuln|Fix| | |3.4.x and older are vulnerable|[source](https://www.syntevo.com/blog/?p=5240)|
+|syntevo|DeepGit|&gt;= 4.0|Not vuln|Fix| | |3.0.x and older are vulnerable|[source](https://www.syntevo.com/blog/?p=5240)|
+|syntevo|SmartGit|&gt;= 18.1|Not vuln|Fix| | |17.1.x and older are vulnerable|[source](https://www.syntevo.com/blog/?p=5240)|
+|syntevo|SmartSVN|&gt;= 9.3|Not vuln|Fix| | |9.2.x and older are vulnerable|[source](https://www.syntevo.com/blog/?p=5240)|
+|syntevo|SmartSynchronize|&gt;= 3.5|Not vuln|Fix| | |3.4.x and older are vulnerable|[source](https://www.syntevo.com/blog/?p=5240)|
 |SysAid|All| |Not vuln|Fix| | | |[source](https://www.sysaid.com/lp/important-update-regarding-apache-log4j)|
 |Sysdig|All| | | | | | |[source](https://sysdig.com/blog/cve-critical-vulnerability-log4j/)|
