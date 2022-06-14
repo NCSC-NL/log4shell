@@ -8,7 +8,7 @@
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
 |1Password|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://1password.community/discussion/comment/622612/#Comment_622612)|
-|2Bleftsparks|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/2Bleftsparks.png)|
+|2Bleftsparks|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/2Bleftsparks.png)|
 |2n|All| | | | | | |[2n Advisory Link](https://www.2n.com/cs_CZ/novinky/produkty-2n-neohrozuje-zranitelnost-cve-2021-44228-komponenty-log4j-2)|
 |3CX|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.3cx.com/community/threads/log4j-vulnerability-cve-2021-44228.86436/post-407835)|
 |3M Health Information Systems|CGS| | |Vulnerable| | |This advisory is available to customer only and has not been reviewed by CISA.|[CGS: Log4j Software Update(login required)](https://support.3mhis.com/app/account/updates/ri/5210)|
