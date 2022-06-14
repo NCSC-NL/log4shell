@@ -7,6 +7,7 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|Qconference|FaceTalk| | |Fix| | | |[link](https://qconferencing.com/status-vulnerability-log4j-en-qconferencing/)|
 |Qconferencing|FaceTalk| |Not vuln|Fix| | | |[source](https://qconferencing.com/status-vulnerability-log4j-en-qconferencing/)|
 |QF-Test|All| | | | | | |[QF-Test Blog Post](https://www.qfs.de/en/blog/article/no-log4j-vulnerability-in-qf-test.html)|
 |Qlik|All| | | | | | |[Qlik Community Link](https://community.qlik.com/t5/Support-Updates-Blog/Vulnerability-Testing-Apache-Log4j-reference-CVE-2021-44228-also/ba-p/1869368)|
@@ -49,7 +50,7 @@
 |QOS.ch|SLF4J Simple Logging Facade for Java| | | | | |SLF4J API doesn't protect against the vulnerability when using a vulnerable version of log4j|[source](http://slf4j.org/log4shell.html)|
 |QSC Q-SYS|All| | | | | | |[QSC Q-SYS Article](https://qscprod.force.com/selfhelpportal/s/article/Are-Q-SYS-products-affected-by-the-Log4j-vulnerability-CVE-2021-44228)|
 |QT|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[QT](https://www.qt.io/blog/the-qt-company-products-not-affected-by-cve-2021-44228-log4j-vulnerability)|
-|Quadira|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Quadira.png)|
+|Quadira|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/Quadira.png)|
 |QUEST|Foglight|5.9| |Not vuln| | | |[source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US)|
 |QUEST|Foglight|6.0|Not vuln|Workaround| | | |[source](https://support.quest.com/fr-fr/foglight/kb/335908/are-currently-supported-versions-of-foglight-affected-by-the-latest-log4j-2-vulnerability-apache-log4j-2-cve-2021-44228?kblang=en-US)|
 |QUEST|Quest KACE SMA| | |Not vuln| | | |[source](https://support.quest.com/kace-systems-management-appliance/kb/335869/are-the-kace-sma-and-kace-sda-appliances-affected-by-cve-2021-44228)|

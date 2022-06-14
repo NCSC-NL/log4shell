@@ -7,6 +7,7 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|Logit.io|Platform| | |Not vuln| | | |[link](https://logit.io/blog/post/logit-io-log4shell-security-update)|
 |L-Soft|All| | | | | | |[L-Soft Info](http://www.lsoft.com/news/log4jinfo.asp)|
 |L3Harris Geospatial|All| | | | | | |[L3Harris Geospatial](https://www.l3harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/24141/Impact-of-Log4j-Java-Security-Vulnerability-CVE-2021-44228-on-L3Harris-Geospatial-software)|
 |Lancom Systems|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.lancom-systems.com/service-support/instant-help/general-security-information)|
@@ -135,7 +136,7 @@
 |Lenovo|Integrated Management Module II (IMM2)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|LCM16 Local Console Managers| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|LCM8 Local Console Managers| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|NetApp ONTAP Tools for VMware vSphere| | |Vulnerable| | |"See <a href=""https://security.netapp.com/advisory/ntap-20211210-0007/"" rel=""nofollow"">NetApp</a> advisory."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
+|Lenovo|NetApp ONTAP Tools for VMware vSphere| | |Vulnerable| | |"See &lt;a href=""<a href="https://security.netapp.com/advisory/ntap-20211210-0007/" rel="nofollow">https://security.netapp.com/advisory/ntap-20211210-0007/</a>"" rel=""nofollow""&gt;NetApp advisory."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|Network Switches| |Not vuln|Not vuln|Not vuln|Not vuln|Lenovo CNOS, Lenovo ENOS, IBM ENOS, Brocade FOS|[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Network Switches running: Lenovo CNOS, Lenovo ENOS, IBM ENOS, or Brocade FOS| |Not vuln|Not vuln|Not vuln|Not vuln| |[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|P920 Rack Workstation| | |Vulnerable| | |Patch 2021-12-20|[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
@@ -159,9 +160,9 @@
 |Lenovo|System Management Module 2 (SMM2)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|System Update| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
 |Lenovo|Thin Installer| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|ThinkAgile HX| | |Vulnerable| | |"Nutanix and VMware components only; hardware not affected. See <a href=""https://download.nutanix.com/alerts/Security_Advisory_0023.pdf"" rel=""nofollow"">Nutanix</a> and <a href=""https://www.vmware.com/security/advisories/VMSA-2021-0028.html"" rel=""nofollow"">VMWare</a> advisories."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
+|Lenovo|ThinkAgile HX| | |Vulnerable| | |"Nutanix and VMware components only; hardware not affected. See &lt;a href=""<a href="https://download.nutanix.com/alerts/Security_Advisory_0023.pdf" rel="nofollow">https://download.nutanix.com/alerts/Security_Advisory_0023.pdf</a>"" rel=""nofollow""&gt;Nutanix and &lt;a href=""<a href="https://www.vmware.com/security/advisories/VMSA-2021-0028.html" rel="nofollow">https://www.vmware.com/security/advisories/VMSA-2021-0028.html</a>"" rel=""nofollow""&gt;VMWare advisories."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|ThinkAgile HX (VMware Components)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
-|Lenovo|ThinkAgile VX| | |Vulnerable| | |"VMware components only; hardware not affected. See <a href=""https://www.vmware.com/security/advisories/VMSA-2021-0028.html"" rel=""nofollow"">VMWare</a> advisory."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
+|Lenovo|ThinkAgile VX| | |Vulnerable| | |"VMware components only; hardware not affected. See &lt;a href=""<a href="https://www.vmware.com/security/advisories/VMSA-2021-0028.html" rel="nofollow">https://www.vmware.com/security/advisories/VMSA-2021-0028.html</a>"" rel=""nofollow""&gt;VMWare advisory."|[Apache Log4j Vulnerability](https://support.lenovo.com/ca/en/product_security/len-76573)|
 |Lenovo|ThinkAgile VX (VMware Components)| |Not vuln|Fix| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |Lenovo|ThinkSystem 2x1x16 Digital KVM Switch - Type 1754D1T| |Not vuln|Fix| | | |[source](https://www.vmware.com/security/advisories/VMSA-2021-0028.html)|
 |Lenovo|ThinkSystem DB400D FC Switch| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.lenovo.com/us/en/product_security/LEN-76573)|
@@ -208,10 +209,10 @@
 |Lime CRM|All| | | | | | |[Lime CRM Statement](https://docs.lime-crm.com/security/lcsec21-01)|
 |Liongard|All| | |Not vuln|Not vuln|Investigation| |[source](https://insights.liongard.com/faq-apache-log4j-vulnerability)|
 |LiquidFiles|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://mailchi.mp/liquidfiles/liquidfiles-log4j)|
-|LiveAction|LiveNA|<21.5.1|Not vuln|Fix| | | |[source](https://documentation.liveaction.com/LiveNA/LiveNA%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNA%2021.5.1.1.2)|
-|LiveAction|LiveNX|<21.5.1|Not vuln|Fix| | | |[source](https://documentation.liveaction.com/LiveNX/LiveNX%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNX%2021.5.1.1.3)|
+|LiveAction|LiveNA|&lt;21.5.1|Not vuln|Fix| | | |[source](https://documentation.liveaction.com/LiveNA/LiveNA%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNA%2021.5.1.1.2)|
+|LiveAction|LiveNX|&lt;21.5.1|Not vuln|Fix| | | |[source](https://documentation.liveaction.com/LiveNX/LiveNX%2021.5.1%20Release%20Notes/Release%20Notes%20LiveNX%2021.5.1.1.3)|
 |Loftware|All| | | | | | |[Loftware](https://help.loftware.com/lps-kb/content/log4j%20cve-2021-44228.htm?Highlight=CVE-2021-44228)|
-|LOGalyze|SIEM & log analyzer tool|v4.x| |Vulnerable| | |local-log4j-vuln-scanner result: indicator for vulnerable component found in /logalyze/lib/log4j-1.2.17.jar (org/apache/log4j/net/SocketNode.class): log4j 1.2.17|[abandoned open-source software repo (sourceforge.net)](https://sourceforge.net/software/product/LOGalyze/)|
+|LOGalyze|SIEM &amp; log analyzer tool|v4.x| |Vulnerable| | |local-log4j-vuln-scanner result: indicator for vulnerable component found in /logalyze/lib/log4j-1.2.17.jar (org/apache/log4j/net/SocketNode.class): log4j 1.2.17|[abandoned open-source software repo (sourceforge.net)](https://sourceforge.net/software/product/LOGalyze/)|
 |LogiAnalytics|All| | | | | | |[LogiAnalytics Statement](https://devnet.logianalytics.com/hc/en-us/articles/4415781801751-Statement-on-Log4j-Vulnerability-CVE-2021-44228-)|
 |LogicMonitor|Platform| |Not vuln|Not vuln|Not vuln|Not vuln| |[Log4j Security Vulnerabilities](https://www.logicmonitor.com/support/log4shell-security-vulnerability-cve-2021-44228)|
 |LogMeIn|All| | | | | | |[LogMeIn Statement](https://community.logmein.com/t5/LogMeIn-Central-Discussions/LOG4J-Vulnerability/m-p/280317/highlight/true#M8327)|

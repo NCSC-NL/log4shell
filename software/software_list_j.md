@@ -7,7 +7,8 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
-|Jamasoftware|All| | | | | | |"[Jamasoftware Statement](https://community.jamasoftware.com/communities/community-home/digestviewer/viewthread?MessageKey=06d26f9c-2abe-4c10-93d4-c0f6c8a01b22&amp;CommunityKey=c9d20d4c-5bb6-4f19-92eb-e7cee0942d51&amp;tab=digestviewer#bm06d26f9c-2abe-4c10-93d4-c0f6c8a01b22)"|
+|Janitza|GridVis| | |Not vuln| | | |[link](https://www.janitza.com/us/gridvis-download.html)|
+|Jamasoftware|All| | | | | | |"<a href="https://community.jamasoftware.com/communities/community-home/digestviewer/viewthread?MessageKey=06d26f9c-2abe-4c10-93d4-c0f6c8a01b22&amp;CommunityKey=c9d20d4c-5bb6-4f19-92eb-e7cee0942d51&amp;tab=digestviewer#bm06d26f9c-2abe-4c10-93d4-c0f6c8a01b22" rel="nofollow">Jamasoftware Statement</a>"|
 |Jamf|Pro|10.31.0 – 10.34.0|Not vuln|Fix| | | |[Mitigating the Apache Log4j 2 Vulnerability](https://docs.jamf.com/technical-articles/Mitigating_the_Apache_Log4j_2_Vulnerability.html)|
 |Jamf Nation|Health Care Listener| | |Not vuln| | | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
 |Jamf Nation|Jamf Cloud| |Not vuln|Fix| | | |[source](https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740)|
@@ -26,11 +27,11 @@
 |Jedox|All| | | | | | |[Jedox Statement](https://www.jedox.com/en/trust/)|
 |Jenkins|CI| | |Not vuln| | |Invidivual plugins not developed as part of Jenkins core <em>may</em> be vulnerable.|[source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/)|
 |Jenkins|CI/CD Core| |Not vuln|Not vuln|Not vuln|Not vuln| ||
-|Jenkins|Plugins| | | | | |"<a href=""https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/"" rel=""nofollow"">Instructions to test your installations in announcement</a>"|[Announcement](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) [issue tracker](https://issues.jenkins.io/browse/JENKINS-67353)|
+|Jenkins|Plugins| | | | | |"&lt;a href=""<a href="https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/" rel="nofollow">https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/</a>"" rel=""nofollow""&gt;Instructions to test your installations in announcement"|[Announcement](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) [issue tracker](https://issues.jenkins.io/browse/JENKINS-67353)|
 |JetBrains|All .NET tools (ReSharper, Rider, ReSharper C++, dotTrace, dotMemory, dotCover, dotPeek)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
 |JetBrains|Code With Me| |Not vuln|Fix| | | |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
 |JetBrains|Datalore| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
-|JetBrains|Floating license server|30241|Not vuln|Fix| | |"update to <a href=""https://www.jetbrains.com/help/license_server/release_notes.html#30241"" rel=""nofollow"">log4j 2.16</a>"|[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
+|JetBrains|Floating license server|30241|Not vuln|Fix| | |"update to &lt;a href=""<a href="https://www.jetbrains.com/help/license_server/release_notes.html#30241" rel="nofollow">https://www.jetbrains.com/help/license_server/release_notes.html#30241</a>"" rel=""nofollow""&gt;log4j 2.16"|[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
 |JetBrains|Gateway| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
 |JetBrains|Hub|2021.1.14080|Not vuln|Fix| | | |[source](https://blog.jetbrains.com/hub/2021/12/14/hub-update-regarding-log4j2-vulnerability/)|
 |JetBrains|IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
@@ -103,44 +104,44 @@
 |Journyx|All| | | | | | |[Journeyx Statement](https://community.journyx.com/support/solutions/articles/9000209044-apache-log4j-2-vulnerability-cve-2021-44228-)|
 |jPOS|(ISO-8583) bridge| | |Not vuln| | | |[source](https://github.com/jpos/jPOS/commit/d615199a1bdd35c35d63c07c10fd0bdbbc96f625)|
 |Jump Desktop|All| | | | | | |[Jump Desktop Statement](https://support.jumpdesktop.com/hc/en-us/articles/4416720395021-Log4j-CVE-2021-44228-CVE-2021-45046-Statement)|
-|Juniper Networks|Advanced Threat Prevention (JATP)| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|AppFormix| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Apstra System| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Connectivity Services Director| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Contrail products: Contrail Analytics, Contrail Cloud, Contrail Networking or Contrail Service Orchestration| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Cross Provisioning Platform| | |Investigation| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|CTPOS and CTPView| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|ICEAAA Manager| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|JATP Cloud| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|JSA Series| | |Investigation| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Juniper Identity Management Services (JIMS)| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Juniper Mist Edge| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Juniper Sky Enterprise| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Junos OS| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Junos OS Evolved| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Junos Space Network Management Platform| | |Vulnerable| | |Only when OpenNMS has been enabled.|"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Mist Access Points|Any version on AP12, AP21, AP32, AP33, AP34, AP41, AP43, AP45, AP61, AP63.| |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|MIST: Juniper Networks Marvis Virtual Network Assistant (VNA)| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|MIST: Juniper Networks Mist AI| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|MIST: Juniper Networks Paragon Active Assurance| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|MIST: Juniper Networks WAN Assurance| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|MIST: Juniper Networks Wi-Fi Assurance| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|MIST: Juniper Networks Wired Assurance| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Network Director| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Northstar Controller| | |Vulnerable| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Northstar Planner| | |Investigation| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Paragon Insights|">= 21 version 21.1 ; >= 22 version 22.2"| |Vulnerable| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Paragon Pathfinder|">= 21 version 21.1 ; >= 22 version 22.2"| |Vulnerable| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Paragon Planner|">= 21 version 21.1 ; >= 22 version 22.2"| |Vulnerable| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Policy Enforcer| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|products using Wind River Linux in Junos OS and Junos OS Evolved| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|ScreenOS| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|SecIntel| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Secure Analytics| | |Investigation| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Security Director| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Security Director Insights| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Session Smart Router (Formerly 128T)| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Space SDK| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|Standalone Log Collector 20.1 (as also used by Space Security Director)| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
-|Juniper Networks|User Engagement Virtual BLE| | |Not vuln| | | |"[source](https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION)"|
+|Juniper Networks|Advanced Threat Prevention (JATP)| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|AppFormix| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Apstra System| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Connectivity Services Director| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Contrail products: Contrail Analytics, Contrail Cloud, Contrail Networking or Contrail Service Orchestration| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Cross Provisioning Platform| | |Investigation| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|CTPOS and CTPView| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|ICEAAA Manager| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|JATP Cloud| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|JSA Series| | |Investigation| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Juniper Identity Management Services (JIMS)| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Juniper Mist Edge| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Juniper Sky Enterprise| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Junos OS| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Junos OS Evolved| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Junos Space Network Management Platform| | |Vulnerable| | |Only when OpenNMS has been enabled.|"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Mist Access Points|Any version on AP12, AP21, AP32, AP33, AP34, AP41, AP43, AP45, AP61, AP63.| |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|MIST: Juniper Networks Marvis Virtual Network Assistant (VNA)| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|MIST: Juniper Networks Mist AI| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|MIST: Juniper Networks Paragon Active Assurance| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|MIST: Juniper Networks WAN Assurance| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|MIST: Juniper Networks Wi-Fi Assurance| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|MIST: Juniper Networks Wired Assurance| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Network Director| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Northstar Controller| | |Vulnerable| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Northstar Planner| | |Investigation| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Paragon Insights|"&gt;= 21 version 21.1 ; &gt;= 22 version 22.2"| |Vulnerable| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Paragon Pathfinder|"&gt;= 21 version 21.1 ; &gt;= 22 version 22.2"| |Vulnerable| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Paragon Planner|"&gt;= 21 version 21.1 ; &gt;= 22 version 22.2"| |Vulnerable| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Policy Enforcer| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|products using Wind River Linux in Junos OS and Junos OS Evolved| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|ScreenOS| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|SecIntel| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Secure Analytics| | |Investigation| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Security Director| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Security Director Insights| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Session Smart Router (Formerly 128T)| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Space SDK| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|Standalone Log Collector 20.1 (as also used by Space Security Director)| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
+|Juniper Networks|User Engagement Virtual BLE| | |Not vuln| | | |"<a href="https://kb.juniper.net/InfoCenter/index?page=content&amp;id=JSA11259&amp;actp=SUBSCRIPTION" rel="nofollow">source</a>"|
 |Justice Systems|All| | | | | | |[Justice Systems Support](https://www.justicesystems.com/services/support/)|

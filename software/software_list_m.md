@@ -7,8 +7,12 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|MMM Group|Control software of all MMM series| | | | | | |[link](https://www.mmmgroup.com/en/news/cybersecurity-vulnerability-log4shell-java-library-log4j)|
+|MMM Group|RUMED360 Cycles, RUMED360 Cycles View, RUMED360 Sicon, RUMED360 ISA-Server| | | | | | |[link](https://www.mmmgroup.com/en/news/cybersecurity-vulnerability-log4shell-java-library-log4j)|
+|Mitsubishi Electric Corporation|CC-Link IE TSN|&lt;=1.02C| |Vulnerable| | |Product number: SW1DNN-GN610SRC-M|[link](https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-030_en.pdf)|
+|Mitsubishi Electric Corporation|CC-Link IE TSN| | |Fix| | |Product number: SW1DNN-GN610SRC-M|[link](https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2021-030_en.pdf)|
 |Macrium Software|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.macrium.com/log4j-vulnerabilities-update)|
-|Mailcow|Solr Docker|< 1.8|Not vuln|Fix| | | |[source](https://community.mailcow.email/d/1229-cve-2021-44228-vulnerability-solr)|
+|Mailcow|Solr Docker|&lt; 1.8|Not vuln|Fix| | | |[source](https://community.mailcow.email/d/1229-cve-2021-44228-vulnerability-solr)|
 |MailStore|All|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mailstore.com/en/blog/mailstore-affected-by-log4shell/)|
 |Maltego|All| | | | | | |[Maltego Response to Logj4](https://www.maltego.com/blog/our-response-to-log4j-cve-2021-44228/)|
 |ManageEngine|ADAudit Plus| |Not vuln|Workaround|Workaround|Workaround| |[source](https://pitstop.manageengine.com/portal/en/community/topic/apache-log4j-vulnerability-cve-2021-44228-1)|
@@ -18,7 +22,7 @@
 |ManageEngine|Servicedesk Plus|11305 and below| |Vulnerable| | | |[Manage Engine Advisory](https://www.manageengine.com/products/service-desk/security-response-plan.html)|
 |ManageEngine Zoho|ADAudit Plus|On-Prem| | | | | |[ManageEngine Vulnerability Impact](https://pitstop.manageengine.com/portal/en/community/topic/update-on-the-recent-apache-log4j2-vulnerability-impact-on-manageengine-on-premises-products-1)|
 |ManageEngine Zoho|ADManager Plus|On-Prem| | | | | |[ManageEngine Vulnerability Impact](https://pitstop.manageengine.com/portal/en/community/topic/update-on-the-recent-apache-log4j2-vulnerability-impact-on-manageengine-on-premises-products-1)|
-|ManageEngine Zoho|ADSelfService Plus| | Not vuln| Not vuln| Not vuln|Not vuln | |[ManageEngine Vulnerability Impact](https://pitstop.manageengine.com/portal/en/community/topic/log4j-advisory-adselfservice-plus-6119-released-to-remove-log4j-dependency)|
+|ManageEngine Zoho|ADSelfService Plus| |Not vuln|Not vuln|Not vuln|Not vuln| |[ManageEngine Vulnerability Impact](https://pitstop.manageengine.com/portal/en/community/topic/log4j-advisory-adselfservice-plus-6119-released-to-remove-log4j-dependency)|
 |ManageEngine Zoho|All| | | | | | |[Manage Engine Link](https://pitstop.manageengine.com/portal/en/community/topic/log4j-ad-manager-plus)|
 |ManageEngine Zoho|Analytics Plus|On-Prem| | | | | |[ManageEngine Vulnerability Impact](https://pitstop.manageengine.com/portal/en/community/topic/update-on-the-recent-apache-log4j2-vulnerability-impact-on-manageengine-on-premises-products-1)|
 |ManageEngine Zoho|Cloud Security Plus|On-Prem| | | | | |[ManageEngine Vulnerability Impact](https://pitstop.manageengine.com/portal/en/community/topic/update-on-the-recent-apache-log4j2-vulnerability-impact-on-manageengine-on-premises-products-1)|
@@ -38,13 +42,13 @@
 |Matomo|All| | | | | | |[Matomo Statement](https://forum.matomo.org/t/matomo-is-not-concerned-by-the-log4j-security-breach-cve-2021-44228-discovered-on-december-2021-the-9th/44089)|
 |Mattermost|All| | |Not vuln| | | |[source](https://forum.mattermost.org/t/security-update-log4j-security-vulnerability/12695)|
 |Mattermost FocalBoard|All| | | | | | |[Mattermost FocalBoard Concern](https://forum.mattermost.org/t/log4j-vulnerability-concern/12676)|
-|McAfee|Active Response (MAR)| | |Not vuln| | |Standalone MAR not vulnerable, for MAR included in bundle see TIE|"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
+|McAfee|Active Response (MAR)| | |Not vuln| | |Standalone MAR not vulnerable, for MAR included in bundle see TIE|"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
 |McAfee|Agent (MA)| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Application and Change Control (MACC) for Linux| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Application and Change Control (MACC) for Windows| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Client Proxy (MCP) for Mac| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Client Proxy (MCP) for Windows| |Not vuln|Not vuln|Not vuln|Not vuln| ||
-|McAfee|Data Exchange Layer (DXL)| | |Not vuln| | | |"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
+|McAfee|Data Exchange Layer (DXL)| | |Not vuln| | | |"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
 |McAfee|Data Exchange Layer (DXL) Client| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Data Loss Prevention (DLP) Discover| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Data Loss Prevention (DLP) Endpoint for Mac| |Not vuln|Not vuln|Not vuln|Not vuln| ||
@@ -55,26 +59,26 @@
 |McAfee|Endpoint Security (ENS) for Linux| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Endpoint Security (ENS) for Mac| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Endpoint Security (ENS) for Windows| |Not vuln|Not vuln|Not vuln|Not vuln| ||
-|McAfee|Enterprise Security Manager (ESM)|11.x|Not vuln|Workaround| | | |"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
-|McAfee|ePolicy Orchestrator Agent Handlers (ePO-AH)| | |Not vuln| | | |"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
-|McAfee|ePolicy Orchestrator Application Server (ePO)|<= 5.10 CU10| |Not vuln| | | |"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
-|McAfee|ePolicy Orchestrator Application Server (ePO)|5.10 CU11|Not vuln|Workaround| | | |"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
+|McAfee|Enterprise Security Manager (ESM)|11.x|Not vuln|Workaround| | | |"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
+|McAfee|ePolicy Orchestrator Agent Handlers (ePO-AH)| | |Not vuln| | | |"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
+|McAfee|ePolicy Orchestrator Application Server (ePO)|&lt;= 5.10 CU10| |Not vuln| | | |"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
+|McAfee|ePolicy Orchestrator Application Server (ePO)|5.10 CU11|Not vuln|Workaround| | | |"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
 |McAfee|Host Intrusion Prevention (Host IPS)| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Management of Native Encryption (MNE)| |Not vuln|Not vuln|Not vuln|Not vuln| ||
-|McAfee|Network Security Manager (NSM)| | |Not vuln| | | |"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
-|McAfee|Network Security Platform (NSP)| | |Not vuln| | | |"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
+|McAfee|Network Security Manager (NSM)| | |Not vuln| | | |"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
+|McAfee|Network Security Platform (NSP)| | |Not vuln| | | |"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
 |McAfee|Policy Auditor| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Security for Microsoft Exchange (MSME)| |Not vuln|Not vuln|Not vuln|Not vuln| ||
 |McAfee|Security for Microsoft SharePoint (MSMS)| |Not vuln|Not vuln|Not vuln|Not vuln| ||
-|McAfee|Threat Intelligence Exchange (TIE)|2.2, 2.3, 3.0|Not vuln|Workaround| | | |"[source](https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091)"|
-|McAfee|Web Gateway (MWG)| |Not vuln|Fix| | | |"[source](https://kc.mcafee.com/agent/index?page=content&amp;id=SB10377)"|
+|McAfee|Threat Intelligence Exchange (TIE)|2.2, 2.3, 3.0|Not vuln|Workaround| | | |"<a href="https://kc.mcafee.com/corporate/index?page=content&amp;id=KB95091" rel="nofollow">source</a>"|
+|McAfee|Web Gateway (MWG)| |Not vuln|Fix| | | |"<a href="https://kc.mcafee.com/agent/index?page=content&amp;id=SB10377" rel="nofollow">source</a>"|
 |Medtronic|All| | |Investigation| | | |[Medtronic Advisory Link](https://global.medtronic.com/xg-en/product-security/security-bulletins/log4j-vulnerabilities.html)|
 |Meinberg|LANTIME|All| |Not vuln| | | |[source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535)|
 |Meinberg|microSync|All| |Not vuln| | | |[source](https://www.meinbergglobal.com/english/sw/mbgsecurityadvisory.htm#mbgsa_535)|
 |Meltano|All| |Not vuln|Not vuln|Not vuln|Not vuln|Project is written in Python|[Meltano](https://github.com/meltano/meltano)|
 |Memurai|All| | |Not vuln| | | |[source](https://www.memurai.com/blog/apache-log4j2-cve-2021-44228)|
 |messageconcept|PeopleSync|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://messageconcept.atlassian.net/wiki/spaces/PSKB/pages/2139095041/Is+PeopleSync+affected+by+Log4Shell)|
-|Metabase|All|<0.41.4|Not vuln|Fix| | |Mitigations available for earlier versions|[source](https://github.com/metabase/metabase/releases/tag/v0.41.4)|
+|Metabase|All|&lt;0.41.4|Not vuln|Fix| | |Mitigations available for earlier versions|[source](https://github.com/metabase/metabase/releases/tag/v0.41.4)|
 |Micro Focus|ArcSight Connectors|8.2 and above| |Vulnerable| | | |[source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228)|
 |Micro Focus|ArcSight ESM|7.2, 7.5| |Vulnerable| | | |[source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228)|
 |Micro Focus|ArcSight Intelligence|All| |Vulnerable| | | |[source](https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228)|
@@ -84,12 +88,12 @@
 |Micro Focus|Data Protector|All| |Vulnerable| | |Workaround only for supported versions. Earlier versions are not checked/worked on.|[workaround](https://portal.microfocus.com/s/article/KM000003052) [source](https://community.microfocus.com/img/bandr/f/itrc-251/512701/data-protector-v9-0-9-patch-workaround-for-log4j)|
 |Micro Focus|Silk Performer|21.0| |Vulnerable| | |Workaround|[source](https://portal.microfocus.com/s/article/KM000003066) [workaround](https://microfocus.my.salesforce.com/sfc/p/1t000000vhDP/a/8e000000c7fR/JrOxnycbJxIXDpzlzCCfBOy6pqqRcPD_cu.ySvH5Vc8)|
 |Micro Focus|Silk Test|20.0 up to 21.0.1 (included)| |Vulnerable| | |Workaround|[source](https://portal.microfocus.com/s/article/KM000003066) [workaround](https://microfocus.my.salesforce.com/sfc/p/1t000000vhDP/a/8e000000c7fR/JrOxnycbJxIXDpzlzCCfBOy6pqqRcPD_cu.ySvH5Vc8)|
-|MicroFocus|All| | | | | | |"[MicroFocus Statement](https://portal.microfocus.com/s/customportalsearch?language=en_US&amp;searchtext=CVE-2021-44228)"|
+|MicroFocus|All| | | | | | |"<a href="https://portal.microfocus.com/s/customportalsearch?language=en_US&amp;searchtext=CVE-2021-44228" rel="nofollow">MicroFocus Statement</a>"|
 |Microsoft|Azure AD| | |Not vuln| | |ADFS itself is not vulnerable, federation providers may be|[source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)|
 |Microsoft|Azure API Gateway| |Not vuln|Not vuln|Not vuln|Not vuln| |[Microsoft’s Response to CVE-2021-44228 Apache Log4j 2](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)|
 |Microsoft|Azure App Service| | |Not vuln| | |This product itself is not vulnerable, Microsoft provides guidance on remediation for hosted applications|[source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)|
 |Microsoft|Azure Application Gateway| | |Not vuln| | | |[source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)|
-|Microsoft|Azure Data Lake Store Java|< 2.3.10|Not vuln|Not vuln|Not vuln|Not vuln|Fix has been made to upgrade log4j-core. But this dependency has scope 'test' meaning it is not part of the final product/artifact. So there's no risk for end users here.|[source](https://github.com/Azure/azure-data-lake-store-java/blob/ed5d6304783286c3cfff0a1dee457a922e23ad48/CHANGES.md#version-2310)|
+|Microsoft|Azure Data Lake Store Java|&lt; 2.3.10|Not vuln|Not vuln|Not vuln|Not vuln|Fix has been made to upgrade log4j-core. But this dependency has scope 'test' meaning it is not part of the final product/artifact. So there's no risk for end users here.|[source](https://github.com/Azure/azure-data-lake-store-java/blob/ed5d6304783286c3cfff0a1dee457a922e23ad48/CHANGES.md#version-2310)|
 |Microsoft|Azure DevOps| | |Not vuln| | | |[source](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability/?WT.mc_id=DOP-MVP-5001511)|
 |Microsoft|Azure DevOps Server|2019-2020.1| |Vulnerable| | |When Azure DevOps Server Search is configured. Uses Elasticsearch OSS 6.2.4 (vulnerable) see Elasticsearch above for mitigation|[source](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability/?WT.mc_id=DOP-MVP-5001511)|
 |Microsoft|Azure Front Door| | |Not vuln| | | |[source](https://msrc-blog.microsoft.com/2021/12/11/microsofts-response-to-cve-2021-44228-apache-log4j2/)|
@@ -98,7 +102,7 @@
 |Microsoft|Cosmos DB Kafka Connector|1.2.1| |Fix| | | |[source](https://github.com/microsoft/kafka-connect-cosmosdb/releases/tag/v1.2.1)|
 |Microsoft|Defender for IoT|10.5.2|Not vuln|Fix| | | |[source](https://docs.microsoft.com/en-us/azure/defender-for-iot/organizations/release-notes#october-2021)|
 |Microsoft|Events Hub Extension|3.3.1| |Fix| | | |[source](https://mvnrepository.com/artifact/com.microsoft.azure/azure-eventhubs-extensions/3.3.1)|
-|Microsoft|Kafka Connect for Azure Cosmo DB|< 1.2.1|Not vuln|Fix| | | |[source](https://github.com/microsoft/kafka-connect-cosmosdb/blob/0f5d0c9dbf2812400bb480d1ff0672dfa6bb56f0/CHANGELOG.md)|
+|Microsoft|Kafka Connect for Azure Cosmo DB|&lt; 1.2.1|Not vuln|Fix| | | |[source](https://github.com/microsoft/kafka-connect-cosmosdb/blob/0f5d0c9dbf2812400bb480d1ff0672dfa6bb56f0/CHANGELOG.md)|
 |Microsoft|Minecraft Java Edition|1.18.1|Not vuln|Fix| | | |[source](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) [fix](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-18-1)|
 |Microsoft|Team Foundation Server|2018.2+| |Vulnerable| | |When Team Foundation Server Search is configured. Uses Elasticsearch OSS 5.4.1 (vulnerable) see Elasticsearch above for mitigation|[source](https://devblogs.microsoft.com/devops/azure-devops-and-azure-devops-server-and-the-log4j-vulnerability/?WT.mc_id=DOP-MVP-5001511)|
 |MicroStrategy|Secure Enterprise|11.1.7+ 11.2.x 11.3.x|Not vuln|Workaround| | |Workaround available, Update scheduled for Week 51/2021|[source](https://community.microstrategy.com/s/article/MicroStrategy-s-response-to-CVE-2021-44228-The-Log4j-0-Day-Vulnerability?language=en_US)|
@@ -123,7 +127,7 @@
 |Mitel|Interaction Recording (MIR)|6.3 to 6.7|Not vuln|Fix| | |see SA211213-17|[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_21-0010-001.pdf)|
 |Mitel|Management Gateway|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
 |Mitel|Management Portal|All| |Investigation| | | |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
-|Mitel|MiCollab|>=7.1 to <=9.4|Not vuln|Workaround|Workaround| |"Below v7.0 not vuln, <a href=""https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf"" rel=""nofollow"">Fix</a>"|[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_21-0010-002-v4.pdf)|
+|Mitel|MiCollab|&gt;=7.1 to &lt;=9.4|Not vuln|Workaround|Workaround| |"Below v7.0 not vuln, &lt;a href=""<a href="https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf" rel="nofollow">https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf</a>"" rel=""nofollow""&gt;Fix"|[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_21-0010-002-v4.pdf)|
 |Mitel|MiContact Center  Enterprise|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
 |Mitel|MiContact Center Business|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
 |Mitel|MiVoice 5000|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
@@ -139,11 +143,11 @@
 |Mitel|Performance Analytics Server and Probe|All| |Investigation| | | |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
 |Mitel|Standard Linux (MSL)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
 |Mitel|Virtual Reception|All| |Investigation| | | |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
-|Mitsubishi|CS-141|Not vuln|Not vuln|Not vuln|Not vuln| |"<a href=""https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png"" rel=""nofollow"">source</a>"||
-|Mitsubishi|LookUPS N002|Not vuln|Not vuln|Not vuln|Not vuln| |"<a href=""https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png"" rel=""nofollow"">source</a>"||
-|Mitsubishi|LookUPS N003|Not vuln|Not vuln|Not vuln|Not vuln| |"<a href=""https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png"" rel=""nofollow"">source</a>"||
-|Mitsubishi|MUCM|Not vuln|Not vuln|Not vuln|Not vuln| |"<a href=""https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png"" rel=""nofollow"">source</a>"||
-|Mitsubishi|Netcom|Not vuln|Not vuln|Not vuln|Not vuln| |"<a href=""https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png"" rel=""nofollow"">source</a>"||
+|Mitsubishi|CS-141|Not vuln|Not vuln|Not vuln|Not vuln| |"&lt;a href=""<a href="https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png" rel="nofollow">https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png</a>"" rel=""nofollow""&gt;source"||
+|Mitsubishi|LookUPS N002|Not vuln|Not vuln|Not vuln|Not vuln| |"&lt;a href=""<a href="https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png" rel="nofollow">https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png</a>"" rel=""nofollow""&gt;source"||
+|Mitsubishi|LookUPS N003|Not vuln|Not vuln|Not vuln|Not vuln| |"&lt;a href=""<a href="https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png" rel="nofollow">https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png</a>"" rel=""nofollow""&gt;source"||
+|Mitsubishi|MUCM|Not vuln|Not vuln|Not vuln|Not vuln| |"&lt;a href=""<a href="https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png" rel="nofollow">https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png</a>"" rel=""nofollow""&gt;source"||
+|Mitsubishi|Netcom|Not vuln|Not vuln|Not vuln|Not vuln| |"&lt;a href=""<a href="https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png" rel="nofollow">https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png</a>"" rel=""nofollow""&gt;source"||
 |Mitsubishi|Netcom 2| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://user-images.githubusercontent.com/89155495/146846042-4c923ea4-58ec-452f-94b2-6a1aa7918ece.png)|
 |MobileIron|Core|All|Not vuln|Fix| | |The mitigation instructions listed in a subsequent section removes a vulnerable Java class (JNDILookUp.class) from the affected Log4J Java library and as a result removes the ability to perform the RCE attack.  The workaround needs to be applied in a maintenance window. You will not be able to access the admin portal during the procedure, however, end user devices will continue to function.|[source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j?language=en_US)|
 |MobileIron|Core Connector|All|Not vuln|Fix| | |The mitigation instructions listed in a subsequent section removes a vulnerable Java class (JNDILookUp.class) from the affected Log4J Java library and as a result removes the ability to perform the RCE attack.  The workaround needs to be applied in a maintenance window. You will not be able to access the admin portal during the procedure, however, end user devices will continue to function.|[source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j?language=en_US)|
