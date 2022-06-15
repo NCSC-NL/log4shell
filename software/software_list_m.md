@@ -127,7 +127,7 @@
 |Mitel|Interaction Recording (MIR)|6.3 to 6.7|Not vuln|Fix| | |see SA211213-17|[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_21-0010-001.pdf)|
 |Mitel|Management Gateway|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
 |Mitel|Management Portal|All| |Investigation| | | |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
-|Mitel|MiCollab|>=7.1 to <=9.4|Not vuln|Workaround|Workaround| |"Below v7.0 not vuln, <a href=""https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf Fix"|[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_21-0010-002-v4.pdf)|
+|Mitel|MiCollab|>=7.1 to <=9.4|Not vuln|Workaround|Workaround| |"Below v7.0 not vuln,  https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/log4j_micollab_remediation_details.pdf Fix"|[source](https://www.mitel.com/-/media/mitel/file/pdf/support/security-advisories/security-bulletin_21-0010-002-v4.pdf)|
 |Mitel|MiContact Center  Enterprise|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
 |Mitel|MiContact Center Business|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|
 |Mitel|MiVoice 5000|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.mitel.com/support/security-advisories/mitel-product-security-advisory-21-0010)|

@@ -117,7 +117,7 @@
 |Amazon|API Gateway| |Not vuln|Fix| | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
 |Amazon|Athena| |Not vuln|Fix| | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
 |Amazon|Athena JDBC driver| |Not vuln|Not vuln|Not vuln|Not vuln|All versions vended to customers were not affected|[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
-|Amazon|AWS|Linux 1,2|Not vuln|Not vuln|Not vuln|Not vuln|"Notes: Amazon Linux 1 had aws apitools which were Java based but these were deprecated in 2015 <a href=""https://forums.aws.amazon.com/thread.jspa?threadID=323611 AWS Forum. AMIs used to inspect and verify (base spin ups) - amzn-ami-hvm-2018.03.0.20200318.1-x86_64-gp2 and amzn2-ami-kernel-5.10-hvm-2.0.20211201.0-x86_64-gp2"||
+|Amazon|AWS|Linux 1,2|Not vuln|Not vuln|Not vuln|Not vuln|"Notes: Amazon Linux 1 had aws apitools which were Java based but these were deprecated in 2015  https://forums.aws.amazon.com/thread.jspa?threadID=323611 AWS Forum. AMIs used to inspect and verify (base spin ups) - amzn-ami-hvm-2018.03.0.20200318.1-x86_64-gp2 and amzn2-ami-kernel-5.10-hvm-2.0.20211201.0-x86_64-gp2"||
 |Amazon|AWS API Gateway|All|Not vuln|Fix| | | |[Amazon AWS Link](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
 |Amazon|AWS AppFlow| |Not vuln|Fix| | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
 |Amazon|AWS AppSync| |Not vuln|Fix| | |Updated to mitigate the issues identified in CVE-2021-44228 and CVE-2021-45046|[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
@@ -208,13 +208,13 @@
 |Amazon|Single Sign-On| |Not vuln|Fix| | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
 |Amazon|Step Functions| |Not vuln|Fix| | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
 |Amazon|Timestream| |Not vuln|Fix| | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
-|Amazon|Translate| |Not vuln|Not vuln|Not vuln|Not vuln|"Service not identified on <a href=""https://aws.amazon.com/security/security-bulletins/AWS-2021-006/ AWS Log4j Security Bulletin"|[Amazon Translate](https://aws.amazon.com/translate/)|
+|Amazon|Translate| |Not vuln|Not vuln|Not vuln|Not vuln|"Service not identified on  https://aws.amazon.com/security/security-bulletins/AWS-2021-006/ AWS Log4j Security Bulletin"|[Amazon Translate](https://aws.amazon.com/translate/)|
 |Amazon|VPC| |Not vuln|Fix| | | |[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
 |Amazon|WorkSpaces/AppStream 2.0| |Not vuln|Fix| | |"Not affected with default configurations. WorkDocs Sync client versions 1.2.895.1 and older within Windows WorkSpaces, which contain the Log4j component, are vulnerable; For update instruction, see source for more info"|[source](https://aws.amazon.com/security/security-bulletins/AWS-2021-006/)|
 |AMD|All| |Not vuln|Not vuln|Not vuln|Not vuln|Currently, no AMD products have been identified as affected.  AMD is continuing its analysis.|[AMD Advisory Link](https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1034)|
 |Anaconda|All|4.10.3|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://docs.conda.io/projects/conda/en/latest/index.html)|
 |AOMEI|All| | |Not vuln| | | |[source](https://www.aomeitech.com/forum/index.php?p=/discussion/7651/aomei-and-log4j)|
-|Apache|ActiveMQ Artemis|All|Not vuln|Not vuln|Not vuln|Not vuln|"ActiveMQ Artemis does not use Log4j for logging. However, Log4j 1.2.17 is included in the Hawtio-based web console application archive (i.e. <a href=""/cisagov/log4j-affected-db/blob/develop/web/console.war/WEB-INF/lib"">web/console.war/WEB-INF/lib). Although this version of Log4j is not impacted by CVE-2021-44228 future versions of Artemis will be updated so that the Log4j jar is no longer included in the web console application archive. See <a href=""https://issues.apache.org/jira/browse/ARTEMIS-3612 ARTEMIS-3612 for more information on that task."|[ApacheMQ - Update on CVE-2021-4428](https://activemq.apache.org/news/cve-2021-44228)|
+|Apache|ActiveMQ Artemis|All|Not vuln|Not vuln|Not vuln|Not vuln|"ActiveMQ Artemis does not use Log4j for logging. However, Log4j 1.2.17 is included in the Hawtio-based web console application archive (i.e.  /cisagov/log4j-affected-db/blob/develop/web/console.war/WEB-INF/lib"">web/console.war/WEB-INF/lib). Although this version of Log4j is not impacted by CVE-2021-44228 future versions of Artemis will be updated so that the Log4j jar is no longer included in the web console application archive. See  https://issues.apache.org/jira/browse/ARTEMIS-3612 ARTEMIS-3612 for more information on that task."|[ApacheMQ - Update on CVE-2021-4428](https://activemq.apache.org/news/cve-2021-44228)|
 |Apache|Airflow| |Not vuln|Not vuln|Not vuln|Not vuln|Airflow is written in Python|[Apache Airflow](https://github.com/apache/airflow/tree/main/airflow)|
 |Apache|Archiva|<2.2.6|Not vuln|Fix| | |Fixed in 2.2.6|[source](https://blogs.apache.org/security/entry/cve-2021-44228) [fix](https://lists.apache.org/thread/bmvhs0jxhf4vxcjxyhozm058pchykcqx)|
 |Apache|Camel|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://camel.apache.org/blog/2021/12/log4j2/)|
@@ -231,7 +231,7 @@
 |Apache|Fortress|< 2.0.7|Not vuln|Fix| | |Fixed in 2.0.7|[source](https://blogs.apache.org/security/entry/cve-2021-44228)|
 |Apache|Geode|1.14.0|Not vuln|Fix| | |Fixed in 1.12.6, 1.13.5, 1.14.1|[source](https://cwiki.apache.org/confluence/plugins/servlet/mobile?contentId=66849544#ReleaseNotes-1.14.1)|
 |Apache|Guacamole|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://guacamole.apache.org/security/)|
-|Apache|Hadoop| |Not vuln|Not vuln|Not vuln|Not vuln|"Uses log4j 1.x. Are <a href=""https://issues.apache.org/jira/plugins/servlet/mobile#issue/HADOOP-12956 plans to migrate to log4j2 but never performed"|[source](https://blogs.apache.org/security/entry/cve-2021-44228)|
+|Apache|Hadoop| |Not vuln|Not vuln|Not vuln|Not vuln|"Uses log4j 1.x. Are  https://issues.apache.org/jira/plugins/servlet/mobile#issue/HADOOP-12956 plans to migrate to log4j2 but never performed"|[source](https://blogs.apache.org/security/entry/cve-2021-44228)|
 |Apache|HBase| | |Vulnerable| | |Fix is committed, but not yet released|[source](https://github.com/apache/hbase/pull/3933)|
 |Apache|Hive|4.x|Not vuln|Fix| | |Fix in 4.x|[source](https://issues.apache.org/jira/browse/HIVE-25795)|
 |Apache|James|3.6.0| |Vulnerable| | | |[source](https://twitter.com/dlitchfield/status/1469809966785564675)|
@@ -239,7 +239,7 @@
 |Apache|JMeter|Any| |Vulnerable| | |Manual Bypass|[source](https://github.com/apache/jmeter/pull/680#issuecomment-993204248)|
 |Apache|JSPWiki|2.11.1|Not vuln|Fix| | | |[source](https://jspwiki-wiki.apache.org/Wiki.jsp?page=Log4J-CVE-2021-44228)|
 |Apache|Kafka|All|Workaround|Not vuln|Not vuln|Not vuln|Uses Log4j 1.2.17|[source](https://kafka.apache.org/cve-list)|
-|Apache|Karaf| | |Vulnerable| | |"Depends on <a href=""https://github.com/ops4j/org.ops4j.pax.logging/issues/414"">PAX logging which is affected"|[source](https://mail-archives.apache.org/mod_mbox/karaf-dev/202112.mbox/browser)|
+|Apache|Karaf| | |Vulnerable| | |"Depends on  https://github.com/ops4j/org.ops4j.pax.logging/issues/414"">PAX logging which is affected"|[source](https://mail-archives.apache.org/mod_mbox/karaf-dev/202112.mbox/browser)|
 |Apache|Log4j|< 2.15.0|Not vuln|Fix| | | |[Log4j – Apache Log4j Security Vulnerabilities](https://logging.apache.org/log4j/2.x/security.html)|
 |Apache|Log4j 1.x|All|Workaround|Not vuln|Not vuln|Not vuln| |[source](https://access.redhat.com/security/cve/CVE-2021-4104)|
 |Apache|Log4j 2|2.3.1, 2.12.3, 2.17.0|Not vuln|Fix|Fix|Fix| |[source](https://logging.apache.org/log4j/2.x/security.html)|
