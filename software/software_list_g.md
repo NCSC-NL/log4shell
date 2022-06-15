@@ -7,44 +7,46 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|GSA|Cloud.gov| | | | | ||[link](https://cloud.gov/2021/12/14/log4j-buildpack-updates/)|
+|Google|Chrome| | |Not vuln| | |Chrome Browser releases, infrastructure and admin console are not using versions of Log4j affected by the vulnerability.|[link](https://security.googleblog.com/2021/12/apache-log4j-vulnerability.html)|
 |GE Digital|All| | | | | |This advisory is available to customers only and has not been reviewed by CISA.|[GE Digital Advisory Link(login required)](https://digitalsupport.ge.com/communities/en_US/Alert/GE-Security-Advisories)|
-|GE Digital Grid|All| | | | | |This advisory is available to customers only and has not been reviewed by CISA.|"[GE Digital Grid Advisory Link(login required)](https://digitalenergy.service-now.com/csm?id=kb_category&amp;kb_category=b8bc715b879c89103f22a93e0ebb3585)"|
+|GE Digital Grid|All| | | | | |This advisory is available to customers only and has not been reviewed by CISA.|[GE Digital Grid Advisory Link(login required)](https://digitalenergy.service-now.com/csm?id=kb_category&kb_category=b8bc715b879c89103f22a93e0ebb3585)|
 |GE Gas Power|Asset Performance Management (APM)| | |Vulnerable| | |GE verifying workaround.|[GE Gas Power Advisory Link](https://www.ge.com/content/dam/cyber_security/global/en_US/pdfs/2021-12-21_Log4J_Vulnerability-GE_Gas_Power_Holding_Statement.pdf)|
 |GE Gas Power|Baseline Security Center (BSC)| | |Vulnerable| | |Vulnerability to be fixed by vendor provided workaround. No user actions necessary. Contact GE for details.|[GE Gas Power Advisory Link](https://www.ge.com/content/dam/cyber_security/global/en_US/pdfs/2021-12-21_Log4J_Vulnerability-GE_Gas_Power_Holding_Statement.pdf)|
 |GE Gas Power|Baseline Security Center (BSC) 2.0| | |Vulnerable| | |Vulnerability to be fixed by vendor provided workaround. No user actions necessary. Contact GE for details|[GE Gas Power Advisory Link](https://www.ge.com/content/dam/cyber_security/global/en_US/pdfs/2021-12-21_Log4J_Vulnerability-GE_Gas_Power_Holding_Statement.pdf)|
 |GE Gas Power|Control Server| | |Vulnerable| | |The Control Server is Affected via vCenter. There is a fix for vCenter. Please see below. GE verifying the vCenter fix as proposed by the vendor.|[GE Gas Power Advisory Link](https://www.ge.com/content/dam/cyber_security/global/en_US/pdfs/2021-12-21_Log4J_Vulnerability-GE_Gas_Power_Holding_Statement.pdf)|
 |GE Gas Power|Tag Mapping Service| |Not vuln|Fix| | |Vulnerability fixed. No user actions necessary. Updated to log4j 2.16|[GE Gas Power Advisory Link](https://www.ge.com/content/dam/cyber_security/global/en_US/pdfs/2021-12-21_Log4J_Vulnerability-GE_Gas_Power_Holding_Statement.pdf)|
 |GE Healthcare|All| | | | | |This advisory is not available at the time of this review, due to maintence on the GE Healthcare website.|[GE Healthcare Advisory Link](https://securityupdate.gehealthcare.com)|
-|Gearset|All| | | | | | |[Gearset Statement](https://docs.gearset.com/en/articles/5806813-gearset-log4j-statement-dec-2021)|
-|Genesys|All| | |Investigation| | | |[source](https://www.genesys.com/blog/post/genesys-update-on-the-apache-log4j-vulnerability)|
-|GeoServer|All| | | | | | |[GeoServer Announcement](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
-|GeoSolutions|Geonetwork|All|Not vuln|Workaround| | | |[source](https://my.geocat.net/knowledgebase/125/Log4j-RCE-CVE-2021-44228-vulnerability-patch.html)|
-|GeoSolutions|GeoServer|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
-|Gerrit code review|All| | | | | | |[Gerrit Statement](https://www.gerritcodereview.com/2021-12-13-log4j-statement.html)|
-|GFI|All| | | | | | |[GFI Statement](https://techtalk.gfi.com/impact-of-log4j-vulnerability-on-gfi/)|
-|GFI Software|Kerio Connect|9.3.1p2|Not vuln|Workaround|Vulnerable|Vulnerable| |"[source](https://forums.gfi.com/index.php?t=msg&amp;th=39096&amp;start=0&amp;)"|
-|Ghidra|All| | | | | | |[Ghidra Statement](https://github.com/NationalSecurityAgency/ghidra/blob/2c73c72f0ba2720c6627be4005a721a5ebd64b46/README.md#warning)|
+|Gearset|All| | | | | ||[Gearset Statement](https://docs.gearset.com/en/articles/5806813-gearset-log4j-statement-dec-2021)|
+|Genesys|All| | |Investigation| | ||[source](https://www.genesys.com/blog/post/genesys-update-on-the-apache-log4j-vulnerability)|
+|GeoServer|All| | | | | ||[GeoServer Announcement](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
+|GeoSolutions|Geonetwork|All|Not vuln|Workaround| | ||[source](https://my.geocat.net/knowledgebase/125/Log4j-RCE-CVE-2021-44228-vulnerability-patch.html)|
+|GeoSolutions|GeoServer|All|Not vuln|Not vuln|Not vuln|Not vuln||[source](http://geoserver.org/announcements/2021/12/13/logj4-rce-statement.html)|
+|Gerrit code review|All| | | | | ||[Gerrit Statement](https://www.gerritcodereview.com/2021-12-13-log4j-statement.html)|
+|GFI|All| | | | | ||[GFI Statement](https://techtalk.gfi.com/impact-of-log4j-vulnerability-on-gfi/)|
+|GFI Software|Kerio Connect|9.3.1p2|Not vuln|Workaround|Vulnerable|Vulnerable||[source](https://forums.gfi.com/index.php?t=msg&th=39096&start=0&)|
+|Ghidra|All| | | | | ||[Ghidra Statement](https://github.com/NationalSecurityAgency/ghidra/blob/2c73c72f0ba2720c6627be4005a721a5ebd64b46/README.md#warning)|
 |Ghisler|Total Commander|All| |Not vuln| | |Third Party plugins might contain log4j|[source](https://www.ghisler.com/whatsnew.htm)|
 |Gigamon|Fabric Manager|<5.13.01.02|Not vuln|Fix| | |Updates available via the Gigamon Support Portal. This advisory available to customers only and has not been reviewed by CISA.|[Gigamon Customer Support Portal](https://community.gigamon.com/gigamoncp/s/my-gigamon)|
-|GitHub|All|GitHub.com and GitHub Enterprise Cloud|Not vuln|Fix| | | |[GitHub Statement](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/)|
-|GitHub|Github Enterprise Server|3.3.1, 3.2.6, 3.1.14, 3.0.22|Not vuln|Fix| | | |[source](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/)|
-|GitLab|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://forum.gitlab.com/t/cve-2021-4428/62763/8)|
-|GitLab|DAST analyzer| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
-|GitLab|Dependency Scanning| |Not vuln|Fix| | | |[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
-|GitLab|Gemnasium-Maven| |Not vuln|Fix| | | |[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
-|GitLab|PMD OSS| |Not vuln|Fix| | | |[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
-|GitLab|SAST| |Not vuln|Fix| | | |[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
-|GitLab|Spotbugs| |Not vuln|Fix| | | |[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
-|Globus|All| | | | | | |[Globus Statement](https://groups.google.com/a/globus.org/g/discuss/c/FJK0q0NoUC4)|
-|GoAnywhere|Agents| |Not vuln|Workaround| | | |[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
-|GoAnywhere|Gateway|version 2.7.0 or later|Not vuln|Fix| | | |[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
-|GoAnywhere|MFT|version 5.3.0 or later|Not vuln|Fix| | | |[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+|GitHub|All|GitHub.com and GitHub Enterprise Cloud|Not vuln|Fix| | ||[GitHub Statement](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/)|
+|GitHub|Github Enterprise Server|3.3.1, 3.2.6, 3.1.14, 3.0.22|Not vuln|Fix| | ||[source](https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/)|
+|GitLab|All| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://forum.gitlab.com/t/cve-2021-4428/62763/8)|
+|GitLab|DAST analyzer| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
+|GitLab|Dependency Scanning| |Not vuln|Fix| | ||[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
+|GitLab|Gemnasium-Maven| |Not vuln|Fix| | ||[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
+|GitLab|PMD OSS| |Not vuln|Fix| | ||[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
+|GitLab|SAST| |Not vuln|Fix| | ||[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
+|GitLab|Spotbugs| |Not vuln|Fix| | ||[source](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)|
+|Globus|All| | | | | ||[Globus Statement](https://groups.google.com/a/globus.org/g/discuss/c/FJK0q0NoUC4)|
+|GoAnywhere|Agents| |Not vuln|Workaround| | ||[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+|GoAnywhere|Gateway|version 2.7.0 or later|Not vuln|Fix| | ||[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+|GoAnywhere|MFT|version 5.3.0 or later|Not vuln|Fix| | ||[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
 |GoAnywhere|MFT Agents|1.4.2 or later| |Vulnerable| | |Versions less than GoAnywhere Agent version 1.4.2 are not affected|[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
-|GoAnywhere|Open PGP Studio| |Not vuln|Workaround| | | |[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
-|GoAnywhere|Surveyor/400| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
-|GoCD|All| | | | | | |[GoCD Statement](https://www.gocd.org/2021/12/14/log4j-vulnerability.html)|
+|GoAnywhere|Open PGP Studio| |Not vuln|Workaround| | ||[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+|GoAnywhere|Surveyor/400| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://www.goanywhere.com/cve-2021-44228-goanywhere-mitigation-steps)|
+|GoCD|All| | | | | ||[GoCD Statement](https://www.gocd.org/2021/12/14/log4j-vulnerability.html)|
 |Google Cloud|Access Transparency| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
-|Google Cloud|Actifio| |Not vuln|Not vuln|Not vuln|Not vuln|"Actifio has identified limited exposure to the Log4j 2 vulnerability and has released a hotfix to address this vulnerability. Visit <a href=""https://now.actifio.com"" rel=""nofollow"">https://now.actifio.com</a> for the full statement and to obtain the hotfix (available to Actifio customers only)."|[source](https://cloud.google.com/log4j2-security-advisory)|
+|Google Cloud|Actifio| |Not vuln|Not vuln|Not vuln|Not vuln|Actifio has identified limited exposure to the Log4j 2 vulnerability and has released a hotfix to address this vulnerability. Visit  https://now.actifio.com https://now.actifio.com for the full statement and to obtain the hotfix (available to Actifio customers only).|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|AI Platform Data Labeling| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|AI Platform Neural Architecture Search (NAS)| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|AI Platform Training and Prediction| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
@@ -131,7 +133,7 @@
 |Google Cloud|Document AI| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|Event Threat Detection| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|Eventarc| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
-|Google Cloud|Filestore| |Not vuln|Not vuln|Not vuln|Not vuln|"Log4j 2 is contained within the Filestore service; there is a technical control in place that mitigates the vulnerabilities in CVE-2021-44228 and CVE-2021-45046. Log4j 2 will be updated to the latest version as part of the scheduled rollout in January 2022."|[source](https://cloud.google.com/log4j2-security-advisory)|
+|Google Cloud|Filestore| |Not vuln|Not vuln|Not vuln|Not vuln|Log4j 2 is contained within the Filestore service; there is a technical control in place that mitigates the vulnerabilities in CVE-2021-44228 and CVE-2021-45046. Log4j 2 will be updated to the latest version as part of the scheduled rollout in January 2022.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|Firebase| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|Firestore| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|Game Servers| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
@@ -173,22 +175,22 @@
 |Google Cloud|Web Security Scanner| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Google Cloud|Workflows| |Not vuln|Not vuln|Not vuln|Not vuln|Product does not use Log4j 2 and is not impacted by the issues identified in CVE-2021-44228 and CVE-2021-45046.|[source](https://cloud.google.com/log4j2-security-advisory)|
 |Gradle|All| |Not vuln|Not vuln|Not vuln|Not vuln|Gradle Scala Compiler Plugin depends upon log4j-core but it is not used.|[source](https://blog.gradle.org/log4j-vulnerability)|
-|Gradle|Enterprise|2021.3.6|Not vuln|Fix| | | |[source](https://security.gradle.com/advisory/2021-11)|
-|Gradle|Enterprise Build Cache Node|10.1|Not vuln|Fix| | | |[source](https://security.gradle.com/advisory/2021-11)|
-|Gradle|Enterprise Test Distribution Agent|1.6.2|Not vuln|Fix| | | |[source](https://security.gradle.com/advisory/2021-11)|
-|Grafana|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://grafana.com/blog/2021/12/14/grafana-labs-core-products-not-impacted-by-log4j-cve-2021-44228-and-related-vulnerabilities/)|
-|Grandstream|All| | | | | | |[Grandstream Statement](https://blog.grandstream.com/press-releases/grandstream-products-unaffected-by-log4j-vulnerability?hsLang=en)|
-|Gravitee|Access Management|3.10.x|Not vuln|Not vuln|Not vuln|Not vuln| |[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
-|Gravitee|Access Management|3.5.x|Not vuln|Not vuln|Not vuln|Not vuln| |[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
-|Gravitee|Alert Engine|1.4.x|Not vuln|Not vuln|Not vuln|Not vuln| |[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
-|Gravitee|Alert Engine|1.5.x|Not vuln|Not vuln|Not vuln|Not vuln| |[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
-|Gravitee|API Management|3.10.x|Not vuln|Not vuln|Not vuln|Not vuln| |[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
-|Gravitee|API Management|3.5.x|Not vuln|Not vuln|Not vuln|Not vuln| |[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
-|Gravitee|Cockpit|1.4.x|Not vuln|Not vuln|Not vuln|Not vuln| |[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
-|Gravitee.io|All| | | | | | |[Gravitee.io Statement](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
+|Gradle|Enterprise|2021.3.6|Not vuln|Fix| | ||[source](https://security.gradle.com/advisory/2021-11)|
+|Gradle|Enterprise Build Cache Node|10.1|Not vuln|Fix| | ||[source](https://security.gradle.com/advisory/2021-11)|
+|Gradle|Enterprise Test Distribution Agent|1.6.2|Not vuln|Fix| | ||[source](https://security.gradle.com/advisory/2021-11)|
+|Grafana|All| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://grafana.com/blog/2021/12/14/grafana-labs-core-products-not-impacted-by-log4j-cve-2021-44228-and-related-vulnerabilities/)|
+|Grandstream|All| | | | | ||[Grandstream Statement](https://blog.grandstream.com/press-releases/grandstream-products-unaffected-by-log4j-vulnerability?hsLang=en)|
+|Gravitee|Access Management|3.10.x|Not vuln|Not vuln|Not vuln|Not vuln||[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
+|Gravitee|Access Management|3.5.x|Not vuln|Not vuln|Not vuln|Not vuln||[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
+|Gravitee|Alert Engine|1.4.x|Not vuln|Not vuln|Not vuln|Not vuln||[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
+|Gravitee|Alert Engine|1.5.x|Not vuln|Not vuln|Not vuln|Not vuln||[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
+|Gravitee|API Management|3.10.x|Not vuln|Not vuln|Not vuln|Not vuln||[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
+|Gravitee|API Management|3.5.x|Not vuln|Not vuln|Not vuln|Not vuln||[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
+|Gravitee|Cockpit|1.4.x|Not vuln|Not vuln|Not vuln|Not vuln||[About the Log4J CVSS 10 Critical Vulnerability](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
+|Gravitee.io|All| | | | | ||[Gravitee.io Statement](https://www.gravitee.io/news/about-the-log4j-cvss-10-critical-vulnerability)|
 |Gravwell|All| |Not vuln|Not vuln|Not vuln|Not vuln|Gravwell products do not use Java|[source](https://www.gravwell.io/blog/cve-2021-44228-log4j-does-not-impact-gravwell-products)|
-|Graylog|All|3.3.15, 4.0.14, 4.1.9, 4.2.3|Not vuln|Fix| | |"The vulnerable Log4j library is used to record GrayLog's own log information. Vulnerability is not triggered when GrayLog stores exploitation vector from an outer system. Graylog <a href=""https://github.com/Graylog2/graylog2-server/compare/4.2.3...4.2.4"">version 4.2.4 fixes</a> <a href=""https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/"" rel=""nofollow"">another vulnerability</a>"|[source](https://www.graylog.org/post/graylog-update-for-log4j)|
-|Graylog|Server|All versions >= 1.2.0 and <= 4.2.2|Not vuln|Fix| | | |[Graylog Update for Log4j](https://www.graylog.org/post/graylog-update-for-log4j)|
-|Greenshot|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://greenshot.atlassian.net/browse/BUG-2871)|
-|GuardedBox|All|3.1.2|Not vuln|Fix| | | |[source](https://twitter.com/GuardedBox/status/1469739834117799939)|
-|Guidewire|All| | | | | | |[Guidewire Statement](https://community.guidewire.com/s/article/Update-to-customers-who-have-questions-about-the-use-of-log4j-in-Guidewire-products)|
+|Graylog|All|3.3.15, 4.0.14, 4.1.9, 4.2.3|Not vuln|Fix| | |The vulnerable Log4j library is used to record GrayLog's own log information. Vulnerability is not triggered when GrayLog stores exploitation vector from an outer system. Graylog  https://github.com/Graylog2/graylog2-server/compare/4.2.3...4.2.4"">version 4.2.4 fixes  https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/ another vulnerability|[source](https://www.graylog.org/post/graylog-update-for-log4j)|
+|Graylog|Server|All versions >= 1.2.0 and <= 4.2.2|Not vuln|Fix| | ||[Graylog Update for Log4j](https://www.graylog.org/post/graylog-update-for-log4j)|
+|Greenshot|All| |Not vuln|Not vuln|Not vuln|Not vuln||[source](https://greenshot.atlassian.net/browse/BUG-2871)|
+|GuardedBox|All|3.1.2|Not vuln|Fix| | ||[source](https://twitter.com/GuardedBox/status/1469739834117799939)|
+|Guidewire|All| | | | | ||[Guidewire Statement](https://community.guidewire.com/s/article/Update-to-customers-who-have-questions-about-the-use-of-log4j-in-Guidewire-products)|
