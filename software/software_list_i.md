@@ -584,7 +584,7 @@
 |InterSystems|TrakCare Editions| | |Investigation| | | |[source](https://www.intersystems.com/gt/apache-log4j2/)|
 |InterSystems|TrakCare Lab| | |Investigation| | | |[source](https://www.intersystems.com/gt/apache-log4j2/)|
 |InterSystems|VS Code Integration| | |Not vuln| | | |[source](https://www.intersystems.com/gt/apache-log4j2/)|
-|Intland|codebeamer|<= 20.11-SP11, <= 21.09-SP3| |Vulnerable| | |"A fix has been released for <a href=""https://codebeamer.com/cb/wiki/13134438"" rel=""nofollow"">20.11 and <a href=""https://codebeamer.com/cb/wiki/19418497"" rel=""nofollow"">21.09, but not yet for <a href=""https://codebeamer.com/cb/wiki/16937839"" rel=""nofollow"">21.04"|[Apache Log4j vulnerability and fixes](https://codebeamer.com/cb/wiki/19872365)|
+|Intland|codebeamer|<= 20.11-SP11, <= 21.09-SP3| |Vulnerable| | |"A fix has been released for <a href=""https://codebeamer.com/cb/wiki/13134438 20.11 and <a href=""https://codebeamer.com/cb/wiki/19418497 21.09, but not yet for <a href=""https://codebeamer.com/cb/wiki/16937839 21.04"|[Apache Log4j vulnerability and fixes](https://codebeamer.com/cb/wiki/19872365)|
 |IPRO|Netgovern| | | | | | ||
 |iRedMail|All| | | | | | |[iRedMail Statement](https://forum.iredmail.org/topic18605-log4j-cve202144228.html)|
 |IronNet|All|All verisons| |Investigation| | | |[source](https://www.ironnet.com/blog/ironnet-security-notifications-related-to-log4j-vulnerability)|
@@ -597,4 +597,3 @@
 |Ivanti|MobileIron Core|All|Not vuln|Workaround| | |Information behind login|[source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j)|
 |Ivanti|MobileIron Sentry|9.13, 9.14|Not vuln|Workaround| | |Information behind login|[source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j)|
 |Ivanti|Xtraction|2019.2|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping?language=en_US)|
-

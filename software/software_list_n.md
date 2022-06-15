@@ -19,7 +19,7 @@
 |Nagios|Core| | |Not vuln| | | |[source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/)|
 |Nagios|Log Server| | |Not vuln| | | |[source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/)|
 |Nagios|XI| | |Not vuln| | | |[source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/)|
-|Nakivo|Backup & Replication| |Not vuln|Workaround| | |"manual fix by removing JndiLookup.class located in libs\log4j-core-2.2.jar. <a href=""https://forum.nakivo.com/index.php?/topic/7574-log4j-cve-2021-44228/#comment-9145"" rel=""nofollow"">source"|[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/nakivo_email.png)|
+|Nakivo|Backup & Replication| |Not vuln|Workaround| | |"manual fix by removing JndiLookup.class located in libs\log4j-core-2.2.jar. <a href=""https://forum.nakivo.com/index.php?/topic/7574-log4j-cve-2021-44228/#comment-9145 source"|[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/nakivo_email.png)|
 |Nelson|All|0.16.185| |Vulnerable| | |Workaround is available, but not released yet.|[source](https://github.com/getnelson/nelson/blob/f4d3dd1f1d4f8dfef02487f67aefb9c60ab48bf5/project/custom.scala)|
 |Neo4j|All|>=4.2.12, >=4.3.8, >=4.4.1|Not vuln|Fix| | | |[source](https://community.neo4j.com/t/log4j-cve-mitigation-for-neo4j/48856) [source_fix](https://neo4j.com/security/log4j/?_gl=1*21owwo*_ga*MjE0NzMyNTYxMy4xNjM4MTE2NTM0*_ga_DL38Q8KGQC*MTYzOTY1NTgyMS4yNS4wLjE2Mzk2NTU4MjEuMA..&_ga=2.221851932.50302124.1639655825-2147325613.1638116534)|
 |Neo4j|Graph Database|Version >4.2, <4..2.12| |Vulnerable| | | ||
@@ -86,7 +86,7 @@
 |Nutanix|Collector Portal|SaaS|Not vuln|Fix|Fix|Vulnerable| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Data Lens|SaaS|Not vuln|Not vuln|Not vuln|Not vuln|WAF updated to block exploit|[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Era|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-|Nutanix|File Analytics|2.1.x, 2.2.x, 3.0+| |Vulnerable| | |"Mitigated in version 3.0.1 which is available on the Portal for download. Mitigation is available <a href=""https://portal.nutanix.com/kb/12499"" rel=""nofollow"">here"|[Nutanix Security Advisory](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+|Nutanix|File Analytics|2.1.x, 2.2.x, 3.0+| |Vulnerable| | |"Mitigated in version 3.0.1 which is available on the Portal for download. Mitigation is available <a href=""https://portal.nutanix.com/kb/12499 here"|[Nutanix Security Advisory](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Files|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Flow|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Flow Security Cental| |Not vuln|Fix| | |Saas-Based Procuct.  See Advisory.|[Nutanix Security Advisory](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
@@ -102,7 +102,7 @@
 |Nutanix|LCM|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Leap|SaaS|Not vuln|Vulnerable|Vulnerable|Vulnerable|WAF updated to block exploit, Patch is pending|[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Mine|All|Not vuln|Workaround|Workaround|Vulnerable| |[source](https://portal.nutanix.com/kb/12484)|
-|Nutanix|Move|All|Not vuln|Not vuln|Not vuln|Not vuln|"<a href=""https://download.nutanix.com/alerts/Security_Advisory_0023.pdf"" rel=""nofollow"">source"||
+|Nutanix|Move|All|Not vuln|Not vuln|Not vuln|Not vuln| https://download.nutanix.com/alerts/Security_Advisory_0023.pdf source"||
 |Nutanix|MSP|All|Not vuln|Workaround|Workaround|Vulnerable| |[source](https://portal.nutanix.com/kb/12482)|
 |Nutanix|NCC|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|NGT|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|

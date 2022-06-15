@@ -248,7 +248,7 @@
 |PTV Group|PTV Hyperpath| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV MaaS Modeller| |Not vuln|Vulnerable|Vulnerable|Vulnerable| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Map&Guide internet| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
-|PTV Group|PTV Map&Guide intranet| |Not vuln|Not vuln|Not vuln|Not vuln|"<a href=""https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information"" rel=""nofollow"">source"||
+|PTV Group|PTV Map&Guide intranet| |Not vuln|Not vuln|Not vuln|Not vuln| https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information source"||
 |PTV Group|PTV Navigator App| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Navigator Licence Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Optima| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|

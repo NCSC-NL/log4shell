@@ -27,11 +27,11 @@
 |Jedox|All| | | | | | |[Jedox Statement](https://www.jedox.com/en/trust/)|
 |Jenkins|CI| | |Not vuln| | |Invidivual plugins not developed as part of Jenkins core may be vulnerable.|[source](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/)|
 |Jenkins|CI/CD Core| |Not vuln|Not vuln|Not vuln|Not vuln| ||
-|Jenkins|Plugins| | | | | |"<a href=""https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/"" rel=""nofollow"">Instructions to test your installations in announcement"|[Announcement](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) [issue tracker](https://issues.jenkins.io/browse/JENKINS-67353)|
+|Jenkins|Plugins| | | | | | https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/ Instructions to test your installations in announcement"|[Announcement](https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/) [issue tracker](https://issues.jenkins.io/browse/JENKINS-67353)|
 |JetBrains|All .NET tools (ReSharper, Rider, ReSharper C++, dotTrace, dotMemory, dotCover, dotPeek)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
 |JetBrains|Code With Me| |Not vuln|Fix| | | |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
 |JetBrains|Datalore| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
-|JetBrains|Floating license server|30241|Not vuln|Fix| | |"update to <a href=""https://www.jetbrains.com/help/license_server/release_notes.html#30241"" rel=""nofollow"">log4j 2.16"|[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
+|JetBrains|Floating license server|30241|Not vuln|Fix| | |"update to <a href=""https://www.jetbrains.com/help/license_server/release_notes.html#30241 log4j 2.16"|[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
 |JetBrains|Gateway| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
 |JetBrains|Hub|2021.1.14080|Not vuln|Fix| | | |[source](https://blog.jetbrains.com/hub/2021/12/14/hub-update-regarding-log4j2-vulnerability/)|
 |JetBrains|IntelliJ platform based IDEs (AppCode, CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA Ultimate/Community/Edu, PhpStorm, PyCharm Professional/Community/Edu, Rider, RubyMine, WebStorm)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://blog.jetbrains.com/blog/2021/12/13/log4j-vulnerability-and-jetbrains-products-and-services/)|
