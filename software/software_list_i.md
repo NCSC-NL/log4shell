@@ -56,7 +56,7 @@
 |IBM|Cloud foundry for IBM cloud Private|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
 |IBM|Cloud Load Balancer|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
 |IBM|Cloud Monitoring|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
-|IBM|Cloud Object Storage|All|Not vuln|Fix| | |Fix: 3.16.0.53 and 3.16.2.57|"[source](https://www.ibm.com/support/pages/mitigation-and-software-update-cve-2021-44228-vulnerability?cm_sp=s033-_-OCSTXNRM-_-F&amp;mync=F&amp;mynp=OCSTXNRM&amp;myns=s033)"|
+|IBM|Cloud Object Storage|All|Not vuln|Fix| | |Fix: 3.16.0.53 and 3.16.2.57|[source](https://www.ibm.com/support/pages/mitigation-and-software-update-cve-2021-44228-vulnerability?cm_sp=s033-_-OCSTXNRM-_-F&mync=F&mynp=OCSTXNRM&myns=s033)|
 |IBM|cloud Orchestrator|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
 |IBM|Cloud Pak for Data (IBM DB2 Event Store for CP4D)|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
 |IBM|Cloud Pak for Multicloud Management Core|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
@@ -68,7 +68,7 @@
 |IBM|COBOL for Linux on X86|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
 |IBM|COBOL for Windows|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
 |IBM|Code Engine|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
-|IBM|Cognos Analytics|11.2.1 Interim Fix 2, 11.1.7 Interim Fix 7, and 11.0.13 Interim Fix 4| |Fix|Fix| | | [source](https://www.ibm.com/support/pages/node/6528388) |
+|IBM|Cognos Analytics|11.2.1 Interim Fix 2, 11.1.7 Interim Fix 7, and 11.0.13 Interim Fix 4| |Fix|Fix| | |[source](https://www.ibm.com/support/pages/node/6528388)|
 |IBM|Cognos Analytics Mobile /   Cognos Analytics Mobile for Android and iOS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
 |IBM|Cognos Analytics Reports for Android|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
 |IBM|Cognos Analytics Reports for iOS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.ibm.com/blogs/psirt/an-update-on-the-apache-log4j-cve-2021-44228-vulnerability/#:~:text=the%20Log4j%20vulnerability.-,Products%20not%20Impacted,-IBM%E2%80%99s%20initial%20analysis)|
@@ -532,8 +532,8 @@
 |Infoblox|All|All| |Not vuln| | | |[source](https://blogs.infoblox.com/security/infoblox-response-to-apache-log4j-vulnerability/)|
 |Infoland|iQualify| | |Not vuln| | | |[source](https://community.infoland.nl/infoland-nieuws-128/geen-beveiligingslek-apache-log4j2-zenya-iprova-en-iqualify-3589)|
 |Infoland|Zenya (iProva)| | |Not vuln| | | |[source](https://community.infoland.nl/infoland-nieuws-128/geen-beveiligingslek-apache-log4j2-zenya-iprova-en-iqualify-3589)|
-|Infor|Private Cloud Tenant (IBM Websphere)|Dependent on Infor configuration| |Vulnerable| | |No official statement from Vendor. See screenshot.|[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/InforLog4Shell.png)|
-|Infor|Rich Desktop Client| | |Vulnerable| | |No official statement from Vendor. See screenshot|[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/InforLog4Shell.png)|
+|Infor|Private Cloud Tenant (IBM Websphere)|Dependent on Infor configuration| |Vulnerable| | |No official statement from Vendor. See screenshot.|[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/InforLog4Shell.png)|
+|Infor|Rich Desktop Client| | |Vulnerable| | |No official statement from Vendor. See screenshot|[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/InforLog4Shell.png)|
 |Informatica|Axon|7.2.x|Not vuln|Workaround| | | |[source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products)|
 |Informatica|Data Privacy Management|10.5, 10.5.1|Not vuln|Workaround| | | |[source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products)|
 |Informatica|Information Deployment Manager| |Not vuln|Fix| | | |[source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products)|
@@ -542,10 +542,10 @@
 |Informatica|PowerExchange for CDC (Publisher) and Mainframe|10.5.1|Not vuln|Workaround| | | |[source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products)|
 |Informatica|Product 360|All|Not vuln|Workaround| | | |[source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-Updates-for-Informatica-On-premises-Products)|
 |Informatica|Secure Agents (Cloud hosted)| |Not vuln|Fix| | |Fixed agents may need to be restarted|[source](https://knowledge.informatica.com/s/article/Apache-Zero-Day-log4j-RCE-Vulnerability-updates-for-Informatica-Cloud-and-Cloud-Hosted-Software)|
-|INIT GmbH|AppComm| | |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru)|
-|INIT GmbH|Mobile Plan|4.22.x and 5.x| |Vulnerable| | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru)|
-|INIT GmbH|MOBILE-PERDIS| | |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru)|
-|INIT GmbH|WebComm| | |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru)|
+|INIT GmbH|AppComm| | |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru)|
+|INIT GmbH|Mobile Plan|4.22.x and 5.x| |Vulnerable| | | |[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru)|
+|INIT GmbH|MOBILE-PERDIS| | |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru)|
+|INIT GmbH|WebComm| | |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/INIT-GmbH.png) [source](https://archive.newsletter2go.com/?n2g=wq37zux3-w7nrbmnl-19ru)|
 |Instana|All| | | | | | |[Instana Statement](https://status.instana.io/incidents/4zgcd2gzf4jw)|
 |Instructure|All| | | | | | |[Instructure Statement](https://community.canvaslms.com/t5/Community-Users/Instructure-amp-the-Apache-Log4j2-Vulnerability/ba-p/501907)|
 |Intel|Audio Development Kit| | |Vulnerable| | | |[source](https://www.intel.com/content/www/us/en/security-left/advisory/intel-sa-00646.html)|
@@ -584,16 +584,17 @@
 |InterSystems|TrakCare Editions| | |Investigation| | | |[source](https://www.intersystems.com/gt/apache-log4j2/)|
 |InterSystems|TrakCare Lab| | |Investigation| | | |[source](https://www.intersystems.com/gt/apache-log4j2/)|
 |InterSystems|VS Code Integration| | |Not vuln| | | |[source](https://www.intersystems.com/gt/apache-log4j2/)|
-|Intland|codebeamer|<= 20.11-SP11, <= 21.09-SP3| |Vulnerable| | |"A fix has been released for <a href=""https://codebeamer.com/cb/wiki/13134438"" rel=""nofollow"">20.11</a> and <a href=""https://codebeamer.com/cb/wiki/19418497"" rel=""nofollow"">21.09</a>, but not yet for <a href=""https://codebeamer.com/cb/wiki/16937839"" rel=""nofollow"">21.04</a>"|[Apache Log4j vulnerability and fixes](https://codebeamer.com/cb/wiki/19872365)|
+|Intland|codebeamer|<= 20.11-SP11, <= 21.09-SP3| |Vulnerable| | |"A fix has been released for <a href=""https://codebeamer.com/cb/wiki/13134438"" rel=""nofollow"">20.11 and <a href=""https://codebeamer.com/cb/wiki/19418497"" rel=""nofollow"">21.09, but not yet for <a href=""https://codebeamer.com/cb/wiki/16937839"" rel=""nofollow"">21.04"|[Apache Log4j vulnerability and fixes](https://codebeamer.com/cb/wiki/19872365)|
 |IPRO|Netgovern| | | | | | ||
 |iRedMail|All| | | | | | |[iRedMail Statement](https://forum.iredmail.org/topic18605-log4j-cve202144228.html)|
 |IronNet|All|All verisons| |Investigation| | | |[source](https://www.ironnet.com/blog/ironnet-security-notifications-related-to-log4j-vulnerability)|
 |ISL Online|All|All| |Not vuln| | | |[source](https://blog.islonline.com/2021/12/13/isl-online-is-not-affected-by-log4shell-vulnerability/)|
 |ISLONLINE|All| | | | | | |[ISLONLINE Statement](https://blog.islonline.com/2021/12/13/isl-online-is-not-affected-by-log4shell-vulnerability/)|
-|ISPNext|All|All| |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/ISPNext.png)|
+|ISPNext|All|All| |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/ISPNext.png)|
 |Ivanti|Avalache|6.3.[0-3]|Not vuln|Fix| | |Information behind login|[source](https://forums.ivanti.com/s/article/CVE-2021-44228-Avalanche-Remote-code-injection-Log4j)|
 |Ivanti|Core Connector|All|Not vuln|Workaround| | |Information behind login|[source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j)|
 |Ivanti|File Director|All|Not vuln|Workaround| | |Information behind login|[source](https://forums.ivanti.com/s/article/Apache-Log4j-Zero-Day-Vulnerability-and-Ivanti-File-Director-CVE-2021-44228)|
 |Ivanti|MobileIron Core|All|Not vuln|Workaround| | |Information behind login|[source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j)|
 |Ivanti|MobileIron Sentry|9.13, 9.14|Not vuln|Workaround| | |Information behind login|[source](https://forums.ivanti.com/s/article/Security-Bulletin-CVE-2021-44228-Remote-code-injection-in-Log4j)|
 |Ivanti|Xtraction|2019.2|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping?language=en_US)|
+

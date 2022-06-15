@@ -216,7 +216,7 @@
 |Exact|WMS|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://www.exact.com/news/general-statement-apache-leak)|
 |Exivity|On-Premise|All version| |Not vuln| | | |[source](https://docs.exivity.com/getting-started/releases/announcements#announcement-regarding-cve-2021-44228)|
 |Extensis|Universal Type Server|=>7.0.6|Not vuln|Fix| | | |[source](https://help.extensis.com/hc/en-us/articles/4412767414299-Universal-Type-Server-7-and-Log4j-vulnerabilities)|
-|ExtraHop|Reveal(x)|<=8.4.6, <=8.5.3, <=8.6.4|Not vuln|Fix| | |"Versions &gt;8.4.7, &gt;8.5.4, &gt;8.6.5 and &gt;=8.7 are fixed."|[ExtraHop Statement](https://forums.extrahop.com/t/extrahop-update-on-log4shell/8148)|
+|ExtraHop|Reveal(x)|<=8.4.6, <=8.5.3, <=8.6.4|Not vuln|Fix| | |"Versions >8.4.7, >8.5.4, >8.6.5 and >=8.7 are fixed."|[ExtraHop Statement](https://forums.extrahop.com/t/extrahop-update-on-log4shell/8148)|
 |eXtreme Hosting|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremehosting.nl/log4shell-log4j/)|
 |Extreme Networks|200-series| | |Investigation| | | |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|
 |Extreme Networks|BOSS| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://extremeportal.force.com/ExtrArticleDetail?an=000100806_ga)|

@@ -7,6 +7,9 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|YSoft|SAFEQ 4| | |Not vuln| | | |[link](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf)|
+|YSoft|SAFEQ 5| | |Not vuln| | | |[link](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf)|
+|YSoft|SAFEQ 6| | |Fix| | | |[link](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf)|
 |Y Soft|SAFEQ 6|<= 6.0.63|Not vuln|Workaround| | | |[source](https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf)|
 |Yahoo|Vespa| |Not vuln|Not vuln|Not vuln|Not vuln|Your Vespa application may still be affected if log4j is included in your application package|[source](https://blog.vespa.ai/log4j-vulnerability/)|
 |Yellowbrick|All| | | | | | |[YellowBrick Security Advisory Yellowbrick](https://support.yellowbrick.com/hc/en-us/articles/4412586575379-Security-Advisory-Yellowbrick-is-NOT-Affected-by-the-Log4Shell-Vulnerability)|

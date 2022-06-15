@@ -7,6 +7,14 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|Fuji Electric|MONITOUCH TS1000 series| | |Not vuln| | | |[link](https://monitouch.fujielectric.com/site/download-e/other/NVD%20CVE-2021-44228_en.pdf)|
+|Fuji Electric|MONITOUCH TS1000S series| | |Not vuln| | | |[link](https://monitouch.fujielectric.com/site/download-e/other/NVD%20CVE-2021-44228_en.pdf)|
+|Fuji Electric|MONITOUCH TS2000 series| | |Not vuln| | | |[link](https://monitouch.fujielectric.com/site/download-e/other/NVD%20CVE-2021-44228_en.pdf)|
+|Fuji Electric|MONITOUCH V8 series| | |Not vuln| | | |[link](https://monitouch.fujielectric.com/site/download-e/other/NVD%20CVE-2021-44228_en.pdf)|
+|Fuji Electric|MONITOUCH V9 series| | |Not vuln| | | |[link](https://monitouch.fujielectric.com/site/download-e/other/NVD%20CVE-2021-44228_en.pdf)|
+|Fuji Electric|MONITOUCH X1 series| | |Not vuln| | | |[link](https://monitouch.fujielectric.com/site/download-e/other/NVD%20CVE-2021-44228_en.pdf)|
+|Fuji Electric|TELLUS and V-Server| | |Not vuln| | | |[link](https://monitouch.fujielectric.com/site/download-e/other/NVD%20CVE-2021-44228_en.pdf)|
+|Fuji Electric|V-SFT| | |Not vuln| | | |[link](https://monitouch.fujielectric.com/site/download-e/other/NVD%20CVE-2021-44228_en.pdf)|
 |F-Secure|Elements Connector| |Not vuln|Fix| | | |[The Log4J Vulnerability (CVE-2021-44228) – which F-Secure products are affected, what it means, what steps should you take - F-Secure Community](https://community.f-secure.com/common-business-en/kb/articles/9226-the-log4j-vulnerability-cve-2021-44228-which-f-secure-products-are-affected-what-it-means-what-steps-should-you-take)|
 |F-Secure|Endpoint Proxy|13-15|Not vuln|Fix| | | |[source](https://status.f-secure.com/incidents/sk8vmr0h34pd)|
 |F-Secure|Messaging Security Gateway| |Not vuln|Fix| | | |[The Log4J Vulnerability (CVE-2021-44228) – which F-Secure products are affected, what it means, what steps should you take - F-Secure Community](https://community.f-secure.com/common-business-en/kb/articles/9226-the-log4j-vulnerability-cve-2021-44228-which-f-secure-products-are-affected-what-it-means-what-steps-should-you-take)|
@@ -25,10 +33,10 @@
 |FileCatalyst|All| | | | | | |[FileCatalyst Statement](https://support.filecatalyst.com/index.php/Knowledgebase/Article/View/advisory-log4j-zero-day-security-vulnerability)|
 |FileCloud|All| | | | | | |[FileCloud Statement](https://www.getfilecloud.com/supportdocs/display/cloud/Advisory+2021-12-2+Impact+of+Apache+Log4j2+Vulnerability+on+FileCloud+Customers)|
 |FileWave|All| | | | | | |[FileWave Statement](https://kb.filewave.com/display/KB/Security+Notice:+Apache+log4j+Vulnerability+CVE-2021-44228)|
-|FileZilla|All| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://forum.filezilla-project.org/viewtopic.php?f=6&amp;t=54338)"|
+|FileZilla|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://forum.filezilla-project.org/viewtopic.php?f=6&t=54338)|
 |FINVI|All| | | | | | |[FINVI Statement](https://finvi.com/support/)|
 |FireDaemon|All| | | | | | |[FireDemon Statement](https://kb.firedaemon.com/support/solutions/articles/4000178630)|
-|Fisher & Paykel Healthcare|All| |Not vuln|Not vuln|Not vuln|Not vuln| |"[Fisher &amp; Paykel Healthcare Advisory Link](https://www.fphcare.com/us/our-company/contact-us/product-security/)"|
+|Fisher & Paykel Healthcare|All| |Not vuln|Not vuln|Not vuln|Not vuln| |[Fisher & Paykel Healthcare Advisory Link](https://www.fphcare.com/us/our-company/contact-us/product-security/)|
 |Flexagon|All| | | | | | |[Flexagon Statement](https://flexagon.com/what-is-the-impact-of-log4j-vulnerability-cve-2021-44228-on-flexdeploy/)|
 |Flexera|All| | | | | | |[Flexera Statement](https://community.flexera.com/t5/Community-Notices/Flexera-s-response-to-Apache-Log4j-2-remote-code-execution/ba-p/216934)|
 |Forcepoint|Advanced Malware Detection| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
@@ -52,8 +60,8 @@
 |Forcepoint|Web Security| | |Investigation| | | |[source](https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228)|
 |Forescout|All| | |Investigation| | | |[source](https://www.forescout.com/blog/forescout%e2%80%99s-response-to-cve-2021-44228-apache-log4j-2/)|
 |ForgeRock|Autonomous Identity| |Not vuln|Workaround| | |all other ForgeRock products not vuln|[source](https://backstage.forgerock.com/knowledge/kb/book/b21824339#1_bzBa)|
-|Fortinet|FortiADC| | |Not vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiAI| | |Not vuln| | ||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiADC| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiAI| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAIOps|1.0.2| |Fix| | |Fixed in version 1.0.2|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAnalyzer| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiAnalyzer Big Data|6.4.7 and 7.0.2| |Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -62,13 +70,13 @@
 |Fortinet|FortiAuthenticator| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiCache| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiCarrier| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiCASB| ? | |Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiCASB|?| |Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiClient| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiClient Cloud| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiClientEMS| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiConnect| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiConverter Portal| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiCWP| ? | |Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiCWP|?| |Fix| | |Fixed on 2021-12-10|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiDDoS| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiDDoS-F| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiDeceptor| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -96,7 +104,7 @@
 |Fortinet|FortiRecorder| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSandbox| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSASE| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet|FortiSIEM|Workaround| |Vulnerable| | |"<a href=""https://community.fortinet.com/t5/FortiSIEM/Techincal-Tip-FortiSIEM-Log4j-Mitigating-CVE-2021-44228/ta-p/201008"" rel=""nofollow"">Mitigation steps</a>"|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet|FortiSIEM|Workaround| |Vulnerable| | |"<a href=""https://community.fortinet.com/t5/FortiSIEM/Techincal-Tip-FortiSIEM-Log4j-Mitigating-CVE-2021-44228/ta-p/201008"" rel=""nofollow"">Mitigation steps"|[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSOAR| | |Vulnerable| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSwicth Cloud in FortiLANCloud| |Not vuln|Not vuln|Not vuln|Not vuln| |[PSIRT Advisories FortiGuard](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet|FortiSwitch & FortiSwitchManager| | |Not vuln| | | |[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|

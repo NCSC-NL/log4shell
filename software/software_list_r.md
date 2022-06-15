@@ -22,7 +22,7 @@
 |Rapid7|InsightOps DataHub|2.0.1| |Fix| | | |[source](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/) [Fix](https://docs.rapid7.com/insightops/setting-up-datahub/)|
 |Rapid7|InsightOps non-Java logging libraries|on-prem|Not vuln|Not vuln|Not vuln|Not vuln| |[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
 |Rapid7|InsightOps r77insight_java Logging Libary|3.0.9| |Fix| | | |[source](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/)|
-|Rapid7|InsightOps r7insight_java logging library|<=3.0.8|Not vuln|Fix| | |"Upgrade <a href="https://github.com/rapid7/r7insight_java">r7insight_java</a> to 3.0.9"|[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
+|Rapid7|InsightOps r7insight_java logging library|<=3.0.8|Not vuln|Fix| | |"Upgrade r7insight_java to 3.0.9"|[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
 |Rapid7|InsightVM Kubernetes Monitor|on-prem|Not vuln|Not vuln|Not vuln|Not vuln| |[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
 |Rapid7|InsightVM/Nexpose|on-prem|Not vuln|Not vuln|Not vuln|Not vuln| |[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
 |Rapid7|InsightVM/Nexpose Console|on-prem|Not vuln|Not vuln|Not vuln|Not vuln|Installations of the InsightVM/Nexpose have “log4j-over-slf4j-1.7.7.jar” packaged in them. This is a different library than log4j-core and is not vulnerable to Log4Shell.|[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
@@ -30,7 +30,7 @@
 |Rapid7|IntSights virtual appliance|on-prem|Not vuln|Not vuln|Not vuln|Not vuln| |[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
 |Rapid7|Logentries DataHub|1.2.0.822| |Fix| | | |[source](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/) [Windows Fix](https://docs.logentries.com/docs/datahub-windows) [Linux Fix](https://docs.logentries.com/docs/datahub-linux)|
 |Rapid7|Logentries le_java Logging Libary|All| |Vulnerable| | |Migrate to v3.0.9 of r7insight_java|[source](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/)|
-|Rapid7|Logentries le_java logging library|All versions: this is a deprecated component|Not vuln|Fix| | |"Migrate to version 3.0.9 of <a href="https://github.com/rapid7/r7insight_java">r7insight_java</a>"|[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
+|Rapid7|Logentries le_java logging library|All versions: this is a deprecated component|Not vuln|Fix| | |"Migrate to version 3.0.9 of r7insight_java"|[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
 |Rapid7|Metasploit Framework|on-prem|Not vuln|Not vuln|Not vuln|Not vuln| |[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
 |Rapid7|Metasploit Pro|on-prem|Not vuln|Not vuln|Not vuln|Not vuln|Metasploit Pro ships with log4j but has specific configurations applied to it that mitigate Log4Shell. A future update will contain a fully patched version of log4j.|[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
 |Rapid7|tCell Java Agent|on-prem|Not vuln|Not vuln|Not vuln|Not vuln| |[Rapid7 Statement](https://www.rapid7.com/blog/post/2021/12/14/update-on-log4shells-impact-on-rapid7-solutions-and-systems/?mkt_tok=NDExLU5BSy05NzAAAAGBVaccW1DOLSfEsfTNwEJksv_1nK1muJSFze-Lle90mKtAO78nSdjwPdzqXskNIi9qZCAGQODD42mYRK4YPlQkjhn38E27HQxFHdHAkypEOsh8)|
@@ -47,10 +47,10 @@
 |Real-Time Innovations (RTI)|RTI Monitor| |Not vuln|Not vuln|Not vuln|Not vuln| |[RTI Statement](https://community.rti.com/kb/apache-log4j-vulnerability-cve-2021-44228cve-2021-45046-impact-rti-connext-products)|
 |Red Hat|A-MQ Clients 2| | |Not vuln| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|build of Quarkus| | |Not vuln| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|CodeReady Studio|12.21.0|Not vuln|Fix| | |"<a href="https://developers.redhat.com/products/codeready-studio/download?source=sso" rel="nofollow">CRS 12.21.1 Patch</a>"|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|CodeReady Studio|12.21.0|Not vuln|Fix| | |"CRS 12.21.1 Patch"|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|CodeReady Studio 12| | |Vulnerable| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|Data Grid|8|Not vuln|Fix| | |"<a href="http://access.redhat.com/errata/RHSA-2021:5132" rel="nofollow">RHSA-2021:5132</a>"|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|Data Grid 8|8.2.2|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5132" rel="nofollow">RHSA-2021:5132</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|Data Grid|8|Not vuln|Fix| | |"RHSA-2021:5132"|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|Data Grid 8|8.2.2|Not vuln|Fix| | |"RHSA-2021:5132"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Decision Manager|7|Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Descision Manager 7| | |Vulnerable| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Enterprise Linux|6|Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
@@ -58,33 +58,33 @@
 |Red Hat|Enterprise Linux|8|Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Integration Camel K| | |Vulnerable| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Integration Camel Quarkus| | |Vulnerable| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|JBoss A-MQ Streaming|1.6.5|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5133" rel="nofollow">RHSA-2021:5133</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|JBoss Enterprise Application Platform|7|Not vuln|Fix| | |"<a href="https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=appplatform&amp;downloadType=securityPatches&amp;version=7.4" rel="nofollow">Maven Patch</a> - Affects only the Mavenized distribution. Container, Zip and RPM distro aren't affected."|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|JBoss A-MQ Streaming|1.6.5|Not vuln|Fix| | |"RHSA-2021:5133"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|JBoss Enterprise Application Platform|7|Not vuln|Fix| | |"Maven Patch - Affects only the Mavenized distribution. Container, Zip and RPM distro aren't affected."|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|JBoss Enterprise Application Platform 6| | |Not vuln| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|JBoss Enterprise Application Platform Expansion Pack| | |Not vuln| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|JBoss Fuse 7|7.10.0|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5134" rel="nofollow">RHSA-2021:5134</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|JBoss Fuse 7|7.10.0|Not vuln|Fix| | |"RHSA-2021:5134"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|log4j-core| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Application Runtimes 1.0|n.a. (see notes)|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5093" rel="nofollow">RHSA-2021:5093</a> - Red Hat build of Eclipse Vert.x 4.1.5 SP1"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Container Platform 3.11 openshift3/ose-logging-elasticsearch5|3.11.z|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5094" rel="nofollow">RHSA-2021:5094</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Container Platform 4 openshift4/ose-logging-elasticsearch6|4.6.z|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5106" rel="nofollow">RHSA-2021:5106</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Container Platform 4 openshift4/ose-metering-hive|4.8.z|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5108" rel="nofollow">RHSA-2021:5108</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Container Platform 4.6 openshift4/ose-metering-presto|4.6.52|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5141" rel="nofollow">RHSA-2021:5141</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Container Platform 4.7 openshift4/ose-metering-presto|4.7.40|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5107" rel="nofollow">RHSA-2021:5107</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Container Platform 4.8 openshift4/ose-metering-presto|4.8.24|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5148" rel="nofollow">RHSA-2021:5148</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8|5.0.10|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5137" rel="nofollow">RHSA-2021:5137</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8|5.3.1|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5129" rel="nofollow">RHSA-2021:5129</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Logging 5.1 openshift-logging/elasticsearch6-rhel8|5.1.5|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5128" rel="nofollow">RHSA-2021:5128</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|OpenShift Logging 5.2 openshift-logging/elasticsearch6-rhel8|5.2.4|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5127" rel="nofollow">RHSA-2021:5127</a>"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Application Runtimes 1.0|n.a. (see notes)|Not vuln|Fix| | |"RHSA-2021:5093 - Red Hat build of Eclipse Vert.x 4.1.5 SP1"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Container Platform 3.11 openshift3/ose-logging-elasticsearch5|3.11.z|Not vuln|Fix| | |"RHSA-2021:5094"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Container Platform 4 openshift4/ose-logging-elasticsearch6|4.6.z|Not vuln|Fix| | |"RHSA-2021:5106"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Container Platform 4 openshift4/ose-metering-hive|4.8.z|Not vuln|Fix| | |"RHSA-2021:5108"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Container Platform 4.6 openshift4/ose-metering-presto|4.6.52|Not vuln|Fix| | |"RHSA-2021:5141"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Container Platform 4.7 openshift4/ose-metering-presto|4.7.40|Not vuln|Fix| | |"RHSA-2021:5107"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Container Platform 4.8 openshift4/ose-metering-presto|4.8.24|Not vuln|Fix| | |"RHSA-2021:5148"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8|5.0.10|Not vuln|Fix| | |"RHSA-2021:5137"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Logging 5.0 openshift-logging/elasticsearch6-rhel8|5.3.1|Not vuln|Fix| | |"RHSA-2021:5129"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Logging 5.1 openshift-logging/elasticsearch6-rhel8|5.1.5|Not vuln|Fix| | |"RHSA-2021:5128"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|OpenShift Logging 5.2 openshift-logging/elasticsearch6-rhel8|5.2.4|Not vuln|Fix| | |"RHSA-2021:5127"|[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|OpenStack Platform 13 (Queens) opendaylight| | |Vulnerable| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|Process Automation|7|Not vuln|Fix| | |"<a href="https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=103671&amp;product=rhpam&amp;version=7.11.1&amp;downloadType=patches" rel="nofollow">Maven Patch</a> - Affects only the Mavenized distribution. Container, Zip and RPM distro aren't affected."|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|Process Automation|7|Not vuln|Fix| | |"Maven Patch - Affects only the Mavenized distribution. Container, Zip and RPM distro aren't affected."|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Process Automation 7| | |Vulnerable| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Satellite 5| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Single Sign-On|7|Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Single Sign-On 7| | |Not vuln| | | |[source](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Spacewalk| |Not vuln|Not vuln|Not vuln|Not vuln| |[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
-|Red Hat|Vert.X|4|Not vuln|Fix| | |"<a href="https://access.redhat.com/errata/RHSA-2021:5093" rel="nofollow">RHSA-2021:5093</a>"|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat|Vert.X|4|Not vuln|Fix| | |"RHSA-2021:5093"|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat|Virtualization 4| | |Not vuln| | | |[source](https://access.redhat.com/security/cve/CVE-2021-4104#:~:text=affected%20packages%20and%20issued%20red%20hat%20security%20errata)|
-|Red Hat OpenShift Container Platform 3.11|openshift3/ose-logging-elasticsearch5| |Not vuln|Fix| | |"<a href="http://access.redhat.com/errata/RHSA-2021:5094" rel="nofollow">RHSA-2021:5094</a>"|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
+|Red Hat OpenShift Container Platform 3.11|openshift3/ose-logging-elasticsearch5| |Not vuln|Fix| | |"RHSA-2021:5094"|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat OpenShift Container Platform 4|openshift4/ose-logging-elasticsearch6| |Not vuln|Fix| | |Please refer to Red Hat Customer Portal to find the left errata for your version.|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat OpenShift Container Platform 4|openshift4/ose-metering-hive| |Not vuln|Fix| | |Please refer to Red Hat Customer Portal to find the left errata for your version.|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
 |Red Hat OpenShift Container Platform 4|openshift4/ose-metering-presto| |Not vuln|Fix| | |Please refer to Red Hat Customer Portal to find the left errata for your version.|[CVE-2021-44228- Red Hat Customer Portal](https://access.redhat.com/security/cve/cve-2021-44228)|
@@ -97,7 +97,7 @@
 |Redgate|Flyway|All| |Not vuln| | |Only vulnerable when using non-default config.|[source](https://flywaydb.org/blog/flyway-log4j-vulnerability)|
 |Redis|Enterprise & Open Source|All| |Not vuln| | |Redis Enterprise and Open Source Redis (self-managed software product) does not use Java and is therefore not impacted by this vulnerability|[source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/)|
 |Redis|Jedis|3.7.1, 4.0.0-rc2|Not vuln|Fix| | |Jedis uses the affected library in test suites only.|[source](https://redis.com/security/notice-apache-log4j2-cve-2021-44228/)|
-|Reiner SCT|All| | | | | | |"[Reiner SCT Forum](https://forum.reiner-sct.com/index.php?/topic/5973-timecard-und-log4j-schwachstelle/&amp;do=findComment&amp;comment=14933)"|
+|Reiner SCT|All| | | | | | |[Reiner SCT Forum](https://forum.reiner-sct.com/index.php?/topic/5973-timecard-und-log4j-schwachstelle/&do=findComment&comment=14933)|
 |ReportURI|All| | | | | | |[ReportURI Link](https://scotthelme.co.uk/responding-to-the-log4j-2-vulnerability/)|
 |ResMed|AirView| | |Not vuln| | | |[source](https://www.resmed.com/en-us/security/)|
 |ResMed|myAir| | |Not vuln| | | |[source](https://www.resmed.com/en-us/security/)|
@@ -140,52 +140,52 @@
 |Ricoh|Software & Solutions - Scan Workflow Navigator| | |Not vuln| | | |[source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/)|
 |Ricoh|Software & Solutions - Streamline NX Share| | |Not vuln| | | |[source](https://www.ricoh-europe.com/news-events/news/notice-potential-impact-of-apache-log4j-vulnerability-towards-ricoh-products-and-services/)|
 |RingCentral|All| | | | | | |[RingCentral Security Bulletin](https://www.ringcentral.com/trust-left/security-bulletin.html)|
-|Riverbed|AppResponse11| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
+|Riverbed|AppResponse11| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
 |Riverbed|Aternity| | |Investigation| | |See source for latest updates|[source](https://aternity.force.com/customersuccess/s/article/Apache-Log4j-Zero-Day-Exploit)|
-|Riverbed|Client Accelerator Controllers and Client Accelerator (aka SteelCentral Controller for SteelHead Mobile and SteelHead Mobile)| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Flow Gateway| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|FlowTraq| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Modeler| | |Investigation| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetAuditor Desktop| | |Investigation| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetAuditor Web| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetCollector| | |Investigation| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetExpress| | |Investigation| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetIM 1.x| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetIM 2.x| | |Vulnerable| | |Patches planned|"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetIM Test Engine| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetPlanner| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|NetProfiler| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Packet Analyzer| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Packet Trace Warehouse| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Portal 1.x| | |Vulnerable| | |Includes Log4j 2.2|"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Portal 3.x| | |Vulnerable| | |Includes Log4j 2.13|"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|SaaS Accelerator| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Scon CX| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Scon EX Analytics| | |Vulnerable| | |Patches planned|"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Scon EX Director| | |Vulnerable| | |Patches planned|"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Scon EX FlexVNF| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|SteelCentral Controller for SteelHead| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|SteelFusion Edge| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|SteelFusionCore (appliance, virtual)| |Not vuln|Not vuln|Not vuln|Not vuln| |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|SteelHead CX (appliance, virtual, cloud)| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|SteelHead Interceptor| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Transaction Analyzer| | |Investigation| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|Transaction Analyzer Agents| |Not vuln|Not vuln|Not vuln|Not vuln|Log4j not in use|"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|UCExpert| | |Vulnerable| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
-|Riverbed|WinSec Controller for SteelHead (WSC)| | |Not vuln| | | |"[source](https://supportkb.riverbed.com/support/index?page=content&amp;id=S35645&amp;actp=LIST_RECENT)"|
+|Riverbed|Client Accelerator Controllers and Client Accelerator (aka SteelCentral Controller for SteelHead Mobile and SteelHead Mobile)| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Flow Gateway| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|FlowTraq| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Modeler| | |Investigation| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetAuditor Desktop| | |Investigation| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetAuditor Web| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetCollector| | |Investigation| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetExpress| | |Investigation| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetIM 1.x| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetIM 2.x| | |Vulnerable| | |Patches planned|[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetIM Test Engine| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetPlanner| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|NetProfiler| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Packet Analyzer| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Packet Trace Warehouse| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Portal 1.x| | |Vulnerable| | |Includes Log4j 2.2|[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Portal 3.x| | |Vulnerable| | |Includes Log4j 2.13|[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|SaaS Accelerator| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Scon CX| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Scon EX Analytics| | |Vulnerable| | |Patches planned|[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Scon EX Director| | |Vulnerable| | |Patches planned|[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Scon EX FlexVNF| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|SteelCentral Controller for SteelHead| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|SteelFusion Edge| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|SteelFusionCore (appliance, virtual)| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|SteelHead CX (appliance, virtual, cloud)| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|SteelHead Interceptor| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Transaction Analyzer| | |Investigation| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|Transaction Analyzer Agents| |Not vuln|Not vuln|Not vuln|Not vuln|Log4j not in use|[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|UCExpert| | |Vulnerable| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
+|Riverbed|WinSec Controller for SteelHead (WSC)| | |Not vuln| | | |[source](https://supportkb.riverbed.com/support/index?page=content&id=S35645&actp=LIST_RECENT)|
 |RocketChat|All|All| |Not vuln| | | |[source](https://rocket.chat/blog/log4j-software-vulnerability)|
-|Rockwell Automation|Data Scheduler||Not vuln|| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|FactoryTalk Analytics DataFlowML|4.00.01| |Fix| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|FactoryTalk Analytics DataView|3.03.01| |Fix| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|FactoryTalk Analytics Information Platform||Not vuln|| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|FactoryTalk Augmented Modeler||Not vuln|| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|Fiix CMMS core V5||Not vuln|Fix|Fix|Fix|product has been updated; no user action required|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Data Scheduler| |Not vuln| | | | |[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|FactoryTalk Analytics DataFlowML|4.00.01| |Fix| | | |[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|FactoryTalk Analytics DataView|3.03.01| |Fix| | | |[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|FactoryTalk Analytics Information Platform| |Not vuln| | | | |[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|FactoryTalk Augmented Modeler| |Not vuln| | | | |[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Fiix CMMS core V5| |Not vuln|Fix|Fix|Fix|product has been updated; no user action required|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rockwell Automation|Firewall Managed Support - Cisco Firepower Thread Defense|6.2.3 – 7.1.0| |Workaround| | |Follow the mitigation instructions outlined by Cisco in CSCwa46963|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rockwell Automation|Industrial Data Center|Gen 1, Gen 2, Gen 3, Gen 3.5|Not vuln|Workaround| | |Follow the mitigation instructions outlined by VMware in VMSA-2021-0028|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rockwell Automation|MES EIG|3.03.00| |Vulnerable| | |Product discontinued. Customers should upgrade to EIG Hub if possible or work with their local representatives about alternative solutions.|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|Plex Industrial IoT||Not vuln|Fix|Fix|Fix|product has been updated; no user action required|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Plex Industrial IoT| |Not vuln|Fix|Fix|Fix|product has been updated; no user action required|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rockwell Automation|VersaVirtual|Series A|Not vuln|Workaround| | |Follow the mitigation instructions outlined by VMware in VMSA-2021-0028|[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
-|Rockwell Automation|Warehouse Management|4.02.03|Not vuln|Fix| | ||[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
+|Rockwell Automation|Warehouse Management|4.02.03|Not vuln|Fix| | | |[source](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605)|
 |Rollbar|All| | | | | | |[Rollbar Blog Post](https://rollbar.com/blog/log4j-zero-day-2021-log4shell/)|
 |Rosette.com|All| | | | | | |[Rosette.com Support Link](https://support.rosette.com/hc/en-us/articles/4416216525965-Log4j-Vulnerability)|
 |RSA|NetWitness Orchestrator|>= 6.0|Not vuln|Workaround| | |Mitigation for the ThreatConnect Application server is available, no impact described|[source](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540)|
@@ -203,11 +203,11 @@
 |RSA Netwitness|All| | | | | | |[RSA Netwitness Community Link](https://community.rsa.com/t5/netwitness-platform-product/netwitness-apache-vulnerability-log4j2-cve-2021-44228-nbsp/ta-p/660540)|
 |Rstudioapi|All|0.13|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://github.com/rstudio/rstudioapi)|
 |Rubrik|All| | | | | |This advisory is available to customers only and has not been reviewed by CISA|[Rubrik Support Link](https://support.rubrik.com/s/announcementdetail?Id=a406f000001PwOcAAK)|
-|Ruckus|FlexMaster| | |Vulnerable| | |"Additional details in <a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf" rel="nofollow">PDF</a>/<a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt" rel="nofollow">Text</a> (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
-|Ruckus|SmartZone 100 (SZ-100)|5.1 to 6.0| |Vulnerable| | |"Additional details in <a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf" rel="nofollow">PDF</a>/<a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt" rel="nofollow">Text</a> (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
-|Ruckus|SmartZone 144 (SZ-144)|5.1 to 6.0| |Vulnerable| | |"Additional details in <a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf" rel="nofollow">PDF</a>/<a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt" rel="nofollow">Text</a> (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
-|Ruckus|SmartZone 300 (SZ-300)|5.1 to 6.0| |Vulnerable| | |"Additional details in <a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf" rel="nofollow">PDF</a>/<a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt" rel="nofollow">Text</a> (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
-|Ruckus|Unleashed| | |Vulnerable| | |"Additional details in <a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf" rel="nofollow">PDF</a>/<a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt" rel="nofollow">Text</a> (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
-|Ruckus|Virtual SmartZone (vSZ)|5.1 to 6.0| |Vulnerable| | |"Additional details in <a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=pdf" rel="nofollow">PDF</a>/<a href="https://support.ruckuswireless.com/security_bulletins_downloads/313?type=txt" rel="nofollow">Text</a> (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
+|Ruckus|FlexMaster| | |Vulnerable| | |"Additional details in PDF/Text (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
+|Ruckus|SmartZone 100 (SZ-100)|5.1 to 6.0| |Vulnerable| | |"Additional details in PDF/Text (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
+|Ruckus|SmartZone 144 (SZ-144)|5.1 to 6.0| |Vulnerable| | |"Additional details in PDF/Text (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
+|Ruckus|SmartZone 300 (SZ-300)|5.1 to 6.0| |Vulnerable| | |"Additional details in PDF/Text (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
+|Ruckus|Unleashed| | |Vulnerable| | |"Additional details in PDF/Text (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
+|Ruckus|Virtual SmartZone (vSZ)|5.1 to 6.0| |Vulnerable| | |"Additional details in PDF/Text (Sign-in Required)"|[source](https://support.ruckuswireless.com/security_bulletins/313)|
 |RunDeck by PagerDuty|All| | | | | | |[RunDeck Docs Link](https://docs.rundeck.com/docs/history/CVEs/)|
 |RuneCast|Analyzer|6.0.4|Not vuln|Fix|Fix|Fix| |[source](https://www.runecast.com/blog/runecast-6-0-1-0-covers-apache-log4j-java-vulnerability)|

@@ -7,6 +7,7 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|Zix|All| | | | | | |[link](https://status.appriver.com/)|
 |Zabbix|All| |Not vuln|Not vuln|Not vuln|Not vuln|Zabbix is aware of this vulnerability, has completed verification, and can conclude that the only product where we use Java is Zabbix Java Gateway, which does not utilize the log4j library, thereby is not impacted by this vulnerability.|[source](https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/)|
 |Zammad|All| |Not vuln|Workaround| | |Most of Zammad instances make use of Elasticsearch which might be vulnerable.|[source](https://community.zammad.org/t/cve-2021-44228-elasticsearch-users-be-aware/8256)|
 |Zaproxy|All| | | | | | |[Zaproxy](https://www.zaproxy.org/blog/2021-12-10-zap-and-log4shell/)|

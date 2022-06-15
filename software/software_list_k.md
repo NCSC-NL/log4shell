@@ -11,7 +11,7 @@
 |K6|All| | | | | | |[K6 Statement](https://k6.io/blog/k6-products-not-impacted-by-cve-2021-44228/)|
 |Kaltura|Blackboard Learn SaaS in the classic Learn experience|v3900.28.x|Fix|Fix|Fix|Fix| |[source](https://knowledge.kaltura.com/help/blackboard-learn-release-notes#blackboard-learn-december-2021-release-notes-v5412)|
 |Kaltura|Blackboard Learn Self- and Managed-Hosting|v3900.26.x|Fix|Fix|Fix|Fix| |[source](https://knowledge.kaltura.com/help/blackboard-learn-release-notes#blackboard-learn-december-2021-release-notes-v5412)|
-|Karakun|All| | | | | | |"[Karakun Statement](https://board.karakun.com/viewtopic.php?f=21&amp;t=8351)"|
+|Karakun|All| | | | | | |[Karakun Statement](https://board.karakun.com/viewtopic.php?f=21&t=8351)|
 |Kaseya|AuthAnvil| | |Not vuln| | | |[source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment)|
 |Kaseya|BMS| | |Not vuln| | | |[source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment)|
 |Kaseya|ID Agent DarkWeb ID and BullPhish ID| | |Not vuln| | | |[source](https://helpdesk.kaseya.com/hc/en-gb/articles/4413449967377-Log4j2-Vulnerability-Assessment)|

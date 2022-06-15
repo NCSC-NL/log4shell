@@ -7,6 +7,7 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|National Instruments|OptimalPlus|Vertica, Cloudera, Logstash| |Vulnerable| | |(Limited to deployments running Vertica, Cloudera, or Logstash) Contact Technical Support|[link](https://www.ni.com/en-us/support/documentation/supplemental/21/ni-response-to-apache-log4j-vulnerability-.html)|
 |N-able|Backup| | |Not vuln| | | |[source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability)|
 |N-able|Mail Assure| | |Not vuln| | | |[source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability)|
 |N-able|MSP Manager| | |Not vuln| | | |[source](https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability)|
@@ -18,9 +19,9 @@
 |Nagios|Core| | |Not vuln| | | |[source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/)|
 |Nagios|Log Server| | |Not vuln| | | |[source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/)|
 |Nagios|XI| | |Not vuln| | | |[source](https://www.nagios.com/news/2021/12/update-on-apache-log4j-vulnerability/)|
-|Nakivo|Backup & Replication| |Not vuln|Workaround| | |"manual fix by removing JndiLookup.class located in libs\log4j-core-2.2.jar. <a href=""https://forum.nakivo.com/index.php?/topic/7574-log4j-cve-2021-44228/#comment-9145"" rel=""nofollow"">source</a>"|[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/nakivo_email.png)|
+|Nakivo|Backup & Replication| |Not vuln|Workaround| | |"manual fix by removing JndiLookup.class located in libs\log4j-core-2.2.jar. <a href=""https://forum.nakivo.com/index.php?/topic/7574-log4j-cve-2021-44228/#comment-9145"" rel=""nofollow"">source"|[source](/NCSC-NL/log4shell/blob/main/NCSC-NL/log4shell/blob/main/software/vendor-statements/nakivo_email.png)|
 |Nelson|All|0.16.185| |Vulnerable| | |Workaround is available, but not released yet.|[source](https://github.com/getnelson/nelson/blob/f4d3dd1f1d4f8dfef02487f67aefb9c60ab48bf5/project/custom.scala)|
-|Neo4j|All|>=4.2.12, >=4.3.8, >=4.4.1|Not vuln|Fix| | | |"[source](https://community.neo4j.com/t/log4j-cve-mitigation-for-neo4j/48856) [source_fix](https://neo4j.com/security/log4j/?_gl=1*21owwo*_ga*MjE0NzMyNTYxMy4xNjM4MTE2NTM0*_ga_DL38Q8KGQC*MTYzOTY1NTgyMS4yNS4wLjE2Mzk2NTU4MjEuMA..&amp;_ga=2.221851932.50302124.1639655825-2147325613.1638116534)"|
+|Neo4j|All|>=4.2.12, >=4.3.8, >=4.4.1|Not vuln|Fix| | | |[source](https://community.neo4j.com/t/log4j-cve-mitigation-for-neo4j/48856) [source_fix](https://neo4j.com/security/log4j/?_gl=1*21owwo*_ga*MjE0NzMyNTYxMy4xNjM4MTE2NTM0*_ga_DL38Q8KGQC*MTYzOTY1NTgyMS4yNS4wLjE2Mzk2NTU4MjEuMA..&_ga=2.221851932.50302124.1639655825-2147325613.1638116534)|
 |Neo4j|Graph Database|Version >4.2, <4..2.12| |Vulnerable| | | ||
 |NetApp|Brocade SAN Naviator| | |Vulnerable| | | |[source](https://security.netapp.com/advisory/ntap-20211210-0007/)|
 |NetApp|Cloud Insights Acquisition Unit| | |Vulnerable| | | |[source](https://security.netapp.com/advisory/ntap-20211210-0007/)|
@@ -85,7 +86,7 @@
 |Nutanix|Collector Portal|SaaS|Not vuln|Fix|Fix|Vulnerable| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Data Lens|SaaS|Not vuln|Not vuln|Not vuln|Not vuln|WAF updated to block exploit|[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Era|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-|Nutanix|File Analytics|2.1.x, 2.2.x, 3.0+| |Vulnerable| | |"Mitigated in version 3.0.1 which is available on the Portal for download. Mitigation is available <a href=""https://portal.nutanix.com/kb/12499"" rel=""nofollow"">here</a>"|[Nutanix Security Advisory](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
+|Nutanix|File Analytics|2.1.x, 2.2.x, 3.0+| |Vulnerable| | |"Mitigated in version 3.0.1 which is available on the Portal for download. Mitigation is available <a href=""https://portal.nutanix.com/kb/12499"" rel=""nofollow"">here"|[Nutanix Security Advisory](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Files|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Flow|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Flow Security Cental| |Not vuln|Fix| | |Saas-Based Procuct.  See Advisory.|[Nutanix Security Advisory](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
@@ -101,7 +102,7 @@
 |Nutanix|LCM|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Leap|SaaS|Not vuln|Vulnerable|Vulnerable|Vulnerable|WAF updated to block exploit, Patch is pending|[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Mine|All|Not vuln|Workaround|Workaround|Vulnerable| |[source](https://portal.nutanix.com/kb/12484)|
-|Nutanix|Move|All|Not vuln|Not vuln|Not vuln|Not vuln|"<a href=""https://download.nutanix.com/alerts/Security_Advisory_0023.pdf"" rel=""nofollow"">source</a>"||
+|Nutanix|Move|All|Not vuln|Not vuln|Not vuln|Not vuln|"<a href=""https://download.nutanix.com/alerts/Security_Advisory_0023.pdf"" rel=""nofollow"">source"||
 |Nutanix|MSP|All|Not vuln|Workaround|Workaround|Vulnerable| |[source](https://portal.nutanix.com/kb/12482)|
 |Nutanix|NCC|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|NGT|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
@@ -111,17 +112,17 @@
 |Nutanix|Volumes|All|Not vuln|Not vuln|Not vuln|Vulnerable| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
 |Nutanix|Witness VM|All|Not vuln|Workaround|Workaround|Vulnerable| |[source](https://portal.nutanix.com/kb/12491)|
 |Nutanix|X-Ray|All|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://download.nutanix.com/alerts/Security_Advisory_0023.pdf)|
-| NVIDIA | CUDA Toolkit Nsight Eclipse Edition | 11.0 | Not vuln | Fix | Fix | | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | CUDA Toolkit Visual Profiler | 11.5 and Prior |  | Vulnerable | Vulnerable | | Updated CUDA Toolkit version available mid-January 2022 | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | DGX systems | DGX OS 4 and DGX OS 5 | Not vuln | Fix | Fix | Fix | Updates can be installed through the package manager | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | GeForce Experience client software |  | | Not vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | GeForceNOW client software |  | | Not vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | GPU Display Drivers for Windows and Linux |  | | Not vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | L4T Jetson Products |  | | Not vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | NetQ | 4.1.0 | | Fix | Fix | Fix | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | Networking products | All (except for NetQ) | | Not vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | NVIDIA Broadcast | All | | Not vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | NVIDIA Maxine | All | | Not vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | SHIELD TV |  | | Not vuln | Not vuln | Not vuln | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
-| NVIDIA | vGPU software license server | 2021.7 and 2020.5 Update 1 | | Workaround | Workaround | Workaround | | [source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294) |
+|NVIDIA|CUDA Toolkit Nsight Eclipse Edition|11.0|Not vuln|Fix|Fix| | |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|CUDA Toolkit Visual Profiler|11.5 and Prior| |Vulnerable|Vulnerable| |Updated CUDA Toolkit version available mid-January 2022|[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|DGX systems|DGX OS 4 and DGX OS 5|Not vuln|Fix|Fix|Fix|Updates can be installed through the package manager|[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|GeForce Experience client software| | |Not vuln|Not vuln|Not vuln| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|GeForceNOW client software| | |Not vuln|Not vuln|Not vuln| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|GPU Display Drivers for Windows and Linux| | |Not vuln|Not vuln|Not vuln| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|L4T Jetson Products| | |Not vuln|Not vuln|Not vuln| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|NetQ|4.1.0| |Fix|Fix|Fix| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|Networking products|All (except for NetQ)| |Not vuln|Not vuln|Not vuln| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|Broadcast|All| |Not vuln|Not vuln|Not vuln| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|Maxine|All| |Not vuln|Not vuln|Not vuln| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|SHIELD TV| | |Not vuln|Not vuln|Not vuln| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
+|NVIDIA|vGPU software license server|2021.7 and 2020.5 Update 1| |Workaround|Workaround|Workaround| |[source](https://nvidia.custhelp.com/app/answers/detail/a_id/5294)|
 |NXLog|Manager|5.x| |Not vuln| | | |[source](https://nxlog.co/news/apache-log4j-vulnerability-cve-2021-44228)|

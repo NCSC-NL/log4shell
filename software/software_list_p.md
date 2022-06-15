@@ -7,6 +7,25 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|Panasonic|KX-HDV100| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-HDV130| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-HDV230| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-HDV330| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-HDV340| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-HDV430| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-HDV800| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-TGP500| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-TGP550| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-TGP600| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-TGP700| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-UDS124| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-UT113| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-UT123| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-UT133| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-UT136| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-UT248| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Panasonic|KX-UT670| | |Not vuln| | | |[link](https://panasonic.net/cns/pcc/support/sipphone/disposaldoc-Apache_Log4j_Vulnerability.html)|
+|Procentec (HMS Group)|All| | |Not vuln| | | |[link](https://mailchi.mp/procentec.com/security_message)|
 |Paessler|PRTG| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://kb.paessler.com/en/topic/90213-is-prtg-affected-by-cve-2021-44228)|
 |PagerDuty|Rundeck|3.3+|Not vuln|Fix| | | |[source](https://docs.rundeck.com/docs/history/CVEs/#log4shell-cves) [fix](https://github.com/rundeck/rundeck/pull/7427)|
 |PagerDuty|SaaS| |Not vuln|Fix| | |We currently see no evidence of compromises on our platform. Our teams continue to monitor for new developments and for impacts on sub-processors and dependent systems. PagerDuty SaaS customers do not need to take any additional action for their PagerDuty SaaS environment|[PagerDuty Log4j Zero-Day Vulnerability Updates](https://support.pagerduty.com/docs/pagerduty-log4j-zero-day-vulnerability)|
@@ -18,10 +37,10 @@
 |Palo Alto|CloudGenix| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|Cortex XDR Agent| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|Cortex XSOAR| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo Alto|Exact Data Matching CLI|< 1.2| |Vulnerable| | |"&gt;= 1.2 Not vuln"|[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo Alto|Exact Data Matching CLI|< 1.2| |Vulnerable| | |">= 1.2 Not vuln"|[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|GlobalProtect App| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|PAN-OS for Firewall and Wildfire| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
-|Palo Alto|PAN-OS for Panorama|< 9.0.15, < 10.0.8-h8, < 9.1.12-h3| |Fix|Fix|Fix|"8.1.<em>, 10.1.</em>, &gt;= 9.0.15, &gt;= 10.0.8-h8, &gt;= 9.1.12-h3 Not vuln"|[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
+|Palo Alto|PAN-OS for Panorama|< 9.0.15, < 10.0.8-h8, < 9.1.12-h3| |Fix|Fix|Fix|"8.1., 10.1., >= 9.0.15, >= 10.0.8-h8, >= 9.1.12-h3 Not vuln"|[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|Prisma Cloud| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|Prisma Cloud Compute| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
 |Palo Alto|WildFire Appliance| | |Not vuln| | | |[source](https://security.paloaltonetworks.com/CVE-2021-44228)|
@@ -60,8 +79,8 @@
 |Parallels|Remote Application Server|All| |Not vuln| | | |[source](https://kb.parallels.com/en/128696)|
 |Parse.ly|All| | | | | | |[Parse.ly Blog Post](https://blog.parse.ly/parse-ly-log4shell/)|
 |PBXMonitor|RMM for 3CX PBX| |Not vuln|Not vuln|Not vuln|Not vuln|Mirror Servers were also checked to ensure Log4J was not installed or being used by any of our systems.|[PBXMonitor Changelog](https://www.pbxmonitor.net/changelog.php)|
-|PDQ|Deploy|All| |Investigation| | | |"[source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-90432152)"|
-|PDQ|Inventory|All| |Investigation| | | |"[source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-90432152)"|
+|PDQ|Deploy|All| |Investigation| | | |[source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&utm_medium=social&utm_source=twitter&hss_channel=tw-90432152)|
+|PDQ|Inventory|All| |Investigation| | | |[source](https://www.pdq.com/blog/log4j-vulnerability-cve-2021-44228/?utm_content=190941012&utm_medium=social&utm_source=twitter&hss_channel=tw-90432152)|
 |Pega|Platform|7.3.x - 8.6.x|Not vuln|Fix| | |Hotfixes made available for registered customers by Pega. When using Stream nodes, the embedded Kafka instances require a separate hotfix to be installed.|[source](https://docs.pega.com/security-advisory/security-advisory-apache-log4j-zero-day-vulnerability)|
 |Pentaho|All| | | | | | |[Pentaho Support Link](https://support.pentaho.com/hc/en-us/articles/4416229254541-log4j-2-zero-day-vulnerability-No-impact-to-supported-versions-of-Pentaho-)|
 |Pepperl+Fuchs|All| | |Investigation| | | |[Pepperl+Fuchs Advisory Link](https://www.pepperl-fuchs.com/global/en/29079.htm)|
@@ -185,8 +204,8 @@
 |PTC|Axeda| |Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358990)|
 |PTC|Axeda Platform|6.9.2| |Vulnerable| | | |[source](https://www.ptc.com/en/support/article/CS358990)|
 |PTC|Creo Elements/Direct Model Manager| |Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358965)|
-|PTC|Creo Parametric| |Not vuln| | | | |[source](vendor-statements/Creo%20Parametric.png)|
-|PTC|Creo View| | |Not vuln| | | |[source](vendor-statements/Creo%20View.png)|
+|PTC|Creo Parametric| |Not vuln| | | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Creo%20Parametric.png)|
+|PTC|Creo View| | |Not vuln| | | |[source](/NCSC-NL/log4shell/blob/main/software/vendor-statements/Creo%20View.png)|
 |PTC|Flexnet License Server| |Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358831)|
 |PTC|FlexPLM|<= 11.1 M020, 11.2.1, 12.0.0| |Not vuln| | | |[source](https://www.ptc.com/en/support/article/CS358789)|
 |PTC|FlexPLM|12.0.2.0 (CPS01 and CPS02)|Not vuln|Workaround| | | |[source](https://www.ptc.com/en/support/article/CS358789)|
@@ -229,7 +248,7 @@
 |PTV Group|PTV Hyperpath| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV MaaS Modeller| |Not vuln|Vulnerable|Vulnerable|Vulnerable| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Map&Guide internet| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
-|PTV Group|PTV Map&Guide intranet| |Not vuln|Not vuln|Not vuln|Not vuln|"<a href=""https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information"" rel=""nofollow"">source</a>"||
+|PTV Group|PTV Map&Guide intranet| |Not vuln|Not vuln|Not vuln|Not vuln|"<a href=""https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information"" rel=""nofollow"">source"||
 |PTV Group|PTV Navigator App| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Navigator Licence Manager| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|
 |PTV Group|PTV Optima| |Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://company.ptvgroup.com/en/resources/service-support/log4j-latest-information)|

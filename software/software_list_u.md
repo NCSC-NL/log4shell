@@ -7,6 +7,7 @@
 
 | Supplier | Product | Version (see Status) | Status CVE-2021-4104 | Status CVE-2021-44228 | Status CVE-2021-45046 | Status CVE-2021-45105 | Notes | Links |
 |:---------|:--------|:--------------------:|:--------------------:|:---------------------:|:---------------------:|:---------------------:|:------|------:|
+|UiPath|Insights|20.10| |Vulnerable| | | |[link](https://www.uipath.com/legal/trust-and-security/cve-2021-44228)|
 |Ubiquiti|UniFi Network Application|6.5.x|Not vuln|Fix|Not vuln|Not vuln|Fixed in 6.5.55 - also not vuln to CVE-2021-44832|[Unifi Security Advisory Bulletin](https://community.ui.com/releases/Security-Advisory-Bulletin-023-023/808a1db0-5f8e-4b91-9097-9822f3f90207#comment/f689e3fb-6ad8-46b0-8054-2ea3656a8778)|
 |Ubuntu|All| | | | | | |[Ubuntu Security Advisory](https://ubuntu.com/security/CVE-2021-44228)|
 |Umbraco|All| | | | | | |[Umbraco Security Advisory](https://umbraco.com/blog/security-advisory-december-15-2021-umbraco-cms-and-cloud-not-affected-by-cve-2021-44228-log4j-rce-0-day-mitigation/)|
@@ -59,7 +60,7 @@
 |Unify|Hipath Cap|V3|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf)|
 |Unify|Hipath DS-Win|>= V4 R6.29.0|Not vuln|Fix| | | |[source](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf)|
 |Unify ATOS|All| | | | | | |[Unify ATOS Advisory](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf)|
-|Unimus|All| | | | | | |[Unimus Statement](https://forum.unimus.net/viewtopic.php?f=7&amp;t=1390#top)|
+|Unimus|All| | | | | | |[Unimus Statement](https://forum.unimus.net/viewtopic.php?f=7&t=1390#top)|
 |US Signal|Remote Management and Monitoring platform| |Not vuln|Workaround| | | |[source](https://ussignal.com/blog/apache-log4j-vulnerability)|
 |USoft|All|< 9.1|Not vuln|Not vuln|Not vuln|Not vuln| |[source](https://community.usoft.com/news-announcements-2/apache-log4j-security-vulnerability-issue-1301)|
 |USoft|All|10.0|Not vuln|Fix| | |Fixed in 10.0.1C+|[source](https://community.usoft.com/product-updates/release-notes-10-0-1c-log4j-security-vulnerability-fix-1300)|
